@@ -31,10 +31,16 @@ jobs:
               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               REPO_NAME: 'microsoft/vscode-mssql-notes'
 
-          - name: Push CSV file to main branch
+          - name: Push JSON file to main branch if changed
             run: |
               git config --local user.name "GitHub Actions"
               git config --local user.email "actions@github.com"
               git add all_issues.json
+              // Check if there are changes to commit
+              if [ -z "$(git status --porcelain)" ]; then
+                echo "No changes to commit."
+                exit 0
+              fi
+              echo "Changes detected, committing and pushing."
               git commit -m "Update issue analysis results"
               git push origin main
