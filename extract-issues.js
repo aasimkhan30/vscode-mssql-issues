@@ -61,7 +61,12 @@ function main() {
     const totalReactions = getTotalReactions(issue.reactionGroups);
 
     return {
-      ...issue,
+      closedAt: issue.closedAt,
+      createdAt: issue.createdAt,
+      number: issue.number,
+      state: issue.state,
+      url: issue.url,
+      title: issue.title,
       areas,
       type,
       hasArea: areas.length > 0,
