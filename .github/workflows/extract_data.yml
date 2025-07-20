@@ -1,0 +1,40 @@
+name: Extract Issue Data
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+    extract_data:
+        runs-on: ubuntu-latest
+        steps:
+          - name: Checkout repository
+            uses: actions/checkout@v2
+
+          - name: Set up Node.js
+            uses: actions/setup-node@v2
+            with:
+              node-version: '16'
+
+          - name: Install dependencies
+            run: npm install
+
+          - name: Run issue analysis script
+            run: node extract_issues.js microsoft/vscode-mssql-notes
+            env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              REPO_NAME: 'microsoft/vscode-mssql-notes'
+
+          - name: Push CSV file to main branch
+            run: |
+              git config --local user.name "GitHub Actions"
+              git config --local user.email "actions@github.com"
+              git add all_issues.json
+              git commit -m "Update issue analysis results"
+              git push origin main
