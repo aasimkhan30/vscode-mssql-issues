@@ -36,6 +36,8 @@ function main() {
     `gh issue list --limit 999999 --state all --json number,title,labels,state,createdAt,closedAt,reactionGroups,url --repo ${repoName}`
   );
 
+  console.log(`📋 Found ${allIssues.length} issues in ${repoName}`);
+
   const issues = allIssues.map((issue) => {
     const labels = issue.labels.map((label) => label.name);
 
@@ -68,10 +70,12 @@ function main() {
     };
   });
 
+  console.log(`✅ Processed ${issues.length} issues with areas and types`);
+
   // write this as json file
-  const all_issuesJSON = path.join(__dirname, "all_issues.json");
-  fs.writeFileSync(all_issuesJSON, JSON.stringify(issues, null, 2));
-  console.log(`✅ All issues saved to ${all_issuesJSON}`);  
+  const issuesFilePath = path.join(__dirname, `${repoName.replace("/", "-")}-all-issues.json`);
+  fs.writeFileSync(issuesFilePath, JSON.stringify(issues, null, 2));
+  console.log(`✅ All issues saved to ${issuesFilePath}`);  
 }
 
 
