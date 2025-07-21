@@ -79,6 +79,15 @@ async function main() {
     // Find all area labels (can be multiple)
     const areaLabels = labels.filter((label) => label.startsWith("Area - "));
     const areas = areaLabels.map((label) => label.replace("Area - ", ""));
+    const priorityLabel = labels.filter((label) => label.startsWith("Pri:"))[0];
+
+    let priority = undefined;
+    if (priorityLabel) 
+    {
+      priority = parseInt(priorityLabel.replace("Pri: ", ""));
+    } else {
+      priority = -1;
+    }
 
     // Find type label
     const isBug = labels.includes("Bug");
@@ -104,6 +113,7 @@ async function main() {
       url: issue.url,
       title: issue.title,
       areas,
+      priority,
       type,
       hasArea: areas.length > 0,
       hasType: !!type,
@@ -127,7 +137,8 @@ async function main() {
         issue.type,
         issue.totalReactions,
         issue.url,
-        issue.commentCount
+        issue.commentCount,
+        issue.priority
       ];
       rows.push(row);
     } else {
@@ -143,7 +154,8 @@ async function main() {
           issue.type,
           issue.totalReactions,
           issue.url,
-          issue.commentCount
+          issue.commentCount,
+          issue.priority
         ];
         rows.push(row);
       });
@@ -176,7 +188,8 @@ async function main() {
     "Type",
     "Reactions",
     "URL",
-    "Comments"
+    "Comments",
+    "Priority"
   ];
 
   const csvContent =
