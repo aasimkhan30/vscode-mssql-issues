@@ -75,6 +75,12 @@ async function fetchIssues(fields) {
   return batch;
 }
 
+async function fetchComments(fields) {
+  const command = `gh api --paginate repos/${repoName}/issues -q '[.[] | select(.pull_request | not) | {number, comments}]'`;
+  const batch = await executeGhCommand(command);
+  return batch;
+}
+
 async function waitForSeconds(seconds) {
   return new Promise((resolve) => {
     setTimeout(() => {
@@ -91,7 +97,7 @@ async function main() {
   console.log(`📦 Fetching labels...`);
   const labelData = await fetchIssues(labelFields);
   console.log(`💬 Fetching comments...`);
-  const commentData = await fetchIssues(commentsField);
+  const commentData = await fetchComments(commentsField);
   console.log(`🎉 Fetching reactions...`);
   const reactionData = await fetchIssues(reactionsField);
 
