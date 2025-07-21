@@ -68,7 +68,7 @@ async function main() {
   console.log(`🔍 Fetching all issues from GitHub for ${repoName}...`);
 
   let allIssues = await executeGhCommand(
-    `gh issue list --limit 999999 --state all --json number,title,author,labels,state,createdAt,closedAt,reactionGroups,url --repo ${repoName}`
+    `gh issue list --limit 999999 --state all --json number,title,author,labels,state,createdAt,closedAt,reactionGroups,url,comments --repo ${repoName}`
   );
 
   console.log(`📋 Found ${allIssues.length} issues in ${repoName}`);
@@ -108,6 +108,7 @@ async function main() {
       hasArea: areas.length > 0,
       hasType: !!type,
       totalReactions,
+      commentCount: issue.comments.length,
     };
   });
 
@@ -126,6 +127,7 @@ async function main() {
         issue.type,
         issue.totalReactions,
         issue.url,
+        issue.commentCount
       ];
       rows.push(row);
     } else {
@@ -141,6 +143,7 @@ async function main() {
           issue.type,
           issue.totalReactions,
           issue.url,
+          issue.commentCount
         ];
         rows.push(row);
       });
@@ -173,6 +176,7 @@ async function main() {
     "Type",
     "Reactions",
     "URL",
+    "Comments"
   ];
 
   const csvContent =
