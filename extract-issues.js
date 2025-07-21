@@ -12,19 +12,16 @@ if (!repoName) {
 
 const baseFields = "number,title,author,state,createdAt,closedAt,url";
 const labelFields = "number,labels";
-const commentsField = "number,comments";
 const reactionsField = "number,reactionGroups";
 
-function executeGhCommand(cmd, args = []) {
+function executeGhJsonCommand(cmd, args = []) {
   return new Promise((resolve, reject) => {
     const child = spawn(cmd, args);
     let stdout = "";
     let stderr = "";
-    const result = [];
 
     child.stdout.on("data", (data) => {
-      const parsedData = JSON.parse(data.toString());
-      result.push(...parsedData);
+      stdout += data.toString();
     });
 
     child.stderr.on("data", (data) => {
@@ -33,16 +30,73 @@ function executeGhCommand(cmd, args = []) {
 
     child.on("close", (code) => {
       if (code !== 0) {
-        console.error(`Command failed with code ${code}: ${cmd} ${args.join(" ")}`);
-        console.error(stderr);
-        process.exit(1);
+        return reject(new Error(`Command failed: ${stderr}`));
       }
-
-      resolve(result);
+      try {
+        const result = JSON.parse(stdout);
+        resolve(result);
+      } catch (err) {
+        reject(new Error(`Failed to parse JSON: ${err.message}`));
+      }
     });
   });
 }
 
+function executeGhJsonStream(cmd, args = []) {
+  return new Promise((resolve, reject) => {
+    const child = spawn(cmd, args);
+    let stdout = "";
+    let stderr = "";
+    const results = [];
+
+    const jsonArrayRegex = /\[\s*(?:{[\s\S]*?}\s*)*\]/g;
+
+    child.stdout.on("data", (data) => {
+      stdout += data.toString();
+
+      let match;
+      while ((match = jsonArrayRegex.exec(stdout)) !== null) {
+        try {
+          const parsed = JSON.parse(match[0]);
+          if (Array.isArray(parsed)) {
+            results.push(...parsed);
+          }
+        } catch (err) {
+          // Log and continue; malformed chunk
+          console.warn("Skipping malformed chunk");
+        }
+      }
+
+      // Clean up parsed data from buffer
+      stdout = stdout.slice(jsonArrayRegex.lastIndex);
+      jsonArrayRegex.lastIndex = 0;
+    });
+
+    child.stderr.on("data", (data) => {
+      stderr += data.toString();
+    });
+
+    child.on("close", (code) => {
+      // Try parsing remaining data
+      if (stdout.trim()) {
+        try {
+          const parsed = JSON.parse(stdout);
+          if (Array.isArray(parsed)) {
+            results.push(...parsed);
+          }
+        } catch (e) {
+          console.warn("Final leftover not parsed:", stdout);
+        }
+      }
+
+      if (code !== 0) {
+        return reject(new Error(`Command failed: ${stderr}`));
+      }
+
+      resolve(results);
+    });
+  });
+}
 
 function getTotalReactions(reactionGroups) {
   if (!reactionGroups) return 0;
@@ -59,27 +113,30 @@ function escapeCsvField(value) {
 }
 
 async function fetchIssues(fields) {
-  const batch = await executeGhCommand("gh", [
-    "issue", "list", "--limit", "999999", "--state", "all",
-    "--json", fields, "--repo", repoName
+  const batch = await executeGhJsonCommand("gh", [
+    "issue",
+    "list",
+    "--limit",
+    "999999",
+    "--state",
+    "all",
+    "--json",
+    fields,
+    "--repo",
+    repoName,
   ]);
   return batch;
 }
 
 async function fetchComments() {
-  const output = await executeGhCommand("gh", [
-    "api", "--paginate", `repos/${repoName}/issues?state=all`,
-  "-q", "[.[] | select(.pull_request | not) | {number, comments}]"
+  const output = await executeGhJsonStream("gh", [
+    "api",
+    "--paginate",
+    `repos/${repoName}/issues?state=all`,
+    "-q",
+    "[.[] | select(.pull_request | not) | {number, comments}]",
   ]);
   return output;
-}
-
-async function waitForSeconds(seconds) {
-  return new Promise((resolve) => {
-    setTimeout(() => {
-      resolve();
-    }, seconds * 1000);
-  });
 }
 
 async function main() {
@@ -97,9 +154,7 @@ async function main() {
   const reactionsMap = new Map(
     reactionData.map((i) => [i.number, i.reactionGroups])
   );
-  const labelsMap = new Map(
-    labelData.map((i) => [i.number, i.labels])
-  );
+  const labelsMap = new Map(labelData.map((i) => [i.number, i.labels]));
 
   const allIssues = baseIssues.map((issue) => ({
     ...issue,
