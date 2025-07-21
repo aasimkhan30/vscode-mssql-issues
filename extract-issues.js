@@ -20,9 +20,11 @@ function executeGhCommand(cmd, args = []) {
     const child = spawn(cmd, args);
     let stdout = "";
     let stderr = "";
+    const result = [];
 
     child.stdout.on("data", (data) => {
-      stdout += data.toString();
+      const parsedData = JSON.parse(data.toString());
+      result.push(...parsedData);
     });
 
     child.stderr.on("data", (data) => {
@@ -36,21 +38,7 @@ function executeGhCommand(cmd, args = []) {
         process.exit(1);
       }
 
-      try {
-        // Merge multiple JSON arrays emitted on separate lines
-        const merged = `[${stdout
-          .split("\n")
-          .map(line => line.trim())
-          .filter(line => line.length > 0)
-          .map(line => line.replace(/^\[/, "").replace(/\]$/, ""))
-          .join(",")}]`;
-
-        resolve(JSON.parse(merged));
-      } catch (err) {
-        console.error("Failed to parse JSON output");
-        console.error(stdout);
-        process.exit(1);
-      }
+      resolve(result);
     });
   });
 }
@@ -166,7 +154,7 @@ async function main() {
       hasArea: areas.length > 0,
       hasType: !!type,
       totalReactions,
-      commentCount: issue.comments.length,
+      commentCount: issue.comments,
     };
   });
 
