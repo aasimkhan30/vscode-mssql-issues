@@ -435,7 +435,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/19712",
     "title": "[Feature Request]: Allow `connect()` to accept a file URI to bind a connection to a specific `.sql` file",
     "areas": [
-      "Connection Sharing"
+      "Extensibility"
     ],
     "type": "Feature Request",
     "hasArea": true,
@@ -3887,7 +3887,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/19138",
     "title": "Feature Request: Allow other extensions / commands to read / trigger from results grid",
     "areas": [
-      "Connection Sharing"
+      "Extensibility"
     ],
     "type": "Feature Request",
     "hasArea": true,
