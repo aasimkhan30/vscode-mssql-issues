@@ -15,11 +15,9 @@ const labelFields = "number,labels";
 const commentsField = "number,comments";
 const reactionsField = "number,reactionGroups";
 
-function executeGhCommand(command) {
+function executeGhCommand(cmd, args = []) {
   return new Promise((resolve, reject) => {
-    const [cmd, ...args] = command.split(" ");
     const child = spawn(cmd, args);
-
     let stdout = "";
     let stderr = "";
 
@@ -31,29 +29,32 @@ function executeGhCommand(command) {
       stderr += data.toString();
     });
 
-    child.on("error", (error) => {
-      console.error(`Error executing command: ${command}`);
-      console.error(error.message);
-      process.exit(1);
-    });
-
     child.on("close", (code) => {
       if (code !== 0) {
-        console.error(`Command failed with code ${code}: ${command}`);
+        console.error(`Command failed with code ${code}: ${cmd} ${args.join(" ")}`);
         console.error(stderr);
         process.exit(1);
-      } else {
-        try {
-          resolve(JSON.parse(stdout));
-        } catch (err) {
-          console.error("Failed to parse JSON output");
-          console.error(stdout);
-          process.exit(1);
-        }
+      }
+
+      try {
+        // Merge multiple JSON arrays emitted on separate lines
+        const merged = `[${stdout
+          .split("\n")
+          .map(line => line.trim())
+          .filter(line => line.length > 0)
+          .map(line => line.replace(/^\[/, "").replace(/\]$/, ""))
+          .join(",")}]`;
+
+        resolve(JSON.parse(merged));
+      } catch (err) {
+        console.error("Failed to parse JSON output");
+        console.error(stdout);
+        process.exit(1);
       }
     });
   });
 }
+
 
 function getTotalReactions(reactionGroups) {
   if (!reactionGroups) return 0;
@@ -70,15 +71,19 @@ function escapeCsvField(value) {
 }
 
 async function fetchIssues(fields) {
-  const command = `gh issue list --limit 999999 --state all --json ${fields} --repo ${repoName}`;
-  const batch = await executeGhCommand(command);
+  const batch = await executeGhCommand("gh", [
+    "issue", "list", "--limit", "100", "--state", "all",
+    "--json", fields, "--repo", repoName
+  ]);
   return batch;
 }
 
-async function fetchComments(fields) {
-  const command = `gh api --paginate repos/${repoName}/issues -q '[.[] | select(.pull_request | not) | {number, comments}]'`;
-  const batch = await executeGhCommand(command);
-  return batch;
+async function fetchComments() {
+  const output = await executeGhCommand("gh", [
+    "api", "--paginate", `repos/${repoName}/issues?state=all`,
+  "-q", "[.[] | select(.pull_request | not) | {number, comments}]"
+  ]);
+  return output;
 }
 
 async function waitForSeconds(seconds) {
@@ -97,10 +102,9 @@ async function main() {
   console.log(`📦 Fetching labels...`);
   const labelData = await fetchIssues(labelFields);
   console.log(`💬 Fetching comments...`);
-  const commentData = await fetchComments(commentsField);
+  const commentData = await fetchComments();
   console.log(`🎉 Fetching reactions...`);
   const reactionData = await fetchIssues(reactionsField);
-
   const commentsMap = new Map(commentData.map((i) => [i.number, i.comments]));
   const reactionsMap = new Map(
     reactionData.map((i) => [i.number, i.reactionGroups])
@@ -119,7 +123,6 @@ async function main() {
   console.log(`📋 Found ${allIssues.length} issues in ${repoName}`);
 
   const issues = allIssues.map((issue) => {
-    console.log(issue);
     const labels = issue.labels.map((label) => label.name);
 
     // Find all area labels (can be multiple)
