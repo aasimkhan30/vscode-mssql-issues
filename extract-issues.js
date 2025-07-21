@@ -10,6 +10,11 @@ if (!repoName) {
   process.exit(1);
 }
 
+const baseFields = "number,title,author,state,createdAt,closedAt,url";
+const labelFields = "number,labels";
+const commentsField = "number,comments";
+const reactionsField = "number,reactionGroups";
+
 function executeGhCommand(command) {
   return new Promise((resolve, reject) => {
     const [cmd, ...args] = command.split(" ");
@@ -64,16 +69,51 @@ function escapeCsvField(value) {
   return `"${str}"`;
 }
 
+async function fetchIssues(fields) {
+  const command = `gh issue list --limit 999999 --state all --json ${fields} --repo ${repoName}`;
+  const batch = await executeGhCommand(command);
+  return batch;
+}
+
+async function waitForSeconds(seconds) {
+  return new Promise((resolve) => {
+    setTimeout(() => {
+      resolve();
+    }, seconds * 1000);
+  });
+}
+
 async function main() {
   console.log(`🔍 Fetching all issues from GitHub for ${repoName}...`);
 
-  let allIssues = await executeGhCommand(
-    `gh issue list --limit 999999 --state all --json number,title,author,labels,state,createdAt,closedAt,reactionGroups,url,comments --repo ${repoName}`
+  console.log(`📦 Fetching base issue info...`);
+  const baseIssues = await fetchIssues(baseFields);
+  console.log(`📦 Fetching labels...`);
+  const labelData = await fetchIssues(labelFields);
+  console.log(`💬 Fetching comments...`);
+  const commentData = await fetchIssues(commentsField);
+  console.log(`🎉 Fetching reactions...`);
+  const reactionData = await fetchIssues(reactionsField);
+
+  const commentsMap = new Map(commentData.map((i) => [i.number, i.comments]));
+  const reactionsMap = new Map(
+    reactionData.map((i) => [i.number, i.reactionGroups])
   );
+  const labelsMap = new Map(
+    labelData.map((i) => [i.number, i.labels])
+  );
+
+  const allIssues = baseIssues.map((issue) => ({
+    ...issue,
+    comments: commentsMap.get(issue.number) ?? 0,
+    reactionGroups: reactionsMap.get(issue.number) ?? [],
+    labels: labelsMap.get(issue.number) ?? [],
+  }));
 
   console.log(`📋 Found ${allIssues.length} issues in ${repoName}`);
 
   const issues = allIssues.map((issue) => {
+    console.log(issue);
     const labels = issue.labels.map((label) => label.name);
 
     // Find all area labels (can be multiple)
@@ -82,8 +122,7 @@ async function main() {
     const priorityLabel = labels.filter((label) => label.startsWith("Pri:"))[0];
 
     let priority = undefined;
-    if (priorityLabel) 
-    {
+    if (priorityLabel) {
       priority = parseInt(priorityLabel.replace("Pri: ", ""));
     } else {
       priority = -1;
@@ -138,7 +177,7 @@ async function main() {
         issue.totalReactions,
         issue.url,
         issue.commentCount,
-        issue.priority
+        issue.priority,
       ];
       rows.push(row);
     } else {
@@ -155,7 +194,7 @@ async function main() {
           issue.totalReactions,
           issue.url,
           issue.commentCount,
-          issue.priority
+          issue.priority,
         ];
         rows.push(row);
       });
@@ -189,7 +228,7 @@ async function main() {
     "Reactions",
     "URL",
     "Comments",
-    "Priority"
+    "Priority",
   ];
 
   const csvContent =
