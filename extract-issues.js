@@ -58,6 +58,12 @@ function getTotalReactions(reactionGroups) {
   }, 0);
 }
 
+function escapeCsvField(value) {
+  if (value === null || value === undefined) return "";
+  const str = value.toString().replace(/"/g, '""');
+  return `"${str}"`;
+}
+
 async function main() {
   console.log(`🔍 Fetching all issues from GitHub for ${repoName}...`);
 
@@ -105,6 +111,42 @@ async function main() {
     };
   });
 
+  const rows = [];
+
+  issues.forEach((issue) => {
+    if (issue.areas.length === 0) {
+      const row = [
+        issue.number,
+        issue.title,
+        issue.author,
+        issue.state,
+        issue.createdAt,
+        issue.closedAt,
+        "",
+        issue.type,
+        issue.totalReactions,
+        issue.url,
+      ];
+      rows.push(row);
+    } else {
+      issue.areas.forEach((area) => {
+        const row = [
+          issue.number,
+          issue.title,
+          issue.author,
+          issue.state,
+          issue.createdAt,
+          issue.closedAt,
+          area,
+          issue.type,
+          issue.totalReactions,
+          issue.url,
+        ];
+        rows.push(row);
+      });
+    }
+  });
+
   console.log(`✅ Processed ${issues.length} issues with areas and types`);
 
   // write this as json file
@@ -114,6 +156,32 @@ async function main() {
   );
   fs.writeFileSync(issuesFilePath, JSON.stringify(issues, null, 2));
   console.log(`✅ All issues saved to ${issuesFilePath}`);
+
+  const csvFilePath = path.join(
+    __dirname,
+    `${repoName.replace("/", "-")}-issues.csv`
+  );
+
+  const header = [
+    "Number",
+    "Title",
+    "Author",
+    "State",
+    "CreatedAt",
+    "ClosedAt",
+    "Area",
+    "Type",
+    "Reactions",
+    "URL",
+  ];
+
+  const csvContent =
+    header.join(",") +
+    "\n" +
+    rows.map((row) => row.map(escapeCsvField).join(",")).join("\n");
+
+  fs.writeFileSync(csvFilePath, csvContent, "utf-8");
+  console.log(`✅ CSV file written to ${csvFilePath}`);
 }
 
 main();
