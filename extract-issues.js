@@ -60,7 +60,7 @@ function escapeCsvField(value) {
 
 async function fetchIssues(fields) {
   const batch = await executeGhCommand("gh", [
-    "issue", "list", "--limit", "100", "--state", "all",
+    "issue", "list", "--limit", "999999", "--state", "all",
     "--json", fields, "--repo", repoName
   ]);
   return batch;
