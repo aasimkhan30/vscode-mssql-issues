@@ -1,6 +1,7 @@
 const { execSync } = require("child_process");
 const fs = require("fs");
 const path = require("path");
+const { spawn } = require("child_process");
 
 let repoName = process.argv[2];
 if (!repoName) {
@@ -9,16 +10,44 @@ if (!repoName) {
   process.exit(1);
 }
 
-// Helper function to execute gh commands
 function executeGhCommand(command) {
-  try {
-    const result = execSync(command, { encoding: "utf8" });
-    return JSON.parse(result);
-  } catch (error) {
-    console.error(`Error executing command: ${command}`);
-    console.error(error.message);
-    process.exit(1);
-  }
+  return new Promise((resolve, reject) => {
+    const [cmd, ...args] = command.split(" ");
+    const child = spawn(cmd, args);
+
+    let stdout = "";
+    let stderr = "";
+
+    child.stdout.on("data", (data) => {
+      stdout += data.toString();
+    });
+
+    child.stderr.on("data", (data) => {
+      stderr += data.toString();
+    });
+
+    child.on("error", (error) => {
+      console.error(`Error executing command: ${command}`);
+      console.error(error.message);
+      process.exit(1);
+    });
+
+    child.on("close", (code) => {
+      if (code !== 0) {
+        console.error(`Command failed with code ${code}: ${command}`);
+        console.error(stderr);
+        process.exit(1);
+      } else {
+        try {
+          resolve(JSON.parse(stdout));
+        } catch (err) {
+          console.error("Failed to parse JSON output");
+          console.error(stdout);
+          process.exit(1);
+        }
+      }
+    });
+  });
 }
 
 function getTotalReactions(reactionGroups) {
@@ -29,11 +58,11 @@ function getTotalReactions(reactionGroups) {
   }, 0);
 }
 
-function main() {
+async function main() {
   console.log(`🔍 Fetching all issues from GitHub for ${repoName}...`);
 
-  let allIssues = executeGhCommand(
-    `gh issue list --limit 999999 --state all --json number,title,labels,state,createdAt,closedAt,reactionGroups,url --repo ${repoName}`
+  let allIssues = await executeGhCommand(
+    `gh issue list --limit 999999 --state all --json number,title,author,labels,state,createdAt,closedAt,reactionGroups,url --repo ${repoName}`
   );
 
   console.log(`📋 Found ${allIssues.length} issues in ${repoName}`);
@@ -61,6 +90,7 @@ function main() {
     const totalReactions = getTotalReactions(issue.reactionGroups);
 
     return {
+      author: issue.author.login,
       closedAt: issue.closedAt,
       createdAt: issue.createdAt,
       number: issue.number,
@@ -78,10 +108,12 @@ function main() {
   console.log(`✅ Processed ${issues.length} issues with areas and types`);
 
   // write this as json file
-  const issuesFilePath = path.join(__dirname, `${repoName.replace("/", "-")}-all-issues.json`);
+  const issuesFilePath = path.join(
+    __dirname,
+    `${repoName.replace("/", "-")}-all-issues.json`
+  );
   fs.writeFileSync(issuesFilePath, JSON.stringify(issues, null, 2));
-  console.log(`✅ All issues saved to ${issuesFilePath}`);  
+  console.log(`✅ All issues saved to ${issuesFilePath}`);
 }
-
 
 main();
