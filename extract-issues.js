@@ -211,6 +211,7 @@ async function main() {
       hasType: !!type,
       totalReactions,
       commentCount: issue.comments,
+      milestone: issue.milestone?.title,
     };
   });
 
@@ -231,6 +232,7 @@ async function main() {
         issue.url,
         issue.commentCount,
         issue.priority,
+        issue.milestone,
       ];
       rows.push(row);
     } else {
@@ -248,6 +250,7 @@ async function main() {
           issue.url,
           issue.commentCount,
           issue.priority,
+          issue.milestone,
         ];
         rows.push(row);
       });
@@ -282,6 +285,7 @@ async function main() {
     "URL",
     "Comments",
     "Priority",
+    "Milestone",
   ];
 
   const csvContent =
