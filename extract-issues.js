@@ -10,7 +10,8 @@ if (!repoName) {
   process.exit(1);
 }
 
-const baseFields = "number,title,author,state,createdAt,closedAt,url";
+const baseFields =
+  "number,title,author,state,createdAt,closedAt,url,milestone";
 const labelFields = "number,labels";
 const reactionsField = "number,reactionGroups";
 
