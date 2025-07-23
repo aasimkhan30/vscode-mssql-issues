@@ -1,5 +1,53 @@
 [
   {
+    "author": "SergioDamasceno",
+    "closedAt": null,
+    "createdAt": "2025-07-22T19:11:12Z",
+    "number": 19824,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19824",
+    "title": "Even canceling a script generation, an alert keeps running.",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ganagdhar123",
+    "closedAt": null,
+    "createdAt": "2025-07-22T11:04:14Z",
+    "number": 19822,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19822",
+    "title": "User is not able to resize column headers of the grid present under “Result” tab item using single pointer mode of operation:A11y_MSSQL for VSCode_Connection database_Adding New Query_Dragging movements",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ganagdhar123",
+    "closedAt": null,
+    "createdAt": "2025-07-22T10:47:44Z",
+    "number": 19821,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19821",
+    "title": "Users are not able to access Sort and Filter functionality present for column headers via keyboard:A11y_MSSQL for VSCode_Connection database_Adding New Query_Keyboard.",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "jasonhorner",
     "closedAt": null,
     "createdAt": "2025-07-21T15:10:09Z",
@@ -1678,7 +1726,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 1
   },
   {
@@ -2156,7 +2204,7 @@
     "areas": [
       "Object Explorer"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
@@ -8415,7 +8463,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 37,
+    "totalReactions": 40,
     "commentCount": 10
   },
   {
@@ -8522,14 +8570,14 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "ManishaC1",
-    "closedAt": null,
+    "closedAt": "2025-07-22T17:58:54Z",
     "createdAt": "2025-02-12T12:25:43Z",
     "number": 18657,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18657",
     "title": "The column headers of the grid present in the \"Result\" section are not accessible via keyboard keys: A11y_mssql for VSCode_MS Sql Extension_Execute Pre-built Query_Keyboard",
     "areas": [
@@ -8540,7 +8588,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "ManishaC1",
@@ -8594,7 +8642,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "ManishaC1",
@@ -8612,7 +8660,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "dsolodow",
@@ -9983,7 +10031,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 1
   },
   {
