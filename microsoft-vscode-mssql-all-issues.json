@@ -1,5 +1,40 @@
 [
   {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2025-07-23T20:44:49Z",
+    "number": 19831,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19831",
+    "title": "Bundle extension using esbuild",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2025-07-23T19:54:31Z",
+    "number": 19830,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19830",
+    "title": "[Bug]: Add Connection nodes don't show up under an empty connection group",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": "Both Bug and Feature",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "SergioDamasceno",
     "closedAt": null,
     "createdAt": "2025-07-22T19:11:12Z",
@@ -7,13 +42,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19824",
     "title": "Even canceling a script generation, an alert keeps running.",
-    "areas": [],
+    "areas": [
+      "Scripting"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "ganagdhar123",
@@ -23,11 +61,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19822",
     "title": "User is not able to resize column headers of the grid present under “Result” tab item using single pointer mode of operation:A11y_MSSQL for VSCode_Connection database_Adding New Query_Dragging movements",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
@@ -39,11 +79,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19821",
     "title": "Users are not able to access Sort and Filter functionality present for column headers via keyboard:A11y_MSSQL for VSCode_Connection database_Adding New Query_Keyboard.",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
@@ -55,10 +97,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19817",
     "title": "[Bug]:  .sql Extension Added Twice When Creating New Script",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0
@@ -71,10 +115,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19816",
     "title": "[Feature Request]: Favorite connections in Command Palette list",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -87,11 +133,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19815",
     "title": "Color contrast ratio of \"Error message\" text present for Combox is 2.85:1 which is less than 4.5:1:A11y_MSSQL for VSCode_User is Adding Connection_Adding connection via Parameters_ColorContrast.",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
@@ -103,11 +151,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19814",
     "title": "NVDA is unnecessarily announcing label name twice throughout the application: A11y_MSSQL for VSCode_User can create New Table_Add/delete Column_screen reader",
-    "areas": [],
+    "areas": [
+      "Table Designer"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
@@ -119,11 +169,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19813",
     "title": "Name property is not provided to the combo-box present throughout the application.: A11y_MSSQL for VSCode_User can create New Table_Add/delete Column_Devtools",
-    "areas": [],
+    "areas": [
+      "Table Designer"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
@@ -142,8 +194,9 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 1
+    "totalReactions": 1,
+    "commentCount": 1,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "mvoggu",
@@ -160,8 +213,9 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 3
+    "totalReactions": 1,
+    "commentCount": 3,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "pruthvidhodda",
@@ -178,8 +232,9 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 0
+    "totalReactions": 2,
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "skodiriy",
@@ -196,7 +251,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 0
   },
   {
@@ -238,10 +293,10 @@
   },
   {
     "author": "ArcaneKent",
-    "closedAt": null,
+    "closedAt": "2025-07-23T06:46:55Z",
     "createdAt": "2025-07-16T21:41:46Z",
     "number": 19792,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19792",
     "title": "Feature Request: Allow F5 to Execute SQL Queries in VS Code with mssql Extension",
     "areas": [
@@ -252,7 +307,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "JohanBos-GC",
@@ -390,7 +445,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/19766",
     "title": "Add support for the \"CREATE OR ALTER ...\" statement for SQL stored procedures",
     "areas": [
-      "Scripting"
+      "SQL Project"
     ],
     "priority": -1,
     "type": "Feature Request",
@@ -2302,7 +2357,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "gdube-nrc",
@@ -2749,7 +2804,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 8
+    "commentCount": 8,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "LeonarddeR",
@@ -3617,7 +3673,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1
+    "commentCount": 3
   },
   {
     "author": "aasimkhan30",
@@ -3784,7 +3840,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -5764,7 +5820,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "match-gabeflores",
@@ -6821,7 +6878,7 @@
     "hasType": true,
     "totalReactions": 5,
     "commentCount": 1,
-    "milestone": "August 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "jsteinberg613",
@@ -8743,7 +8800,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 6,
+    "totalReactions": 7,
     "commentCount": 2
   },
   {
@@ -8908,7 +8965,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 17,
-    "commentCount": 19,
+    "commentCount": 20,
     "milestone": "March 2025 Release"
   },
   {
@@ -9157,7 +9214,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 87,
+    "totalReactions": 88,
     "commentCount": 12
   },
   {
@@ -10111,7 +10168,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "August 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "luxu1-ms",
@@ -16760,7 +16817,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "kburtram",
@@ -17458,7 +17516,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "mkey",
@@ -17496,7 +17555,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "Charles-Gagnon",
@@ -18148,7 +18207,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "umwireless",
@@ -19643,10 +19702,10 @@
   },
   {
     "author": "ykwdavid",
-    "closedAt": null,
+    "closedAt": "2025-07-23T09:44:44Z",
     "createdAt": "2021-09-07T04:20:23Z",
     "number": 17055,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17055",
     "title": "Single quotes pair tokenize incorrectly",
     "areas": [
@@ -19657,7 +19716,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -23432,7 +23491,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "gbritton1",
@@ -27818,7 +27877,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "ransagy",
@@ -28778,7 +28837,7 @@
     "hasType": true,
     "totalReactions": 10,
     "commentCount": 7,
-    "milestone": "February 2022 Release"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "Eigh",
@@ -30420,7 +30479,7 @@
     "hasType": true,
     "totalReactions": 6,
     "commentCount": 3,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "jgcandelaria",
@@ -31699,7 +31758,7 @@
     "hasType": true,
     "totalReactions": 6,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "christianbalzer",
