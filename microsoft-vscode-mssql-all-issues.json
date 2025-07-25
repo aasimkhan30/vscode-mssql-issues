@@ -1,5 +1,55 @@
 [
   {
+    "author": "sarfaraz78615",
+    "closedAt": null,
+    "createdAt": "2025-07-24T18:51:51Z",
+    "number": 19836,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19836",
+    "title": "[Bug]: \"FIELDPROC\" expected after this token When IDENTITY(1,1)",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "JackMyers001",
+    "closedAt": null,
+    "createdAt": "2025-07-24T07:40:51Z",
+    "number": 19833,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19833",
+    "title": "[Bug]: can't create local SQL container on Apple Silicon Mac with Rancher Desktop",
+    "areas": [
+      "Local container"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "edomatze",
+    "closedAt": null,
+    "createdAt": "2025-07-24T06:23:06Z",
+    "number": 19832,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19832",
+    "title": "[Feature Request]: Save password temporarily for current VS Code session only",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "aasimkhan30",
     "closedAt": null,
     "createdAt": "2025-07-23T20:44:49Z",
@@ -104,7 +154,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 0,
     "commentCount": 0
   },
   {
@@ -141,7 +191,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "ganagdhar123",
@@ -251,8 +301,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
-    "commentCount": 0
+    "totalReactions": 4,
+    "commentCount": 1
   },
   {
     "author": "allan-bides",
@@ -288,8 +338,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0
+    "totalReactions": 1,
+    "commentCount": 1
   },
   {
     "author": "ArcaneKent",
@@ -488,8 +538,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
-    "commentCount": 1,
+    "totalReactions": 4,
+    "commentCount": 2,
     "milestone": "August 2025 Release"
   },
   {
@@ -513,10 +563,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-07-24T20:37:30Z",
     "createdAt": "2025-07-14T18:17:34Z",
     "number": 19756,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19756",
     "title": "[Feature Request]: Show live progress with animation and expanded view in pre-requisites section",
     "areas": [
@@ -532,10 +582,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-07-24T20:37:31Z",
     "createdAt": "2025-07-14T17:19:08Z",
     "number": 19754,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19754",
     "title": "[Feature Request]: Add visual feedback when container image is being downloaded in Local SQL Container setup",
     "areas": [
@@ -604,10 +654,10 @@
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2025-07-24T20:37:30Z",
     "createdAt": "2025-07-10T23:34:37Z",
     "number": 19732,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19732",
     "title": "[Bug]: connecting to a container shows \"starting\" while connecting even when container is started",
     "areas": [
@@ -779,7 +829,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "Jakedahl94",
@@ -1374,7 +1424,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 4
   },
   {
     "author": "jasonhorner",
@@ -2357,7 +2407,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2
+    "commentCount": 5
   },
   {
     "author": "gdube-nrc",
@@ -3057,8 +3107,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 8,
-    "commentCount": 1
+    "totalReactions": 9,
+    "commentCount": 2
   },
   {
     "author": "jasonhorner",
@@ -7880,7 +7930,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 11,
+    "commentCount": 12,
     "milestone": "August 2025 Release"
   },
   {
@@ -8805,10 +8855,10 @@
   },
   {
     "author": "ManishaC1",
-    "closedAt": null,
+    "closedAt": "2025-07-24T14:03:08Z",
     "createdAt": "2025-02-12T13:18:35Z",
     "number": 18658,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18658",
     "title": "The delete element in the \"Saved Connections\" section does not appear upon keyboard focus: A11y_MSSQL for VSCode_Add Connection_Keyboard",
     "areas": [
@@ -8819,7 +8869,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 2
+    "commentCount": 3
   },
   {
     "author": "ManishaC1",
@@ -8873,14 +8923,14 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "ManishaC1",
-    "closedAt": null,
+    "closedAt": "2025-07-24T13:52:51Z",
     "createdAt": "2025-02-12T10:50:38Z",
     "number": 18654,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18654",
     "title": "Appropriate Name and Role is not defined for the items present within \"Saved Connection\" section: A11y_MSSQL for VSCode_Saved Connections_NameRoleValue",
     "areas": [
@@ -8891,14 +8941,14 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 2
+    "commentCount": 3
   },
   {
     "author": "ManishaC1",
-    "closedAt": null,
+    "closedAt": "2025-07-24T13:53:48Z",
     "createdAt": "2025-02-12T05:22:46Z",
     "number": 18653,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18653",
     "title": "\"Refresh\" button present in \"Saved Connections\" does not have name defined: A11y_mssql for VSCode_Add Connection_Name Role Value",
     "areas": [
@@ -8909,7 +8959,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2
+    "commentCount": 3
   },
   {
     "author": "dsolodow",
@@ -9214,7 +9264,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 88,
+    "totalReactions": 89,
     "commentCount": 12
   },
   {
@@ -15643,10 +15693,10 @@
   },
   {
     "author": "jkapferer",
-    "closedAt": null,
+    "closedAt": "2025-07-25T00:09:23Z",
     "createdAt": "2023-06-27T14:10:05Z",
     "number": 17725,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17725",
     "title": "color of the error-message in the message view",
     "areas": [
@@ -15657,7 +15707,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "meyerdominik",
