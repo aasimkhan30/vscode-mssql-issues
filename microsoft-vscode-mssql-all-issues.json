@@ -1,5 +1,77 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-07-25T19:19:40Z",
+    "number": 19842,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19842",
+    "title": "[Feature Request]: Revamp Azure Browse Experience with Tree-Style Resource Navigation",
+    "areas": [
+      "Connection"
+    ],
+    "priority": 0,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
+  },
+  {
+    "author": "Epivaral",
+    "closedAt": null,
+    "createdAt": "2025-07-25T17:45:13Z",
+    "number": 19841,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19841",
+    "title": "[Bug] Copy button in SQL code block does not work on macOS Sequoia",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Both Bug and Feature",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jasonhorner",
+    "closedAt": null,
+    "createdAt": "2025-07-25T17:39:15Z",
+    "number": 19840,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19840",
+    "title": "[Bug]: SQL71006 error when using GO inside direct script file, but not when included via post deploy with :r option",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-07-25T04:01:18Z",
+    "number": 19839,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19839",
+    "title": "[Bug]: Azure Account and Tenant Not Loading After Successful MFA Sign-In in MSSQL Extension",
+    "areas": [
+      "Connection"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
+  },
+  {
     "author": "sarfaraz78615",
     "closedAt": null,
     "createdAt": "2025-07-24T18:51:51Z",
@@ -81,7 +153,7 @@
     "type": "Both Bug and Feature",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -301,7 +373,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 1
   },
   {
@@ -483,7 +555,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0
   },
   {
@@ -3107,7 +3179,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 9,
+    "totalReactions": 10,
     "commentCount": 2
   },
   {
@@ -3793,12 +3865,13 @@
     "areas": [
       "Table Designer"
     ],
-    "priority": 1,
+    "priority": 0,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "croblesm",
@@ -3811,12 +3884,13 @@
     "areas": [
       "Table Designer"
     ],
-    "priority": 1,
+    "priority": 0,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "croblesm",
@@ -3829,12 +3903,13 @@
     "areas": [
       "Table Designer"
     ],
-    "priority": 1,
+    "priority": 0,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "croblesm",
@@ -3847,12 +3922,13 @@
     "areas": [
       "Table Designer"
     ],
-    "priority": 1,
+    "priority": 0,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "croblesm",
@@ -3865,13 +3941,13 @@
     "areas": [
       "Table Designer"
     ],
-    "priority": 1,
+    "priority": 0,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "croblesm",
@@ -3884,13 +3960,13 @@
     "areas": [
       "Table Designer"
     ],
-    "priority": 1,
+    "priority": 0,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "aasimkhan30",
@@ -8762,8 +8838,8 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 40,
-    "commentCount": 10
+    "totalReactions": 41,
+    "commentCount": 11
   },
   {
     "author": "cole-andis",
@@ -9069,7 +9145,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 61,
+    "totalReactions": 62,
     "commentCount": 24
   },
   {
