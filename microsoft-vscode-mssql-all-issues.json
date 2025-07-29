@@ -1,5 +1,21 @@
 [
   {
+    "author": "HugoMSFT",
+    "closedAt": null,
+    "createdAt": "2025-07-28T22:58:11Z",
+    "number": 19848,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19848",
+    "title": "[Bug]: External Tables not showing on VSCode",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "croblesm",
     "closedAt": null,
     "createdAt": "2025-07-25T19:19:40Z",
@@ -464,8 +480,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 3
+    "totalReactions": 1,
+    "commentCount": 4
   },
   {
     "author": "lewis-sanchez",
@@ -1295,7 +1311,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -3795,7 +3811,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 3
+    "commentCount": 5
   },
   {
     "author": "aasimkhan30",
@@ -8839,7 +8855,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 41,
-    "commentCount": 11
+    "commentCount": 13
   },
   {
     "author": "cole-andis",
