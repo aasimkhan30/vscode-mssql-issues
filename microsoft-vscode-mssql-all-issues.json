@@ -7,10 +7,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19848",
     "title": "[Bug]: External Tables not showing on VSCode",
-    "areas": [],
+    "areas": [
+      "Object Explorer"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -83,8 +85,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0,
+    "totalReactions": 1,
+    "commentCount": 2,
     "milestone": "August 2025 Release"
   },
   {
@@ -95,10 +97,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19836",
     "title": "[Bug]: \"FIELDPROC\" expected after this token When IDENTITY(1,1)",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -129,10 +133,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19832",
     "title": "[Feature Request]: Save password temporarily for current VS Code session only",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -145,10 +151,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19831",
     "title": "Bundle extension using esbuild",
-    "areas": [],
+    "areas": [
+      "Shell"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
@@ -558,10 +566,10 @@
   },
   {
     "author": "dkratochvil-neit",
-    "closedAt": null,
+    "closedAt": "2025-07-29T20:22:58Z",
     "createdAt": "2025-07-15T11:09:52Z",
     "number": 19767,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19767",
     "title": "[Feature Request]: Add \"select/deselect all options\" feature to Schema compare options",
     "areas": [
@@ -3811,7 +3819,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 5
+    "commentCount": 6
   },
   {
     "author": "aasimkhan30",
@@ -3887,7 +3895,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -14837,11 +14845,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17874",
     "title": "mssl extension on VS code erroe",
-    "areas": [],
+    "areas": [
+      "Shell"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
@@ -16323,11 +16333,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17617",
     "title": "A11y_mssql for VSCode_mssql Extension_New Connection_ScreenReader: Screen reader JAWS is not announcing the additional information \"Server name or ADO.net connection string (Press enter to confirm or escape to cancel) \" on navigating using tab key to edit field \"Host name\"",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
     "milestone": "Backlog"
@@ -16829,7 +16841,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 6,
     "milestone": "August 2025 Release"
   },
@@ -17525,11 +17537,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17447",
     "title": "A11y_mssql for VSCode_Message Window_Keyboard:On pressing tab key from \"More actions\" keyboard focus is going to bottom status bar instead of going to the \"Results\" dropdown.",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 8,
     "milestone": "Backlog"
@@ -17657,7 +17671,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "August 2025 Release"
   },
@@ -17695,7 +17709,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 1,
     "milestone": "August 2025 Release"
   },
@@ -18334,10 +18348,10 @@
   },
   {
     "author": "alanrenmsft",
-    "closedAt": null,
+    "closedAt": "2025-07-29T17:54:58Z",
     "createdAt": "2022-05-10T00:05:08Z",
     "number": 17334,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17334",
     "title": "Clicking on results containing JSON does not open new document when the first row is NULL",
     "areas": [
@@ -18348,7 +18362,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "August 2025 Release"
   },
   {
@@ -22170,10 +22184,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/1707",
     "title": "Does this extension not support SQLpool from azure?",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
@@ -28977,7 +28993,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 10,
+    "totalReactions": 11,
     "commentCount": 7,
     "milestone": "August 2025 Release"
   },
