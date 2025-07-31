@@ -1,5 +1,21 @@
 [
   {
+    "author": "williamchiu-nmic",
+    "closedAt": null,
+    "createdAt": "2025-07-30T22:25:22Z",
+    "number": 19858,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19858",
+    "title": "An error occurred: Unexpected token '<', \"<Error con\"... is not valid JSON",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "HugoMSFT",
     "closedAt": null,
     "createdAt": "2025-07-28T22:58:11Z",
@@ -434,8 +450,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 1
+    "totalReactions": 3,
+    "commentCount": 2
   },
   {
     "author": "ArcaneKent",
@@ -1411,7 +1427,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 0
   },
   {
@@ -9169,7 +9185,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 62,
+    "totalReactions": 63,
     "commentCount": 24
   },
   {
@@ -35835,7 +35851,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 9,
+    "totalReactions": 10,
     "commentCount": 9,
     "milestone": "Backlog"
   },
