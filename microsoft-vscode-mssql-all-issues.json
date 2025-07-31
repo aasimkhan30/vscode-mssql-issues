@@ -5896,7 +5896,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "tombotts42",
@@ -5950,7 +5951,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "2br-2b",
@@ -6005,7 +6007,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ruby3141",
@@ -6023,7 +6026,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "poolhost",
@@ -6167,7 +6171,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "omatrot",
@@ -6365,7 +6370,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ishakmemiguven",
@@ -6383,7 +6389,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "Mahmoud-Elgendi",
@@ -6454,7 +6461,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "dzsquared",
@@ -6490,7 +6498,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "alexdresko",
@@ -6987,7 +6996,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "badampowell",
@@ -7183,7 +7193,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "yorek",
@@ -7363,7 +7374,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 3,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "ervinte",
@@ -7413,7 +7425,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "ScottSchwalm",
@@ -7699,7 +7712,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "vtkharat",
@@ -7751,7 +7765,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "ehartford2",
@@ -7769,7 +7784,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 27,
-    "commentCount": 3
+    "commentCount": 3,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "djones-breuer",
@@ -8193,7 +8209,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "antonioatom",
@@ -8447,7 +8464,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "caskeyje",
@@ -8578,7 +8596,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "mtaylorfsmb",
@@ -8596,7 +8615,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "coolaardvark",
@@ -8788,7 +8808,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "regisVald",
@@ -8897,7 +8918,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "Kwhite-lilly",
@@ -9168,7 +9190,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "PureKrome",
@@ -9204,7 +9227,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "axiombenm",
@@ -9329,7 +9353,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "deckerbd",
@@ -9363,7 +9388,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 3
+    "commentCount": 3,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "PureKrome",
@@ -9510,7 +9536,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "Benjin",
@@ -9727,7 +9754,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "cssuh",
@@ -9840,7 +9868,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "ERPrun-DM",
@@ -10408,7 +10437,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 5
+    "commentCount": 5,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "Benjin",
@@ -13035,7 +13065,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "app/",
@@ -13466,7 +13497,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "caohai",
@@ -14766,7 +14798,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "aniketr99",
@@ -14818,7 +14851,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "aniketr99",
@@ -15491,7 +15525,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "ericbrian",
@@ -15581,7 +15616,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "merdz21snchz",
@@ -15843,7 +15879,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "ImTheWolfman",
@@ -16001,7 +16038,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "Benjin",
@@ -16126,7 +16164,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 3
+    "commentCount": 3,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "mattmcnabb",
@@ -16636,7 +16675,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "kburtram",
@@ -18000,7 +18040,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "Smartens-Larson",
@@ -19282,7 +19323,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "morningtundra",
