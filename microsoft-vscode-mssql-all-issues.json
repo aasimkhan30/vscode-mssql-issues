@@ -1,5 +1,57 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-07-31T22:44:15Z",
+    "number": 19865,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19865",
+    "title": "[Task]: Add all telemetry to Local Database Container",
+    "areas": [
+      "Local container"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
+  },
+  {
+    "author": "lewis-sanchez",
+    "closedAt": "2025-08-01T00:21:12Z",
+    "createdAt": "2025-07-31T21:00:14Z",
+    "number": 19862,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19862",
+    "title": "[Task]: Remove \"(Preview)\" from schema compare",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
+  },
+  {
+    "author": "hillsrobin",
+    "closedAt": null,
+    "createdAt": "2025-07-31T16:05:23Z",
+    "number": 19861,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19861",
+    "title": "[Feature Request]: Support for Parallel Query Execution in Separate Sessions",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "williamchiu-nmic",
     "closedAt": null,
     "createdAt": "2025-07-30T22:25:22Z",
@@ -31,7 +83,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "croblesm",
@@ -413,7 +466,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 5,
+    "totalReactions": 6,
     "commentCount": 1
   },
   {
@@ -2746,7 +2799,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 1
   },
   {
@@ -8988,8 +9041,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 7,
-    "commentCount": 2
+    "totalReactions": 8,
+    "commentCount": 3
   },
   {
     "author": "ManishaC1",
@@ -9406,7 +9459,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 89,
+    "totalReactions": 90,
     "commentCount": 12
   },
   {
@@ -19513,7 +19566,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 3,
     "milestone": "Backlog"
   },
