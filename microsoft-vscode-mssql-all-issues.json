@@ -1,5 +1,21 @@
 [
   {
+    "author": "keen85",
+    "closedAt": null,
+    "createdAt": "2025-08-01T09:54:31Z",
+    "number": 19869,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19869",
+    "title": "[Bug]: Azure SQL + Entra MFA → re-authentication required for every new query tab",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "croblesm",
     "closedAt": null,
     "createdAt": "2025-07-31T22:44:15Z",
@@ -121,7 +137,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "jasonhorner",
@@ -155,7 +172,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "August 2025 Release"
   },
   {
@@ -1389,7 +1406,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 2,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "caohai",
@@ -1625,7 +1642,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "croblesm",
@@ -1942,7 +1960,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "kburtram",
@@ -2319,7 +2338,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "mrlife",
@@ -2837,7 +2857,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "gordingin",
@@ -2928,7 +2949,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "Johnliang8",
@@ -3365,7 +3387,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "laurenastrid1",
@@ -3403,7 +3425,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "dkratochvil-neit",
@@ -3699,7 +3721,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "aasimkhan30",
@@ -3813,7 +3835,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "mksuni",
@@ -8059,7 +8081,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "kburtram",
