@@ -1,5 +1,39 @@
 [
   {
+    "author": "laurenastrid1",
+    "closedAt": "2025-08-04T21:02:08Z",
+    "createdAt": "2025-08-04T17:02:49Z",
+    "number": 19873,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19873",
+    "title": "[Bug]: If you press the start container button repeatedly with valid input, an error occurs",
+    "areas": [
+      "Local container"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Svish",
+    "closedAt": "2025-08-04T06:41:08Z",
+    "createdAt": "2025-08-04T06:34:34Z",
+    "number": 19871,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19871",
+    "title": "[Feature Request]: Support BACPAC import/export",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "keen85",
     "closedAt": null,
     "createdAt": "2025-08-01T09:54:31Z",
@@ -451,10 +485,10 @@
   },
   {
     "author": "pruthvidhodda",
-    "closedAt": null,
+    "closedAt": "2025-08-04T22:55:37Z",
     "createdAt": "2025-07-18T21:21:11Z",
     "number": 19805,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19805",
     "title": "[Bug]: Unbale to create foreign key referencing own table in schema designer",
     "areas": [
@@ -575,7 +609,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 4
+    "commentCount": 6
   },
   {
     "author": "lewis-sanchez",
@@ -830,7 +864,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "August 2025 Release"
   },
@@ -1070,10 +1104,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2025-08-04T20:03:20Z",
     "createdAt": "2025-07-03T23:05:37Z",
     "number": 19697,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19697",
     "title": "Remove all \"preview\" tags for Schema Designer",
     "areas": [
@@ -1084,7 +1118,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "August 2025 Release"
   },
   {
@@ -1552,7 +1586,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "johnwdunn20",
@@ -1817,10 +1852,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2025-08-04T20:03:56Z",
     "createdAt": "2025-06-10T18:06:47Z",
     "number": 19554,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19554",
     "title": "[Bug]: improving schema designer support by logging and telemetry.",
     "areas": [
@@ -1831,7 +1866,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -2046,7 +2081,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "bujocek",
@@ -2140,10 +2175,10 @@
   },
   {
     "author": "fm-knopfler",
-    "closedAt": null,
+    "closedAt": "2025-08-04T19:21:33Z",
     "createdAt": "2025-06-03T13:01:09Z",
     "number": 19527,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19527",
     "title": "[Bug]: Schema Compare scripts creation of fixed database roles",
     "areas": [
@@ -2154,7 +2189,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "croblesm",
@@ -5271,10 +5306,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2025-08-04T22:55:38Z",
     "createdAt": "2025-04-12T17:46:42Z",
     "number": 19132,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19132",
     "title": "Arrows that go behind the table box is very unnoticeable",
     "areas": [
@@ -5286,7 +5321,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "DanielAndreassen97",
@@ -8975,7 +9010,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 41,
+    "totalReactions": 42,
     "commentCount": 13
   },
   {
@@ -9284,8 +9319,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 63,
-    "commentCount": 24
+    "totalReactions": 64,
+    "commentCount": 25
   },
   {
     "author": "genesisjschubert",
@@ -9482,7 +9517,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 90,
+    "totalReactions": 91,
     "commentCount": 12
   },
   {
@@ -16737,10 +16772,10 @@
   },
   {
     "author": "app/",
-    "closedAt": null,
+    "closedAt": "2025-08-04T22:00:37Z",
     "createdAt": "2023-03-07T21:23:07Z",
     "number": 17586,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17586",
     "title": "Dark themed results + message text when using High Contrast Light Theme",
     "areas": [
@@ -16751,7 +16786,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "August 2025 Release"
   },
   {
@@ -17212,7 +17247,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 5,
     "milestone": "Backlog"
   },
