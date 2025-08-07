@@ -1,12 +1,30 @@
 [
   {
-    "author": "bwalters3",
+    "author": "lewis-sanchez",
     "closedAt": null,
-    "createdAt": "2025-08-05T22:29:53Z",
-    "number": 19886,
+    "createdAt": "2025-08-06T17:50:13Z",
+    "number": 19894,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/19886",
-    "title": "[Bug]: False duplicate column error regarding hidden temporal table columns in CTEs",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19894",
+    "title": "[Task]: Schema Compare Telemetry for GA",
+    "areas": [
+      "Schema Compare"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kackburt",
+    "closedAt": null,
+    "createdAt": "2025-08-06T12:22:48Z",
+    "number": 19890,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19890",
+    "title": "[Bug]: SQL Tools Service component crashes when opening/writing huge WHERE statement into Query",
     "areas": [],
     "priority": -1,
     "type": "Bug",
@@ -14,6 +32,25 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
+  },
+  {
+    "author": "bwalters3",
+    "closedAt": null,
+    "createdAt": "2025-08-05T22:29:53Z",
+    "number": 19886,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19886",
+    "title": "[Bug]: False duplicate column error regarding hidden temporal table columns in CTEs",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ccavalcant",
@@ -31,7 +68,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "August 2025 Release"
   },
   {
@@ -89,10 +126,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-08-06T21:40:28Z",
     "createdAt": "2025-07-31T22:44:15Z",
     "number": 19865,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19865",
     "title": "[Task]: Add all telemetry to Local Database Container",
     "areas": [
@@ -207,12 +244,12 @@
     "areas": [
       "GitHub Copilot"
     ],
-    "priority": -1,
-    "type": "Both Bug and Feature",
+    "priority": 0,
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0,
+    "totalReactions": 1,
+    "commentCount": 1,
     "milestone": "August 2025 Release"
   },
   {
@@ -275,7 +312,7 @@
     "number": 19833,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19833",
-    "title": "[Bug]: can't create local SQL container on Apple Silicon Mac with Rancher Desktop",
+    "title": "[Feature Request]: can't create local SQL container on Apple Silicon Mac with Rancher Desktop",
     "areas": [
       "Local container"
     ],
@@ -284,7 +321,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "edomatze",
@@ -302,7 +340,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -339,7 +378,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "SergioDamasceno",
@@ -430,7 +470,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ganagdhar123",
@@ -559,7 +600,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 6,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "allan-bides",
@@ -632,7 +674,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "davidpcaldwell",
@@ -723,7 +766,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "dkratochvil-neit",
@@ -759,7 +803,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -1032,7 +1077,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "BenjaminRest",
@@ -1086,7 +1132,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "Jakedahl94",
@@ -1122,7 +1169,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "yoleichen",
@@ -1178,7 +1226,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "bveldkamp",
@@ -1196,7 +1245,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "mbourgon",
@@ -1268,7 +1318,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "kackburt",
@@ -1304,7 +1355,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -1355,7 +1407,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "gisn1",
@@ -1555,7 +1608,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ibrowne",
@@ -1573,7 +1627,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "shivashanmugam",
@@ -1646,7 +1701,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "bhuvanUSW",
@@ -1700,7 +1756,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "logansubramani-manulife",
@@ -1982,7 +2039,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "MartinVycital",
@@ -2018,7 +2076,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "KeetaKummalai",
@@ -2157,7 +2216,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 3
   },
   {
@@ -2433,7 +2492,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -3371,7 +3431,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 10,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "jasonhorner",
@@ -3685,7 +3746,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "ivobeemster",
@@ -9052,7 +9114,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 45,
-    "commentCount": 14
+    "commentCount": 15,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "cole-andis",
@@ -9558,7 +9621,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 91,
+    "totalReactions": 92,
     "commentCount": 12
   },
   {
