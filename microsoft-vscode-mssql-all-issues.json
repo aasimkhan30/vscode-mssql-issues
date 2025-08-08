@@ -1,10 +1,47 @@
 [
   {
-    "author": "lewis-sanchez",
+    "author": "jamessalt-constructive",
     "closedAt": null,
+    "createdAt": "2025-08-07T09:11:02Z",
+    "number": 19910,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19910",
+    "title": "[Bug]: GitHub Copilot Ask mode returns 'no model found'",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2025-08-07T16:22:09Z",
+    "createdAt": "2025-08-07T03:49:09Z",
+    "number": 19908,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19908",
+    "title": "[Bug]: Relationship lines remain grayed out after removing filter",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
+  },
+  {
+    "author": "lewis-sanchez",
+    "closedAt": "2025-08-07T21:58:34Z",
     "createdAt": "2025-08-06T17:50:13Z",
     "number": 19894,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19894",
     "title": "[Task]: Schema Compare Telemetry for GA",
     "areas": [
@@ -175,7 +212,7 @@
     "type": "Both Bug and Feature",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "August 2025 Release"
   },
@@ -249,8 +286,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
-    "milestone": "August 2025 Release"
+    "commentCount": 2,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "jasonhorner",
@@ -599,7 +636,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 6,
+    "totalReactions": 7,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -1496,7 +1533,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -2181,7 +2218,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2
+    "commentCount": 3
   },
   {
     "author": "bujocek",
@@ -2381,7 +2418,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -9113,8 +9150,8 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 45,
-    "commentCount": 15,
+    "totalReactions": 47,
+    "commentCount": 16,
     "milestone": "November 2025 Release"
   },
   {
@@ -10933,10 +10970,10 @@
   },
   {
     "author": "cssuh",
-    "closedAt": null,
+    "closedAt": "2025-08-07T16:47:00Z",
     "createdAt": "2024-12-04T17:02:15Z",
     "number": 18471,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18471",
     "title": "Double click cell should select whole row",
     "areas": [
@@ -30895,10 +30932,10 @@
   },
   {
     "author": "schallm",
-    "closedAt": null,
+    "closedAt": "2025-08-07T22:47:49Z",
     "createdAt": "2017-05-22T22:14:19Z",
     "number": 881,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/881",
     "title": "Copy as XXX to Clipboard",
     "areas": [
