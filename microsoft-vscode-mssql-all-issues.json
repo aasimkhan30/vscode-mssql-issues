@@ -1,5 +1,69 @@
 [
   {
+    "author": "match-gabeflores",
+    "closedAt": null,
+    "createdAt": "2025-08-08T20:40:39Z",
+    "number": 19923,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19923",
+    "title": "[Feature Request]: Results Grid: copy selected cells for IN clause",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jmetape",
+    "closedAt": null,
+    "createdAt": "2025-08-08T20:28:05Z",
+    "number": 19922,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19922",
+    "title": "[Feature Request]: Query Results Split by Editor group",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jmour04",
+    "closedAt": null,
+    "createdAt": "2025-08-08T20:00:58Z",
+    "number": 19921,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19921",
+    "title": "[Feature Request]: \"Update Project From Database\"",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0
+  },
+  {
+    "author": "nathanhicktonwork",
+    "closedAt": null,
+    "createdAt": "2025-08-08T09:02:12Z",
+    "number": 19917,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19917",
+    "title": "[Bug]: Queries Hanging",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "jamessalt-constructive",
     "closedAt": null,
     "createdAt": "2025-08-07T09:11:02Z",
@@ -105,7 +169,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 3,
     "milestone": "August 2025 Release"
   },
   {
@@ -378,14 +442,14 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2025-08-08T21:12:23Z",
     "createdAt": "2025-07-23T20:44:49Z",
     "number": 19831,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19831",
     "title": "Bundle extension using esbuild",
     "areas": [
@@ -396,7 +460,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "August 2025 Release"
   },
   {
@@ -1569,7 +1633,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 2,
     "milestone": "August 2025 Release"
   },
@@ -1663,7 +1727,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -3016,10 +3080,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-08-08T22:30:50Z",
     "createdAt": "2025-05-13T18:25:53Z",
     "number": 19414,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19414",
     "title": "[GitHub Copilot - Bug]: Missing Object Not Flagged by GitHub Copilot",
     "areas": [
@@ -3030,7 +3094,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "August 2025 Release"
   },
   {
@@ -3118,12 +3182,12 @@
       "GitHub Copilot"
     ],
     "priority": -1,
-    "type": "Bug",
+    "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "Johnliang8",
@@ -6239,7 +6303,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "match-gabeflores",
@@ -8242,10 +8306,10 @@
   },
   {
     "author": "BroeksEngie",
-    "closedAt": null,
+    "closedAt": "2025-08-08T21:58:00Z",
     "createdAt": "2025-02-25T06:54:02Z",
     "number": 18843,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18843",
     "title": "[Feature request] MSSQL Chatparticipant for VSCode",
     "areas": [
@@ -8256,7 +8320,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "August 2025 Release"
   },
   {
@@ -8276,7 +8340,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "caohai",
@@ -8679,7 +8743,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 3,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "Clifra-Jones",
@@ -9150,7 +9214,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 47,
+    "totalReactions": 48,
     "commentCount": 16,
     "milestone": "November 2025 Release"
   },
@@ -10349,7 +10413,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "Benjin",
@@ -17136,10 +17200,10 @@
   },
   {
     "author": "Balkoth",
-    "closedAt": null,
+    "closedAt": "2025-08-08T22:27:02Z",
     "createdAt": "2023-02-09T12:47:02Z",
     "number": 17540,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17540",
     "title": "Extension does not use display language of vscode",
     "areas": [
@@ -17280,7 +17344,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 1,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "kburtram",
@@ -18019,7 +18083,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 1,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "Charles-Gagnon",
@@ -18564,7 +18628,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "tarekahf",
@@ -29289,10 +29353,10 @@
   },
   {
     "author": "mithun-daa",
-    "closedAt": null,
+    "closedAt": "2025-08-08T19:14:37Z",
     "createdAt": "2017-11-16T16:14:38Z",
     "number": 1030,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/1030",
     "title": "Query results to text",
     "areas": [
@@ -32226,7 +32290,7 @@
     "hasType": true,
     "totalReactions": 6,
     "commentCount": 1,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "christianbalzer",
@@ -36145,7 +36209,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 10,
+    "totalReactions": 11,
     "commentCount": 9,
     "milestone": "Backlog"
   },
