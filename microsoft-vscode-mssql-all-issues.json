@@ -55,13 +55,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19917",
     "title": "[Bug]: Queries Hanging",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "jamessalt-constructive",
@@ -739,7 +742,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "ArcaneKent",
@@ -774,9 +778,9 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "August 2025 Release"
   },
   {
     "author": "davidpcaldwell",
@@ -1252,7 +1256,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "gadeynebram",
@@ -2738,7 +2743,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "GrzegorzLyp",
@@ -7420,7 +7426,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "yugsy",
@@ -14992,10 +14999,10 @@
   },
   {
     "author": "thevedicdeveloper",
-    "closedAt": null,
+    "closedAt": "2025-08-09T04:19:51Z",
     "createdAt": "2024-03-18T19:59:37Z",
     "number": 17888,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17888",
     "title": "Allow creation of MSSQL connection profile with different profile name, but to the same database",
     "areas": [
@@ -15006,7 +15013,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "MitchellR2",
