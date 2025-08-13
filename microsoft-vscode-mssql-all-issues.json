@@ -1,5 +1,56 @@
 [
   {
+    "author": "lewis-sanchez",
+    "closedAt": null,
+    "createdAt": "2025-08-12T21:32:29Z",
+    "number": 19944,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19944",
+    "title": "[Task]: Telemetry for Schema Compare",
+    "areas": [
+      "Schema Compare"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
+  },
+  {
+    "author": "cheenamalhotra",
+    "closedAt": null,
+    "createdAt": "2025-08-12T19:41:34Z",
+    "number": 19943,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19943",
+    "title": "[Bug]: Activating extension failed on Windows",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "jhaeusl1",
+    "closedAt": null,
+    "createdAt": "2025-08-12T18:59:53Z",
+    "number": 19942,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19942",
+    "title": "[Feature Request]: Play Sound when query completes",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Netcare-Lerena",
     "closedAt": null,
     "createdAt": "2025-08-11T13:30:24Z",
@@ -17,10 +68,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2025-08-12T21:41:57Z",
     "createdAt": "2025-08-11T08:02:02Z",
     "number": 19930,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19930",
     "title": "[Bug]: Last active connection overwrites existing connection for untitled SQL editors opened by extension features",
     "areas": [
@@ -63,7 +114,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -208,7 +259,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "laurenastrid1",
@@ -261,7 +312,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "croblesm",
@@ -316,7 +367,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "williamchiu-nmic",
@@ -351,7 +402,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "croblesm",
@@ -370,7 +421,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Epivaral",
@@ -465,10 +516,10 @@
   },
   {
     "author": "edomatze",
-    "closedAt": null,
+    "closedAt": "2025-08-12T21:23:10Z",
     "createdAt": "2025-07-24T06:23:06Z",
     "number": 19832,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19832",
     "title": "[Feature Request]: Save password temporarily for current VS Code session only",
     "areas": [
@@ -537,7 +588,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "ganagdhar123",
@@ -702,7 +753,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 3,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "pruthvidhodda",
@@ -763,12 +814,12 @@
   },
   {
     "author": "abraham-fl",
-    "closedAt": null,
+    "closedAt": "2025-08-12T21:23:02Z",
     "createdAt": "2025-07-17T07:24:12Z",
     "number": 19796,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19796",
-    "title": "Asking for Passwort on creating \"Script as Alter\"",
+    "title": "Asking for Password on creating \"Script as Alter\"",
     "areas": [
       "Object Explorer"
     ],
@@ -815,7 +866,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 1,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "davidpcaldwell",
@@ -982,7 +1033,7 @@
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 2,
-    "milestone": "August 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "croblesm",
@@ -2615,7 +2666,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "mrlife",
@@ -2778,7 +2829,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "September 2025 Release"
   },
   {
@@ -3320,7 +3371,7 @@
     "hasType": false,
     "totalReactions": 1,
     "commentCount": 8,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "LeonarddeR",
@@ -3870,7 +3921,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 5,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "ivobeemster",
@@ -4285,7 +4336,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "croblesm",
@@ -4304,7 +4355,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "croblesm",
@@ -4323,7 +4374,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "croblesm",
@@ -4342,7 +4393,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "croblesm",
@@ -4361,7 +4412,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "aasimkhan30",
@@ -6233,7 +6284,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 4,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "bdague-etskirsch",
@@ -6252,7 +6303,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "tombotts42",
@@ -6307,7 +6358,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "2br-2b",
@@ -6382,7 +6433,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "poolhost",
@@ -6745,7 +6796,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 1,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "Mahmoud-Elgendi",
@@ -7352,7 +7403,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "badampowell",
@@ -7550,7 +7601,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "yorek",
@@ -7731,7 +7782,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "ervinte",
@@ -8308,7 +8359,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "tune007",
@@ -8420,7 +8471,7 @@
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 12,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "cssuh",
@@ -8604,7 +8655,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "dzsquared",
@@ -9492,7 +9543,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "PPT-DGREEN-GH",
@@ -9764,7 +9815,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 92,
+    "totalReactions": 93,
     "commentCount": 12
   },
   {
@@ -12402,7 +12453,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 2,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "kburtram",
@@ -15884,7 +15935,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "ericbrian",
@@ -15975,7 +16026,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "merdz21snchz",
@@ -16238,7 +16289,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "ImTheWolfman",
@@ -16397,7 +16448,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "Benjin",
@@ -16523,7 +16574,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 3,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "mattmcnabb",
@@ -18399,7 +18450,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "Smartens-Larson",
@@ -22123,7 +22174,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 1,
     "milestone": "Backlog"
   },
@@ -24065,7 +24116,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "gbritton1",
@@ -28451,7 +28502,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "ransagy",
