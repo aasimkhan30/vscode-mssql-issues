@@ -1,10 +1,77 @@
 [
   {
-    "author": "lewis-sanchez",
+    "author": "jmalarcon",
     "closedAt": null,
+    "createdAt": "2025-08-13T17:14:23Z",
+    "number": 19951,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19951",
+    "title": "[Bug]: Schema Designer SVG export doesn't open in editors, it's not standard",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "sfscgjohnson",
+    "closedAt": null,
+    "createdAt": "2025-08-13T13:20:14Z",
+    "number": 19950,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19950",
+    "title": "[Feature Request]: Preserving a \"frozen\" result set as a tab",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "AmirSafeCash",
+    "closedAt": null,
+    "createdAt": "2025-08-13T08:28:49Z",
+    "number": 19949,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19949",
+    "title": "[Bug]: Unable to add a connection to an Azure SQL database using Entra ID with MFA",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2025-08-13T08:16:08Z",
+    "number": 19947,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19947",
+    "title": "Text view results are limited to 1000 rows.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "August 2025 Release"
+  },
+  {
+    "author": "lewis-sanchez",
+    "closedAt": "2025-08-13T20:58:20Z",
     "createdAt": "2025-08-12T21:32:29Z",
     "number": 19944,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19944",
     "title": "[Task]: Telemetry for Schema Compare",
     "areas": [
@@ -154,10 +221,10 @@
   },
   {
     "author": "jamessalt-constructive",
-    "closedAt": null,
+    "closedAt": "2025-08-13T22:14:39Z",
     "createdAt": "2025-08-07T09:11:02Z",
     "number": 19910,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19910",
     "title": "[Bug]: GitHub Copilot Ask mode returns 'no model found'",
     "areas": [
@@ -168,7 +235,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "croblesm",
@@ -310,7 +377,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "September 2025 Release"
   },
@@ -474,7 +541,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "August 2025 Release"
   },
   {
@@ -30416,7 +30483,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
