@@ -1,5 +1,53 @@
 [
   {
+    "author": "capiyomero",
+    "closedAt": null,
+    "createdAt": "2025-08-14T15:36:58Z",
+    "number": 19957,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19957",
+    "title": "[Feature Request]: Feature -MSSQL ideas to help",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Johare24",
+    "closedAt": null,
+    "createdAt": "2025-08-14T11:49:41Z",
+    "number": 19956,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19956",
+    "title": "[Bug]: Stack Overflow Deselecting All Changes in Schema Compare",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "agrabsi",
+    "closedAt": null,
+    "createdAt": "2025-08-14T09:47:32Z",
+    "number": 19955,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19955",
+    "title": "[Bug]: Fabric Table SELECT TOP 1000 -> Connection cancelled",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "jmalarcon",
     "closedAt": null,
     "createdAt": "2025-08-13T17:14:23Z",
@@ -197,7 +245,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0
   },
   {
@@ -1576,7 +1624,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -3987,7 +4035,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 7,
     "milestone": "September 2025 Release"
   },
   {
@@ -9776,7 +9824,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 48,
+    "totalReactions": 49,
     "commentCount": 7
   },
   {
@@ -9882,7 +9930,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 93,
+    "totalReactions": 92,
     "commentCount": 12
   },
   {
