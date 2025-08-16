@@ -1,10 +1,10 @@
 [
   {
     "author": "capiyomero",
-    "closedAt": null,
+    "closedAt": "2025-08-15T00:59:31Z",
     "createdAt": "2025-08-14T15:36:58Z",
     "number": 19957,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19957",
     "title": "[Feature Request]: Feature -MSSQL ideas to help",
     "areas": [],
@@ -13,7 +13,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "Johare24",
@@ -99,10 +99,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2025-08-15T16:52:01Z",
     "createdAt": "2025-08-13T08:16:08Z",
     "number": 19947,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19947",
     "title": "Text view results are limited to 1000 rows.",
     "areas": [],
@@ -111,7 +111,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "August 2025 Release"
   },
   {
@@ -575,10 +575,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-08-15T17:05:47Z",
     "createdAt": "2025-07-25T04:01:18Z",
     "number": 19839,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19839",
     "title": "[Bug]: Azure Account and Tenant Not Loading After Successful MFA Sign-In in MSSQL Extension",
     "areas": [
@@ -1258,7 +1258,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "August 2025 Release"
+    "milestone": "September 2025 Release"
   },
   {
     "author": "dzsquared",
@@ -5676,7 +5676,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "Roozle",
@@ -9422,7 +9422,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 48,
+    "totalReactions": 49,
     "commentCount": 16,
     "milestone": "November 2025 Release"
   },
@@ -9930,8 +9930,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 92,
-    "commentCount": 12
+    "totalReactions": 93,
+    "commentCount": 13
   },
   {
     "author": "buckz1lla",
