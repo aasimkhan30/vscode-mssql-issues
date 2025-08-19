@@ -1,5 +1,22 @@
 [
   {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2025-08-18T21:48:04Z",
+    "number": 19966,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19966",
+    "title": "Add connection target type telemetry",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
+  },
+  {
     "author": "capiyomero",
     "closedAt": "2025-08-15T00:59:31Z",
     "createdAt": "2025-08-14T15:36:58Z",
@@ -23,13 +40,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19956",
     "title": "[Bug]: Stack Overflow Deselecting All Changes in Schema Compare",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "agrabsi",
@@ -83,10 +103,10 @@
   },
   {
     "author": "AmirSafeCash",
-    "closedAt": null,
+    "closedAt": "2025-08-18T23:23:45Z",
     "createdAt": "2025-08-13T08:28:49Z",
     "number": 19949,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19949",
     "title": "[Bug]: Unable to add a connection to an Azure SQL database using Entra ID with MFA",
     "areas": [],
@@ -95,7 +115,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "aasimkhan30",
@@ -163,7 +183,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "Netcare-Lerena",
@@ -1914,7 +1934,7 @@
     "type": "Both Bug and Feature",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -9732,7 +9752,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 65,
+    "totalReactions": 67,
     "commentCount": 26
   },
   {
