@@ -1,5 +1,56 @@
 [
   {
+    "author": "jsmolucha",
+    "closedAt": null,
+    "createdAt": "2025-08-19T21:07:05Z",
+    "number": 19983,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19983",
+    "title": "[Bug]: Execution Failed: Cannot connect to the database due to invalid OwnerUri",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
+  },
+  {
+    "author": "rogerhendriks",
+    "closedAt": null,
+    "createdAt": "2025-08-19T16:07:09Z",
+    "number": 19972,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19972",
+    "title": "[Feature request]: option to disable data sharing with co-pilot cloud",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Both Bug and Feature",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "rayzinnz",
+    "closedAt": null,
+    "createdAt": "2025-08-19T05:20:37Z",
+    "number": 19971,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19971",
+    "title": "[Feature Request]: Add getActiveDatabase to exposed functions",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Benjin",
     "closedAt": null,
     "createdAt": "2025-08-18T21:48:04Z",
@@ -171,19 +222,22 @@
   },
   {
     "author": "jhaeusl1",
-    "closedAt": null,
+    "closedAt": "2025-08-19T16:02:31Z",
     "createdAt": "2025-08-12T18:59:53Z",
     "number": 19942,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19942",
     "title": "[Feature Request]: Play Sound when query completes",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 1
+    "totalReactions": 2,
+    "commentCount": 5,
+    "milestone": "Backlog"
   },
   {
     "author": "Netcare-Lerena",
@@ -6541,14 +6595,14 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/19046",
     "title": "Feature request: notification sound for query completion",
     "areas": [
-      "Query Editor"
+      "Query Result"
     ],
     "priority": 2,
-    "type": null,
+    "type": "Feature Request",
     "hasArea": true,
-    "hasType": false,
-    "totalReactions": 1,
-    "commentCount": 0,
+    "hasType": true,
+    "totalReactions": 6,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -9442,7 +9496,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 49,
+    "totalReactions": 50,
     "commentCount": 16,
     "milestone": "November 2025 Release"
   },
@@ -9752,7 +9806,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 67,
+    "totalReactions": 68,
     "commentCount": 26
   },
   {
@@ -32503,10 +32557,10 @@
   },
   {
     "author": "benrr101",
-    "closedAt": null,
+    "closedAt": "2025-08-19T20:58:17Z",
     "createdAt": "2017-03-15T18:50:36Z",
     "number": 780,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/780",
     "title": "Encoding/Separator Config For CSV Export",
     "areas": [
