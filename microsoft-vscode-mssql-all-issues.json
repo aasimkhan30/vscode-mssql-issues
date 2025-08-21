@@ -1,5 +1,55 @@
 [
   {
+    "author": "maykel-gonzalez-tea",
+    "closedAt": null,
+    "createdAt": "2025-08-20T21:10:54Z",
+    "number": 19989,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19989",
+    "title": "[Feature Request]: Bring the \"Manage\" Window from Azure Data Studio into the SQL Server (mssql) Extension",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "peter-row-dwe",
+    "closedAt": null,
+    "createdAt": "2025-08-20T11:07:10Z",
+    "number": 19987,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19987",
+    "title": "[Bug]: Intellisense doesn't respect keyword casing preferences",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-08-20T04:04:24Z",
+    "number": 19984,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19984",
+    "title": "Make color-coded connections a default configuration",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 1,
+    "commentCount": 0
+  },
+  {
     "author": "jsmolucha",
     "closedAt": null,
     "createdAt": "2025-08-19T21:07:05Z",
@@ -7,13 +57,15 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19983",
     "title": "[Bug]: Execution Failed: Cannot connect to the database due to invalid OwnerUri",
-    "areas": [],
+    "areas": [
+      "Scripting"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 3,
     "milestone": "September 2025 Release"
   },
   {
@@ -47,7 +99,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -110,13 +162,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19955",
     "title": "[Bug]: Fabric Table SELECT TOP 1000 -> Connection cancelled",
-    "areas": [],
+    "areas": [
+      "Scripting"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "jmalarcon",
@@ -126,13 +181,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19951",
     "title": "[Bug]: Schema Designer SVG export doesn't open in editors, it's not standard",
-    "areas": [],
+    "areas": [
+      "Schema Designer"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "sfscgjohnson",
@@ -247,11 +305,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19931",
     "title": "Reauthentication prompts very frequesntly",
-    "areas": [],
+    "areas": [
+      "Azure"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 1
   },
@@ -499,7 +559,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0,
     "milestone": "September 2025 Release"
   },
@@ -2443,10 +2503,10 @@
   },
   {
     "author": "rayzinnz",
-    "closedAt": null,
+    "closedAt": "2025-08-20T16:47:42Z",
     "createdAt": "2025-06-07T14:52:48Z",
     "number": 19544,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19544",
     "title": "[Feature Request]: Expose Active Database Name in Active Text Editor via Public API",
     "areas": [
@@ -2457,7 +2517,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -8148,7 +8208,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 5
+    "commentCount": 6
   },
   {
     "author": "nathanweil",
@@ -9806,7 +9866,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 68,
+    "totalReactions": 69,
     "commentCount": 26
   },
   {
@@ -9898,7 +9958,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 49,
+    "totalReactions": 50,
     "commentCount": 7
   },
   {
@@ -10004,7 +10064,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 93,
+    "totalReactions": 94,
     "commentCount": 13
   },
   {
@@ -20829,7 +20889,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 3,
     "milestone": "Backlog"
   },
