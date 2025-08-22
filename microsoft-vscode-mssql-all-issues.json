@@ -1,5 +1,37 @@
 [
   {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2025-08-21T21:07:55Z",
+    "number": 19995,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19995",
+    "title": "✨ Set up Copilot instructions",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 1,
+    "commentCount": 0
+  },
+  {
+    "author": "joe-plumb",
+    "closedAt": null,
+    "createdAt": "2025-08-21T08:38:10Z",
+    "number": 19991,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19991",
+    "title": "[Bug]: Database Project Publish does not wait for build to run",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "maykel-gonzalez-tea",
     "closedAt": null,
     "createdAt": "2025-08-20T21:10:54Z",
@@ -10508,7 +10540,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 7
+    "commentCount": 8
   },
   {
     "author": "ERPrun-DM",
@@ -23603,7 +23635,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "July 2025 Release"
   },
   {
