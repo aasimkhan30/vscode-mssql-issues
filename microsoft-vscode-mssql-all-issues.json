@@ -1,5 +1,56 @@
 [
   {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2025-08-22T17:19:46Z",
+    "number": 20004,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20004",
+    "title": "[Bug]: OE Pollutes console with connection group error when OE is not initialized",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jborbatiplan",
+    "closedAt": null,
+    "createdAt": "2025-08-22T12:49:50Z",
+    "number": 20002,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20002",
+    "title": "Copilot stops before answering",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Prefix42",
+    "closedAt": "2025-08-22T16:46:53Z",
+    "createdAt": "2025-08-22T01:02:32Z",
+    "number": 19999,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/19999",
+    "title": "[Bug]: v1.35.0 VISX does not include sqltoolsservice",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 3,
+    "milestone": "August 2025 Release"
+  },
+  {
     "author": "Benjin",
     "closedAt": null,
     "createdAt": "2025-08-21T21:07:55Z",
@@ -97,7 +148,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 6,
     "milestone": "September 2025 Release"
   },
   {
@@ -188,10 +239,10 @@
   },
   {
     "author": "agrabsi",
-    "closedAt": null,
+    "closedAt": "2025-08-22T12:57:02Z",
     "createdAt": "2025-08-14T09:47:32Z",
     "number": 19955,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19955",
     "title": "[Bug]: Fabric Table SELECT TOP 1000 -> Connection cancelled",
     "areas": [
@@ -202,7 +253,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "September 2025 Release"
   },
   {
@@ -429,8 +480,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0,
+    "totalReactions": 1,
+    "commentCount": 4,
     "milestone": "September 2025 Release"
   },
   {
@@ -2854,7 +2905,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0
   },
   {
@@ -3904,7 +3955,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 10,
+    "totalReactions": 11,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -9990,8 +10041,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 50,
-    "commentCount": 7
+    "totalReactions": 51,
+    "commentCount": 8
   },
   {
     "author": "gregveres",
@@ -10526,10 +10577,10 @@
   },
   {
     "author": "bcibiks",
-    "closedAt": null,
+    "closedAt": "2025-08-22T19:26:07Z",
     "createdAt": "2025-01-07T18:35:18Z",
     "number": 18548,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18548",
     "title": "Offline installation of mssql extention for vscode via VS Code Marketplace",
     "areas": [
@@ -10540,7 +10591,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 8
+    "commentCount": 9,
+    "milestone": "August 2025 Release"
   },
   {
     "author": "ERPrun-DM",
