@@ -1,5 +1,53 @@
 [
   {
+    "author": "Provista-Stan",
+    "closedAt": null,
+    "createdAt": "2025-08-25T16:57:56Z",
+    "number": 20021,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20021",
+    "title": "[Feature Request]: Add configuration for SQLCMD mode on / off by default for new query windows.",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "mpurnyn",
+    "closedAt": null,
+    "createdAt": "2025-08-25T15:53:12Z",
+    "number": 20019,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20019",
+    "title": "[Bug]: Schema comparison select/deselct unresponsive and slow.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "SPerremans",
+    "closedAt": "2025-08-25T08:06:34Z",
+    "createdAt": "2025-08-25T07:53:45Z",
+    "number": 20018,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20018",
+    "title": "[Bug]: The AzureResourceProvider server crashed 5 times in the last 3 minutes. The server will not be restarted.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "aasimkhan30",
     "closedAt": null,
     "createdAt": "2025-08-22T17:19:46Z",
@@ -95,7 +143,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 2,
     "commentCount": 0
   },
   {
@@ -134,10 +182,10 @@
   },
   {
     "author": "jsmolucha",
-    "closedAt": null,
+    "closedAt": "2025-08-25T22:21:42Z",
     "createdAt": "2025-08-19T21:07:05Z",
     "number": 19983,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19983",
     "title": "[Bug]: Execution Failed: Cannot connect to the database due to invalid OwnerUri",
     "areas": [
@@ -148,7 +196,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "September 2025 Release"
   },
   {
@@ -457,13 +505,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19921",
     "title": "[Feature Request]: \"Update Project From Database\"",
-    "areas": [],
-    "priority": -1,
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": 0,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
-    "commentCount": 0
+    "totalReactions": 3,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "nathanhicktonwork",
@@ -480,7 +531,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 4,
     "milestone": "September 2025 Release"
   },
@@ -1566,7 +1617,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "hedgybeats",
@@ -10041,7 +10092,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 51,
+    "totalReactions": 52,
     "commentCount": 8
   },
   {
@@ -10591,7 +10642,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 9,
+    "commentCount": 10,
     "milestone": "August 2025 Release"
   },
   {
