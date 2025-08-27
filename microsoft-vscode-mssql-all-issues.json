@@ -1,5 +1,37 @@
 [
   {
+    "author": "ClemJax",
+    "closedAt": null,
+    "createdAt": "2025-08-26T17:04:50Z",
+    "number": 20025,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20025",
+    "title": "[Bug]: Schema Compare - Multiple issues in Schema Compare",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "polandre90",
+    "closedAt": null,
+    "createdAt": "2025-08-26T12:36:14Z",
+    "number": 20024,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20024",
+    "title": "[Bug]: Object Explorer is not working",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Provista-Stan",
     "closedAt": null,
     "createdAt": "2025-08-25T16:57:56Z",
@@ -143,7 +175,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 0
   },
   {
@@ -160,7 +192,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "croblesm",
@@ -8573,7 +8605,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 27,
+    "totalReactions": 28,
     "commentCount": 3,
     "milestone": "September 2025 Release"
   },
@@ -20668,7 +20700,7 @@
     "type": null,
     "hasArea": false,
     "hasType": false,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 18,
     "milestone": "October 2021 Hotfix Release"
   },
