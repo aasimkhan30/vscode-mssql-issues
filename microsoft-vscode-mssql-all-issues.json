@@ -1,5 +1,37 @@
 [
   {
+    "author": "dzsquared",
+    "closedAt": null,
+    "createdAt": "2025-08-27T23:18:49Z",
+    "number": 20044,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20044",
+    "title": "[Feature Request]: new query window is difficult to impossible to open via keybinding",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "dzsquared",
+    "closedAt": null,
+    "createdAt": "2025-08-27T22:10:11Z",
+    "number": 20042,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20042",
+    "title": "[Bug]: \"Container does not exist\" when trying to connect",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "tommywo",
     "closedAt": null,
     "createdAt": "2025-08-27T07:30:48Z",
@@ -273,10 +305,10 @@
   },
   {
     "author": "rayzinnz",
-    "closedAt": null,
+    "closedAt": "2025-08-27T23:12:35Z",
     "createdAt": "2025-08-19T05:20:37Z",
     "number": 19971,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19971",
     "title": "[Feature Request]: Add getActiveDatabase to exposed functions",
     "areas": [],
@@ -568,7 +600,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "September 2025 Release"
   },
   {
@@ -917,10 +949,10 @@
   },
   {
     "author": "sarfaraz78615",
-    "closedAt": null,
+    "closedAt": "2025-08-27T23:02:15Z",
     "createdAt": "2025-07-24T18:51:51Z",
     "number": 19836,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19836",
     "title": "[Bug]: \"FIELDPROC\" expected after this token When IDENTITY(1,1)",
     "areas": [
@@ -931,7 +963,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 2
   },
   {
     "author": "JackMyers001",
@@ -5173,7 +5205,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 4
   },
   {
     "author": "bearcoyote",
