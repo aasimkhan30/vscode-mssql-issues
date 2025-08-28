@@ -13,7 +13,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "dzsquared",
@@ -45,7 +46,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "ClemJax",
@@ -230,7 +232,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "peter-row-dwe",
@@ -301,7 +304,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "rayzinnz",
@@ -582,7 +586,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "jmour04",
@@ -963,7 +968,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 3
   },
   {
     "author": "JackMyers001",
@@ -2897,7 +2902,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 5,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "Ignacio-montorfano",
@@ -5123,7 +5129,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -5276,7 +5283,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "jcbendernh",
@@ -5678,7 +5686,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "caohai",
@@ -6034,7 +6043,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "Roozle",
@@ -6222,7 +6232,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "yoleichen",
@@ -6316,7 +6327,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "gdube-nrc",
@@ -6520,7 +6532,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -7163,7 +7176,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -7304,7 +7318,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -7749,7 +7764,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -8093,7 +8109,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 4
+    "commentCount": 4,
+    "milestone": "Backlog"
   },
   {
     "author": "yorek",
@@ -8129,7 +8146,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "Christopher-C-Robinson",
@@ -8360,7 +8378,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "jagdishrajan",
@@ -8397,7 +8416,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "zcoop98",
@@ -8433,7 +8453,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 6
+    "commentCount": 6,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "nathanweil",
@@ -15790,7 +15811,7 @@
   },
   {
     "author": "Praise-onya",
-    "closedAt": "2025-08-27T21:05:21Z",
+    "closedAt": "2025-08-28T16:06:13Z",
     "createdAt": "2024-02-15T21:49:46Z",
     "number": 17874,
     "state": "CLOSED",
@@ -15804,7 +15825,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "EntwicklerMQ",
