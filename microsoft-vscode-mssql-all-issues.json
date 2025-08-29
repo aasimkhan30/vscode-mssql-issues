@@ -604,7 +604,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 2,
     "commentCount": 1,
     "milestone": "September 2025 Release"
   },
@@ -1265,7 +1265,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 7,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -2312,7 +2312,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 5
   },
   {
@@ -8053,7 +8053,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "rsaa",
@@ -9631,7 +9632,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 1,
     "milestone": "October 2025 Release"
   },
@@ -23873,7 +23874,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "July 2025 Release"
   },
   {
