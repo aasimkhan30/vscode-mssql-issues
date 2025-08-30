@@ -1,5 +1,69 @@
 [
   {
+    "author": "Wermeling",
+    "closedAt": null,
+    "createdAt": "2025-08-29T13:39:29Z",
+    "number": 20050,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20050",
+    "title": "[Bug]: Query Results pane returns different localization for float vs decimal",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "djbetos",
+    "closedAt": "2025-08-29T16:27:43Z",
+    "createdAt": "2025-08-29T11:49:08Z",
+    "number": 20049,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20049",
+    "title": "Query editor",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "djbetos",
+    "closedAt": "2025-08-29T16:27:33Z",
+    "createdAt": "2025-08-29T11:47:59Z",
+    "number": 20048,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20048",
+    "title": "Table Designer",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "djbetos",
+    "closedAt": "2025-08-29T16:27:23Z",
+    "createdAt": "2025-08-29T11:47:40Z",
+    "number": 20047,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20047",
+    "title": "[Feature Request]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "dzsquared",
     "closedAt": null,
     "createdAt": "2025-08-27T23:18:49Z",
@@ -1251,10 +1315,10 @@
   },
   {
     "author": "skodiriy",
-    "closedAt": null,
+    "closedAt": "2025-08-29T15:49:58Z",
     "createdAt": "2025-07-18T17:38:08Z",
     "number": 19804,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19804",
     "title": "[Feature Request]: Global Object Search",
     "areas": [
@@ -1265,7 +1329,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 7,
-    "commentCount": 3,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -12951,10 +13015,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2025-08-29T17:44:23Z",
     "createdAt": "2024-10-16T20:08:37Z",
     "number": 18252,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18252",
     "title": "Query results grid doesn't support progressive results stream",
     "areas": [
@@ -21180,7 +21244,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 7,
     "milestone": "Backlog"
   },
   {
