@@ -1,5 +1,21 @@
 [
   {
+    "author": "legomind",
+    "closedAt": null,
+    "createdAt": "2025-08-30T13:05:13Z",
+    "number": 20053,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20053",
+    "title": "[Feature Request]: Schema compare should support object filters",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Wermeling",
     "closedAt": null,
     "createdAt": "2025-08-29T13:39:29Z",
@@ -77,7 +93,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -94,7 +110,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "tommywo",
@@ -129,7 +145,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "polandre90",
@@ -161,7 +177,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "mpurnyn",
@@ -179,7 +195,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "SPerremans",
@@ -368,7 +384,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
