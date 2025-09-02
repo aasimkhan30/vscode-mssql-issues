@@ -5,7 +5,7 @@ Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Pr
 "20048","Table Designer","djbetos","CLOSED","2025-08-29T11:47:59Z","2025-08-29T16:27:33Z","",,"0","https://github.com/microsoft/vscode-mssql/issues/20048","0","-1",
 "20047","[Feature Request]:","djbetos","CLOSED","2025-08-29T11:47:40Z","2025-08-29T16:27:23Z","","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20047","0","-1",
 "20044","[Feature Request]: new query window is difficult to impossible to open via keybinding","dzsquared","OPEN","2025-08-27T23:18:49Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20044","1","-1","Backlog"
-"20042","[Bug]: ""Container does not exist"" when trying to connect","dzsquared","OPEN","2025-08-27T22:10:11Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20042","1","-1",
+"20042","[Bug]: ""Container does not exist"" when trying to connect","dzsquared","OPEN","2025-08-27T22:10:11Z",,"Local container","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20042","1","1",
 "20038","[Feature Request]: CLI command to download sqltools service","tommywo","OPEN","2025-08-27T07:30:48Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20038","1","-1","Backlog"
 "20025","[Bug]: Schema Compare - Multiple issues in Schema Compare","ClemJax","OPEN","2025-08-26T17:04:50Z",,"Schema Compare","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20025","1","-1",
 "20024","[Bug]: Object Explorer is not working","polandre90","OPEN","2025-08-26T12:36:14Z",,"","Bug","1","https://github.com/microsoft/vscode-mssql/issues/20024","0","-1",

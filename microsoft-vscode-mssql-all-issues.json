@@ -104,10 +104,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20042",
     "title": "[Bug]: \"Container does not exist\" when trying to connect",
-    "areas": [],
-    "priority": -1,
+    "areas": [
+      "Local container"
+    ],
+    "priority": 1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1
