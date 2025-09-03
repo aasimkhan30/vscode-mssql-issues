@@ -1,5 +1,59 @@
 [
   {
+    "author": "nastanford",
+    "closedAt": null,
+    "createdAt": "2025-09-02T17:58:07Z",
+    "number": 20057,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20057",
+    "title": "[Feature Request]: Option to Show Only Accessible Schemas for Current User",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "Dzivo",
+    "closedAt": "2025-09-02T21:09:48Z",
+    "createdAt": "2025-09-02T16:09:20Z",
+    "number": 20056,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20056",
+    "title": "[Feature Request]:",
+    "areas": [
+      "Table Explorer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "jasperkpi",
+    "closedAt": null,
+    "createdAt": "2025-09-02T12:18:07Z",
+    "number": 20055,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20055",
+    "title": "[Feature Request]: \"Manage\" window from Azure Data Studio",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "legomind",
     "closedAt": null,
     "createdAt": "2025-08-30T13:05:13Z",
@@ -7,13 +61,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20053",
     "title": "[Feature Request]: Schema compare should support object filters",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "Wermeling",
@@ -23,13 +80,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20050",
     "title": "[Bug]: Query Results pane returns different localization for float vs decimal",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "djbetos",
@@ -112,7 +172,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "tommywo",
@@ -147,7 +208,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "polandre90",
@@ -157,13 +219,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20024",
     "title": "[Bug]: Object Explorer is not working",
-    "areas": [],
+    "areas": [
+      "Object Explorer"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "Provista-Stan",
@@ -179,7 +244,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "mpurnyn",
@@ -197,7 +263,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "SPerremans",
@@ -231,7 +298,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "jborbatiplan",
@@ -249,7 +317,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "Prefix42",
@@ -282,7 +351,8 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "joe-plumb",
@@ -292,13 +362,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19991",
     "title": "[Bug]: Database Project Publish does not wait for build to run",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "maykel-gonzalez-tea",
@@ -325,13 +398,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19987",
     "title": "[Bug]: Intellisense doesn't respect keyword casing preferences",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -345,11 +421,12 @@
       "Connection"
     ],
     "priority": -1,
-    "type": null,
+    "type": "Feature Request",
     "hasArea": true,
-    "hasType": false,
+    "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "jsmolucha",
@@ -574,13 +651,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19943",
     "title": "[Bug]: Activating extension failed on Windows",
-    "areas": [],
+    "areas": [
+      "Shell"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "jhaeusl1",
@@ -1163,7 +1243,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ganagdhar123",
@@ -1181,7 +1262,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "jasonhorner",
@@ -1199,7 +1281,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "gisn1",
@@ -1236,7 +1319,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "ganagdhar123",
@@ -1254,7 +1338,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ganagdhar123",
@@ -1272,7 +1357,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "mvoggu",
@@ -3763,8 +3849,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 7
+    "totalReactions": 1,
+    "commentCount": 8
   },
   {
     "author": "rayzinnz",
@@ -6784,7 +6870,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "match-gabeflores",
@@ -9642,7 +9729,7 @@
     "type": null,
     "hasArea": false,
     "hasType": false,
-    "totalReactions": 33,
+    "totalReactions": 34,
     "commentCount": 16
   },
   {
@@ -10299,7 +10386,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 53,
+    "totalReactions": 54,
     "commentCount": 9,
     "milestone": "Backlog"
   },
