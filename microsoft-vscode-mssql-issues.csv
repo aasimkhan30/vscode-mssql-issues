@@ -1,4 +1,7 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"20076","[Feature Request]:","vssohal","OPEN","2025-09-04T17:32:09Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20076","0","-1",
+"20075","[GitHub Copilot - Bug] / Feature request:","khalilbenaz","OPEN","2025-09-04T16:52:36Z",,"GitHub Copilot","Both Bug and Feature","0","https://github.com/microsoft/vscode-mssql/issues/20075","0","-1",
+"20073","[Bug]: SchemaCompe RunComparison command is not supported for vscode mssql","ssreerama","OPEN","2025-09-04T16:12:23Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20073","0","-1",
 "20072","[Feature Request]: Detect sleeping serverless databases and extended timeout","kburtram","OPEN","2025-09-03T21:56:59Z",,"Connection","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20072","0","-1","Backlog"
 "20069","[Bug]: Label “Azure Account” should be “Account”","croblesm","CLOSED","2025-09-03T07:02:15Z","2025-09-03T07:02:58Z","Connection","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20069","1","-1","September 2025 Release"
 "20069","[Bug]: Label “Azure Account” should be “Account”","croblesm","CLOSED","2025-09-03T07:02:15Z","2025-09-03T07:02:58Z","Fabric Integration","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20069","1","-1","September 2025 Release"
@@ -614,7 +617,7 @@ Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Pr
 "18636","Messages pane is not open by default","mehrdadjavidan","CLOSED","2025-02-08T16:11:49Z","2025-08-27T05:34:50Z","Query Result","Bug","0","https://github.com/microsoft/vscode-mssql/issues/18636","1","-1","September 2025 Release"
 "18635","SQL Server Agent Support","deckerbd","CLOSED","2025-02-07T18:13:50Z","2025-05-01T06:41:59Z","",,"16","https://github.com/microsoft/vscode-mssql/issues/18635","11","-1",
 "18632","Very high memory usage and SQL query never returns a result","BenReeveTSG","CLOSED","2025-02-07T11:06:48Z","2025-08-27T05:34:24Z","Query Result","Bug","3","https://github.com/microsoft/vscode-mssql/issues/18632","4","-1","September 2025 Release"
-"18630","Request: Sql Profiler","PureKrome","OPEN","2025-02-06T22:33:15Z",,"Acquisition","Feature Request","94","https://github.com/microsoft/vscode-mssql/issues/18630","13","-1","Backlog"
+"18630","Request: Sql Profiler","PureKrome","OPEN","2025-02-06T22:33:15Z",,"Acquisition","Feature Request","95","https://github.com/microsoft/vscode-mssql/issues/18630","13","-1","Backlog"
 "18620","Copy/Paste does not retain values copied when data has been filtered in the Result Pane","buckz1lla","CLOSED","2025-02-05T20:31:05Z","2025-02-21T21:33:59Z","Query Result","Bug","3","https://github.com/microsoft/vscode-mssql/issues/18620","2","0","February Release 2025"
 "18616","creating connection from connection string also adds undefined connection","dzsquared","CLOSED","2025-02-04T23:30:52Z","2025-03-26T20:33:37Z","Connection",,"1","https://github.com/microsoft/vscode-mssql/issues/18616","3","-1","March 2025 Release"
 "18614","Question/Enhacement : Choose where to save connections / do not update user settings","kkum","OPEN","2025-02-04T13:52:39Z",,"Connection","Feature Request","3","https://github.com/microsoft/vscode-mssql/issues/18614","4","3","October 2025 Release"

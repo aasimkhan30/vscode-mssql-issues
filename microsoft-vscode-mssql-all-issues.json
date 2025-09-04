@@ -1,5 +1,55 @@
 [
   {
+    "author": "vssohal",
+    "closedAt": null,
+    "createdAt": "2025-09-04T17:32:09Z",
+    "number": 20076,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20076",
+    "title": "[Feature Request]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "khalilbenaz",
+    "closedAt": null,
+    "createdAt": "2025-09-04T16:52:36Z",
+    "number": 20075,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20075",
+    "title": "[GitHub Copilot - Bug] / Feature request:",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Both Bug and Feature",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2025-09-04T16:12:23Z",
+    "number": 20073,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20073",
+    "title": "[Bug]: SchemaCompe RunComparison command is not supported for vscode mssql",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "kburtram",
     "closedAt": null,
     "createdAt": "2025-09-03T21:56:59Z",
@@ -10772,7 +10822,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 94,
+    "totalReactions": 95,
     "commentCount": 13,
     "milestone": "Backlog"
   },
