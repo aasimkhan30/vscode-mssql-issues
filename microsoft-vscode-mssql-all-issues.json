@@ -1,19 +1,115 @@
 [
   {
+    "author": "AV25242",
+    "closedAt": null,
+    "createdAt": "2025-09-04T21:20:01Z",
+    "number": 20084,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20084",
+    "title": "[Bug]: Unable to connect to any of the datasources in Fabric using VSIX (v1.36 RC )",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "amthomas46",
+    "closedAt": null,
+    "createdAt": "2025-09-04T21:15:18Z",
+    "number": 20083,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20083",
+    "title": "[Bug]: Weird auth loop on mac when trying to load workspaces to create a new database in fabric",
+    "areas": [
+      "Connection",
+      "Provisioning Fabric"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "September 2025 Release"
+  },
+  {
+    "author": "amthomas46",
+    "closedAt": null,
+    "createdAt": "2025-09-04T21:08:16Z",
+    "number": 20082,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20082",
+    "title": "[Bug]: match marketing guidelines for Fabric SQL",
+    "areas": [
+      "Provisioning Fabric"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "September 2025 Release"
+  },
+  {
+    "author": "amthomas46",
+    "closedAt": null,
+    "createdAt": "2025-09-04T21:02:38Z",
+    "number": 20081,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20081",
+    "title": "[Bug]: open connection dialog prompts for keychain access on mac",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "October 2025 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2025-09-04T20:31:22Z",
+    "number": 20080,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20080",
+    "title": "Improved protocol handler",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
+  },
+  {
     "author": "vssohal",
     "closedAt": null,
     "createdAt": "2025-09-04T17:32:09Z",
     "number": 20076,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20076",
-    "title": "[Feature Request]:",
-    "areas": [],
+    "title": "[Feature Request]: SQL tool service be bundled with the extension",
+    "areas": [
+      "Acquisition"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "khalilbenaz",
@@ -22,7 +118,7 @@
     "number": 20075,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20075",
-    "title": "[GitHub Copilot - Bug] / Feature request:",
+    "title": "[GitHub Copilot - Bug] - Message couldn't be processed error",
     "areas": [
       "GitHub Copilot"
     ],
@@ -31,7 +127,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "ssreerama",
@@ -41,13 +138,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20073",
     "title": "[Bug]: SchemaCompe RunComparison command is not supported for vscode mssql",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 2,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "kburtram",
@@ -795,7 +895,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "September 2025 Release"
   },
   {
@@ -1055,7 +1155,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 5,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "jamessalt-constructive",
@@ -1348,7 +1448,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 2,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "jasonhorner",
@@ -9468,7 +9568,7 @@
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 12,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "cssuh",
@@ -9653,7 +9753,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "dzsquared",
@@ -11516,7 +11616,7 @@
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 0,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "Benjin",
@@ -25790,7 +25890,7 @@
     "hasType": true,
     "totalReactions": 6,
     "commentCount": 2,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "gbritton1",
