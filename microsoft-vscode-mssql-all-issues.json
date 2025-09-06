@@ -1,12 +1,29 @@
 [
   {
-    "author": "AV25242",
+    "author": "Benjin",
     "closedAt": null,
-    "createdAt": "2025-09-04T21:20:01Z",
-    "number": 20084,
+    "createdAt": "2025-09-05T23:32:29Z",
+    "number": 20105,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/20084",
-    "title": "[Bug]: Unable to connect to any of the datasources in Fabric using VSIX (v1.36 RC )",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20105",
+    "title": "Solidify typing in schemaWebViewController() and onSchemaCompare()",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "October 2025 Release"
+  },
+  {
+    "author": "mbarickman",
+    "closedAt": null,
+    "createdAt": "2025-09-05T21:31:40Z",
+    "number": 20102,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20102",
+    "title": "[Bug]: Editing AE in Advanced Properties blocks you from connecting to Fabric resources",
     "areas": [],
     "priority": -1,
     "type": "Bug",
@@ -14,6 +31,111 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
+  },
+  {
+    "author": "mbarickman",
+    "closedAt": null,
+    "createdAt": "2025-09-05T21:23:03Z",
+    "number": 20101,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20101",
+    "title": "[Bug]: Fabric workspace broswer: Keyword Filtering text box too wide",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "lewis-sanchez",
+    "closedAt": null,
+    "createdAt": "2025-09-05T20:31:05Z",
+    "number": 20099,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20099",
+    "title": "[Task]: Remove Schema Compare DB Project command from extension to remove circular dependency",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": "2025-09-05T20:16:05Z",
+    "createdAt": "2025-09-05T16:40:38Z",
+    "number": 20093,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20093",
+    "title": "[Bug]: Fixing closing file cleanup when a query is still running",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
+  },
+  {
+    "author": "ozkurkculer",
+    "closedAt": null,
+    "createdAt": "2025-09-05T09:21:01Z",
+    "number": 20090,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20090",
+    "title": "[Feature Request]: Add theming tokens and settings options for Results Grid header & NULL cell styling",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 1,
+    "milestone": "October 2025 Release"
+  },
+  {
+    "author": "tnaum-ms",
+    "closedAt": null,
+    "createdAt": "2025-09-05T05:49:17Z",
+    "number": 20089,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20089",
+    "title": "[Improvement]: No \"Go Back\" option for the user after a failed deployment in Fabric",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
+  },
+  {
+    "author": "AV25242",
+    "closedAt": null,
+    "createdAt": "2025-09-04T21:20:01Z",
+    "number": 20084,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20084",
+    "title": "[Bug]: Unable to connect to any of the datasources in Fabric using VSIX (v1.36 RC )",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "amthomas46",
@@ -32,7 +154,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 5,
     "milestone": "September 2025 Release"
   },
   {
@@ -56,10 +178,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2025-09-05T16:33:39Z",
     "createdAt": "2025-09-04T21:02:38Z",
     "number": 20081,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20081",
     "title": "[Bug]: open connection dialog prompts for keychain access on mac",
     "areas": [
@@ -137,7 +259,7 @@
     "number": 20073,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20073",
-    "title": "[Bug]: SchemaCompe RunComparison command is not supported for vscode mssql",
+    "title": "[Bug]: No ability to start MSSQL schema compare from external extension (e.g. SQL Projects)",
     "areas": [
       "Schema Compare"
     ],
@@ -146,7 +268,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "September 2025 Release"
   },
   {
@@ -190,10 +312,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-05T20:26:28Z",
     "createdAt": "2025-09-03T06:47:27Z",
     "number": 20068,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20068",
     "title": "[Bug]: Label “Azure Account” should be “Account”",
     "areas": [
@@ -250,10 +372,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-05T20:29:04Z",
     "createdAt": "2025-09-03T06:34:34Z",
     "number": 20065,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20065",
     "title": "[Bug]: Fabric “Browse” lists all workspaces even if they contain no SQL databases",
     "areas": [
@@ -265,7 +387,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "September 2025 Release"
   },
   {
@@ -308,10 +430,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-05T20:41:23Z",
     "createdAt": "2025-09-03T06:10:06Z",
     "number": 20062,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20062",
     "title": "[Bug]: Replace “Cancel” with “Finish” and block/guard close until provisioning completes",
     "areas": [
@@ -322,7 +444,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "September 2025 Release"
   },
   {
@@ -896,7 +1018,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "agrabsi",
@@ -4677,7 +4799,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 11,
+    "totalReactions": 12,
     "commentCount": 2,
     "milestone": "October 2025 Release"
   },
@@ -10715,15 +10837,15 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/18644",
     "title": "Dacpac/Bacpac Database Functionality",
     "areas": [
-      "Acquisition"
+      "Dacpac Import/Export"
     ],
     "priority": -1,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 70,
-    "commentCount": 27,
-    "milestone": "Backlog"
+    "totalReactions": 72,
+    "commentCount": 28,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "genesisjschubert",
