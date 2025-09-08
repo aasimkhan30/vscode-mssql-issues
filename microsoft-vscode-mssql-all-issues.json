@@ -8461,8 +8461,8 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 0,
-    "commentCount": 0,
+    "totalReactions": 1,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
@@ -10936,7 +10936,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 54,
+    "totalReactions": 55,
     "commentCount": 9,
     "milestone": "Backlog"
   },
