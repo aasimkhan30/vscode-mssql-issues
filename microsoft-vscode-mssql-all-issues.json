@@ -2,9 +2,97 @@
   {
     "author": "Benjin",
     "closedAt": null,
+    "createdAt": "2025-09-08T23:03:19Z",
+    "number": 20135,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20135",
+    "title": "[Bug]: Protocol handler does not require database to match if specified in invocation URI",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
+  },
+  {
+    "author": "jjturner",
+    "closedAt": null,
+    "createdAt": "2025-09-08T21:21:34Z",
+    "number": 20131,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20131",
+    "title": "[Feature Request]: Top Operations tab for QUERY RESULTS",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "lewis-sanchez",
+    "closedAt": "2025-09-08T19:55:47Z",
+    "createdAt": "2025-09-08T18:05:22Z",
+    "number": 20125,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20125",
+    "title": "[Bug]: Localizations for updated Fabric Provisioning Text",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
+  },
+  {
+    "author": "ndellomoevenly",
+    "closedAt": null,
+    "createdAt": "2025-09-08T18:01:01Z",
+    "number": 20124,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20124",
+    "title": "Cannot Connect due to mssql.addObjectExplorer exception",
+    "areas": [
+      "Shell"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "October 2025 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2025-09-08T22:39:29Z",
+    "createdAt": "2025-09-08T17:08:49Z",
+    "number": 20120,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20120",
+    "title": "[Bug]: Connecting via protocol handler does not automatically focus the object explorer upon success",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2025-09-08T18:07:26Z",
     "createdAt": "2025-09-05T23:32:29Z",
     "number": 20105,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20105",
     "title": "Solidify typing in schemaWebViewController() and onSchemaCompare()",
     "areas": [],
@@ -18,42 +106,48 @@
   },
   {
     "author": "mbarickman",
-    "closedAt": null,
+    "closedAt": "2025-09-08T23:20:16Z",
     "createdAt": "2025-09-05T21:31:40Z",
     "number": 20102,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20102",
     "title": "[Bug]: Editing AE in Advanced Properties blocks you from connecting to Fabric resources",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "mbarickman",
-    "closedAt": null,
+    "closedAt": "2025-09-08T23:21:27Z",
     "createdAt": "2025-09-05T21:23:03Z",
     "number": 20101,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20101",
     "title": "[Bug]: Fabric workspace broswer: Keyword Filtering text box too wide",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
   },
   {
     "author": "lewis-sanchez",
-    "closedAt": null,
+    "closedAt": "2025-09-08T18:21:41Z",
     "createdAt": "2025-09-05T20:31:05Z",
     "number": 20099,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20099",
     "title": "[Task]: Remove Schema Compare DB Project command from extension to remove circular dependency",
     "areas": [],
@@ -62,7 +156,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "September 2025 Release"
   },
   {
@@ -109,21 +203,23 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20089",
     "title": "[Improvement]: No \"Go Back\" option for the user after a failed deployment in Fabric",
-    "areas": [],
+    "areas": [
+      "Provisioning Fabric"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "AV25242",
-    "closedAt": null,
+    "closedAt": "2025-09-08T23:21:15Z",
     "createdAt": "2025-09-04T21:20:01Z",
     "number": 20084,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20084",
     "title": "[Bug]: Unable to connect to any of the datasources in Fabric using VSIX (v1.36 RC )",
     "areas": [
@@ -139,10 +235,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2025-09-08T21:18:43Z",
     "createdAt": "2025-09-04T21:15:18Z",
     "number": 20083,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20083",
     "title": "[Bug]: Weird auth loop on mac when trying to load workspaces to create a new database in fabric",
     "areas": [
@@ -154,15 +250,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "September 2025 Release"
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2025-09-08T17:39:33Z",
     "createdAt": "2025-09-04T21:08:16Z",
     "number": 20082,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20082",
     "title": "[Bug]: match marketing guidelines for Fabric SQL",
     "areas": [
@@ -197,10 +293,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-09-08T23:19:22Z",
     "createdAt": "2025-09-04T20:31:22Z",
     "number": 20080,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20080",
     "title": "Improved protocol handler",
     "areas": [
@@ -254,10 +350,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2025-09-08T18:07:25Z",
     "createdAt": "2025-09-04T16:12:23Z",
     "number": 20073,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20073",
     "title": "[Bug]: No ability to start MSSQL schema compare from external extension (e.g. SQL Projects)",
     "areas": [
@@ -348,14 +444,14 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-08T23:22:14Z",
     "createdAt": "2025-09-03T06:41:19Z",
     "number": 20066,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20066",
     "title": "[Bug]: Missing filter for “Type” column in Fabric browse experience",
     "areas": [
@@ -407,7 +503,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "croblesm",
@@ -426,7 +522,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "croblesm",
@@ -449,10 +545,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-08T17:39:34Z",
     "createdAt": "2025-09-03T06:04:30Z",
     "number": 20061,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20061",
     "title": "[Task]: Add \"Preview\" label to new Fabric provisioing experience",
     "areas": [
@@ -468,10 +564,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-08T17:39:33Z",
     "createdAt": "2025-09-03T05:42:31Z",
     "number": 20060,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20060",
     "title": "[Task]: Update \"New Deployment\" database icon",
     "areas": [
@@ -970,10 +1066,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-09-08T23:43:56Z",
     "createdAt": "2025-08-18T21:48:04Z",
     "number": 19966,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19966",
     "title": "Add connection target type telemetry",
     "areas": [],
@@ -1243,10 +1339,10 @@
   },
   {
     "author": "jmour04",
-    "closedAt": null,
+    "closedAt": "2025-09-08T18:26:44Z",
     "createdAt": "2025-08-08T20:00:58Z",
     "number": 19921,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19921",
     "title": "[Feature Request]: \"Update Project From Database\"",
     "areas": [
@@ -1257,7 +1353,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "September 2025 Release"
   },
   {
@@ -1442,7 +1538,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "croblesm",
@@ -2285,7 +2381,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "September 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "dzsquared",
@@ -10843,7 +10939,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 72,
+    "totalReactions": 77,
     "commentCount": 28,
     "milestone": "December 2025 Release"
   },
@@ -11044,7 +11140,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 95,
+    "totalReactions": 96,
     "commentCount": 13,
     "milestone": "Backlog"
   },
