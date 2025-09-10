@@ -2,9 +2,42 @@
   {
     "author": "Benjin",
     "closedAt": null,
+    "createdAt": "2025-09-09T21:21:49Z",
+    "number": 20141,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20141",
+    "title": "[Bug]: Removing Search feature",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
+  },
+  {
+    "author": "fernando-terra",
+    "closedAt": null,
+    "createdAt": "2025-09-09T14:39:52Z",
+    "number": 20138,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20138",
+    "title": "[Bug]: JSON export incorrectly formats decimal values, removing the decimal separator",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2025-09-09T20:17:06Z",
     "createdAt": "2025-09-08T23:03:19Z",
     "number": 20135,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20135",
     "title": "[Bug]: Protocol handler does not require database to match if specified in invocation URI",
     "areas": [],
@@ -192,7 +225,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "October 2025 Release"
   },
   {
@@ -1316,7 +1349,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -1628,7 +1661,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -3815,10 +3848,10 @@
   },
   {
     "author": "burtonrodman",
-    "closedAt": null,
+    "closedAt": "2025-09-09T19:35:13Z",
     "createdAt": "2025-05-30T13:42:47Z",
     "number": 19517,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19517",
     "title": "[Bug]: Ctrl+C doesn't copy from the results grid",
     "areas": [
@@ -3829,7 +3862,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -4938,10 +4971,10 @@
   },
   {
     "author": "albertoalmario",
-    "closedAt": null,
+    "closedAt": "2025-09-09T20:22:16Z",
     "createdAt": "2025-05-02T18:47:56Z",
     "number": 19336,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19336",
     "title": "SQL scripts doesn't work property when using GIT repo",
     "areas": [
@@ -4952,7 +4985,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -7599,7 +7632,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "tombotts42",
@@ -7691,7 +7724,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "match-gabeflores",
@@ -7729,7 +7762,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "poolhost",
@@ -10152,7 +10185,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 3,
-    "milestone": "October 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Clifra-Jones",
@@ -10434,10 +10467,10 @@
   },
   {
     "author": "J000e",
-    "closedAt": null,
+    "closedAt": "2025-09-09T23:08:09Z",
     "createdAt": "2025-02-13T15:15:56Z",
     "number": 18675,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18675",
     "title": "Keys for token cache could not be saved in credential store.",
     "areas": [
@@ -10448,7 +10481,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 4,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "October 2025 Release"
   },
   {
@@ -10537,7 +10570,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "regisVald",
@@ -10939,7 +10972,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 77,
+    "totalReactions": 78,
     "commentCount": 28,
     "milestone": "December 2025 Release"
   },
@@ -11819,10 +11852,10 @@
   },
   {
     "author": "danworldinc",
-    "closedAt": null,
+    "closedAt": "2025-09-09T05:31:24Z",
     "createdAt": "2024-12-19T08:21:46Z",
     "number": 18528,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18528",
     "title": "CSV Export Saves \"null\" Instead of Blank Values",
     "areas": [
@@ -16787,7 +16820,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Walid-Baya",
@@ -17356,7 +17389,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "merdz21snchz",
@@ -18755,10 +18788,10 @@
   },
   {
     "author": "TalMat",
-    "closedAt": null,
+    "closedAt": "2025-09-09T19:13:09Z",
     "createdAt": "2023-01-24T17:14:08Z",
     "number": 17522,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17522",
     "title": "Highlight + context menu + copy intermittently fails to actually copy",
     "areas": [
@@ -18769,7 +18802,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "October 2025 Release"
   },
   {
