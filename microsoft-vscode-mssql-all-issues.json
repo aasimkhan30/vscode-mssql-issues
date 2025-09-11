@@ -1,5 +1,23 @@
 [
   {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2025-09-10T02:58:41Z",
+    "number": 20149,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20149",
+    "title": "[Bug]: Launching Schema compare should compare automatically when runCmparison set to true",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Benjin",
     "closedAt": null,
     "createdAt": "2025-09-09T21:21:49Z",
@@ -1759,10 +1777,10 @@
   },
   {
     "author": "JackMyers001",
-    "closedAt": null,
+    "closedAt": "2025-09-10T01:21:27Z",
     "createdAt": "2025-07-24T07:40:51Z",
     "number": 19833,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19833",
     "title": "[Feature Request]: can't create local SQL container on Apple Silicon Mac with Rancher Desktop",
     "areas": [
@@ -1773,7 +1791,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -2583,10 +2601,10 @@
   },
   {
     "author": "JoelMiller74",
-    "closedAt": null,
+    "closedAt": "2025-09-10T01:22:14Z",
     "createdAt": "2025-07-07T05:21:36Z",
     "number": 19707,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19707",
     "title": "[Feature Request]: Allow Local SQL Container feature to use Podman as well as Docker Desktop",
     "areas": [
@@ -2597,7 +2615,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -2886,6 +2904,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/19643",
     "title": "[Bug]: Status Bar Connection does not update with Table Designer",
     "areas": [
+      "Query Editor",
       "Table Designer"
     ],
     "priority": -1,
@@ -2893,7 +2912,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "November 2025 Release"
   },
   {
@@ -4288,7 +4307,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 0,
     "milestone": "December 2025 Release"
   },
@@ -9855,7 +9874,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 7,
     "commentCount": 3,
     "milestone": "Backlog"
   },
@@ -10972,7 +10991,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 78,
+    "totalReactions": 79,
     "commentCount": 28,
     "milestone": "December 2025 Release"
   },
@@ -15644,10 +15663,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2025-09-10T01:12:23Z",
     "createdAt": "2024-08-27T20:24:49Z",
     "number": 18010,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18010",
     "title": "Change Database shouldn't generate a warning notification for disconnected document",
     "areas": [
@@ -19509,10 +19528,10 @@
   },
   {
     "author": "mkey",
-    "closedAt": null,
+    "closedAt": "2025-09-10T05:58:14Z",
     "createdAt": "2022-08-31T08:42:39Z",
     "number": 17433,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17433",
     "title": "When attempting to run a query \"Executing Query\" is show in the statusbar but the actual query does not run",
     "areas": [
@@ -19523,15 +19542,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "October 2025 Release"
   },
   {
     "author": "DuythuanBK",
-    "closedAt": null,
+    "closedAt": "2025-09-10T23:56:36Z",
     "createdAt": "2022-08-29T17:43:26Z",
     "number": 17432,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17432",
     "title": "Copy result as Insert into quey from select query",
     "areas": [
