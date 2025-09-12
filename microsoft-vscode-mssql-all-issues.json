@@ -1,5 +1,39 @@
 [
   {
+    "author": "caohai",
+    "closedAt": null,
+    "createdAt": "2025-09-11T17:21:30Z",
+    "number": 20160,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20160",
+    "title": "[Bug]: \"Open in Copilot Agent Mode\" not working",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2025 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2025-09-11T16:02:59Z",
+    "number": 20158,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20158",
+    "title": "Support for saving/writing/updating workspace connections.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "October 2025 Release"
+  },
+  {
     "author": "ssreerama",
     "closedAt": null,
     "createdAt": "2025-09-10T02:58:41Z",
@@ -19,10 +53,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-09-11T16:00:33Z",
     "createdAt": "2025-09-09T21:21:49Z",
     "number": 20141,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20141",
     "title": "[Bug]: Removing Search feature",
     "areas": [],
@@ -8144,8 +8178,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
-    "commentCount": 1,
+    "totalReactions": 4,
+    "commentCount": 2,
     "milestone": "October 2025 Release"
   },
   {
@@ -8325,7 +8359,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 2,
     "milestone": "December 2025 Release"
   },
@@ -9392,7 +9426,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0,
     "milestone": "Backlog"
   },
