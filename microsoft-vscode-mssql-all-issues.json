@@ -1,10 +1,10 @@
 [
   {
     "author": "caohai",
-    "closedAt": null,
+    "closedAt": "2025-09-12T14:49:55Z",
     "createdAt": "2025-09-11T17:21:30Z",
     "number": 20160,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20160",
     "title": "[Bug]: \"Open in Copilot Agent Mode\" not working",
     "areas": [],
@@ -716,7 +716,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 3,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -1053,7 +1053,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -2109,7 +2109,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 7,
+    "totalReactions": 8,
     "commentCount": 5,
     "milestone": "Backlog"
   },
@@ -22191,7 +22191,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
