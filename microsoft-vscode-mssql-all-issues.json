@@ -1,5 +1,21 @@
 [
   {
+    "author": "devmanlab",
+    "closedAt": null,
+    "createdAt": "2025-09-13T16:13:49Z",
+    "number": 20169,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20169",
+    "title": "[Feature Request]: Tabled designer UI needs major rework",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "caohai",
     "closedAt": "2025-09-12T14:49:55Z",
     "createdAt": "2025-09-11T17:21:30Z",
@@ -1457,7 +1473,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "October 2025 Release"
   },
   {
@@ -2860,10 +2876,10 @@
   },
   {
     "author": "HoaTV67",
-    "closedAt": null,
+    "closedAt": "2025-09-13T03:32:16Z",
     "createdAt": "2025-06-27T04:50:28Z",
     "number": 19667,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19667",
     "title": "[Feature Request]: Feature Request: Reduce spacing between multiple result sets in QUERY RESULTS panel",
     "areas": [
@@ -2874,7 +2890,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -7837,10 +7853,10 @@
   },
   {
     "author": "match-gabeflores",
-    "closedAt": null,
+    "closedAt": "2025-09-13T15:17:03Z",
     "createdAt": "2025-03-27T13:51:37Z",
     "number": 19018,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19018",
     "title": "Retain carriage return and line feeds (new lines) in query results when copying or saving",
     "areas": [
@@ -7851,7 +7867,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -9757,7 +9773,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 3,
     "milestone": "October 2025 Release"
   },
@@ -12348,8 +12364,8 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 5,
-    "commentCount": 1,
+    "totalReactions": 6,
+    "commentCount": 2,
     "milestone": "October 2025 Release"
   },
   {
