@@ -1,12 +1,28 @@
 [
   {
-    "author": "devmanlab",
+    "author": "Benjin",
     "closedAt": null,
-    "createdAt": "2025-09-13T16:13:49Z",
-    "number": 20169,
+    "createdAt": "2025-09-15T23:42:49Z",
+    "number": 20173,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/20169",
-    "title": "[Feature Request]: Tabled designer UI needs major rework",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20173",
+    "title": "[Bug]: Launching via protocol handler doesn't support providing Azure auth account or tenant ID",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "iunkel-ssa",
+    "closedAt": null,
+    "createdAt": "2025-09-15T18:46:15Z",
+    "number": 20171,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20171",
+    "title": "Search objects like Azure data studio.",
     "areas": [],
     "priority": -1,
     "type": "Feature Request",
@@ -14,6 +30,41 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
+  },
+  {
+    "author": "firedigger",
+    "closedAt": null,
+    "createdAt": "2025-09-15T10:24:49Z",
+    "number": 20170,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20170",
+    "title": "[Bug]: System.IO.FileNotFoundException in AzureResourceProvider",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
+    "author": "devmanlab",
+    "closedAt": null,
+    "createdAt": "2025-09-13T16:13:49Z",
+    "number": 20169,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20169",
+    "title": "[Feature Request]: Tabled designer UI needs major rework",
+    "areas": [
+      "Table Designer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "caohai",
@@ -152,10 +203,10 @@
   },
   {
     "author": "ndellomoevenly",
-    "closedAt": null,
+    "closedAt": "2025-09-15T17:37:34Z",
     "createdAt": "2025-09-08T18:01:01Z",
     "number": 20124,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20124",
     "title": "Cannot Connect due to mssql.addObjectExplorer exception",
     "areas": [
@@ -166,7 +217,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "October 2025 Release"
   },
   {
@@ -1473,7 +1524,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "October 2025 Release"
   },
   {
@@ -5700,10 +5751,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-15T21:20:14Z",
     "createdAt": "2025-04-24T22:06:12Z",
     "number": 19268,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19268",
     "title": "“Publish” Button to “Apply” or “Save Changes”",
     "areas": [
@@ -5719,10 +5770,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-15T21:20:15Z",
     "createdAt": "2025-04-24T22:05:19Z",
     "number": 19267,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19267",
     "title": "“Script As Create” Panel to “View Definition”",
     "areas": [
@@ -5738,10 +5789,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-15T21:20:15Z",
     "createdAt": "2025-04-24T22:03:35Z",
     "number": 19266,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19266",
     "title": "Add Toggle to Show/Hide “Script As Create” Panel",
     "areas": [
@@ -5776,10 +5827,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-15T21:20:16Z",
     "createdAt": "2025-04-24T21:53:44Z",
     "number": 19264,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19264",
     "title": "Column Properties Panel Consumes Excessive Space",
     "areas": [
@@ -12364,7 +12415,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 6,
+    "totalReactions": 7,
     "commentCount": 2,
     "milestone": "October 2025 Release"
   },
