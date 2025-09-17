@@ -1,10 +1,10 @@
 [
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-09-16T01:40:47Z",
     "createdAt": "2025-09-15T23:42:49Z",
     "number": 20173,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20173",
     "title": "[Bug]: Launching via protocol handler doesn't support providing Azure auth account or tenant ID",
     "areas": [],
@@ -45,7 +45,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 3
   },
   {
     "author": "devmanlab",
@@ -1232,6 +1232,24 @@
     "totalReactions": 0,
     "commentCount": 0,
     "milestone": "September 2025 Release"
+  },
+  {
+    "author": "fmms",
+    "closedAt": null,
+    "createdAt": "2025-08-18T21:20:00Z",
+    "number": 20176,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20176",
+    "title": "Database projects: \"Generate Script\" does not do anything in Schema Compare for me",
+    "areas": [
+      "Schema Compare"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
   },
   {
     "author": "capiyomero",
@@ -2830,7 +2848,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -2903,7 +2921,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -6079,7 +6097,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -10780,7 +10798,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 50,
+    "totalReactions": 53,
     "commentCount": 16,
     "milestone": "November 2025 Release"
   },
@@ -10836,7 +10854,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 38,
+    "totalReactions": 39,
     "commentCount": 6,
     "milestone": "Backlog"
   },
@@ -10998,7 +11016,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 88,
+    "totalReactions": 89,
     "commentCount": 17
   },
   {
