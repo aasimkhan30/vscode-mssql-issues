@@ -1,5 +1,94 @@
 [
   {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2025-09-17T19:43:17Z",
+    "number": 20188,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20188",
+    "title": "[Bug]: JSON column data type detection is incorrectly making links",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "obviousSailfish",
+    "closedAt": null,
+    "createdAt": "2025-09-17T19:10:29Z",
+    "number": 20187,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20187",
+    "title": "[Bug]: Average, Count, and Sum Not Calculating in Query Results when Clicking Row or Column Headers",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "obviousSailfish",
+    "closedAt": null,
+    "createdAt": "2025-09-17T18:57:11Z",
+    "number": 20186,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20186",
+    "title": "[Bug]: Cannot Use Keyboard to Select Data in Query Results Grid",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2025-09-17T16:05:50Z",
+    "number": 20182,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20182",
+    "title": "[Bug]: Default text column size is too small in result grid",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "October 2025 Release"
+  },
+  {
+    "author": "MinhTrungTran1986",
+    "closedAt": null,
+    "createdAt": "2025-09-17T02:54:08Z",
+    "number": 20180,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20180",
+    "title": "MS SQL extension can not install new version automatic",
+    "areas": [
+      "Acquisition"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "October 2025 Release"
+  },
+  {
     "author": "Benjin",
     "closedAt": "2025-09-16T01:40:47Z",
     "createdAt": "2025-09-15T23:42:49Z",
@@ -45,7 +134,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 4
   },
   {
     "author": "devmanlab",
@@ -63,7 +152,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "October 2025 Release"
   },
   {
@@ -9624,10 +9713,10 @@
   },
   {
     "author": "nielsvdc",
-    "closedAt": null,
+    "closedAt": "2025-09-17T22:31:56Z",
     "createdAt": "2025-02-27T08:25:04Z",
     "number": 18867,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18867",
     "title": "Feature request: Easily switch between connections",
     "areas": [
@@ -11203,7 +11292,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 55,
+    "totalReactions": 56,
     "commentCount": 9,
     "milestone": "Backlog"
   },
@@ -23809,10 +23898,10 @@
   },
   {
     "author": "Kenobi-the-2nd",
-    "closedAt": null,
+    "closedAt": "2025-09-17T19:46:00Z",
     "createdAt": "2020-09-30T17:06:15Z",
     "number": 1755,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/1755",
     "title": "Add 'Jump to Column' Feature",
     "areas": [
@@ -23823,7 +23912,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -24081,10 +24170,10 @@
   },
   {
     "author": "systematical",
-    "closedAt": null,
+    "closedAt": "2025-09-17T19:47:53Z",
     "createdAt": "2020-08-04T19:07:21Z",
     "number": 1732,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/1732",
     "title": "[Feature Request] configurable scrolls bars in *results window*",
     "areas": [
@@ -24095,7 +24184,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -24151,10 +24240,10 @@
   },
   {
     "author": "andreescastano",
-    "closedAt": null,
+    "closedAt": "2025-09-17T19:21:42Z",
     "createdAt": "2020-07-16T23:15:41Z",
     "number": 1707,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/1707",
     "title": "Does this extension not support SQLpool from azure?",
     "areas": [
@@ -24165,7 +24254,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -24548,10 +24637,10 @@
   },
   {
     "author": "frank-embleton",
-    "closedAt": null,
+    "closedAt": "2025-09-17T18:34:34Z",
     "createdAt": "2020-05-09T12:51:15Z",
     "number": 1676,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/1676",
     "title": "Cannot connect to remote SQL Server with WSL 2",
     "areas": [
@@ -24562,7 +24651,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 11,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -24932,10 +25021,10 @@
   },
   {
     "author": "l-dietrich",
-    "closedAt": null,
+    "closedAt": "2025-09-17T19:36:38Z",
     "createdAt": "2020-03-12T09:08:21Z",
     "number": 1649,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/1649",
     "title": "Objectexplorer definition of synonyms",
     "areas": [
@@ -24946,7 +25035,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -25533,7 +25622,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -31413,10 +31502,10 @@
   },
   {
     "author": "bumbeishvili",
-    "closedAt": null,
+    "closedAt": "2025-09-17T18:43:39Z",
     "createdAt": "2017-09-14T07:40:43Z",
     "number": 984,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/984",
     "title": "Feature suggestion - possibility to edit values in result grid cell",
     "areas": [
@@ -31427,7 +31516,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
