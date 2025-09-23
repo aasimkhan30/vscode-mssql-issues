@@ -1,5 +1,24 @@
 [
   {
+    "author": "fuslonflare",
+    "closedAt": null,
+    "createdAt": "2025-09-22T03:33:56Z",
+    "number": 20212,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20212",
+    "title": "[Feature Request]: Show full data type including length in hover tooltip (e.g., char(10) instead of just char)",
+    "areas": [
+      "Language Service"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "amthomas46",
     "closedAt": null,
     "createdAt": "2025-09-18T19:39:49Z",
@@ -132,10 +151,10 @@
   },
   {
     "author": "obviousSailfish",
-    "closedAt": null,
+    "closedAt": "2025-09-22T06:39:40Z",
     "createdAt": "2025-09-17T19:10:29Z",
     "number": 20187,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20187",
     "title": "[Bug]: Average, Count, and Sum Not Calculating in Query Results when Clicking Row or Column Headers",
     "areas": [
@@ -151,10 +170,10 @@
   },
   {
     "author": "obviousSailfish",
-    "closedAt": null,
+    "closedAt": "2025-09-22T06:40:02Z",
     "createdAt": "2025-09-17T18:57:11Z",
     "number": 20186,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20186",
     "title": "[Bug]: Cannot Use Keyboard to Select Data in Query Results Grid",
     "areas": [
@@ -1126,7 +1145,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "October 2025 Release"
   },
   {
@@ -3474,7 +3493,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "November 2025 Release"
   },
   {
@@ -8539,15 +8558,15 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "Backlog"
+    "commentCount": 2,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "celeste-100",
-    "closedAt": null,
+    "closedAt": "2025-09-22T22:45:03Z",
     "createdAt": "2025-03-21T04:23:41Z",
     "number": 18979,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18979",
     "title": "Empty Script Generated for Views/Tables in MSSQL Extension, but Stored Procedures Work Fine",
     "areas": [
@@ -8558,7 +8577,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -8581,10 +8600,10 @@
   },
   {
     "author": "aaronsanthony",
-    "closedAt": null,
+    "closedAt": "2025-09-22T22:39:11Z",
     "createdAt": "2025-03-20T18:28:42Z",
     "number": 18973,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18973",
     "title": "Snapshot Query Results",
     "areas": [
@@ -8595,7 +8614,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -8633,10 +8652,10 @@
   },
   {
     "author": "jamespack",
-    "closedAt": null,
+    "closedAt": "2025-09-22T22:43:26Z",
     "createdAt": "2025-03-20T13:13:05Z",
     "number": 18967,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18967",
     "title": "No subscriptions available. Adjust your subscription filters to try again. - AzureUsGov - B2B",
     "areas": [
@@ -8647,7 +8666,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "December 2025 Release"
   },
   {
@@ -8946,9 +8965,9 @@
       "SQL Project"
     ],
     "priority": -1,
-    "type": null,
+    "type": "Bug",
     "hasArea": true,
-    "hasType": false,
+    "hasType": true,
     "totalReactions": 1,
     "commentCount": 1,
     "milestone": "November 2025 Release"
@@ -8970,7 +8989,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -9013,10 +9032,10 @@
   },
   {
     "author": "PushOrigin",
-    "closedAt": null,
+    "closedAt": "2025-09-22T22:34:18Z",
     "createdAt": "2025-03-14T15:19:43Z",
     "number": 18935,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18935",
     "title": "Unable to connect to (localdb)\\MSSQLLocalDB on Windows 11 on ARM",
     "areas": [
@@ -9028,7 +9047,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -9340,10 +9359,10 @@
   },
   {
     "author": "jmthomas73",
-    "closedAt": null,
+    "closedAt": "2025-09-22T22:23:05Z",
     "createdAt": "2025-03-06T17:07:22Z",
     "number": 18909,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18909",
     "title": "New Feature Request - SSMS Itself",
     "areas": [
@@ -9354,7 +9373,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -9467,10 +9486,10 @@
   },
   {
     "author": "wsusys",
-    "closedAt": null,
+    "closedAt": "2025-09-22T22:18:18Z",
     "createdAt": "2025-03-04T04:15:53Z",
     "number": 18898,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18898",
     "title": "it silently return no record without telling the error (PC) or it says the object (my function) does not exist (in fact it does, just because of error)",
     "areas": [
@@ -9481,7 +9500,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "October 2025 Release"
   },
   {
@@ -9572,25 +9591,6 @@
   },
   {
     "author": "jagdishrajan",
-    "closedAt": null,
-    "createdAt": "2025-03-02T18:13:57Z",
-    "number": 18890,
-    "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/18890",
-    "title": "With ADS retiring how are we to run Kusto queries in VSCode?",
-    "areas": [
-      "Acquisition"
-    ],
-    "priority": -1,
-    "type": "Feature Request",
-    "hasArea": true,
-    "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 2,
-    "milestone": "Backlog"
-  },
-  {
-    "author": "jagdishrajan",
     "closedAt": "2025-04-16T18:32:19Z",
     "createdAt": "2025-03-02T02:58:29Z",
     "number": 18889,
@@ -9610,10 +9610,10 @@
   },
   {
     "author": "jthayworth",
-    "closedAt": null,
+    "closedAt": "2025-09-22T22:30:12Z",
     "createdAt": "2025-02-28T19:42:31Z",
     "number": 18885,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18885",
     "title": "SQL Tool Service Download From Artifact Repository",
     "areas": [
@@ -9624,7 +9624,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "October 2025 Release"
   },
   {
@@ -9691,6 +9691,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/18876",
     "title": "Can't find \"...the install pre-requisite steps from DotNet Core instructions.\"",
     "areas": [
+      "Acquisition",
       "Shell"
     ],
     "priority": -1,
@@ -9698,8 +9699,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "Backlog"
+    "commentCount": 1,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "wizzardmr42",
@@ -9719,21 +9720,21 @@
   },
   {
     "author": "bamoroso-wakehealth",
-    "closedAt": null,
+    "closedAt": "2025-09-22T22:11:00Z",
     "createdAt": "2025-02-27T17:56:28Z",
     "number": 18874,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18874",
     "title": "Add Microsoft SQL Server (jTds) DOMAIN Username/password as Login/Auth",
     "areas": [
-      "Azure"
+      "Connection"
     ],
     "priority": -1,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -9769,7 +9770,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "ScottSchwalm",
@@ -9791,10 +9792,10 @@
   },
   {
     "author": "ot-roman-molchanov",
-    "closedAt": null,
+    "closedAt": "2025-09-22T22:04:27Z",
     "createdAt": "2025-02-27T13:11:20Z",
     "number": 18870,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18870",
     "title": "Feature request: Add an export of result as a Markdown table",
     "areas": [
@@ -9805,15 +9806,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
     "author": "htrzewik",
-    "closedAt": null,
+    "closedAt": "2025-09-22T22:01:56Z",
     "createdAt": "2025-02-27T11:48:43Z",
     "number": 18869,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18869",
     "title": "Transposing the ResultSet",
     "areas": [
@@ -9824,7 +9825,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -10060,7 +10061,7 @@
       "Query Plan"
     ],
     "priority": 2,
-    "type": "Bug",
+    "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
@@ -10087,10 +10088,10 @@
   },
   {
     "author": "gisn1",
-    "closedAt": null,
+    "closedAt": "2025-09-22T21:49:48Z",
     "createdAt": "2025-02-25T14:53:07Z",
     "number": 18844,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18844",
     "title": "Modernize Object Explorer filtering behavior",
     "areas": [
@@ -10101,7 +10102,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -10216,7 +10217,7 @@
     "hasType": true,
     "totalReactions": 7,
     "commentCount": 3,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "plainspoken-chris",
@@ -10311,10 +10312,10 @@
   },
   {
     "author": "tschmidtfhcs",
-    "closedAt": null,
+    "closedAt": "2025-09-22T22:07:53Z",
     "createdAt": "2025-02-21T16:08:33Z",
     "number": 18815,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18815",
     "title": "Save As CSV - Save to Previous folder",
     "areas": [
@@ -10325,7 +10326,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -10714,14 +10715,14 @@
     "hasType": false,
     "totalReactions": 1,
     "commentCount": 3,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "mtaylorfsmb",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:59:45Z",
     "createdAt": "2025-02-14T14:57:48Z",
     "number": 18683,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18683",
     "title": "Control formatting options",
     "areas": [
@@ -10732,7 +10733,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -10752,7 +10753,7 @@
     "hasType": false,
     "totalReactions": 20,
     "commentCount": 13,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "LarnuUK",
@@ -10807,10 +10808,10 @@
   },
   {
     "author": "junalmeida",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:41:49Z",
     "createdAt": "2025-02-13T15:43:32Z",
     "number": 18676,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18676",
     "title": "[Feature Request] Allow to browse Azure Databases and Servers directly, without adding each connection",
     "areas": [
@@ -10821,7 +10822,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -10877,10 +10878,10 @@
   },
   {
     "author": "oOheltoOo",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:57:32Z",
     "createdAt": "2025-02-12T22:51:30Z",
     "number": 18672,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18672",
     "title": "Object Explorer Allow Multiple Filters of the Same Property",
     "areas": [
@@ -10891,7 +10892,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -10911,25 +10912,6 @@
     "hasType": false,
     "totalReactions": 3,
     "commentCount": 1
-  },
-  {
-    "author": "Romaniego1977",
-    "closedAt": null,
-    "createdAt": "2025-02-12T19:53:23Z",
-    "number": 18669,
-    "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/18669",
-    "title": "Syntax error in VSCode editor when using IF...ELSE blocks with THROW inside a TRY...CATCH block in a SQL stored procedure.",
-    "areas": [
-      "Language Service"
-    ],
-    "priority": -1,
-    "type": null,
-    "hasArea": true,
-    "hasType": false,
-    "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "November 2025 Release"
   },
   {
     "author": "regisVald",
@@ -11242,10 +11224,10 @@
   },
   {
     "author": "thomaswcptgroup",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:33:05Z",
     "createdAt": "2025-02-11T23:27:29Z",
     "number": 18651,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18651",
     "title": "Table Designer not loading.",
     "areas": [
@@ -11256,7 +11238,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "October 2025 Release"
   },
   {
@@ -11299,10 +11281,10 @@
   },
   {
     "author": "jconrey",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:13:43Z",
     "createdAt": "2025-02-11T15:48:30Z",
     "number": 18645,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18645",
     "title": "SQL Delete record from table does not do anything",
     "areas": [
@@ -11313,7 +11295,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -12344,10 +12326,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:17:39Z",
     "createdAt": "2024-12-17T17:27:55Z",
     "number": 18518,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18518",
     "title": "Databases field in Connection dialog should be a drop down list that is dynamically populated",
     "areas": [
@@ -12358,7 +12340,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -12401,10 +12383,10 @@
   },
   {
     "author": "ERPrun-DM",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:18:49Z",
     "createdAt": "2024-12-17T08:28:37Z",
     "number": 18515,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18515",
     "title": "Messages have moved to a new tab",
     "areas": [
@@ -12415,7 +12397,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -12477,10 +12459,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:29:57Z",
     "createdAt": "2024-12-13T23:23:35Z",
     "number": 18510,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18510",
     "title": "Table Designer doesn't update schema when loading window",
     "areas": [
@@ -12491,7 +12473,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -12655,7 +12637,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 7,
-    "commentCount": 2,
+    "commentCount": 4,
     "milestone": "October 2025 Release"
   },
   {
@@ -12736,10 +12718,10 @@
   },
   {
     "author": "caohai",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:25:43Z",
     "createdAt": "2024-12-06T23:54:37Z",
     "number": 18484,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18484",
     "title": "Query Result Message Pane - dynamically set row height",
     "areas": [
@@ -12750,7 +12732,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -12973,10 +12955,10 @@
   },
   {
     "author": "Mrugendra27",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:27:18Z",
     "createdAt": "2024-11-23T01:20:37Z",
     "number": 18450,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18450",
     "title": "SQL Connection not established with Application Intent = Read-Only",
     "areas": [
@@ -12987,7 +12969,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "Backlog"
   },
   {
@@ -13260,7 +13242,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "cssuh",
@@ -13283,10 +13265,10 @@
   },
   {
     "author": "cssuh",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:28:18Z",
     "createdAt": "2024-11-13T00:03:07Z",
     "number": 18382,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18382",
     "title": "Add platform-specific scrollbar calculation for results grid",
     "areas": [
@@ -13297,7 +13279,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -13820,10 +13802,10 @@
   },
   {
     "author": "cssuh",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:19:25Z",
     "createdAt": "2024-10-22T18:43:48Z",
     "number": 18304,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18304",
     "title": "Grid loses active selection when switching editor tabs",
     "areas": [
@@ -13834,7 +13816,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -14311,10 +14293,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:11:08Z",
     "createdAt": "2024-10-16T19:28:56Z",
     "number": 18244,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18244",
     "title": "Saving data to file from Query Results pane should provide a useful default name",
     "areas": [
@@ -14325,7 +14307,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -14349,10 +14331,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:10:01Z",
     "createdAt": "2024-10-16T16:06:23Z",
     "number": 18241,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18241",
     "title": "Put in a connection string and the error message isn't super helpful",
     "areas": [
@@ -14363,7 +14345,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -14402,7 +14384,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "caohai",
@@ -14668,10 +14650,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2025-09-22T18:55:30Z",
     "createdAt": "2024-10-11T03:59:19Z",
     "number": 18182,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18182",
     "title": "Set table designer new table name as empty",
     "areas": [
@@ -14682,7 +14664,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -14702,7 +14684,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Benjin",
@@ -15180,10 +15162,10 @@
   },
   {
     "author": "Argonaute",
-    "closedAt": null,
+    "closedAt": "2025-09-22T19:01:17Z",
     "createdAt": "2024-10-04T14:36:37Z",
     "number": 18135,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18135",
     "title": "Make the default name generated from an extraction of a SQL object more relevant",
     "areas": [
@@ -15194,7 +15176,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -15627,7 +15609,7 @@
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "caohai",
@@ -16227,10 +16209,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2025-09-22T18:56:10Z",
     "createdAt": "2024-08-26T20:27:54Z",
     "number": 17994,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17994",
     "title": "Provide more detailed Getting Started guide",
     "areas": [
@@ -16241,7 +16223,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -16261,7 +16243,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "tmng8888",
@@ -16785,10 +16767,10 @@
   },
   {
     "author": "thevedicdeveloper",
-    "closedAt": null,
+    "closedAt": "2025-09-22T18:53:36Z",
     "createdAt": "2024-04-03T14:14:41Z",
     "number": 17889,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17889",
     "title": "Feature Request: Sort Added Connections by Name",
     "areas": [
@@ -16800,7 +16782,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -16842,10 +16824,10 @@
   },
   {
     "author": "NyanHeart",
-    "closedAt": null,
+    "closedAt": "2025-09-22T18:54:45Z",
     "createdAt": "2024-03-07T09:21:33Z",
     "number": 17885,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17885",
     "title": "Failed to load Sql Tools Service when working with wsl2 and devcontainer.",
     "areas": [
@@ -16856,7 +16838,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -16876,7 +16858,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "aniketr99",
@@ -16913,10 +16895,10 @@
   },
   {
     "author": "L3Home",
-    "closedAt": null,
+    "closedAt": "2025-09-22T18:44:58Z",
     "createdAt": "2024-02-26T22:16:43Z",
     "number": 17880,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17880",
     "title": "VS Code supports floating windows now (as of the latest version). When attempting to do so with a results window from a query, however, this plugin only creates a window that says the feature isn't yet supported by the plugin. Could this be added now?",
     "areas": [
@@ -16927,7 +16909,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -16982,7 +16964,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "aniketr99",
@@ -17056,10 +17038,10 @@
   },
   {
     "author": "qwertyscar",
-    "closedAt": null,
+    "closedAt": "2025-09-22T18:51:22Z",
     "createdAt": "2024-02-08T12:58:30Z",
     "number": 17872,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17872",
     "title": "Improve translation of Views in Italian",
     "areas": [
@@ -17070,7 +17052,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -17109,7 +17091,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Miao-Bukeyan",
@@ -17164,29 +17146,30 @@
   },
   {
     "author": "escoggins",
-    "closedAt": null,
+    "closedAt": "2025-09-22T18:50:29Z",
     "createdAt": "2023-12-23T15:05:08Z",
     "number": 17856,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17856",
     "title": "Allow us to set the frequency for MSSQL Index/DB structure queries that run in the background",
     "areas": [
-      "Acquisition"
+      "Acquisition",
+      "Performance"
     ],
     "priority": -1,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
     "author": "Walid-Baya",
-    "closedAt": null,
+    "closedAt": "2025-09-22T18:47:31Z",
     "createdAt": "2023-12-17T22:31:12Z",
     "number": 17854,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17854",
     "title": "Hiding Default folders for Cleaner View",
     "areas": [
@@ -17197,7 +17180,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -17217,7 +17200,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "npongo",
@@ -17257,10 +17240,10 @@
   },
   {
     "author": "randomnote1",
-    "closedAt": null,
+    "closedAt": "2025-09-22T18:43:19Z",
     "createdAt": "2023-11-16T16:21:28Z",
     "number": 17848,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17848",
     "title": "Add Connection fails when using Microsoft Entra Account in US DoD cloud",
     "areas": [
@@ -17271,8 +17254,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 2,
-    "milestone": "Backlog"
+    "commentCount": 3,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Rapido10",
@@ -17311,10 +17294,10 @@
   },
   {
     "author": "gncoinc",
-    "closedAt": null,
+    "closedAt": "2025-09-22T18:42:21Z",
     "createdAt": "2023-11-01T19:51:32Z",
     "number": 17835,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17835",
     "title": "Formatting bug when selecting TOP 1000",
     "areas": [
@@ -17325,7 +17308,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -17433,7 +17416,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "cheenamalhotra",
@@ -18100,10 +18083,10 @@
   },
   {
     "author": "sukkaur",
-    "closedAt": null,
+    "closedAt": "2025-09-22T17:27:21Z",
     "createdAt": "2023-05-22T19:15:22Z",
     "number": 17703,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17703",
     "title": "Rename option in the object explorer menu",
     "areas": [
@@ -18114,15 +18097,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
     "author": "yyakauleu",
-    "closedAt": null,
+    "closedAt": "2025-09-22T17:56:56Z",
     "createdAt": "2023-05-22T13:17:57Z",
     "number": 17702,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17702",
     "title": "\"mssql.connectRecentConnections\": true",
     "areas": [
@@ -18133,7 +18116,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -18278,8 +18261,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3,
-    "milestone": "Backlog"
+    "commentCount": 4,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "aaelony-aeg",
@@ -18374,10 +18357,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2025-09-22T17:58:15Z",
     "createdAt": "2023-03-22T19:11:32Z",
     "number": 17641,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17641",
     "title": "Scripting commands can block the result grid from updating",
     "areas": [
@@ -18389,7 +18372,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -18478,10 +18461,10 @@
   },
   {
     "author": "bariscope",
-    "closedAt": null,
+    "closedAt": "2025-09-22T17:43:53Z",
     "createdAt": "2023-03-14T22:16:58Z",
     "number": 17620,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17620",
     "title": "Azure Active Directory Sign-on - Integrated option not available",
     "areas": [
@@ -18492,7 +18475,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -18516,10 +18499,10 @@
   },
   {
     "author": "prabhudevu",
-    "closedAt": null,
+    "closedAt": "2025-09-22T18:00:24Z",
     "createdAt": "2023-03-14T10:13:12Z",
     "number": 17617,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17617",
     "title": "A11y_mssql for VSCode_mssql Extension_New Connection_ScreenReader: Screen reader JAWS is not announcing the additional information \"Server name or ADO.net connection string (Press enter to confirm or escape to cancel) \" on navigating using tab key to edit field \"Host name\"",
     "areas": [
@@ -18530,7 +18513,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -18566,8 +18549,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
-    "milestone": "Backlog"
+    "commentCount": 1,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "alanrenmsft",
@@ -19419,10 +19402,10 @@
   },
   {
     "author": "VasuBhog",
-    "closedAt": null,
+    "closedAt": "2025-09-22T17:31:10Z",
     "createdAt": "2022-11-16T20:55:43Z",
     "number": 17476,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17476",
     "title": "Get Connection String from right clicking connection",
     "areas": [
@@ -19433,7 +19416,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "April 2025 Release"
   },
   {
@@ -19487,7 +19470,7 @@
     "hasType": true,
     "totalReactions": 5,
     "commentCount": 4,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "CoryKennedy",
@@ -19736,7 +19719,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 8,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "prabhudevu",
@@ -19755,7 +19738,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "joefreyk",
@@ -20275,7 +20258,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "jiangyz7cc",
@@ -20413,10 +20396,10 @@
   },
   {
     "author": "Kenobi-the-2nd",
-    "closedAt": null,
+    "closedAt": "2025-09-22T18:57:05Z",
     "createdAt": "2022-05-30T01:39:33Z",
     "number": 17347,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17347",
     "title": "Feature: Saved Queries",
     "areas": [
@@ -20427,7 +20410,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "Backlog"
   },
   {
@@ -20892,10 +20875,10 @@
   },
   {
     "author": "Charles-Gagnon",
-    "closedAt": null,
+    "closedAt": "2025-09-22T17:24:43Z",
     "createdAt": "2022-02-11T23:08:10Z",
     "number": 17254,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17254",
     "title": "Most of extension is not localized",
     "areas": [
@@ -20906,7 +20889,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -21273,7 +21256,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 12,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Roopesh-T",
@@ -21292,7 +21275,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 15,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Yashi1201",
@@ -21359,7 +21342,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 9,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Roopesh-T",
@@ -21564,10 +21547,10 @@
   },
   {
     "author": "alanrenmsft",
-    "closedAt": null,
+    "closedAt": "2025-09-22T17:28:23Z",
     "createdAt": "2021-12-09T22:14:13Z",
     "number": 17166,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17166",
     "title": "run query from the query history entry is not working",
     "areas": [
@@ -21579,7 +21562,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -21635,10 +21618,10 @@
   },
   {
     "author": "guiNovais",
-    "closedAt": null,
+    "closedAt": "2025-09-22T17:47:44Z",
     "createdAt": "2021-11-23T19:04:32Z",
     "number": 17129,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17129",
     "title": "Unable to connect to Azure SQLServer",
     "areas": [
@@ -21649,7 +21632,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
