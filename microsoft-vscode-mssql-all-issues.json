@@ -14,7 +14,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -6900,7 +6900,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "caohai",
@@ -7206,10 +7206,10 @@
   },
   {
     "author": "chrisrybitski",
-    "closedAt": null,
+    "closedAt": "2025-09-23T02:45:32Z",
     "createdAt": "2025-04-14T23:11:44Z",
     "number": 19143,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19143",
     "title": "VS Code cannot find DB when Azure Data Studio can",
     "areas": [
@@ -7220,7 +7220,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "November 2025 Release"
   },
   {
@@ -7259,7 +7259,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Roozle",
@@ -7319,10 +7319,10 @@
   },
   {
     "author": "DanielAndreassen97",
-    "closedAt": null,
+    "closedAt": "2025-09-23T03:30:08Z",
     "createdAt": "2025-04-11T20:36:14Z",
     "number": 19128,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19128",
     "title": "Feature Request: When splitting two query editors, make their result split aswell.",
     "areas": [
@@ -7333,7 +7333,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -7400,7 +7400,7 @@
     "number": 19120,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19120",
-    "title": "Add tree-based filtering",
+    "title": "Add tree-based table filtering to Schema Designer",
     "areas": [
       "Schema Designer"
     ],
@@ -7447,8 +7447,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "Backlog"
+    "commentCount": 1,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "yoleichen",
@@ -7528,10 +7528,10 @@
   },
   {
     "author": "gdube-nrc",
-    "closedAt": null,
+    "closedAt": "2025-09-23T03:31:15Z",
     "createdAt": "2025-04-10T17:52:36Z",
     "number": 19111,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19111",
     "title": "Query Result - option to hide/show columns",
     "areas": [
@@ -7542,7 +7542,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -7660,10 +7660,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-23T03:09:52Z",
     "createdAt": "2025-04-09T03:25:03Z",
     "number": 19103,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19103",
     "title": "Tenant no longer available when editing connection",
     "areas": [
@@ -7674,7 +7674,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "November 2025 Release"
   },
   {
@@ -7941,10 +7941,10 @@
   },
   {
     "author": "dww142",
-    "closedAt": null,
+    "closedAt": "2025-09-23T03:24:50Z",
     "createdAt": "2025-04-03T12:53:39Z",
     "number": 19076,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19076",
     "title": "SQL Tools Service fails to install (UNABLE_TO_GET_ISSUER_CERT_LOCALLY) - behavior change between 1.29.1 and 1.30",
     "areas": [
@@ -7955,7 +7955,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "November 2025 Release"
   },
   {
@@ -8270,10 +8270,10 @@
   },
   {
     "author": "csherrodwc",
-    "closedAt": null,
+    "closedAt": "2025-09-23T03:06:04Z",
     "createdAt": "2025-03-25T16:09:30Z",
     "number": 19004,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19004",
     "title": "Feature Suggestion: SELECT TOP 1000 with columns listed alphabetically",
     "areas": [
@@ -8284,7 +8284,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -9373,7 +9373,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -11092,7 +11092,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 8,
+    "totalReactions": 9,
     "commentCount": 3,
     "milestone": "Backlog"
   },
@@ -12637,7 +12637,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 7,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "October 2025 Release"
   },
   {
@@ -19468,7 +19468,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 5,
+    "totalReactions": 6,
     "commentCount": 4,
     "milestone": "December 2025 Release"
   },
@@ -22681,7 +22681,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 0,
     "milestone": "December 2025 Release"
   },
