@@ -1,5 +1,24 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-09-23T23:06:32Z",
+    "number": 20223,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20223",
+    "title": "[Bug]: Update container image label to show CTP2.0 for macOS M-based users",
+    "areas": [
+      "Local container"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "October 2025 Release"
+  },
+  {
     "author": "fuslonflare",
     "closedAt": null,
     "createdAt": "2025-09-22T03:33:56Z",
@@ -6479,10 +6498,10 @@
   },
   {
     "author": "JerryNixon",
-    "closedAt": null,
+    "closedAt": "2025-09-23T15:56:11Z",
     "createdAt": "2025-04-17T17:59:41Z",
     "number": 19199,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19199",
     "title": "💡 Simplify SQL types to language types.",
     "areas": [
@@ -6493,7 +6512,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -6567,7 +6586,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "kisantia",
@@ -6858,12 +6877,12 @@
       "Schema Designer"
     ],
     "priority": 1,
-    "type": null,
+    "type": "Bug",
     "hasArea": true,
-    "hasType": false,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Benjin",
@@ -11001,7 +11020,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 54,
+    "totalReactions": 57,
     "commentCount": 16,
     "milestone": "November 2025 Release"
   },
