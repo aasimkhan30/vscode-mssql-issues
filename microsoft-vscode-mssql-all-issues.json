@@ -607,10 +607,10 @@
   },
   {
     "author": "tnaum-ms",
-    "closedAt": null,
+    "closedAt": "2025-09-24T18:09:08Z",
     "createdAt": "2025-09-05T05:49:17Z",
     "number": 20089,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20089",
     "title": "[Improvement]: No \"Go Back\" option for the user after a failed deployment in Fabric",
     "areas": [
@@ -1802,7 +1802,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 7,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "jamessalt-constructive",
@@ -8083,7 +8083,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -8522,7 +8522,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 2,
     "milestone": "October 2025 Release"
   },
@@ -9123,10 +9123,10 @@
   },
   {
     "author": "theiqstudio",
-    "closedAt": null,
+    "closedAt": "2025-09-24T16:47:55Z",
     "createdAt": "2025-03-12T19:34:14Z",
     "number": 18927,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18927",
     "title": "V 1.29.1  Bug - A Query is already running for this editor session (back again)",
     "areas": [
@@ -9137,7 +9137,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 4,
     "milestone": "October 2025 Release"
   },
   {
@@ -9180,10 +9180,10 @@
   },
   {
     "author": "narcolic",
-    "closedAt": null,
+    "closedAt": "2025-09-24T17:53:57Z",
     "createdAt": "2025-03-11T17:44:32Z",
     "number": 18922,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18922",
     "title": "Feature Request: Add Support for a Background Query Execution Command",
     "areas": [
@@ -9194,7 +9194,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 5,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -10198,7 +10198,7 @@
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 12,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "cssuh",
@@ -11533,7 +11533,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 97,
+    "totalReactions": 98,
     "commentCount": 13,
     "milestone": "Backlog"
   },
@@ -15370,10 +15370,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-09-24T20:35:26Z",
     "createdAt": "2024-10-01T18:42:28Z",
     "number": 18116,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18116",
     "title": "No way to resize or collapse queries in .sqlplan view when multiple are visible.",
     "areas": [
