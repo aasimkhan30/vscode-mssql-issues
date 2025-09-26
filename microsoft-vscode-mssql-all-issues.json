@@ -1,5 +1,44 @@
 [
   {
+    "author": "LizRollet",
+    "closedAt": null,
+    "createdAt": "2025-09-25T20:48:58Z",
+    "number": 20234,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20234",
+    "title": "Run arrow for SQL query easily lost in interface",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2025-09-25T19:52:59Z",
+    "number": 20233,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20233",
+    "title": "[Bug]: Firewall dialog shows sign in page while loading.",
+    "areas": [
+      "Connection",
+      "Azure"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "December 2025 Release"
+  },
+  {
     "author": "croblesm",
     "closedAt": null,
     "createdAt": "2025-09-23T23:06:32Z",
@@ -1378,7 +1417,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -5185,10 +5224,10 @@
   },
   {
     "author": "gisn1",
-    "closedAt": null,
+    "closedAt": "2025-09-25T22:22:45Z",
     "createdAt": "2025-05-06T16:16:53Z",
     "number": 19356,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19356",
     "title": "Connections disappear when connecting from query tab",
     "areas": [
@@ -5200,7 +5239,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -5424,10 +5463,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2025-09-25T21:43:27Z",
     "createdAt": "2025-05-02T17:40:50Z",
     "number": 19333,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19333",
     "title": "Save Layout of Schema Designer on restore",
     "areas": [
@@ -5438,7 +5477,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -5458,7 +5497,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "dkratochvil-neit",
@@ -5630,10 +5669,10 @@
   },
   {
     "author": "ivobeemster",
-    "closedAt": null,
+    "closedAt": "2025-09-25T21:41:21Z",
     "createdAt": "2025-05-01T08:06:31Z",
     "number": 19314,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19314",
     "title": "Show the database connected to in a dropdown above the query window",
     "areas": [
@@ -5644,7 +5683,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -5742,10 +5781,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-25T21:46:20Z",
     "createdAt": "2025-04-30T03:27:47Z",
     "number": 19297,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19297",
     "title": "[GitHub Copilot - Bug]: Does not generate output when asked for complete CREATE TABLE scripts",
     "areas": [
@@ -5756,7 +5795,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -5856,10 +5895,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-25T21:48:12Z",
     "createdAt": "2025-04-29T18:05:53Z",
     "number": 19287,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19287",
     "title": "[GitHub Copilot - Bug]: Objects not listed alphabetically by schema",
     "areas": [
@@ -5870,7 +5909,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -6479,10 +6518,10 @@
   },
   {
     "author": "eben-roux",
-    "closedAt": null,
+    "closedAt": "2025-09-25T22:10:13Z",
     "createdAt": "2025-04-18T05:06:37Z",
     "number": 19207,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19207",
     "title": "\"Change Database\" should allow connecting to a server",
     "areas": [
@@ -6493,7 +6532,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -10841,7 +10880,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 1,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
