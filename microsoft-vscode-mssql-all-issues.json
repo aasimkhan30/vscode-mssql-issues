@@ -1,5 +1,59 @@
 [
   {
+    "author": "danfratamico",
+    "closedAt": "2025-09-26T20:09:33Z",
+    "createdAt": "2025-09-26T20:02:30Z",
+    "number": 20245,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20245",
+    "title": "[Bug]: mssql: SQL Tools Service component could not start on macOS (plugin version 1.36.0)",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "jaa928",
+    "closedAt": null,
+    "createdAt": "2025-09-26T13:49:57Z",
+    "number": 20236,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20236",
+    "title": "[Bug]: MSSQL treats all Designer opening errors as fatal",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "kevinrehrl",
+    "closedAt": null,
+    "createdAt": "2025-09-26T09:38:00Z",
+    "number": 20235,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20235",
+    "title": "[Feature Request]: Manual Credential Input for Windows Authentication in SQL Server Extension",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "Backlog"
+  },
+  {
     "author": "LizRollet",
     "closedAt": null,
     "createdAt": "2025-09-25T20:48:58Z",
@@ -247,10 +301,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2025-09-26T18:06:32Z",
     "createdAt": "2025-09-17T16:05:50Z",
     "number": 20182,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20182",
     "title": "[Bug]: Default text column size is too small in result grid",
     "areas": [
@@ -761,10 +815,10 @@
   },
   {
     "author": "vssohal",
-    "closedAt": null,
+    "closedAt": "2025-09-26T17:30:06Z",
     "createdAt": "2025-09-04T17:32:09Z",
     "number": 20076,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20076",
     "title": "[Feature Request]: SQL tool service be bundled with the extension",
     "areas": [
@@ -775,7 +829,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "October 2025 Release"
   },
   {
@@ -1899,25 +1953,6 @@
     "commentCount": 0
   },
   {
-    "author": "kackburt",
-    "closedAt": null,
-    "createdAt": "2025-08-06T12:22:48Z",
-    "number": 19890,
-    "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/19890",
-    "title": "[Bug]: SQL Tools Service component crashes when opening/writing huge WHERE statement into Query",
-    "areas": [
-      "Query Editor"
-    ],
-    "priority": -1,
-    "type": "Bug",
-    "hasArea": true,
-    "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "Backlog"
-  },
-  {
     "author": "bwalters3",
     "closedAt": null,
     "createdAt": "2025-08-05T22:29:53Z",
@@ -2133,7 +2168,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2,
+    "commentCount": 4,
     "milestone": "October 2025 Release"
   },
   {
@@ -2304,7 +2339,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "ganagdhar123",
@@ -2323,7 +2358,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "jasonhorner",
@@ -2999,10 +3034,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-09-26T23:18:57Z",
     "createdAt": "2025-07-07T17:25:41Z",
     "number": 19708,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19708",
     "title": "Convert all tests in connectionStore.test.ts to use sinon instead of typemoq",
     "areas": [
@@ -3013,7 +3048,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -3589,7 +3624,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "johnwdunn20",
@@ -3799,7 +3834,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "croblesm",
@@ -3970,7 +4005,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "rayzinnz",
@@ -5003,10 +5038,10 @@
   },
   {
     "author": "JamesDBartlett3",
-    "closedAt": null,
+    "closedAt": "2025-09-26T23:13:52Z",
     "createdAt": "2025-05-08T16:42:40Z",
     "number": 19379,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19379",
     "title": "[GitHub Copilot - Feature Request]: Interactive Query Execution - Display and Run Database Queries from Chatbot Responses",
     "areas": [
@@ -5017,7 +5052,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -5098,7 +5133,7 @@
     "number": 19368,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19368",
-    "title": "Script as ALTER and Create Opening Blank Window - Version 1.31",
+    "title": "Script as ALTER and Create Opening Blank Window with Synapse database",
     "areas": [
       "Object Explorer",
       "Query Editor",
@@ -5533,15 +5568,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "November 2025 Release"
   },
   {
     "author": "juanmi108",
-    "closedAt": null,
+    "closedAt": "2025-09-26T23:05:05Z",
     "createdAt": "2025-05-02T08:19:31Z",
     "number": 19329,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19329",
     "title": "Can not load any connection in Remote SSH workspace",
     "areas": [
@@ -5552,7 +5587,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
@@ -7605,10 +7640,10 @@
   },
   {
     "author": "gdube-nrc",
-    "closedAt": null,
+    "closedAt": "2025-09-26T22:44:21Z",
     "createdAt": "2025-04-10T17:50:33Z",
     "number": 19110,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19110",
     "title": "Query Result - option to hide sort/filter buttons",
     "areas": [
@@ -7619,7 +7654,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -7694,7 +7729,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -7812,10 +7847,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-26T22:04:32Z",
     "createdAt": "2025-04-08T06:26:03Z",
     "number": 19095,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19095",
     "title": "DacFx script requires SQLCMD mode, causing confusion for users",
     "areas": [
@@ -7826,15 +7861,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-09-26T22:41:31Z",
     "createdAt": "2025-04-08T06:04:56Z",
     "number": 19094,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19094",
     "title": "New objects not placed at end of script or clearly marked in generated SQL",
     "areas": [
@@ -7845,7 +7880,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -7979,7 +8014,7 @@
     "hasType": false,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "match-gabeflores",
@@ -8529,10 +8564,10 @@
   },
   {
     "author": "schutzie",
-    "closedAt": null,
+    "closedAt": "2025-09-26T21:57:05Z",
     "createdAt": "2025-03-24T16:04:39Z",
     "number": 18990,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18990",
     "title": "Feature Request - Export to Excel include SQL query in second sheet",
     "areas": [
@@ -8543,7 +8578,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -8593,12 +8628,12 @@
       "Connection"
     ],
     "priority": 2,
-    "type": null,
+    "type": "Feature Request",
     "hasArea": true,
-    "hasType": false,
+    "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
-    "milestone": "Backlog"
+    "commentCount": 2,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "Benjin",
@@ -8734,7 +8769,7 @@
     "number": 18966,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18966",
-    "title": "Login failed for user '<token-identified principal>'. The server is not currently configured to accept this token.",
+    "title": "Login failed for user '<token-identified principal>'. The server is not currently configured to accept this token in Sovereign Cloud environment",
     "areas": [
       "Connection"
     ],
@@ -11060,7 +11095,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 57,
-    "commentCount": 16,
+    "commentCount": 17,
     "milestone": "November 2025 Release"
   },
   {
@@ -11486,10 +11521,10 @@
   },
   {
     "author": "gregveres",
-    "closedAt": null,
+    "closedAt": "2025-09-26T18:07:28Z",
     "createdAt": "2025-02-09T16:23:02Z",
     "number": 18637,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18637",
     "title": "Request config option to prevent automatically executing queries",
     "areas": [
@@ -11908,10 +11943,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2025-09-26T18:06:32Z",
     "createdAt": "2025-01-22T00:21:52Z",
     "number": 18569,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18569",
     "title": "Query results columns are too wide for long column names",
     "areas": [
