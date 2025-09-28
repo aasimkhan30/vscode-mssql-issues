@@ -694,8 +694,8 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 3,
+    "totalReactions": 2,
+    "commentCount": 4,
     "milestone": "October 2025 Release"
   },
   {
@@ -5568,7 +5568,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "November 2025 Release"
   },
   {
@@ -13765,10 +13765,10 @@
   },
   {
     "author": "SammyWhamy",
-    "closedAt": null,
+    "closedAt": "2025-09-27T04:56:57Z",
     "createdAt": "2024-10-27T15:38:33Z",
     "number": 18320,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18320",
     "title": "Using this extensions exposed API to connect to a database programmatically",
     "areas": [
@@ -13779,7 +13779,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -15687,10 +15687,10 @@
   },
   {
     "author": "mfinky",
-    "closedAt": null,
+    "closedAt": "2025-09-27T05:00:19Z",
     "createdAt": "2024-09-27T01:35:07Z",
     "number": 18090,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18090",
     "title": "Customize default number of rows when right-click > select top (1000)",
     "areas": [
@@ -15701,7 +15701,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -17112,10 +17112,10 @@
   },
   {
     "author": "EntwicklerMQ",
-    "closedAt": null,
+    "closedAt": "2025-09-27T05:02:58Z",
     "createdAt": "2024-02-12T14:19:25Z",
     "number": 17873,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17873",
     "title": "Wrong intellisense for SQL",
     "areas": [
@@ -17126,7 +17126,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 10,
+    "commentCount": 11,
     "milestone": "Backlog"
   },
   {
@@ -18088,7 +18088,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "ImTheWolfman",
@@ -23140,10 +23140,10 @@
   },
   {
     "author": "bbsimonbb",
-    "closedAt": null,
+    "closedAt": "2025-09-27T04:54:13Z",
     "createdAt": "2021-02-05T11:00:06Z",
     "number": 16954,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/16954",
     "title": "Feature Request: could we expose an api or command to automate connecting to  a db ?",
     "areas": [
@@ -23154,7 +23154,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -23964,10 +23964,10 @@
   },
   {
     "author": "RobertMueller2",
-    "closedAt": null,
+    "closedAt": "2025-09-27T04:48:45Z",
     "createdAt": "2020-10-14T08:54:19Z",
     "number": 1769,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/1769",
     "title": "Go To Definition: Keep server/database connection",
     "areas": [
@@ -23978,7 +23978,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
