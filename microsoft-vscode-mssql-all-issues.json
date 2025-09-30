@@ -127,7 +127,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -219,7 +219,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -369,7 +369,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -532,7 +532,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -695,7 +695,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "October 2025 Release"
   },
   {
@@ -844,11 +844,11 @@
       "GitHub Copilot"
     ],
     "priority": -1,
-    "type": "Both Bug and Feature",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -1100,7 +1100,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -1129,13 +1129,15 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20055",
     "title": "[Feature Request]: \"Manage\" window from Azure Data Studio",
-    "areas": [],
+    "areas": [
+      "Object Explorer"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -1154,7 +1156,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -1226,19 +1228,21 @@
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2025-09-29T22:14:33Z",
     "createdAt": "2025-08-27T23:18:49Z",
     "number": 20044,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20044",
     "title": "[Feature Request]: new query window is difficult to impossible to open via keybinding",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -1274,7 +1278,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -1323,14 +1327,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20021",
     "title": "[Feature Request]: Add configuration for SQLCMD mode on / off by default for new query windows.",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "Backlog"
+    "commentCount": 3,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "mpurnyn",
@@ -1460,10 +1466,10 @@
   },
   {
     "author": "maykel-gonzalez-tea",
-    "closedAt": null,
+    "closedAt": "2025-09-29T21:51:57Z",
     "createdAt": "2025-08-20T21:10:54Z",
     "number": 19989,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19989",
     "title": "[Feature Request]: Bring the \"Manage\" Window from Azure Data Studio into the SQL Server (mssql) Extension",
     "areas": [],
@@ -1472,7 +1478,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 5,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -1501,7 +1507,7 @@
     "number": 19984,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19984",
-    "title": "Make color-coded connections a default configuration",
+    "title": "[Task]: Make color-coded connections a default configuration",
     "areas": [
       "Connection"
     ],
@@ -1510,8 +1516,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
-    "milestone": "Backlog"
+    "commentCount": 1,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "jsmolucha",
@@ -1534,21 +1540,21 @@
   },
   {
     "author": "rogerhendriks",
-    "closedAt": null,
+    "closedAt": "2025-09-29T22:30:00Z",
     "createdAt": "2025-08-19T16:07:09Z",
     "number": 19972,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19972",
     "title": "[Feature request]: option to disable data sharing with co-pilot cloud",
     "areas": [
       "GitHub Copilot"
     ],
     "priority": -1,
-    "type": "Both Bug and Feature",
+    "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -1672,7 +1678,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 0,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -1692,7 +1698,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -2772,7 +2778,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "October 2025 Release"
   },
   {
@@ -4391,7 +4397,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "caohai",
@@ -4502,7 +4508,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
@@ -5983,7 +5989,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "caohai",
@@ -6361,7 +6367,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Benjin",
@@ -8143,10 +8149,10 @@
   },
   {
     "author": "richardtallent-erm",
-    "closedAt": null,
+    "closedAt": "2025-09-29T17:33:56Z",
     "createdAt": "2025-04-01T21:07:32Z",
     "number": 19055,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19055",
     "title": "Execute Query executes wrong SQL if selection changes while the command is initializing",
     "areas": [
@@ -8199,21 +8205,21 @@
   },
   {
     "author": "match-gabeflores",
-    "closedAt": null,
+    "closedAt": "2025-09-29T19:50:55Z",
     "createdAt": "2025-03-31T20:44:45Z",
     "number": 19046,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19046",
     "title": "Feature request: notification sound for query completion",
     "areas": [
       "Query Result"
     ],
-    "priority": 2,
+    "priority": -1,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 6,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -10270,8 +10276,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
-    "commentCount": 12,
+    "totalReactions": 5,
+    "commentCount": 13,
     "milestone": "November 2025 Release"
   },
   {
@@ -10636,7 +10642,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 2,
     "commentCount": 3,
     "milestone": "Backlog"
   },
@@ -11094,7 +11100,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 57,
+    "totalReactions": 58,
     "commentCount": 17,
     "milestone": "November 2025 Release"
   },
@@ -11607,7 +11613,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 98,
+    "totalReactions": 99,
     "commentCount": 13,
     "milestone": "Backlog"
   },
@@ -19346,7 +19352,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 5,
     "milestone": "Backlog"
   },
@@ -20250,7 +20256,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
