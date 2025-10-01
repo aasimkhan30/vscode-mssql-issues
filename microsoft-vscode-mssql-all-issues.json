@@ -1,5 +1,44 @@
 [
   {
+    "author": "m4ss1m0g",
+    "closedAt": null,
+    "createdAt": "2025-10-01T09:37:53Z",
+    "number": 20261,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20261",
+    "title": "[Feature Request]: Provide docs about connection-sharing (API)",
+    "areas": [
+      "Extensibility"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2025-10-01T02:28:27Z",
+    "number": 20259,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20259",
+    "title": "Scripting operations aren't cancelable",
+    "areas": [
+      "Query Editor",
+      "Scripting"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
     "author": "ssreerama",
     "closedAt": "2025-09-30T20:49:13Z",
     "createdAt": "2025-09-30T19:24:04Z",
@@ -221,7 +260,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "October 2025 Release"
   },
   {
@@ -236,7 +275,7 @@
       "Query Editor"
     ],
     "priority": -1,
-    "type": "Bug",
+    "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
@@ -430,7 +469,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "obviousSailfish",
@@ -526,10 +565,10 @@
   },
   {
     "author": "iunkel-ssa",
-    "closedAt": null,
+    "closedAt": "2025-10-01T01:08:10Z",
     "createdAt": "2025-09-15T18:46:15Z",
     "number": 20171,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20171",
     "title": "Search objects like Azure data studio.",
     "areas": [
@@ -540,7 +579,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -1307,7 +1346,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -1328,14 +1367,14 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Wermeling",
-    "closedAt": null,
+    "closedAt": "2025-10-01T02:07:12Z",
     "createdAt": "2025-08-29T13:39:29Z",
     "number": 20050,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20050",
     "title": "[Bug]: Query Results pane returns different localization for float vs decimal",
     "areas": [
@@ -1346,8 +1385,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "Backlog"
+    "commentCount": 1,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "djbetos",
@@ -1777,7 +1816,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -1851,7 +1890,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "sfscgjohnson",
@@ -2002,10 +2041,10 @@
   },
   {
     "author": "match-gabeflores",
-    "closedAt": null,
+    "closedAt": "2025-10-01T01:19:43Z",
     "createdAt": "2025-08-08T20:40:39Z",
     "number": 19923,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19923",
     "title": "[Feature Request]: Results Grid: copy selected cells for IN clause",
     "areas": [
@@ -2016,15 +2055,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
     "author": "jmetape",
-    "closedAt": null,
+    "closedAt": "2025-10-01T01:16:18Z",
     "createdAt": "2025-08-08T20:28:05Z",
     "number": 19922,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19922",
     "title": "[Feature Request]: Query Results Split by Editor group",
     "areas": [],
@@ -2033,7 +2072,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -2302,7 +2341,7 @@
     "areas": [
       "Connection"
     ],
-    "priority": 0,
+    "priority": -1,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
@@ -2539,10 +2578,10 @@
   },
   {
     "author": "gisn1",
-    "closedAt": null,
+    "closedAt": "2025-10-01T01:23:12Z",
     "createdAt": "2025-07-21T12:51:30Z",
     "number": 19816,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19816",
     "title": "[Feature Request]: Favorite connections in Command Palette list",
     "areas": [
@@ -2553,7 +2592,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -2573,7 +2612,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "ganagdhar123",
@@ -3325,10 +3364,10 @@
   },
   {
     "author": "bveldkamp",
-    "closedAt": null,
+    "closedAt": "2025-10-01T01:04:03Z",
     "createdAt": "2025-07-02T14:18:48Z",
     "number": 19680,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19680",
     "title": "[Feature Request]: View or export large text column values",
     "areas": [
@@ -3339,7 +3378,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -3377,25 +3416,6 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 4
-  },
-  {
-    "author": "samgusick",
-    "closedAt": null,
-    "createdAt": "2025-06-28T12:53:29Z",
-    "number": 19672,
-    "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/19672",
-    "title": "[Bug]: Incorrect Syntax Error marked on Azure Synapse Analytics CTAS tables",
-    "areas": [
-      "Language Service"
-    ],
-    "priority": -1,
-    "type": "Bug",
-    "hasArea": true,
-    "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "Backlog"
   },
   {
     "author": "piergiuseppemandosi",
@@ -3594,7 +3614,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -3730,10 +3750,10 @@
   },
   {
     "author": "shivashanmugam",
-    "closedAt": null,
+    "closedAt": "2025-10-01T02:33:22Z",
     "createdAt": "2025-06-14T01:44:27Z",
     "number": 19609,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19609",
     "title": "[Bug]: Error loading designer",
     "areas": [
@@ -3744,7 +3764,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "November 2025 Release"
   },
   {
@@ -3877,7 +3897,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "croblesm",
@@ -4129,10 +4149,10 @@
   },
   {
     "author": "ben9tamu",
-    "closedAt": null,
+    "closedAt": "2025-10-01T01:26:42Z",
     "createdAt": "2025-06-09T13:42:37Z",
     "number": 19546,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19546",
     "title": "[Feature Request]: Feature Request: Add 'Inspect Data' functionality like Azure Data Studio",
     "areas": [
@@ -4143,7 +4163,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -4342,7 +4362,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 5,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -4530,7 +4550,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "khalid2051",
@@ -4684,10 +4704,10 @@
   },
   {
     "author": "eladavron",
-    "closedAt": null,
+    "closedAt": "2025-10-01T01:30:33Z",
     "createdAt": "2025-05-28T08:20:27Z",
     "number": 19487,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19487",
     "title": "[Feature Request]: Sticky Columns",
     "areas": [
@@ -4698,7 +4718,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -4737,7 +4757,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "burtonrodman",
@@ -4833,10 +4853,10 @@
   },
   {
     "author": "emixon",
-    "closedAt": null,
+    "closedAt": "2025-10-01T02:15:47Z",
     "createdAt": "2025-05-22T17:27:43Z",
     "number": 19473,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19473",
     "title": "[Bug]: Cannot Connect to Azure SQL Managed Instance in Azure USGovernment",
     "areas": [
@@ -4847,7 +4867,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "December 2025 Release"
   },
   {
@@ -5298,12 +5318,12 @@
       "Scripting"
     ],
     "priority": -1,
-    "type": null,
+    "type": "Bug",
     "hasArea": true,
-    "hasType": false,
+    "hasType": true,
     "totalReactions": 1,
     "commentCount": 8,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "LeonarddeR",
@@ -5726,8 +5746,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 7,
-    "milestone": "November 2025 Release"
+    "commentCount": 8,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "juanmi108",
@@ -6250,13 +6270,13 @@
     "areas": [
       "Table Designer"
     ],
-    "priority": 0,
+    "priority": -1,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "Backlog"
+    "commentCount": 1,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "croblesm",
@@ -6589,8 +6609,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2,
-    "milestone": "Backlog"
+    "commentCount": 3,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "aasimkhan30",
@@ -7888,7 +7908,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "croblesm",
@@ -7986,10 +8006,10 @@
   },
   {
     "author": "philipnye",
-    "closedAt": null,
+    "closedAt": "2025-10-01T01:40:50Z",
     "createdAt": "2025-04-08T09:50:13Z",
     "number": 19096,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19096",
     "title": "Feature request: Option to ignore parameters in error checking",
     "areas": [
@@ -8000,7 +8020,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -8128,12 +8148,12 @@
       "Query Result"
     ],
     "priority": 1,
-    "type": "Feature Request",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "spewu",
@@ -9564,9 +9584,9 @@
       "Language Service"
     ],
     "priority": 2,
-    "type": null,
+    "type": "Feature Request",
     "hasArea": true,
-    "hasType": false,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
     "milestone": "Backlog"
@@ -10429,7 +10449,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 5,
-    "commentCount": 13,
+    "commentCount": 14,
     "milestone": "November 2025 Release"
   },
   {
@@ -11657,7 +11677,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 56,
+    "totalReactions": 57,
     "commentCount": 9,
     "milestone": "Backlog"
   },
@@ -11765,7 +11785,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 99,
+    "totalReactions": 100,
     "commentCount": 13,
     "milestone": "Backlog"
   },
@@ -12887,7 +12907,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 7,
+    "totalReactions": 8,
     "commentCount": 5,
     "milestone": "October 2025 Release"
   },
@@ -21924,10 +21944,10 @@
   },
   {
     "author": "roxxette",
-    "closedAt": null,
+    "closedAt": "2025-10-01T02:02:21Z",
     "createdAt": "2021-11-16T06:57:36Z",
     "number": 17112,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17112",
     "title": "[Feature request] Need more neat way to authenticate to AzureChinaCloud with AAD",
     "areas": [
@@ -21938,7 +21958,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -22306,10 +22326,10 @@
   },
   {
     "author": "carlitorendon",
-    "closedAt": null,
+    "closedAt": "2025-10-01T01:59:10Z",
     "createdAt": "2021-08-26T02:22:06Z",
     "number": 17047,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17047",
     "title": "Profiles with saving password don't work when VSCode is in a remote development session",
     "areas": [
@@ -22320,7 +22340,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -30273,7 +30293,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "dannyfraser",
@@ -30445,7 +30465,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "November 2025 Release"
+    "milestone": "October 2025 Release"
   },
   {
     "author": "ransagy",
@@ -32358,7 +32378,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 4,
     "milestone": "December 2025 Release"
   },
