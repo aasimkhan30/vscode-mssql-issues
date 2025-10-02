@@ -15,7 +15,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "November 2025 Release"
   },
   {
@@ -183,9 +183,9 @@
       "SQL Project"
     ],
     "priority": -1,
-    "type": "Bug",
+    "type": null,
     "hasArea": true,
-    "hasType": true,
+    "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
     "milestone": "November 2025 Release"
@@ -1816,7 +1816,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "October 2025 Release"
   },
   {
@@ -21686,7 +21686,6 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/17182",
     "title": "How to detect language flavour outside extension?",
     "areas": [
-      "Query Editor",
       "Extensibility"
     ],
     "priority": -1,
