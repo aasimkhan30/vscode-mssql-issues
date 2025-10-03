@@ -1,5 +1,24 @@
 [
   {
+    "author": "Stralle",
+    "closedAt": null,
+    "createdAt": "2025-10-02T16:11:44Z",
+    "number": 20267,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20267",
+    "title": "[Feature Request]: Enable users to copy a connection URL to the database",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "m4ss1m0g",
     "closedAt": null,
     "createdAt": "2025-10-01T09:37:53Z",
@@ -15,7 +34,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 4,
     "milestone": "November 2025 Release"
   },
   {
@@ -1712,10 +1731,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-10-02T18:45:56Z",
     "createdAt": "2025-08-20T04:04:24Z",
     "number": 19984,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19984",
     "title": "[Task]: Make color-coded connections a default configuration",
     "areas": [
@@ -2955,10 +2974,10 @@
   },
   {
     "author": "twilliamsdsh",
-    "closedAt": null,
+    "closedAt": "2025-10-02T22:55:55Z",
     "createdAt": "2025-07-14T20:43:08Z",
     "number": 19759,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19759",
     "title": "[Feature Request]: Azure Government Support",
     "areas": [
@@ -8942,10 +8961,10 @@
   },
   {
     "author": "jamespack",
-    "closedAt": null,
+    "closedAt": "2025-10-02T22:55:55Z",
     "createdAt": "2025-03-20T13:03:12Z",
     "number": 18966,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18966",
     "title": "Login failed for user '<token-identified principal>'. The server is not currently configured to accept this token in Sovereign Cloud environment",
     "areas": [
@@ -11272,7 +11291,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 59,
+    "totalReactions": 60,
     "commentCount": 17,
     "milestone": "November 2025 Release"
   },
@@ -18498,10 +18517,10 @@
   },
   {
     "author": "kimisikainai",
-    "closedAt": null,
+    "closedAt": "2025-10-02T22:55:56Z",
     "createdAt": "2023-04-18T16:39:00Z",
     "number": 17654,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17654",
     "title": "Azure: Support Sovereign clouds",
     "areas": [
