@@ -1,5 +1,21 @@
 [
   {
+    "author": "matbishop",
+    "closedAt": null,
+    "createdAt": "2025-10-03T06:59:32Z",
+    "number": 20276,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20276",
+    "title": "[Bug]: Script as Create does not provide valid script",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Stralle",
     "closedAt": null,
     "createdAt": "2025-10-02T16:11:44Z",
@@ -1869,7 +1885,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 2,
     "milestone": "October 2025 Release"
   },
@@ -4325,7 +4341,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "November 2025 Release"
   },
   {
@@ -9504,10 +9520,10 @@
   },
   {
     "author": "YGuerin",
-    "closedAt": null,
+    "closedAt": "2025-10-03T22:53:00Z",
     "createdAt": "2025-03-11T11:43:44Z",
     "number": 18919,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18919",
     "title": "Cannot set new password when forced to change it by admin",
     "areas": [
