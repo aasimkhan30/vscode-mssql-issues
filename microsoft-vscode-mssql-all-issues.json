@@ -1,5 +1,24 @@
 [
   {
+    "author": "terrykinnaman",
+    "closedAt": null,
+    "createdAt": "2025-10-06T17:32:57Z",
+    "number": 20283,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20283",
+    "title": "[Bug]: Offset and Length Out of Bounds",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "October 2025 Release"
+  },
+  {
     "author": "matbishop",
     "closedAt": null,
     "createdAt": "2025-10-03T06:59:32Z",
@@ -7,13 +26,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20276",
     "title": "[Bug]: Script as Create does not provide valid script",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Stralle",
@@ -1381,7 +1403,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -11820,7 +11842,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 100,
+    "totalReactions": 101,
     "commentCount": 13,
     "milestone": "Backlog"
   },
