@@ -1,5 +1,21 @@
 [
   {
+    "author": "ferchor2003",
+    "closedAt": null,
+    "createdAt": "2025-10-07T21:24:39Z",
+    "number": 20286,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20286",
+    "title": "Support for Ubuntu 24.04",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "terrykinnaman",
     "closedAt": null,
     "createdAt": "2025-10-06T17:32:57Z",
@@ -15,7 +31,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "October 2025 Release"
   },
   {
@@ -230,10 +246,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2025-10-07T02:35:56Z",
     "createdAt": "2025-09-30T19:09:17Z",
     "number": 20249,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20249",
     "title": "[Task]: Initial setup for the SQL projects publish dialog",
     "areas": [
@@ -1601,8 +1617,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 4,
+    "totalReactions": 1,
+    "commentCount": 5,
     "milestone": "October 2025 Release"
   },
   {
@@ -2112,7 +2128,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -10225,7 +10241,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 28,
+    "totalReactions": 29,
     "commentCount": 3,
     "milestone": "October 2025 Release"
   },
@@ -11420,7 +11436,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 9,
+    "totalReactions": 10,
     "commentCount": 3,
     "milestone": "Backlog"
   },
@@ -11734,7 +11750,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 57,
+    "totalReactions": 58,
     "commentCount": 9,
     "milestone": "Backlog"
   },
@@ -11842,7 +11858,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 101,
+    "totalReactions": 102,
     "commentCount": 13,
     "milestone": "Backlog"
   },
