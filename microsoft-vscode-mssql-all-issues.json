@@ -1,5 +1,21 @@
 [
   {
+    "author": "adc-vjoshi",
+    "closedAt": null,
+    "createdAt": "2025-10-08T13:30:43Z",
+    "number": 20288,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20288",
+    "title": "[Feature Request]:  Support for Blank Password in MSSQL Extension",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "ferchor2003",
     "closedAt": null,
     "createdAt": "2025-10-07T21:24:39Z",
@@ -1419,7 +1435,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 5,
+    "totalReactions": 6,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -1713,10 +1729,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-10-08T21:10:11Z",
     "createdAt": "2025-08-21T21:07:55Z",
     "number": 19995,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19995",
     "title": "✨ Set up Copilot instructions",
     "areas": [],
@@ -1725,7 +1741,7 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -2798,7 +2814,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 8,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "Backlog"
   },
   {
@@ -3931,7 +3947,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "October 2025 Release"
   },
   {
@@ -4603,7 +4619,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "October 2025 Release"
   },
   {
@@ -5096,7 +5112,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -5650,7 +5666,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 12,
+    "totalReactions": 13,
     "commentCount": 2,
     "milestone": "October 2025 Release"
   },
@@ -5819,7 +5835,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 8,
+    "commentCount": 9,
     "milestone": "October 2025 Release"
   },
   {
@@ -10551,7 +10567,7 @@
     "number": 18829,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18829",
-    "title": "Microsoft SQL Server Import",
+    "title": "DACPAC Import/Export",
     "areas": [
       "Acquisition"
     ],
