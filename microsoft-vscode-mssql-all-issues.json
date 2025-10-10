@@ -1,5 +1,37 @@
 [
   {
+    "author": "gordon-fu",
+    "closedAt": null,
+    "createdAt": "2025-10-09T17:17:53Z",
+    "number": 20294,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20294",
+    "title": "[Bug]: The filter contains query is not working.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "oricami",
+    "closedAt": null,
+    "createdAt": "2025-10-09T17:10:40Z",
+    "number": 20293,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20293",
+    "title": "[Bug]: Error running command mssql.filterNode",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "adc-vjoshi",
     "closedAt": null,
     "createdAt": "2025-10-08T13:30:43Z",
@@ -13,7 +45,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "ferchor2003",
@@ -104,7 +136,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "November 2025 Release"
   },
   {
@@ -1230,10 +1262,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-10-09T16:28:29Z",
     "createdAt": "2025-09-03T06:44:48Z",
     "number": 20067,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20067",
     "title": "[Bug]: Fabric connection dialog lacks collapsible sections for workspace browser and authentication",
     "areas": [
@@ -1245,7 +1277,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -1560,7 +1592,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "October 2025 Release"
   },
   {
@@ -1853,7 +1885,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
