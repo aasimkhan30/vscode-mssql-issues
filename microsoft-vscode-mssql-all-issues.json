@@ -78,8 +78,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 2,
+    "totalReactions": 1,
+    "commentCount": 4,
     "milestone": "October 2025 Release"
   },
   {
@@ -1467,8 +1467,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 6,
-    "commentCount": 2,
+    "totalReactions": 7,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -25508,7 +25508,7 @@
     "milestone": "Backlog"
   },
   {
-    "author": "l-dietrich",
+    "author": "l-staudt",
     "closedAt": "2025-09-17T19:36:38Z",
     "createdAt": "2020-03-12T09:08:21Z",
     "number": 1649,
