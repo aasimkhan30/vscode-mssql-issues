@@ -12,7 +12,7 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -55,13 +55,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20286",
     "title": "Support for Ubuntu 24.04",
-    "areas": [],
+    "areas": [
+      "Acquisition"
+    ],
     "priority": -1,
-    "type": "Feature Request",
-    "hasArea": false,
+    "type": "Bug",
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "October 2025 Release"
   },
   {
     "author": "terrykinnaman",
@@ -79,7 +82,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "October 2025 Release"
   },
   {
@@ -367,10 +370,10 @@
   },
   {
     "author": "kevinrehrl",
-    "closedAt": null,
+    "closedAt": "2025-10-13T19:31:06Z",
     "createdAt": "2025-09-26T09:38:00Z",
     "number": 20235,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20235",
     "title": "[Feature Request]: Manual Credential Input for Windows Authentication in SQL Server Extension",
     "areas": [
@@ -381,7 +384,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "October 2025 Release"
   },
   {
@@ -651,10 +654,10 @@
   },
   {
     "author": "MinhTrungTran1986",
-    "closedAt": null,
+    "closedAt": "2025-10-13T19:32:02Z",
     "createdAt": "2025-09-17T02:54:08Z",
     "number": 20180,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20180",
     "title": "MS SQL extension can not install new version automatic",
     "areas": [
@@ -665,7 +668,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "October 2025 Release"
   },
   {
@@ -773,7 +776,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "ssreerama",
@@ -1356,7 +1359,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -4713,10 +4716,10 @@
   },
   {
     "author": "ralphke",
-    "closedAt": null,
+    "closedAt": "2025-10-13T19:39:40Z",
     "createdAt": "2025-05-28T19:54:09Z",
     "number": 19500,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19500",
     "title": "[GitHub Copilot - Bug]: Reference to Querystore reports is wrong in SSMS 21",
     "areas": [
@@ -4727,7 +4730,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2025 Release"
   },
   {
@@ -10756,7 +10759,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "dzsquared",
