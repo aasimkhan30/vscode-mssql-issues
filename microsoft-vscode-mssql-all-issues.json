@@ -1,10 +1,10 @@
 [
   {
     "author": "disjustin",
-    "closedAt": null,
+    "closedAt": "2025-10-16T02:51:39Z",
     "createdAt": "2025-10-15T20:44:36Z",
     "number": 20310,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20310",
     "title": "[Bug]: Unable to initialize in offline environment",
     "areas": [],
@@ -13,7 +13,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "TJaenichen",
@@ -64,7 +64,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 3
   },
   {
     "author": "oricami",
@@ -134,7 +134,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 5,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "matbishop",
@@ -152,8 +152,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "commentCount": 1,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Stralle",
@@ -211,7 +211,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -882,7 +882,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Benjin",
@@ -1068,10 +1068,10 @@
   },
   {
     "author": "ozkurkculer",
-    "closedAt": null,
+    "closedAt": "2025-10-16T20:16:59Z",
     "createdAt": "2025-09-05T09:21:01Z",
     "number": 20090,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20090",
     "title": "[Feature Request]: Add theming tokens and settings options for Results Grid header & NULL cell styling",
     "areas": [],
@@ -1080,7 +1080,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 7,
+    "commentCount": 8,
     "milestone": "October 2025 Release"
   },
   {
@@ -1702,7 +1702,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Provista-Stan",
@@ -1721,7 +1721,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 5,
-    "milestone": "October 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "mpurnyn",
@@ -2271,10 +2271,10 @@
   },
   {
     "author": "nathanhicktonwork",
-    "closedAt": null,
+    "closedAt": "2025-10-16T23:01:49Z",
     "createdAt": "2025-08-08T09:02:12Z",
     "number": 19917,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19917",
     "title": "[Bug]: Queries Hanging",
     "areas": [
@@ -2285,7 +2285,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 7,
+    "commentCount": 8,
     "milestone": "November 2025 Release"
   },
   {
@@ -2405,7 +2405,8 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/19869",
     "title": "[Bug]: Azure SQL + Entra MFA → re-authentication required for every new query tab",
     "areas": [
-      "Query Editor"
+      "Query Editor",
+      "Connection"
     ],
     "priority": -1,
     "type": "Bug",
@@ -2413,7 +2414,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -2498,12 +2499,12 @@
       "Object Explorer"
     ],
     "priority": -1,
-    "type": "Bug",
+    "type": "Both Bug and Feature",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "November 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -2711,7 +2712,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "ganagdhar123",
@@ -2730,7 +2731,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "jasonhorner",
@@ -3241,10 +3242,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-10-16T16:53:21Z",
     "createdAt": "2025-07-11T00:10:36Z",
     "number": 19733,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19733",
     "title": "[Feature Request]: Auto-prompt to clear Entra token cache",
     "areas": [
@@ -3444,10 +3445,10 @@
   },
   {
     "author": "Jakedahl94",
-    "closedAt": null,
+    "closedAt": "2025-10-16T23:08:40Z",
     "createdAt": "2025-07-05T19:16:08Z",
     "number": 19706,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19706",
     "title": "[Bug]: Grid results scrolling is really laggy",
     "areas": [
@@ -3458,7 +3459,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -3790,7 +3791,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "cabal95",
@@ -4014,7 +4015,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -4029,9 +4030,9 @@
       "Connection"
     ],
     "priority": -1,
-    "type": null,
+    "type": "Bug",
     "hasArea": true,
-    "hasType": false,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 5,
     "milestone": "October 2025 Release"
@@ -4187,7 +4188,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -4358,7 +4359,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "rayzinnz",
@@ -4482,7 +4483,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 4,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "bujocek",
@@ -4641,7 +4642,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/19522",
     "title": "[Bug]: Incorrect syntax: 'CREATE VIEW' must be the only statement in the batch when using OPENROWSET('CosmosDB'))",
     "areas": [
-      "Language Service"
+      "SQL Project"
     ],
     "priority": -1,
     "type": "Bug",
@@ -4725,7 +4726,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "khalid2051",
@@ -4739,12 +4740,12 @@
       "Query Result"
     ],
     "priority": 1,
-    "type": "Bug",
+    "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "caohai",
@@ -4822,10 +4823,10 @@
   },
   {
     "author": "Jacques2101",
-    "closedAt": null,
+    "closedAt": "2025-10-16T23:06:22Z",
     "createdAt": "2025-05-28T13:15:09Z",
     "number": 19490,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19490",
     "title": "[Bug]: Cannot connect to SQL Server",
     "areas": [
@@ -4836,7 +4837,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "November 2025 Release"
   },
   {
@@ -4860,10 +4861,10 @@
   },
   {
     "author": "albegouws",
-    "closedAt": null,
+    "closedAt": "2025-10-16T23:23:42Z",
     "createdAt": "2025-05-28T08:31:10Z",
     "number": 19488,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19488",
     "title": "[Bug]: In query results count distinct count sum values not displaying",
     "areas": [
@@ -4874,8 +4875,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "commentCount": 1,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "eladavron",
@@ -5024,7 +5025,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 8
+    "commentCount": 9
   },
   {
     "author": "emixon",
@@ -5316,10 +5317,10 @@
   },
   {
     "author": "gordingin",
-    "closedAt": null,
+    "closedAt": "2025-10-16T23:06:50Z",
     "createdAt": "2025-05-13T10:20:05Z",
     "number": 19412,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19412",
     "title": "'mssql.addObjectExplorer' not found",
     "areas": [
@@ -5330,7 +5331,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 9,
+    "commentCount": 10,
     "milestone": "November 2025 Release"
   },
   {
@@ -5498,7 +5499,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 8,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "LeonarddeR",
@@ -5593,10 +5594,10 @@
   },
   {
     "author": "jwolf2-JBS",
-    "closedAt": null,
+    "closedAt": "2025-10-16T23:10:14Z",
     "createdAt": "2025-05-06T19:21:42Z",
     "number": 19359,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19359",
     "title": "Selecting Column header (and below rows) doesn't provide summary information in status bar",
     "areas": [
@@ -5607,7 +5608,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -6053,7 +6054,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 7,
-    "milestone": "October 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "ivobeemster",
@@ -6714,7 +6715,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "November 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Benjin",
@@ -7705,7 +7706,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Roozle",
@@ -8367,7 +8368,7 @@
     "hasType": false,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "match-gabeflores",
@@ -8951,7 +8952,7 @@
     "hasType": true,
     "totalReactions": 5,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Mahmoud-Elgendi",
@@ -10093,22 +10094,23 @@
   },
   {
     "author": "LarnuUK",
-    "closedAt": null,
+    "closedAt": "2025-10-16T23:07:01Z",
     "createdAt": "2025-02-28T09:01:38Z",
     "number": 18882,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18882",
     "title": "mssql: Failed to load Sql Tools Service on startup",
     "areas": [
-      "Acquisition"
+      "Acquisition",
+      "Shell"
     ],
     "priority": -1,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 6,
-    "milestone": "October 2025 Release"
+    "commentCount": 7,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "nathanweil",
@@ -10216,7 +10218,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "ScottSchwalm",
@@ -10325,8 +10327,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "commentCount": 1,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "ehartford2",
@@ -10810,7 +10812,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "dzsquared",
@@ -10990,8 +10992,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 3,
-    "milestone": "December 2025 Release"
+    "commentCount": 4,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Clifra-Jones",
@@ -11028,7 +11030,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "caskeyje",
@@ -11198,8 +11200,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 20,
-    "commentCount": 13,
-    "milestone": "December 2025 Release"
+    "commentCount": 14,
+    "milestone": "Backlog"
   },
   {
     "author": "LarnuUK",
@@ -11960,7 +11962,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 103,
+    "totalReactions": 104,
     "commentCount": 13,
     "milestone": "Backlog"
   },
@@ -12093,7 +12095,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -12995,7 +12997,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 5,
-    "milestone": "October 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -13084,7 +13086,7 @@
     "hasType": false,
     "totalReactions": 8,
     "commentCount": 5,
-    "milestone": "October 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "FranBestinver",
@@ -16662,7 +16664,8 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/17992",
     "title": "Integrate with .Net Install Tool to use shared runtime",
     "areas": [
-      "Acquisition"
+      "Acquisition",
+      "Shell"
     ],
     "priority": -1,
     "type": "Feature Request",
@@ -18414,7 +18417,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/17721",
     "title": "Invalid column name",
     "areas": [
-      "Query Editor"
+      "Language Service"
     ],
     "priority": -1,
     "type": "Bug",
@@ -18422,7 +18425,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "ImTheWolfman",
@@ -18977,7 +18980,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "alanrenmsft",
@@ -19882,10 +19885,10 @@
   },
   {
     "author": "jhomiak",
-    "closedAt": "2025-10-15T04:28:20Z",
+    "closedAt": null,
     "createdAt": "2022-11-03T20:52:23Z",
     "number": 17470,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17470",
     "title": "Add Format Options for Results Table",
     "areas": [
@@ -19897,7 +19900,7 @@
     "hasType": true,
     "totalReactions": 6,
     "commentCount": 5,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "CoryKennedy",
@@ -20146,7 +20149,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 8,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "prabhudevu",
@@ -20165,7 +20168,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "joefreyk",
@@ -20685,7 +20688,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "jiangyz7cc",
@@ -21769,7 +21772,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 9,
-    "milestone": "December 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Roopesh-T",
@@ -23110,7 +23113,7 @@
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "hajiskyy",
@@ -23451,7 +23454,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "dexwerx",
@@ -30462,12 +30465,12 @@
       "Query Result"
     ],
     "priority": -1,
-    "type": "Bug",
+    "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "dannyfraser",
@@ -30639,7 +30642,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "ransagy",
