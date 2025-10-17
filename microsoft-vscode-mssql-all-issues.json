@@ -10612,10 +10612,10 @@
   },
   {
     "author": "nycgavin",
-    "closedAt": null,
+    "closedAt": "2025-10-16T23:33:10Z",
     "createdAt": "2025-02-24T19:29:21Z",
     "number": 18837,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18837",
     "title": "Cannot cancel long running Query.",
     "areas": [
@@ -10626,7 +10626,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 5,
-    "commentCount": 14,
+    "commentCount": 15,
     "milestone": "November 2025 Release"
   },
   {
@@ -11015,10 +11015,10 @@
   },
   {
     "author": "bhutfless",
-    "closedAt": null,
+    "closedAt": "2025-10-17T00:04:55Z",
     "createdAt": "2025-02-18T19:17:28Z",
     "number": 18704,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18704",
     "title": "Via Screen Share to MacOS running VSCode on mac cut and paste does not work",
     "areas": [
@@ -11029,7 +11029,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
