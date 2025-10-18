@@ -1,5 +1,40 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-10-17T17:16:00Z",
+    "number": 20316,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20316",
+    "title": "[Feature Request]: Detect systems running on ARM systems (SQL Server 2025 “latest” image)",
+    "areas": [
+      "Local container"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "grundew",
+    "closedAt": "2025-10-17T18:31:23Z",
+    "createdAt": "2025-10-17T07:22:55Z",
+    "number": 20315,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20315",
+    "title": "[Bug]: Not able to log in to azure postgres flexible server",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "disjustin",
     "closedAt": "2025-10-16T02:51:39Z",
     "createdAt": "2025-10-15T20:44:36Z",
@@ -47,7 +82,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -74,13 +109,17 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20293",
     "title": "[Bug]: Error running command mssql.filterNode",
-    "areas": [],
+    "areas": [
+      "Object Explorer",
+      "Acquisition"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "adc-vjoshi",
@@ -96,14 +135,15 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "ferchor2003",
-    "closedAt": null,
+    "closedAt": "2025-10-17T21:50:57Z",
     "createdAt": "2025-10-07T21:24:39Z",
     "number": 20286,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20286",
     "title": "Support for Ubuntu 24.04",
     "areas": [
@@ -114,8 +154,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "commentCount": 2,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "terrykinnaman",
@@ -436,7 +476,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "LizRollet",
@@ -494,7 +534,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "fuslonflare",
@@ -532,7 +572,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "amthomas46",
@@ -551,7 +591,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "amthomas46",
@@ -625,7 +665,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "kburtram",
@@ -663,7 +703,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "obviousSailfish",
@@ -682,7 +722,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "kburtram",
@@ -701,7 +741,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "MinhTrungTran1986",
@@ -720,7 +760,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Benjin",
@@ -774,7 +814,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 6,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "devmanlab",
@@ -793,7 +833,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "caohai",
@@ -954,7 +994,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Benjin",
@@ -990,7 +1030,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "mbarickman",
@@ -1081,7 +1121,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 8,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "tnaum-ms",
@@ -1100,7 +1140,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "AV25242",
@@ -1177,7 +1217,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Benjin",
@@ -1215,7 +1255,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "khalilbenaz",
@@ -1234,7 +1274,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "ssreerama",
@@ -1332,7 +1372,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -1391,7 +1431,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -1647,7 +1687,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "tommywo",
@@ -1794,7 +1834,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Prefix42",
@@ -1828,7 +1868,7 @@
     "hasType": false,
     "totalReactions": 1,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "joe-plumb",
@@ -1902,7 +1942,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "jsmolucha",
@@ -1992,7 +2032,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "capiyomero",
@@ -2027,7 +2067,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "agrabsi",
@@ -2155,7 +2195,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "jhaeusl1",
@@ -2193,7 +2233,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "aasimkhan30",
@@ -2469,7 +2509,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "williamchiu-nmic",
@@ -2542,7 +2582,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 4,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "jasonhorner",
@@ -2750,7 +2790,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "gisn1",
@@ -3146,7 +3186,7 @@
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 3,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -3222,7 +3262,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "BizzMine-PJ",
@@ -3257,7 +3297,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "dzsquared",
@@ -3647,7 +3687,7 @@
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Benjin",
@@ -3790,7 +3830,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -4035,7 +4075,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 5,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "jasonhorner",
@@ -4397,7 +4437,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "kburtram",
@@ -4688,7 +4728,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "webartoli",
@@ -4707,7 +4747,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "skyslide22",
@@ -4783,7 +4823,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "mrlife",
@@ -5025,7 +5065,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 9
+    "commentCount": 11
   },
   {
     "author": "emixon",
@@ -5200,7 +5240,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -5755,7 +5795,7 @@
     "hasType": true,
     "totalReactions": 13,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "jasonhorner",
@@ -5811,7 +5851,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "jasonhorner",
@@ -5848,7 +5888,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "laurenastrid1",
@@ -5923,7 +5963,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 9,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "juanmi108",
@@ -6471,7 +6511,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -6490,7 +6530,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -6509,7 +6549,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -6547,7 +6587,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "aasimkhan30",
@@ -8512,7 +8552,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "2br-2b",
@@ -8624,7 +8664,7 @@
     "hasType": false,
     "totalReactions": 1,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "FranBestinver",
@@ -8987,7 +9027,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 3,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Benjin",
@@ -9006,7 +9046,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "celeste-100",
@@ -9566,7 +9606,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "badampowell",
@@ -9676,7 +9716,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "yugsy",
@@ -9948,7 +9988,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "ervinte",
@@ -10072,7 +10112,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "zcoop98",
@@ -10148,7 +10188,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "wizzardmr42",
@@ -10309,7 +10349,7 @@
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "ehartford2",
@@ -10347,7 +10387,7 @@
     "hasType": true,
     "totalReactions": 29,
     "commentCount": 3,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "djones-breuer",
@@ -10589,7 +10629,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "caohai",
@@ -10775,7 +10815,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "antonioatom",
@@ -11236,7 +11276,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "A-she-ton",
@@ -11290,7 +11330,7 @@
     "hasType": false,
     "totalReactions": 4,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "mtaylorfsmb",
@@ -11687,7 +11727,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 5,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "PPT-DGREEN-GH",
@@ -11854,7 +11894,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 58,
+    "totalReactions": 59,
     "commentCount": 9,
     "milestone": "Backlog"
   },
@@ -11891,7 +11931,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 3,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "mehrdadjavidan",
@@ -12021,7 +12061,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 4,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -12313,7 +12353,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "cssuh",
@@ -12656,7 +12696,7 @@
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 0,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Benjin",
@@ -16429,7 +16469,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "kburtram",
@@ -18070,7 +18110,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "ericbrian",
@@ -18353,7 +18393,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 23,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Charles-Gagnon",
@@ -18711,7 +18751,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 4,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "mattmcnabb",
@@ -19575,7 +19615,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 2,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "kburtram",
@@ -20296,7 +20336,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "DuythuanBK",
@@ -20315,7 +20355,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "Charles-Gagnon",
@@ -22136,7 +22176,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "cgsthtm",
@@ -26913,7 +26953,7 @@
     "hasType": true,
     "totalReactions": 6,
     "commentCount": 3,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "gbritton1",
@@ -28706,7 +28746,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2025 Release"
+    "milestone": "November 2025 Release"
   },
   {
     "author": "pensivebrian",
