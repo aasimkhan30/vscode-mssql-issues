@@ -118,7 +118,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
@@ -159,10 +159,10 @@
   },
   {
     "author": "terrykinnaman",
-    "closedAt": null,
+    "closedAt": "2025-10-20T20:21:38Z",
     "createdAt": "2025-10-06T17:32:57Z",
     "number": 20283,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20283",
     "title": "[Bug]: Offset and Length Out of Bounds",
     "areas": [
@@ -519,10 +519,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-10-20T19:03:03Z",
     "createdAt": "2025-09-23T23:06:32Z",
     "number": 20223,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20223",
     "title": "[Bug]: Update container image label to show CTP2.0 for macOS M-based users",
     "areas": [
@@ -533,7 +533,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
@@ -1561,7 +1561,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 7,
+    "totalReactions": 8,
     "commentCount": 4,
     "milestone": "Backlog"
   },
@@ -3036,7 +3036,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "December 2025 Release"
   },
   {
@@ -4746,7 +4746,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "November 2025 Release"
   },
   {
@@ -6362,10 +6362,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2025-10-20T21:07:31Z",
     "createdAt": "2025-04-29T17:35:48Z",
     "number": 19285,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19285",
     "title": "Query results disappear clicking on sort icon on header",
     "areas": [
@@ -6376,7 +6376,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
@@ -11489,7 +11489,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 60,
+    "totalReactions": 61,
     "commentCount": 17,
     "milestone": "November 2025 Release"
   },
@@ -11580,7 +11580,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 10,
+    "totalReactions": 11,
     "commentCount": 4,
     "milestone": "Backlog"
   },
@@ -21797,10 +21797,10 @@
   },
   {
     "author": "Roopesh-T",
-    "closedAt": null,
+    "closedAt": "2025-10-20T20:45:31Z",
     "createdAt": "2022-01-11T05:42:21Z",
     "number": 17197,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17197",
     "title": "A11y_mssql for VSCode_Message Window_ScreenReader:Screen reader is announcing the unnecessary information when tabbing to \"message\" dropdown.",
     "areas": [
@@ -21811,7 +21811,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 9,
+    "commentCount": 10,
     "milestone": "November 2025 Release"
   },
   {
