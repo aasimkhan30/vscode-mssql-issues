@@ -1,5 +1,21 @@
 [
   {
+    "author": "Andrew0002",
+    "closedAt": null,
+    "createdAt": "2025-10-21T18:13:28Z",
+    "number": 20331,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20331",
+    "title": "[Bug]: Results Grid keyboard shortcuts not working",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
     "author": "croblesm",
     "closedAt": null,
     "createdAt": "2025-10-17T17:16:00Z",
@@ -118,7 +134,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "November 2025 Release"
   },
   {
@@ -576,10 +592,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2025-10-21T16:53:01Z",
     "createdAt": "2025-09-18T19:36:58Z",
     "number": 20198,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20198",
     "title": "[Bug]: Some workspaces are incorrectly listed as insufficient capacity",
     "areas": [
@@ -2770,7 +2786,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
