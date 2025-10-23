@@ -1,5 +1,41 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-10-23T00:14:18Z",
+    "number": 20348,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20348",
+    "title": "[Bug]: Command label “MSSQL: Execute Current Statement” does not reflect actual behavior",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2025-10-22T18:19:28Z",
+    "number": 20337,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20337",
+    "title": "[Feature Request]: Add support for SQL Server 2025 containers on ARM architecture",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "Andrew0002",
     "closedAt": null,
     "createdAt": "2025-10-21T18:13:28Z",
@@ -7,20 +43,22 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20331",
     "title": "[Bug]: Results Grid keyboard shortcuts not working",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-10-22T20:12:21Z",
     "createdAt": "2025-10-17T17:16:00Z",
     "number": 20316,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20316",
     "title": "[Feature Request]: Detect systems running on ARM systems (SQL Server 2025 “latest” image)",
     "areas": [
@@ -1578,7 +1616,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 8,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -1776,8 +1814,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 5,
-    "milestone": "Backlog"
+    "commentCount": 6,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "mpurnyn",
@@ -2125,10 +2163,10 @@
   },
   {
     "author": "sfscgjohnson",
-    "closedAt": null,
+    "closedAt": "2025-10-22T23:22:25Z",
     "createdAt": "2025-08-13T13:20:14Z",
     "number": 19950,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19950",
     "title": "[Feature Request]: Preserving a \"frozen\" result set as a tab",
     "areas": [
@@ -2139,7 +2177,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -2772,10 +2810,10 @@
   },
   {
     "author": "ganagdhar123",
-    "closedAt": null,
+    "closedAt": "2025-10-22T01:08:48Z",
     "createdAt": "2025-07-22T10:47:44Z",
     "number": 19821,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19821",
     "title": "Users are not able to access Sort and Filter functionality present for column headers via keyboard:A11y_MSSQL for VSCode_Connection database_Adding New Query_Keyboard.",
     "areas": [
@@ -2861,7 +2899,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "December 2025 Release"
   },
@@ -2880,7 +2918,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "December 2025 Release"
   },
@@ -17413,7 +17451,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 2,
     "milestone": "December 2025 Release"
   },
@@ -17448,7 +17486,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "December 2025 Release"
   },
@@ -20203,7 +20241,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 8,
     "milestone": "Backlog"
   },
@@ -20222,7 +20260,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -21740,7 +21778,7 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 12,
     "milestone": "December 2025 Release"
   },
@@ -21759,7 +21797,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 15,
     "milestone": "December 2025 Release"
   },
@@ -21923,7 +21961,7 @@
       "Extensibility"
     ],
     "priority": -1,
-    "type": "Feature Request",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
@@ -23154,10 +23192,10 @@
   },
   {
     "author": "dekiesel",
-    "closedAt": null,
+    "closedAt": "2025-10-23T00:21:17Z",
     "createdAt": "2021-04-21T13:14:51Z",
     "number": 16980,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/16980",
     "title": "Intellisense order: Fields first?",
     "areas": [
@@ -23168,7 +23206,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
@@ -24409,10 +24447,10 @@
   },
   {
     "author": "majkinetor",
-    "closedAt": null,
+    "closedAt": "2025-10-23T00:19:57Z",
     "createdAt": "2020-10-08T09:28:20Z",
     "number": 1762,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/1762",
     "title": "Single record view in SQL query results",
     "areas": [
@@ -24423,7 +24461,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -30521,12 +30559,12 @@
       "Query Result"
     ],
     "priority": -1,
-    "type": "Feature Request",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "dannyfraser",
@@ -32598,10 +32636,10 @@
   },
   {
     "author": "ransagy",
-    "closedAt": null,
+    "closedAt": "2025-10-23T00:14:55Z",
     "createdAt": "2017-07-17T17:04:23Z",
     "number": 946,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/946",
     "title": "Behavior of the 'Execute Current Statement' command",
     "areas": [
@@ -32612,7 +32650,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "December 2025 Release"
   },
   {
@@ -33147,10 +33185,10 @@
   },
   {
     "author": "kleinux",
-    "closedAt": null,
+    "closedAt": "2025-10-22T23:56:29Z",
     "createdAt": "2017-06-05T20:24:57Z",
     "number": 893,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/893",
     "title": "Search all schemas for a name",
     "areas": [
@@ -33161,7 +33199,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
