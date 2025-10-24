@@ -180,7 +180,9 @@ async function main() {
             const snapshotDateObj = new Date(snapshotDate);
 
             // Check if issue is open on snapshot date
-            const isOpen = createdAtDate <= snapshotDateObj && (!closedAtDate || closedAtDate > snapshotDateObj) && issue.milestone !== constants.BACKLOG_MILESTONE;
+            const isOpen = createdAtDate <= snapshotDateObj && (!closedAtDate || closedAtDate > snapshotDateObj);
+
+            const isTriaged = isOpen && issue.milestone !== constants.BACKLOG_MILESTONE;
 
             // Check if issue was created in the last 30 days
             const openedInLast30Days = createdAtDate > new Date(snapshotDateObj.getTime() - 30 * 24 * 60 * 60 * 1000) && createdAtDate <= snapshotDateObj;
@@ -198,7 +200,7 @@ async function main() {
             areasToUpdate.forEach(area => {
                 const record = areaRecords[area]!;
 
-                if (isOpen) {
+                if (isTriaged) {
                     record.open += 1;
 
                     (record as any)[ageBucket] += 1;
@@ -217,16 +219,6 @@ async function main() {
                 }
             });
         });
-
-        // Upsert rollup records for the current snapshot date
-        const areaRecordsToInsert = dataMap.get(snapshotDate)!;
-        for (const [area, rollup] of Object.entries(areaRecordsToInsert)) {
-            // upsertRollup.run({
-            //     snapshotDate,
-            //     area,
-            //     ...rollup
-            // });
-        }
 
         // Move to next day
         date.setDate(date.getDate() + 1);
