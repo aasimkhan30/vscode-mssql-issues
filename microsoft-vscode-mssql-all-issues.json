@@ -4324,10 +4324,10 @@
   },
   {
     "author": "AliSoltaniorg",
-    "closedAt": null,
+    "closedAt": "2025-10-24T19:23:13Z",
     "createdAt": "2025-06-11T07:35:33Z",
     "number": 19570,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19570",
     "title": "[Feature Request]: Collapsing feature for region",
     "areas": [
@@ -4338,7 +4338,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
