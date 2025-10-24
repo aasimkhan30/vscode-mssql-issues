@@ -42,7 +42,7 @@ if (!fs.existsSync(path.join(constants.projectRoot, CHARTS_PATH))) {
 function getLastSnapshotDate(chartsData: any): string | null {
     const chartDates = Object.keys(chartsData.charts || {});
     if (chartDates.length === 0) return null;
-    
+
     // Sort dates and get the latest
     chartDates.sort();
     const lastDate = chartDates[chartDates.length - 1];
@@ -58,11 +58,11 @@ function getNextDate(dateStr: string): string {
 
 async function main() {
     console.log('🔄 Starting incremental update...');
-    
+
     // Load existing charts data
     const chartsFileContent = await fs.promises.readFile(path.join(constants.projectRoot, CHARTS_PATH), 'utf-8');
     const existingChartsData = JSON.parse(chartsFileContent);
-    
+
     // Load latest issues data
     const inputFileContent = await fs.promises.readFile(path.join(constants.projectRoot, INPUT_PATH), 'utf-8');
     const issues = JSON.parse(inputFileContent) as constants.Issue[];
@@ -82,22 +82,22 @@ async function main() {
         console.error('No existing snapshot data found in charts file. Please run bootstrap first.');
         process.exit(1);
     }
-    
+
     console.log(`📅 Last snapshot date: ${lastSnapshotDate}`);
-    
+
     // Calculate date range for incremental update
     const startDate = getNextDate(lastSnapshotDate);
     const today = new Date();
     today.setHours(23, 59, 59, 999);
-    
+
     const startDateObj = new Date(startDate);
     startDateObj.setHours(0, 0, 0, 0);
-    
+
     if (startDateObj > today) {
         console.log('✅ Charts are already up to date!');
         return;
     }
-    
+
     console.log(`🔄 Updating from ${startDate} to ${today.toISOString().split('T')[0]}`);
 
     // Ensure database tables exist
@@ -144,11 +144,11 @@ async function main() {
 
     // Process incremental dates
     const dataMap = new Map<string, Record<string, constants.AreaSnapshotRollup>>();
-    
-    for (let date = new Date(startDateObj); date <= today; ) {
+
+    for (let date = new Date(startDateObj); date <= today;) {
         const snapshotDate: string = date.toISOString().split('T')[0]!; // Safe assertion
         console.log(`📊 Processing snapshot for: ${snapshotDate}`);
-        
+
         if (!dataMap.has(snapshotDate)) {
             dataMap.set(snapshotDate, {});
         }
@@ -161,7 +161,6 @@ async function main() {
                 areaRecords[area] = {
                     open: 0,
                     untriaged: 0,
-                    triaged: 0,
                     backlog: 0,
                     opened_last_30d: 0,
                     closed_last_30d: 0,
@@ -181,7 +180,7 @@ async function main() {
             const snapshotDateObj = new Date(snapshotDate);
 
             // Check if issue is open on snapshot date
-            const isOpen = createdAtDate <= snapshotDateObj && (!closedAtDate || closedAtDate > snapshotDateObj);
+            const isOpen = createdAtDate <= snapshotDateObj && (!closedAtDate || closedAtDate > snapshotDateObj) && issue.milestone !== constants.BACKLOG_MILESTONE;
 
             // Check if issue was created in the last 30 days
             const openedInLast30Days = createdAtDate > new Date(snapshotDateObj.getTime() - 30 * 24 * 60 * 60 * 1000) && createdAtDate <= snapshotDateObj;
@@ -198,18 +197,17 @@ async function main() {
 
             areasToUpdate.forEach(area => {
                 const record = areaRecords[area]!;
-                
+
                 if (isOpen) {
                     record.open += 1;
-                    if (issue.milestone === constants.BACKLOG_MILESTONE) {
-                        record.backlog += 1;
-                    }
-                    if (issue.areas.length === 0) {
-                        record.untriaged += 1;
-                    } else {
-                        record.triaged += 1;
-                    }
+
                     (record as any)[ageBucket] += 1;
+                }
+                if (issue.milestone === constants.BACKLOG_MILESTONE && issue.state === 'OPEN') {
+                    record.backlog += 1;
+                }
+                if (issue.areas.length === 0) {
+                    record.untriaged += 1;
                 }
                 if (openedInLast30Days) {
                     record.opened_last_30d += 1;
@@ -277,11 +275,11 @@ async function main() {
     };
 
     await fs.promises.writeFile(
-        path.join(constants.projectRoot, CHARTS_PATH), 
-        JSON.stringify(finalOutput, null, 2), 
+        path.join(constants.projectRoot, CHARTS_PATH),
+        JSON.stringify(finalOutput, null, 2),
         'utf-8'
     );
-    
+
     console.log(`✅ Updated charts data in ${CHARTS_PATH}`);
     console.log(`📊 Added ${Object.keys(newChartsData).length} new snapshot dates`);
     console.log(`🔄 Incremental update completed successfully!`);

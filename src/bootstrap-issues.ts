@@ -115,7 +115,6 @@ async function main() {
                 areaRecords[area] = {
                     open: 0,
                     untriaged: 0,
-                    triaged: 0,
                     backlog: 0,
                     opened_last_30d: 0,
                     closed_last_30d: 0,
@@ -135,7 +134,7 @@ async function main() {
             const snapshotDateObj = new Date(snapshotDate);
 
             // Check if issue is open on snapshotDate
-            const isOpen = createdAtDate <= snapshotDateObj && (!closedAtDate || closedAtDate > snapshotDateObj);
+            const isOpen = createdAtDate <= snapshotDateObj && (!closedAtDate || closedAtDate > snapshotDateObj) && issue.milestone !== constants.BACKLOG_MILESTONE;
 
             // Check if issue was created in the last 30 days from snapshotDate
             const openedInLast30Days = createdAtDate > new Date(snapshotDateObj.getTime() - 30 * 24 * 60 * 60 * 1000) && createdAtDate <= snapshotDateObj;
@@ -157,15 +156,13 @@ async function main() {
 
                 if (isOpen) {
                     record.open += 1;
-                    if (issue.milestone === constants.BACKLOG_MILESTONE) {
-                        record.backlog += 1;
-                    }
-                    if (issue.milestone === null) {
-                        record.untriaged += 1;
-                    } else {
-                        record.triaged += 1;
-                    }
                     (record as any)[ageBucket] += 1;
+                }
+                if (issue.milestone === constants.BACKLOG_MILESTONE && issue.state === 'OPEN') {
+                    record.backlog += 1;
+                }
+                if (issue.milestone === null) {
+                    record.untriaged += 1;
                 }
                 if (openedInLast30Days) {
                     record.opened_last_30d += 1;

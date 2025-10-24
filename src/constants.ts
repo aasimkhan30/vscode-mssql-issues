@@ -21,7 +21,6 @@ export interface Issue {
 export interface AreaSnapshotRollup {
     open: number;
     untriaged: number;
-    triaged: number;
     backlog: number;
     opened_last_30d: number;
     closed_last_30d: number;
@@ -68,7 +67,7 @@ export const UpdateLastRollupRunQuery = `
 
 export const ALL_AREAS_LABEL = "Area - All"
 
-export const BACKLOG_MILESTONE = "backlog";
+export const BACKLOG_MILESTONE = "Backlog";
 
 export const AGE_BUCKETS = [
     { key: "bucket_0_7", min: 0, max: 7 },
