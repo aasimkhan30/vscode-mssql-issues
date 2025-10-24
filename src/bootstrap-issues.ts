@@ -158,10 +158,10 @@ async function main() {
                     record.open += 1;
                     (record as any)[ageBucket] += 1;
                 }
-                if (issue.milestone === constants.BACKLOG_MILESTONE && issue.state === 'OPEN') {
+                if (issue.milestone === constants.BACKLOG_MILESTONE && isOpen) {
                     record.backlog += 1;
                 }
-                if (issue.milestone === null) {
+                if ((issue.milestone === undefined || issue.milestone === null) && isOpen) {
                     record.untriaged += 1;
                 }
                 if (openedInLast30Days) {
