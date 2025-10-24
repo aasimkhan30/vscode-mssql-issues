@@ -4067,12 +4067,12 @@
     "areas": [
       "Query Result"
     ],
-    "priority": 1,
+    "priority": -1,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 5,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -4147,7 +4147,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
