@@ -596,7 +596,7 @@
     "number": 20234,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20234",
-    "title": "Run arrow for SQL query easily lost in interface",
+    "title": "[Feature Request]: Run arrow for SQL query easily lost in interface",
     "areas": [
       "Query Editor"
     ],
@@ -2650,7 +2650,7 @@
       "Object Explorer"
     ],
     "priority": -1,
-    "type": "Both Bug and Feature",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
@@ -3249,7 +3249,7 @@
     "number": 19766,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19766",
-    "title": "Add support for the \"CREATE OR ALTER ...\" statement for SQL stored procedures",
+    "title": "[Feature Request]: Add support for the \"CREATE OR ALTER ...\" statement for SQL stored procedures",
     "areas": [
       "SQL Project"
     ],
@@ -4071,7 +4071,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -11581,7 +11581,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 61,
+    "totalReactions": 64,
     "commentCount": 17,
     "milestone": "November 2025 Release"
   },
@@ -12094,7 +12094,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 105,
+    "totalReactions": 107,
     "commentCount": 15,
     "milestone": "Backlog"
   },
