@@ -205,9 +205,17 @@ async function main() {
     console.log(`✅ Updated last rollup run date to ${nowIso}`);
 
     // write dataMap to output JSON file
-    const outputData: Record<string, Record<string, constants.AreaSnapshotRollup>> = {};
-    dataMap.forEach((value, key) => {
-        outputData[key] = value;
+    const outputData:
+        constants.AreaSnapshotRollupOutput[]
+        = [];
+    dataMap.forEach((areaRecords, snapshotDate) => {
+        for (const [area, rollup] of Object.entries(areaRecords)) {
+            outputData.push({
+                date: snapshotDate,
+                area,
+                ...rollup
+            });
+        }
     });
 
     // Get open issues with most reactions and elminate issues with no reactions

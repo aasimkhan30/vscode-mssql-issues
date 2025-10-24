@@ -242,9 +242,15 @@ async function main() {
     console.log(`✅ Updated last rollup run date to ${nowIso}`);
 
     // Merge new data with existing charts data
-    const newChartsData: Record<string, Record<string, constants.AreaSnapshotRollup>> = {};
+    const newChartsData: constants.AreaSnapshotRollupOutput[] = [];
     dataMap.forEach((value, key) => {
-        newChartsData[key] = value;
+        for (const [area, rollup] of Object.entries(value)) {
+            newChartsData.push({
+                date: key,
+                area,
+                ...rollup
+            });
+        }
     });
 
     // Update the existing charts data

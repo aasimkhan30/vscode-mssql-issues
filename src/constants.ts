@@ -32,6 +32,11 @@ export interface AreaSnapshotRollup {
     bucket_180_plus: number;
 }
 
+export interface AreaSnapshotRollupOutput extends AreaSnapshotRollup {
+    date: string;
+    area: string;
+}
+
 export const upsertSnapshotQuery = `
     INSERT INTO snapshots_rollup
             (snapshotDate, area, open, untriaged, triaged, backlog,
