@@ -13,8 +13,23 @@
   "license": "ISC",
   "author": "",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "dist/extract-issues.js",
   "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "watch:dev": "nodemon --watch src --ext ts --exec \"npm run dev\"",
+    "watch:ts": "nodemon --watch src --ext ts --exec \"npm run dev:ts\"",
+    "start": "node dist/extract-issues.js",
+    "dev": "tsc && node dist/extract-issues.js",
+    "dev:ts": "ts-node src/extract-issues.ts",
+    "clean": "rm -rf dist",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }

@@ -5,9 +5,6 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
   workflow_dispatch:
 permissions:
   contents: write
@@ -15,34 +12,47 @@ permissions:
 jobs:
     extract_data:
         runs-on: ubuntu-latest
+
         steps:
           - name: Checkout repository
-            uses: actions/checkout@v2
+            uses: actions/checkout@v4
+            with:
+              token: ${{ secrets.GITHUB_TOKEN }}
 
           - name: Set up Node.js
-            uses: actions/setup-node@v2
+            uses: actions/setup-node@v4
             with:
-              node-version: '16'
+              node-version: '20'
+              cache: 'npm'
 
           - name: Install dependencies
-            run: npm install
+            run: npm ci
+
+          - name: Authenticate GitHub CLI
+            run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+
+          - name: Build TypeScript
+            run: npm run build
 
           - name: Run issue analysis script
-            run: node extract-issues.js microsoft/vscode-mssql
+            run: npm start microsoft/vscode-mssql
             env:
               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-              REPO_NAME: 'microsoft/vscode-mssql-notes'
 
-          - name: Push JSON file to main branch if changed
+          - name: Commit and push results
             run: |
-              git config --local user.name "GitHub Actions"
-              git config --local user.email "actions@github.com"
-              git add *-all-issues.json
-              git add *-issues.csv
-              if [ -z "$(git status --porcelain)" ]; then
+              git config --local user.name "github-actions[bot]"
+              git config --local user.email "github-actions[bot]@users.noreply.github.com"
+              
+              # Add generated files
+              git add microsoft-vscode-mssql-all-issues.json || true
+              git add microsoft-vscode-mssql-issues.csv || true
+              
+              # Check if there are changes to commit
+              if git diff --staged --quiet; then
                 echo "No changes to commit."
                 exit 0
               fi
+              
               echo "Changes detected, committing and pushing."
-              git commit -m "Update issue analysis results"
               git push origin main
