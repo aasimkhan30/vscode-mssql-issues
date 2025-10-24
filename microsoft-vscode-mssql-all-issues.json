@@ -6650,7 +6650,7 @@
     "number": 19265,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19265",
-    "title": "\"Length\" field should be inline in Table Designer",
+    "title": "[Feature Request]:\"Length\" field should be inline in Table Designer",
     "areas": [
       "Table Designer"
     ],
@@ -6659,7 +6659,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
@@ -11894,7 +11894,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 85,
-    "commentCount": 30,
+    "commentCount": 31,
     "milestone": "December 2025 Release"
   },
   {
@@ -12095,7 +12095,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 105,
-    "commentCount": 14,
+    "commentCount": 15,
     "milestone": "Backlog"
   },
   {
@@ -15244,7 +15244,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
@@ -17638,10 +17638,10 @@
   },
   {
     "author": "gbrueckl",
-    "closedAt": null,
+    "closedAt": "2025-10-24T05:32:27Z",
     "createdAt": "2024-01-24T19:47:07Z",
     "number": 17869,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17869",
     "title": "Support for Synapse Analytics Lakehouses / Fabric",
     "areas": [
@@ -17652,7 +17652,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
