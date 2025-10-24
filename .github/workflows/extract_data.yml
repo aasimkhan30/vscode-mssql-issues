@@ -45,8 +45,7 @@ jobs:
               git config --local user.email "github-actions[bot]@users.noreply.github.com"
               
               # Add generated files
-              git add microsoft-vscode-mssql-all-issues.json || true
-              git add microsoft-vscode-mssql-issues.csv || true
+              git add .
               
               # Check if there are changes to commit
               if git diff --staged --quiet; then
