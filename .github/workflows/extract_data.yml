@@ -33,12 +33,28 @@ jobs:
           - name: Build TypeScript
             run: npm run build
 
-          - name: Run issue analysis script
+          # - name: Check if database exists
+          #   id: db_check
+          #   run: |
+          #     if [ -f "microsoft-vscode-mssql.db" ]; then
+          #       echo "database_exists=true" >> $GITHUB_OUTPUT
+          #       echo "Database found, will run incremental update"
+          #     else
+          #       echo "database_exists=false" >> $GITHUB_OUTPUT
+          #       echo "No database found, will run bootstrap"
+          #     fi
+
+          - name: Run issue extraction script
             run: npm start microsoft/vscode-mssql
             env:
               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+          - name: Run incremental update
+            continue-on-error: true
+            run: npm run incremental -- --inputPath microsoft-vscode-mssql-all-issues.json --dbPath microsoft-vscode-mssql.db --chartsPath microsoft-vscode-mssql-charts.json
+
           - name: Commit and push results
+            if: always()
             run: |
               git config --local user.name "github-actions[bot]"
               git config --local user.email "github-actions[bot]@users.noreply.github.com"

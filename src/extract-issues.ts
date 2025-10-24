@@ -1,6 +1,7 @@
 import { execSync, spawn, ChildProcessWithoutNullStreams } from "child_process";
 import fs from "fs";
 import path from "path";
+import { projectRoot } from "./constants";
 
 interface Author {
   login: string;
@@ -326,7 +327,6 @@ async function main(): Promise<void> {
   console.log(`✅ Processed ${issues.length} issues with areas and types`);
 
   // write this as json file (save to project root, not dist folder)
-  const projectRoot = path.join(__dirname, '..');
   const issuesFilePath: string = path.join(
     projectRoot,
     `${repoName.replace("/", "-")}-all-issues.json`

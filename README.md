@@ -41,6 +41,12 @@ npm run dev <repo-name>
 
 # Run TypeScript directly (development)
 npm run dev:ts <repo-name>
+
+# Bootstrap charts database (first time setup)
+npm run bootstrap -- --inputPath <issues.json> --dbPath <database.db> --outputPath <charts.json>
+
+# Incremental update (daily updates)
+npm run incremental -- --inputPath <issues.json> --dbPath <database.db> --chartsPath <charts.json>
 ```
 
 ### Example
