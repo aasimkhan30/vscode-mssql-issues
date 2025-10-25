@@ -102,6 +102,7 @@ export const mostCommentedIssues = (issues: Issue[]): {
     url: string;
     title: string;
     commentCount: number;
+    area: string;
 }[] => {
     return issues
         .filter(issue => issue.commentCount > 0 && issue.state === 'OPEN')
@@ -112,7 +113,8 @@ export const mostCommentedIssues = (issues: Issue[]): {
             number: issue.number,
             url: issue.url,
             title: issue.title,
-            commentCount: issue.commentCount
+            commentCount: issue.commentCount,
+            area: issue.areas.length > 0 ? issue.areas[0]! : "No Area"
         }));
 }
 
