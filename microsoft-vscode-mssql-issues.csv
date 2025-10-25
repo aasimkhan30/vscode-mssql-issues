@@ -1,4 +1,5 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"20356","[Feature Request]: Setting for turning -GeneralConnection application name suffix","hovek","OPEN","2025-10-25T01:14:09Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20356","0","-1",
 "20351","[Bug]: SQL Container connection hangs on first launch until VS Code is reloaded","croblesm","OPEN","2025-10-23T18:31:20Z",,"Local container","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20351","0","-1","December 2025 Release"
 "20350","[Bug]: XML query results not formatted when opened in a new document","croblesm","OPEN","2025-10-23T02:50:20Z",,"Query Result","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20350","0","-1","December 2025 Release"
 "20349","[Bug]: “MSSQL: Select Top 1000” command fails with Cannot read properties of undefined (reading 'nodeType')","croblesm","OPEN","2025-10-23T02:31:56Z",,"Scripting","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20349","0","-1","December 2025 Release"
