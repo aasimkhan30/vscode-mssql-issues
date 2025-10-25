@@ -1,5 +1,21 @@
 [
   {
+    "author": "hovek",
+    "closedAt": null,
+    "createdAt": "2025-10-25T01:14:09Z",
+    "number": 20356,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20356",
+    "title": "[Feature Request]: Setting for turning -GeneralConnection application name suffix",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "croblesm",
     "closedAt": null,
     "createdAt": "2025-10-23T18:31:20Z",
