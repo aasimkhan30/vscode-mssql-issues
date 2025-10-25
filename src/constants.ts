@@ -340,45 +340,53 @@ export const convertDataMapToOutput = (
 
 /**
  * Generates monthly trend data showing issues opened and closed per area for the last 6 months
+ * Uses chart data (historical snapshots) for accurate historical context
  */
-export const generateMonthlyTrend = (issues: Issue[], uniqueAreas: Set<string>): MonthlyTrend[] => {
+export const generateMonthlyTrend = (chartData: AreaSnapshotRollupOutput[]): MonthlyTrend[] => {
     const now = new Date();
     const monthlyData: MonthlyTrend[] = [];
+    
+    // Get all unique areas from chart data
+    const uniqueAreas = new Set<string>();
+    chartData.forEach(entry => uniqueAreas.add(entry.area));
     
     // Generate data for the last 6 months
     for (let i = 5; i >= 0; i--) {
         const monthDate = new Date(now.getFullYear(), now.getMonth() - i, 1);
         const monthString = monthDate.toISOString().slice(0, 7); // YYYY-MM format
         
-        // Get start and end of the month
-        const monthStart = new Date(monthDate.getFullYear(), monthDate.getMonth(), 1);
-        const monthEnd = new Date(monthDate.getFullYear(), monthDate.getMonth() + 1, 0, 23, 59, 59, 999);
-        
-        // Process each area (including Area-All)
+        // Process each area
         uniqueAreas.forEach(area => {
+            // Get chart entries for this area in this month, sorted by date
+            const monthEntries = chartData
+                .filter(entry => 
+                    entry.area === area && 
+                    entry.date.startsWith(monthString)
+                )
+                .sort((a, b) => a.date.localeCompare(b.date));
+            
             let issuesOpened = 0;
             let issuesClosed = 0;
             
-            issues.forEach(issue => {
-                // Check if this issue belongs to the current area or if we're processing "Area - All"
-                const belongsToArea = area === ALL_AREAS_LABEL || issue.areas.includes(area);
+            if (monthEntries.length > 0) {
+                // For monthly trends, we'll use the opened_last_30d and closed_last_30d values
+                // from the last day of the month as a representation of monthly activity
+                const lastDayEntry = monthEntries[monthEntries.length - 1]!;
                 
-                if (belongsToArea) {
-                    // Check if opened in this month
-                    const createdAt = new Date(issue.createdAt);
-                    if (createdAt >= monthStart && createdAt <= monthEnd) {
-                        issuesOpened++;
-                    }
-                    
-                    // Check if closed in this month
-                    if (issue.closedAt) {
-                        const closedAt = new Date(issue.closedAt);
-                        if (closedAt >= monthStart && closedAt <= monthEnd) {
-                            issuesClosed++;
-                        }
-                    }
-                }
-            });
+                // Use the rolling 30-day values from the end of the month
+                // This gives us an approximation of activity during that month
+                issuesOpened = lastDayEntry.opened_last_30d;
+                issuesClosed = lastDayEntry.closed_last_30d;
+                
+                // Alternative approach: average the rolling windows throughout the month
+                // This smooths out daily variations
+                const avgOpened = monthEntries.reduce((sum, entry) => sum + entry.opened_last_30d, 0) / monthEntries.length;
+                const avgClosed = monthEntries.reduce((sum, entry) => sum + entry.closed_last_30d, 0) / monthEntries.length;
+                
+                // Use the average approach for more stable monthly trends
+                issuesOpened = Math.round(avgOpened);
+                issuesClosed = Math.round(avgClosed);
+            }
             
             monthlyData.push({
                 month: monthString,
@@ -396,8 +404,6 @@ export const generateMonthlyTrend = (issues: Issue[], uniqueAreas: Set<string>):
  * Creates the complete output object with all issue lists and charts
  */
 export const createCompleteOutput = (issues: Issue[], charts: AreaSnapshotRollupOutput[]) => {
-    const uniqueAreas = getUniqueAreas(issues);
-    
     return {
         mostReactedIssues: mostReactedIssues(issues),
         mostCommentedIssues: mostCommentedIssues(issues),
@@ -405,7 +411,7 @@ export const createCompleteOutput = (issues: Issue[], charts: AreaSnapshotRollup
         noMilestoneIssues: noMilestoneIssues(issues),
         backlogIssues: backlogIssues(issues),
         charts,
-        MonthlyTrend: generateMonthlyTrend(issues, uniqueAreas),
+        MonthlyTrend: generateMonthlyTrend(charts),
     };
 }
 
