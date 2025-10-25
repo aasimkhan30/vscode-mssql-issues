@@ -36,6 +36,13 @@ export interface AreaSnapshotRollupOutput extends AreaSnapshotRollup {
     area: string;
 }
 
+export interface MonthlyTrend {
+    month: string; // YYYY-MM format
+    area: string;
+    issuesOpened: number;
+    issuesClosed: number;
+}
+
 export const upsertSnapshotQuery = `
     INSERT INTO snapshots_rollup
             (snapshotDate, area, open, untriaged, triaged, backlog,
@@ -89,30 +96,90 @@ export const getAgeBucket = (baseDate: Date, createdAt: string): string => {
     return "unknown";
 }
 
-export const mostCommentedIssues = (issues: Issue[]): Issue[] => {
+export const mostCommentedIssues = (issues: Issue[]): {
+    author: string;
+    number: number;
+    url: string;
+    title: string;
+    commentCount: number;
+}[] => {
     return issues
         .filter(issue => issue.commentCount > 0 && issue.state === 'OPEN')
         .sort((a, b) => b.commentCount - a.commentCount)
-        .slice(0, 100);
+        .slice(0, 100)
+        .map(issue => ({
+            author: issue.author,
+            number: issue.number,
+            url: issue.url,
+            title: issue.title,
+            commentCount: issue.commentCount
+        }));
 }
 
-export const mostReactedIssues = (issues: Issue[]): Issue[] => {
+export const mostReactedIssues = (issues: Issue[]): {
+    author: string;
+    number: number;
+    url: string;
+    title: string;
+    totalReactions: number;
+}[] => {
     return issues
         .filter(issue => issue.totalReactions > 0 && issue.state === 'OPEN')
         .sort((a, b) => b.totalReactions - a.totalReactions)
-        .slice(0, 100);
+        .slice(0, 100)
+        .map(issue => ({
+            author: issue.author,
+            number: issue.number,
+            url: issue.url,
+            title: issue.title,
+            totalReactions: issue.totalReactions
+        }));
 }
 
-export const noAreaIssues = (issues: Issue[]): Issue[] => {
-    return issues.filter(issue => issue.areas.length === 0 && issue.state === 'OPEN');
+export const noAreaIssues = (issues: Issue[]): {
+    createdAt: string;
+    number: string;
+    url: string;
+    title: string;
+}[] => {
+    return issues.filter(issue => issue.areas.length === 0 && issue.state === 'OPEN').map((issue) => ({
+        createdAt: issue.createdAt,
+        number: issue.number.toString(),
+        url: issue.url,
+        title: issue.title
+    }));
 }
 
-export const noMilestoneIssues = (issues: Issue[]): Issue[] => {
-    return issues.filter(issue => issue.milestone === null && issue.state === 'OPEN');
+export const noMilestoneIssues = (issues: Issue[]): {
+    createdAt: string;
+    number: string;
+    url: string;
+    title: string;
+}[] => {
+    return issues.filter(issue => (issue.milestone === null || issue.milestone === undefined) && issue.state === 'OPEN').map((issue) => ({
+        createdAt: issue.createdAt,
+        number: issue.number.toString(),
+        url: issue.url,
+        title: issue.title
+    }));
 }
 
-export const backlogIssues = (issues: Issue[]): Issue[] => {
-    return issues.filter(issue => issue.milestone === BACKLOG_MILESTONE && issue.state === 'OPEN');
+export const backlogIssues = (issues: Issue[]): {
+    createdAt: string;
+    number: string;
+    url: string;
+    title: string;
+    commentCount: number;
+    totalReactions: number;
+}[] => {
+    return issues.filter(issue => issue.milestone === BACKLOG_MILESTONE && issue.state === 'OPEN').map((issue) => ({
+        createdAt: issue.createdAt,
+        number: issue.number.toString(),
+        url: issue.url,
+        title: issue.title,
+        commentCount: issue.commentCount,
+        totalReactions: issue.totalReactions
+    }));
 }
 
 // Common processing functions to reduce redundancy
@@ -249,7 +316,7 @@ export const convertDataMapToOutput = (
     dataMap: Map<string, Record<string, AreaSnapshotRollup>>
 ): AreaSnapshotRollupOutput[] => {
     const outputData: AreaSnapshotRollupOutput[] = [];
-    
+
     dataMap.forEach((areaRecords, snapshotDate) => {
         for (const [area, rollup] of Object.entries(areaRecords)) {
             outputData.push({
@@ -264,9 +331,65 @@ export const convertDataMapToOutput = (
 }
 
 /**
+ * Generates monthly trend data showing issues opened and closed per area for the last 6 months
+ */
+export const generateMonthlyTrend = (issues: Issue[], uniqueAreas: Set<string>): MonthlyTrend[] => {
+    const now = new Date();
+    const monthlyData: MonthlyTrend[] = [];
+    
+    // Generate data for the last 6 months
+    for (let i = 5; i >= 0; i--) {
+        const monthDate = new Date(now.getFullYear(), now.getMonth() - i, 1);
+        const monthString = monthDate.toISOString().slice(0, 7); // YYYY-MM format
+        
+        // Get start and end of the month
+        const monthStart = new Date(monthDate.getFullYear(), monthDate.getMonth(), 1);
+        const monthEnd = new Date(monthDate.getFullYear(), monthDate.getMonth() + 1, 0, 23, 59, 59, 999);
+        
+        // Process each area (including Area-All)
+        uniqueAreas.forEach(area => {
+            let issuesOpened = 0;
+            let issuesClosed = 0;
+            
+            issues.forEach(issue => {
+                // Check if this issue belongs to the current area or if we're processing "Area - All"
+                const belongsToArea = area === ALL_AREAS_LABEL || issue.areas.includes(area);
+                
+                if (belongsToArea) {
+                    // Check if opened in this month
+                    const createdAt = new Date(issue.createdAt);
+                    if (createdAt >= monthStart && createdAt <= monthEnd) {
+                        issuesOpened++;
+                    }
+                    
+                    // Check if closed in this month
+                    if (issue.closedAt) {
+                        const closedAt = new Date(issue.closedAt);
+                        if (closedAt >= monthStart && closedAt <= monthEnd) {
+                            issuesClosed++;
+                        }
+                    }
+                }
+            });
+            
+            monthlyData.push({
+                month: monthString,
+                area,
+                issuesOpened,
+                issuesClosed
+            });
+        });
+    }
+    
+    return monthlyData;
+}
+
+/**
  * Creates the complete output object with all issue lists and charts
  */
 export const createCompleteOutput = (issues: Issue[], charts: AreaSnapshotRollupOutput[]) => {
+    const uniqueAreas = getUniqueAreas(issues);
+    
     return {
         mostReactedIssues: mostReactedIssues(issues),
         mostCommentedIssues: mostCommentedIssues(issues),
@@ -274,6 +397,7 @@ export const createCompleteOutput = (issues: Issue[], charts: AreaSnapshotRollup
         noMilestoneIssues: noMilestoneIssues(issues),
         backlogIssues: backlogIssues(issues),
         charts,
+        MonthlyTrend: generateMonthlyTrend(issues, uniqueAreas),
     };
 }
 
@@ -289,7 +413,7 @@ export const processDateRange = (
 ): void => {
     for (let date = new Date(startDate); date <= endDate;) {
         const snapshotDate = date.toISOString().split('T')[0] as string;
-        
+
         // Initialize area records for this date
         const areaRecords = initializeAreaRecords(dataMap, snapshotDate, uniqueAreas);
 
