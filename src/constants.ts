@@ -122,6 +122,7 @@ export const mostReactedIssues = (issues: Issue[]): {
     url: string;
     title: string;
     totalReactions: number;
+    area: string;
 }[] => {
     return issues
         .filter(issue => issue.totalReactions > 0 && issue.state === 'OPEN')
@@ -132,7 +133,8 @@ export const mostReactedIssues = (issues: Issue[]): {
             number: issue.number,
             url: issue.url,
             title: issue.title,
-            totalReactions: issue.totalReactions
+            totalReactions: issue.totalReactions,
+            area: issue.areas.length > 0 ? issue.areas[0]! : "No Area"
         }));
 }
 
@@ -146,7 +148,7 @@ export const noAreaIssues = (issues: Issue[]): {
         createdAt: issue.createdAt,
         number: issue.number.toString(),
         url: issue.url,
-        title: issue.title
+        title: issue.title,
     }));
 }
 
@@ -155,12 +157,14 @@ export const noMilestoneIssues = (issues: Issue[]): {
     number: string;
     url: string;
     title: string;
+    area: string;
 }[] => {
     return issues.filter(issue => (issue.milestone === null || issue.milestone === undefined) && issue.state === 'OPEN').map((issue) => ({
         createdAt: issue.createdAt,
         number: issue.number.toString(),
         url: issue.url,
-        title: issue.title
+        title: issue.title,
+        area: issue.areas.length > 0 ? issue.areas[0]! : "No Area"
     }));
 }
 
@@ -171,6 +175,7 @@ export const backlogIssues = (issues: Issue[]): {
     title: string;
     commentCount: number;
     totalReactions: number;
+    area: string;
 }[] => {
     return issues.filter(issue => issue.milestone === BACKLOG_MILESTONE && issue.state === 'OPEN').map((issue) => ({
         createdAt: issue.createdAt,
@@ -178,7 +183,8 @@ export const backlogIssues = (issues: Issue[]): {
         url: issue.url,
         title: issue.title,
         commentCount: issue.commentCount,
-        totalReactions: issue.totalReactions
+        totalReactions: issue.totalReactions,
+        area: issue.areas.length > 0 ? issue.areas[0]! : "No Area"
     }));
 }
 
