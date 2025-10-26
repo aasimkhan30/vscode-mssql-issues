@@ -51,7 +51,7 @@ jobs:
 
           - name: Run incremental update
             continue-on-error: true
-            run: npm run incremental -- --inputPath microsoft-vscode-mssql-all-issues.json --chartsPath microsoft-vscode-mssql-charts.json
+            run: npm run incremental --inputPath microsoft-vscode-mssql-all-issues.json --chartsPath microsoft-vscode-mssql-charts.json
 
           - name: Commit and push results
             if: always()

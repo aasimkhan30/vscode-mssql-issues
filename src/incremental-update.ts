@@ -40,13 +40,15 @@ if (!fs.existsSync(path.join(constants.projectRoot, CHARTS_PATH))) {
 //const database = new BetterSqlite3(path.join(constants.projectRoot, DB_PATH));
 
 function getLastSnapshotDate(chartsData: any): string | null {
-    const chartDates = Object.keys(chartsData.charts || {});
-    if (chartDates.length === 0) return null;
+    const charts = chartsData.charts || [];
+    if (charts.length === 0) return null;
 
-    // Sort dates and get the latest
-    chartDates.sort();
+    // Get all unique dates and sort them
+    const chartDates = Array.from(new Set(charts.map((entry: any) => entry.date))).sort();
+    
+    // Return the latest date
     const lastDate = chartDates[chartDates.length - 1];
-    return lastDate || null;
+    return typeof lastDate === 'string' ? lastDate : null;
 }
 
 function getNextDate(dateStr: string): string {
@@ -111,17 +113,12 @@ async function main() {
     // Convert new data to output format
     const newChartsData = constants.convertDataMapToOutput(dataMap);
 
-    // Update the existing charts data
-    const updatedChartsData = {
-        ...existingChartsData.charts,
-        ...newChartsData
-    };
+    // Merge existing charts with new charts data
+    const existingCharts = existingChartsData.charts || [];
+    const mergedCharts = [...existingCharts, ...newChartsData];
 
     // Create the complete output with updated data
-    const finalOutput = {
-        ...constants.createCompleteOutput(issues, updatedChartsData),
-        charts: updatedChartsData, // Override charts with merged data
-    };
+    const finalOutput = constants.createCompleteOutput(issues, mergedCharts);
 
     await fs.promises.writeFile(
         path.join(constants.projectRoot, CHARTS_PATH),
