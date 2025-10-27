@@ -83,19 +83,25 @@ async function main() {
     console.log(`📅 Last snapshot date: ${lastSnapshotDate}`);
 
     // Calculate date range for incremental update
-    const startDate = getNextDate(lastSnapshotDate);
     const today = new Date();
+    const todayStr = today.toISOString().split('T')[0];
+    
+    // If last snapshot is today, we still want to update today's data
+    // If last snapshot is before today, start from the next day
+    const startDate = lastSnapshotDate === todayStr ? todayStr : getNextDate(lastSnapshotDate);
+    
     today.setHours(23, 59, 59, 999);
 
-    const startDateObj = new Date(startDate);
-    startDateObj.setHours(0, 0, 0, 0);
+    // Create proper date objects for the range
+    const startDateObj = new Date(startDate + 'T00:00:00.000Z');
+    const endDateObj = new Date(todayStr + 'T23:59:59.999Z');
 
-    if (startDateObj > today) {
+    if (startDateObj > endDateObj) {
         console.log('✅ Charts are already up to date!');
         return;
     }
 
-    console.log(`🔄 Updating from ${startDate} to ${today.toISOString().split('T')[0]}`);
+    console.log(`🔄 Updating from ${startDate} to ${todayStr}`);
 
     // Get unique areas from issues
     const uniqueAreas = constants.getUniqueAreas(issues);
@@ -104,7 +110,7 @@ async function main() {
     const dataMap = new Map<string, Record<string, constants.AreaSnapshotRollup>>();
     
     // Process the date range
-    constants.processDateRange(issues, startDateObj, today, dataMap, uniqueAreas);
+    constants.processDateRange(issues, startDateObj, endDateObj, dataMap, uniqueAreas);
 
     // Update last run date
     const nowIso = new Date().toISOString();
@@ -113,8 +119,21 @@ async function main() {
     // Convert new data to output format
     const newChartsData = constants.convertDataMapToOutput(dataMap);
 
-    // Merge existing charts with new charts data
-    const existingCharts = existingChartsData.charts || [];
+    // Get the date range we're updating to remove existing entries for these dates
+    const updatingDates = new Set<string>();
+    for (let date = new Date(startDateObj); date <= today; date.setDate(date.getDate() + 1)) {
+        const dateStr = date.toISOString().split('T')[0];
+        if (dateStr) {
+            updatingDates.add(dateStr);
+        }
+    }
+
+    // Filter out existing entries for dates we're updating to avoid duplicates
+    const existingCharts = (existingChartsData.charts || []).filter((entry: any) => 
+        !updatingDates.has(entry.date)
+    );
+    
+    // Merge filtered existing charts with new charts data
     const mergedCharts = [...existingCharts, ...newChartsData];
 
     // Create the complete output with updated data

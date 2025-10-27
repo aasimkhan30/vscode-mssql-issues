@@ -425,8 +425,12 @@ export const processDateRange = (
     dataMap: Map<string, Record<string, AreaSnapshotRollup>>,
     uniqueAreas: Set<string>
 ): void => {
-    for (let date = new Date(startDate); date <= endDate;) {
-        const snapshotDate = date.toISOString().split('T')[0] as string;
+    // Create a new date object to avoid mutating the original
+    const currentDate = new Date(startDate);
+    const endDateOnly = new Date(endDate.getFullYear(), endDate.getMonth(), endDate.getDate());
+    
+    while (currentDate <= endDateOnly) {
+        const snapshotDate = currentDate.toISOString().split('T')[0] as string;
 
         // Initialize area records for this date
         const areaRecords = initializeAreaRecords(dataMap, snapshotDate, uniqueAreas);
@@ -439,6 +443,6 @@ export const processDateRange = (
         console.log(`✅ Processed snapshot for date: ${snapshotDate}`);
 
         // Move to next day
-        date.setDate(date.getDate() + 1);
+        currentDate.setDate(currentDate.getDate() + 1);
     }
 }
