@@ -340,7 +340,7 @@ export const convertDataMapToOutput = (
 
 /**
  * Generates monthly trend data showing issues opened and closed per area for the last 6 months
- * Uses chart data (historical snapshots) for accurate historical context
+ * Uses chart data to calculate exact monthly counts by tracking daily changes
  */
 export const generateMonthlyTrend = (chartData: AreaSnapshotRollupOutput[]): MonthlyTrend[] => {
     const now = new Date();
@@ -355,37 +355,53 @@ export const generateMonthlyTrend = (chartData: AreaSnapshotRollupOutput[]): Mon
         const monthDate = new Date(now.getFullYear(), now.getMonth() - i, 1);
         const monthString = monthDate.toISOString().slice(0, 7); // YYYY-MM format
         
+        // Get start and end dates for the month
+        const monthStart = monthDate.toISOString().slice(0, 10); // YYYY-MM-DD
+        const nextMonth = new Date(monthDate.getFullYear(), monthDate.getMonth() + 1, 1);
+        const monthEnd = new Date(nextMonth.getTime() - 1).toISOString().slice(0, 10); // Last day of month
+        
         // Process each area
         uniqueAreas.forEach(area => {
-            // Get chart entries for this area in this month, sorted by date
-            const monthEntries = chartData
-                .filter(entry => 
-                    entry.area === area && 
-                    entry.date.startsWith(monthString)
-                )
+            // Get all chart entries for this area, sorted by date
+            const areaEntries = chartData
+                .filter(entry => entry.area === area)
                 .sort((a, b) => a.date.localeCompare(b.date));
             
             let issuesOpened = 0;
             let issuesClosed = 0;
             
-            if (monthEntries.length > 0) {
-                // For monthly trends, we'll use the opened_last_30d and closed_last_30d values
-                // from the last day of the month as a representation of monthly activity
-                const lastDayEntry = monthEntries[monthEntries.length - 1]!;
+            // Find entries within and around the month to calculate exact values
+            for (let j = 0; j < areaEntries.length; j++) {
+                const currentEntry = areaEntries[j]!;
+                const currentDate = currentEntry.date;
                 
-                // Use the rolling 30-day values from the end of the month
-                // This gives us an approximation of activity during that month
-                issuesOpened = lastDayEntry.opened_last_30d;
-                issuesClosed = lastDayEntry.closed_last_30d;
+                // Skip entries that are outside our calculation range
+                if (currentDate < monthStart || currentDate > monthEnd) {
+                    continue;
+                }
                 
-                // Alternative approach: average the rolling windows throughout the month
-                // This smooths out daily variations
-                const avgOpened = monthEntries.reduce((sum, entry) => sum + entry.opened_last_30d, 0) / monthEntries.length;
-                const avgClosed = monthEntries.reduce((sum, entry) => sum + entry.closed_last_30d, 0) / monthEntries.length;
+                // For exact calculation, we need to find the delta between consecutive days
+                // and attribute the change to the specific month
+                const prevEntry = j > 0 ? areaEntries[j - 1] : null;
                 
-                // Use the average approach for more stable monthly trends
-                issuesOpened = Math.round(avgOpened);
-                issuesClosed = Math.round(avgClosed);
+                if (prevEntry) {
+                    // Calculate the change in rolling windows from previous day
+                    const openedDelta = currentEntry.opened_last_30d - prevEntry.opened_last_30d;
+                    const closedDelta = currentEntry.closed_last_30d - prevEntry.closed_last_30d;
+                    
+                    // Add positive deltas (these represent new activity entering the window)
+                    if (openedDelta > 0) {
+                        issuesOpened += openedDelta;
+                    }
+                    if (closedDelta > 0) {
+                        issuesClosed += closedDelta;
+                    }
+                } else if (currentDate === monthStart) {
+                    // For the first day of the month, use the current values
+                    // as baseline (this handles the case where we don't have previous data)
+                    issuesOpened += currentEntry.opened_last_30d;
+                    issuesClosed += currentEntry.closed_last_30d;
+                }
             }
             
             monthlyData.push({

@@ -12,7 +12,7 @@ The JSON file contains 7 main sections:
 4. **`noMilestoneIssues`** - Open issues without milestones
 5. **`backlogIssues`** - Issues in the "Backlog" milestone
 6. **`charts`** - Daily time-series data
-7. **`MonthlyTrend`** - Monthly aggregated trend data
+4. **`MonthlyTrend`**: Monthly trend data is calculated by tracking daily changes in rolling window metrics from historical chart data, providing exact monthly counts while preserving historical accuracy of issue categorization.
 
 ## Detailed Schema
 
@@ -123,7 +123,7 @@ The core analytics data providing daily snapshots of issue metrics:
 
 ### Monthly Trend Structure
 
-Aggregated monthly data for the last 6 months:
+Aggregated monthly data for the last 6 months using absolute month boundaries:
 
 ```json
 {
@@ -131,12 +131,13 @@ Aggregated monthly data for the last 6 months:
     {
       "month": "YYYY-MM",           // Month in YYYY-MM format
       "area": "string",             // Product area or "Area - All" for totals
-      "issuesOpened": number,       // Approximate issues opened in this month
-      "issuesClosed": number        // Approximate issues closed in this month
+      "issuesOpened": number,       // Exact count of issues opened during this calendar month
+      "issuesClosed": number        // Exact count of issues closed during this calendar month
     }
   ]
 }
 ```
+
 
 ## Key Metrics Explained
 
