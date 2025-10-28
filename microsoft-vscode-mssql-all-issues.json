@@ -1,5 +1,53 @@
 [
   {
+    "author": "Swati1700",
+    "closedAt": null,
+    "createdAt": "2025-10-27T17:28:45Z",
+    "number": 20359,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20359",
+    "title": "Focus is not moving to \"line1\" link separately, entire line is treated as one interactive element: A11y_MSSQL for VSCode_Execute Query_Keyboard",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Swati1700",
+    "closedAt": null,
+    "createdAt": "2025-10-27T17:12:21Z",
+    "number": 20358,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20358",
+    "title": "After \"Hide Panel\" button, focus is lost and goes to an unexpected location on the screen instead of Messages or results tab: A11y_MSSQL for VSCode_Execute Query_Keyboard",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "amthomas46",
+    "closedAt": null,
+    "createdAt": "2025-10-27T16:47:42Z",
+    "number": 20357,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20357",
+    "title": "[Bug]: mssql and postgres extension don't play nicely together",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "hovek",
     "closedAt": null,
     "createdAt": "2025-10-25T01:14:09Z",
@@ -2978,10 +3026,10 @@
   },
   {
     "author": "ganagdhar123",
-    "closedAt": null,
+    "closedAt": "2025-10-27T18:00:12Z",
     "createdAt": "2025-07-21T09:50:15Z",
     "number": 19813,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19813",
     "title": "Name property is not provided to the combo-box present throughout the application.: A11y_MSSQL for VSCode_User can create New Table_Add/delete Column_Devtools",
     "areas": [
@@ -8501,21 +8549,21 @@
   },
   {
     "author": "ManishaC1",
-    "closedAt": null,
+    "closedAt": "2025-10-27T18:16:23Z",
     "createdAt": "2025-04-04T08:50:05Z",
     "number": 19079,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19079",
     "title": "No single pointer provided to drag the columns to the required position: A11y_MSSQL for VSCode_Add Connection_Dragging Movements",
     "areas": [
       "Query Result"
     ],
-    "priority": 1,
+    "priority": -1,
     "type": null,
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "January 2026 Release"
   },
   {
@@ -10647,10 +10695,10 @@
   },
   {
     "author": "tune007",
-    "closedAt": null,
+    "closedAt": "2025-10-27T19:28:48Z",
     "createdAt": "2025-02-25T15:10:57Z",
     "number": 18846,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18846",
     "title": "[Feature Request]: Open XML (Execution plans) automatically with Query plan analyzer",
     "areas": [
@@ -10662,7 +10710,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 4,
-    "milestone": "Backlog"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "tune007",
@@ -10717,7 +10765,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "August 2025 Release"
   },
   {
@@ -11910,7 +11958,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 85,
-    "commentCount": 31,
+    "commentCount": 32,
     "milestone": "December 2025 Release"
   },
   {
@@ -17492,10 +17540,10 @@
   },
   {
     "author": "aniketr99",
-    "closedAt": null,
+    "closedAt": "2025-10-27T17:54:43Z",
     "createdAt": "2024-02-26T13:21:10Z",
     "number": 17879,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17879",
     "title": "Tooltip present on connections and query history is not accessible with keyboard: A11y_mssql for VSCode_mssql Extension_Connections_Keyboard",
     "areas": [
@@ -17506,7 +17554,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "December 2025 Release"
   },
   {
@@ -17527,22 +17575,22 @@
   },
   {
     "author": "aniketr99",
-    "closedAt": null,
+    "closedAt": "2025-10-27T18:14:03Z",
     "createdAt": "2024-02-26T11:13:01Z",
     "number": 17877,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17877",
     "title": "Line1 is incorrectly defined as link: A11y_mssql for VSCode_mssql Extension_Select top 1000 Results window_Usability",
     "areas": [
       "Query Editor"
     ],
     "priority": -1,
-    "type": "Bug",
+    "type": null,
     "hasArea": true,
-    "hasType": true,
+    "hasType": false,
     "totalReactions": 1,
-    "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "commentCount": 3,
+    "milestone": "Backlog"
   },
   {
     "author": "aniketr99",
@@ -20282,21 +20330,21 @@
   },
   {
     "author": "prabhudevu",
-    "closedAt": null,
+    "closedAt": "2025-10-27T18:13:29Z",
     "createdAt": "2022-09-16T10:56:42Z",
     "number": 17447,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17447",
     "title": "A11y_mssql for VSCode_Message Window_Keyboard:On pressing tab key from \"More actions\" keyboard focus is going to bottom status bar instead of going to the \"Results\" dropdown.",
     "areas": [
       "Query Result"
     ],
     "priority": -1,
-    "type": "Bug",
+    "type": null,
     "hasArea": true,
-    "hasType": true,
+    "hasType": false,
     "totalReactions": 1,
-    "commentCount": 8,
+    "commentCount": 10,
     "milestone": "Backlog"
   },
   {
@@ -20311,11 +20359,11 @@
       "Query Editor"
     ],
     "priority": -1,
-    "type": "Bug",
+    "type": null,
     "hasArea": true,
-    "hasType": true,
+    "hasType": false,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -21821,19 +21869,19 @@
   },
   {
     "author": "Roopesh-T",
-    "closedAt": null,
+    "closedAt": "2025-10-27T18:12:33Z",
     "createdAt": "2022-01-11T07:04:22Z",
     "number": 17202,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17202",
     "title": "A11y_mssql for VSCode_Select top 1000 _Keyboard:When using arrow keys to move to \"split editor right\" icon, tooltip is not available with the keyboard keys.",
     "areas": [],
     "priority": -1,
-    "type": "Bug",
+    "type": null,
     "hasArea": false,
-    "hasType": true,
+    "hasType": false,
     "totalReactions": 1,
-    "commentCount": 12,
+    "commentCount": 14,
     "milestone": "December 2025 Release"
   },
   {
