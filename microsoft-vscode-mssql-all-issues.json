@@ -1,5 +1,55 @@
 [
   {
+    "author": "altius-joe",
+    "closedAt": null,
+    "createdAt": "2025-10-29T00:51:24Z",
+    "number": 20370,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20370",
+    "title": "[Feature Request]: Store query result pane window height per tab",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "altius-joe",
+    "closedAt": null,
+    "createdAt": "2025-10-29T00:42:40Z",
+    "number": 20369,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20369",
+    "title": "[Feature Request]: Ability to set cell padding in query results",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": "2025-10-28T20:36:39Z",
+    "createdAt": "2025-10-28T17:03:43Z",
+    "number": 20363,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20363",
+    "title": "Query plan XML from tables doesn’t open in execution plan tab",
+    "areas": [
+      "Query Plan"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Swati1700",
     "closedAt": null,
     "createdAt": "2025-10-27T17:28:45Z",
@@ -832,7 +882,7 @@
     "title": "[Bug]: provisioning and connecting to SQL DB in Fabric takes a long time",
     "areas": [
       "Connection",
-      "Fabric Integration"
+      "Fabric Provisioning"
     ],
     "priority": -1,
     "type": "Bug",
@@ -1854,7 +1904,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/20042",
     "title": "[Bug]: \"Container does not exist\" when trying to connect",
     "areas": [
-      "Local container"
+      "Connection"
     ],
     "priority": 1,
     "type": "Bug",
@@ -2393,10 +2443,10 @@
   },
   {
     "author": "Netcare-Lerena",
-    "closedAt": null,
+    "closedAt": "2025-10-28T22:43:27Z",
     "createdAt": "2025-08-11T13:30:24Z",
     "number": 19931,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19931",
     "title": "Reauthentication prompts very frequesntly",
     "areas": [
@@ -2613,10 +2663,10 @@
   },
   {
     "author": "keen85",
-    "closedAt": null,
+    "closedAt": "2025-10-28T22:43:26Z",
     "createdAt": "2025-08-01T09:54:31Z",
     "number": 19869,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19869",
     "title": "[Bug]: Azure SQL + Entra MFA → re-authentication required for every new query tab",
     "areas": [
@@ -2912,10 +2962,10 @@
   },
   {
     "author": "ganagdhar123",
-    "closedAt": null,
+    "closedAt": "2025-10-28T21:12:35Z",
     "createdAt": "2025-07-22T11:04:14Z",
     "number": 19822,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19822",
     "title": "User is not able to resize column headers of the grid present under “Result” tab item using single pointer mode of operation:A11y_MSSQL for VSCode_Connection database_Adding New Query_Dragging movements",
     "areas": [
@@ -4921,7 +4971,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "November 2025 Release"
   },
   {
@@ -5128,7 +5178,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "November 2025 Release"
   },
   {
@@ -11957,7 +12007,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 85,
+    "totalReactions": 86,
     "commentCount": 32,
     "milestone": "December 2025 Release"
   },
@@ -12202,10 +12252,10 @@
   },
   {
     "author": "kkum",
-    "closedAt": null,
+    "closedAt": "2025-10-28T21:33:08Z",
     "createdAt": "2025-02-04T13:52:39Z",
     "number": 18614,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18614",
     "title": "Question/Enhacement : Choose where to save connections / do not update user settings",
     "areas": [
@@ -20349,10 +20399,10 @@
   },
   {
     "author": "prabhudevu",
-    "closedAt": null,
+    "closedAt": "2025-10-28T18:12:05Z",
     "createdAt": "2022-09-16T10:26:14Z",
     "number": 17446,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17446",
     "title": "A11y_mssql for VSCode_Select top 1000 _Keyboard: Tooltip for \"split editor right\" is not accessible with tab key and Arrow keys ",
     "areas": [
