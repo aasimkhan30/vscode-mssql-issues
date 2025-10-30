@@ -1,5 +1,21 @@
 [
   {
+    "author": "cbks-acc",
+    "closedAt": null,
+    "createdAt": "2025-10-29T14:55:46Z",
+    "number": 20372,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20372",
+    "title": "[Bug]: MS Fabric Data Warehouse deployment failure",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "altius-joe",
     "closedAt": null,
     "createdAt": "2025-10-29T00:51:24Z",
@@ -739,7 +755,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "December 2025 Release"
   },
   {
@@ -2110,8 +2126,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0,
+    "totalReactions": 1,
+    "commentCount": 2,
     "milestone": "November 2025 Release"
   },
   {
@@ -4285,10 +4301,10 @@
   },
   {
     "author": "txh57",
-    "closedAt": null,
+    "closedAt": "2025-10-30T00:10:39Z",
     "createdAt": "2025-06-13T08:24:14Z",
     "number": 19602,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19602",
     "title": "[Bug]: Cannot connect to SQL database of Power Platform environment",
     "areas": [
@@ -4299,7 +4315,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "November 2025 Release"
   },
   {
