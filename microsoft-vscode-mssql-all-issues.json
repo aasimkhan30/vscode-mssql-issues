@@ -1,10 +1,64 @@
 [
   {
-    "author": "cbks-acc",
+    "author": "croblesm",
     "closedAt": null,
+    "createdAt": "2025-10-30T23:31:45Z",
+    "number": 20386,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20386",
+    "title": "[Bug]: Close button is missing on \"Show script\" panel",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-10-30T23:27:45Z",
+    "number": 20385,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20385",
+    "title": "[Bug]: Maximize button is not working as expected",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "trippetoe",
+    "closedAt": null,
+    "createdAt": "2025-10-30T22:45:32Z",
+    "number": 20383,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20383",
+    "title": "[Feature Request]: Add \"Change Connection\" to Right-Click Context Menu in Editor Window",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "cbks-acc",
+    "closedAt": "2025-10-30T21:40:18Z",
     "createdAt": "2025-10-29T14:55:46Z",
     "number": 20372,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20372",
     "title": "[Bug]: MS Fabric Data Warehouse deployment failure",
     "areas": [],
@@ -29,7 +83,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 2
   },
   {
     "author": "altius-joe",
@@ -740,10 +794,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2025-10-30T20:52:40Z",
     "createdAt": "2025-09-25T19:52:59Z",
     "number": 20233,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20233",
     "title": "[Bug]: Firewall dialog shows sign in page while loading.",
     "areas": [
@@ -755,7 +809,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "December 2025 Release"
   },
   {
