@@ -1,10 +1,42 @@
 [
   {
-    "author": "croblesm",
+    "author": "oduis",
     "closedAt": null,
+    "createdAt": "2025-10-31T08:46:23Z",
+    "number": 20390,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20390",
+    "title": "MCP queries are not checked for schema errors",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "yooakim",
+    "closedAt": null,
+    "createdAt": "2025-10-31T07:00:23Z",
+    "number": 20388,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20388",
+    "title": "[Bug]: \"<None Include=\"queries\\**\" />\" not displayed correctly in explorer",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2025-10-31T19:42:18Z",
     "createdAt": "2025-10-30T23:31:45Z",
     "number": 20386,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20386",
     "title": "[Bug]: Close button is missing on \"Show script\" panel",
     "areas": [
@@ -15,15 +47,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-10-31T19:45:33Z",
     "createdAt": "2025-10-30T23:27:45Z",
     "number": 20385,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20385",
     "title": "[Bug]: Maximize button is not working as expected",
     "areas": [
@@ -34,7 +66,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
@@ -12278,7 +12310,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 108,
+    "totalReactions": 109,
     "commentCount": 15,
     "milestone": "Backlog"
   },
@@ -18649,7 +18681,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "July 2023 Release"
   },
   {
