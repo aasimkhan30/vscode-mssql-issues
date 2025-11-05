@@ -1,5 +1,94 @@
 [
   {
+    "author": "romanpolunin",
+    "closedAt": null,
+    "createdAt": "2025-11-05T00:28:26Z",
+    "number": 20423,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20423",
+    "title": "[Feature Request]: transparent support for Azure CLI authentication",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-11-04T21:56:50Z",
+    "number": 20419,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20419",
+    "title": "[Bug]: Unable to create row in empty table",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-11-04T18:52:19Z",
+    "number": 20416,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20416",
+    "title": "[Feature Request]: Tab name shows \"Table Explorer: [Table Name] (Preview)\"",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-11-04T18:46:38Z",
+    "number": 20415,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20415",
+    "title": "[Bug]: \"No data available\" shown when table data is still loading",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "gisn1",
+    "closedAt": null,
+    "createdAt": "2025-11-04T14:31:34Z",
+    "number": 20411,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20411",
+    "title": "[Bug]: MERGE OUTPUT $action column incorrectly underlined as an error",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "croblesm",
     "closedAt": null,
     "createdAt": "2025-11-03T22:57:15Z",
@@ -20,10 +109,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-04T18:27:58Z",
     "createdAt": "2025-11-03T21:44:18Z",
     "number": 20405,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20405",
     "title": "[Bug]: Remove \"Preview\" label from GitHub Copilot experience",
     "areas": [
@@ -112,10 +201,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-05T00:11:10Z",
     "createdAt": "2025-11-03T04:23:07Z",
     "number": 20398,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20398",
     "title": "[Feature Request]: Updated Table-Level Context Menu with “View & Edit Data”",
     "areas": [
@@ -154,10 +243,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20388",
     "title": "[Bug]: \"<None Include=\"queries\\**\" />\" not displayed correctly in explorer",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -295,11 +386,11 @@
     "title": "Focus is not moving to \"line1\" link separately, entire line is treated as one interactive element: A11y_MSSQL for VSCode_Execute Query_Keyboard",
     "areas": [],
     "priority": -1,
-    "type": "Bug",
+    "type": null,
     "hasArea": false,
-    "hasType": true,
+    "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "Swati1700",
@@ -365,7 +456,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -2491,8 +2582,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 2,
+    "totalReactions": 1,
+    "commentCount": 4,
     "milestone": "November 2025 Release"
   },
   {
@@ -9879,7 +9970,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
@@ -22958,25 +23049,6 @@
     ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": true,
-    "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "Backlog"
-  },
-  {
-    "author": "xkalf",
-    "closedAt": "2021-08-31T20:10:34Z",
-    "createdAt": "2021-08-26T04:32:19Z",
-    "number": 17048,
-    "state": "CLOSED",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/17048",
-    "title": "Apple silicon Not Supported Issue",
-    "areas": [
-      "Acquisition"
-    ],
-    "priority": -1,
-    "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
