@@ -1,5 +1,166 @@
 [
   {
+    "author": "pradeepsrikakolapu",
+    "closedAt": null,
+    "createdAt": "2025-11-06T00:29:19Z",
+    "number": 20443,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20443",
+    "title": "[Bug]: master dacpac shows as msdb under database references in database projects",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "justinburnscorpcu",
+    "closedAt": null,
+    "createdAt": "2025-11-05T16:08:46Z",
+    "number": 20432,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20432",
+    "title": "[Bug]: Open .scmp file using database connections does nothing",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-11-05T02:02:37Z",
+    "number": 20430,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20430",
+    "title": "[Bug]: Horizontal scroll bar not available for tables with many columns",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-11-05T01:54:29Z",
+    "number": 20429,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20429",
+    "title": "[Feature Request]: Increase the max row option",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 0,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-11-05T01:34:39Z",
+    "number": 20428,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20428",
+    "title": "[Bug]: “Save Changes” button remains disabled after deleting a row",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-11-05T01:25:37Z",
+    "number": 20427,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20427",
+    "title": "[Bug]: Date column shows timestamps",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-11-05T01:08:37Z",
+    "number": 20426,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20426",
+    "title": "[Feature Request]: Improve Discoverability of Newly Added Rows",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 0,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": "2025-11-05T01:09:39Z",
+    "createdAt": "2025-11-05T01:07:42Z",
+    "number": 20425,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20425",
+    "title": "[Feature Request]: Improve Discoverability of Newly Added Rows",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": "2025-11-05T01:10:10Z",
+    "createdAt": "2025-11-05T01:07:31Z",
+    "number": 20424,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20424",
+    "title": "[Feature Request]: Improve Discoverability of Newly Added Rows",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
     "author": "romanpolunin",
     "closedAt": null,
     "createdAt": "2025-11-05T00:28:26Z",
@@ -26,7 +187,7 @@
     "areas": [
       "View/Edit data"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
@@ -45,7 +206,7 @@
     "areas": [
       "View/Edit data"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
@@ -64,7 +225,7 @@
     "areas": [
       "View/Edit data"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
@@ -90,10 +251,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-05T18:03:22Z",
     "createdAt": "2025-11-03T22:57:15Z",
     "number": 20406,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20406",
     "title": "[Bug]: Use <auto-generated> placeholder for identity columns",
     "areas": [
@@ -104,7 +265,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
@@ -128,10 +289,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-05T18:02:05Z",
     "createdAt": "2025-11-03T20:25:16Z",
     "number": 20404,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20404",
     "title": "[Bug]: Edit Data Grid constrained when VS Code bottom panel is open",
     "areas": [
@@ -142,7 +303,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
@@ -166,21 +327,21 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-05T18:01:06Z",
     "createdAt": "2025-11-03T19:49:33Z",
     "number": 20402,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20402",
     "title": "[Bug]: Fetch Duplicates Unsaved Row in Edit Data Grid",
     "areas": [
       "View/Edit data"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
@@ -201,10 +362,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": "2025-11-05T00:11:10Z",
+    "closedAt": null,
     "createdAt": "2025-11-03T04:23:07Z",
     "number": 20398,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20398",
     "title": "[Feature Request]: Updated Table-Level Context Menu with “View & Edit Data”",
     "areas": [
@@ -216,24 +377,27 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 4,
     "milestone": "November 2025 Release"
   },
   {
     "author": "oduis",
-    "closedAt": "2025-11-03T20:29:07Z",
+    "closedAt": null,
     "createdAt": "2025-10-31T08:46:23Z",
     "number": 20390,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20390",
-    "title": "MCP queries are not checked for schema errors",
-    "areas": [],
+    "title": "[GitHub Copilot - Bug]: Queries are not checked for schema errors",
+    "areas": [
+      "GitHub Copilot"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 4,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "yooakim",
@@ -480,10 +644,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-06T00:05:03Z",
     "createdAt": "2025-10-23T02:31:56Z",
     "number": 20349,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20349",
     "title": "[Bug]: “MSSQL: Select Top 1000” command fails with Cannot read properties of undefined (reading 'nodeType')",
     "areas": [
@@ -549,7 +713,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "croblesm",
@@ -651,7 +816,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 4
+    "commentCount": 4,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "oricami",
@@ -745,7 +911,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Stralle",
@@ -783,14 +949,14 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 10,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2025-11-06T00:05:04Z",
     "createdAt": "2025-10-01T02:28:27Z",
     "number": 20259,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20259",
     "title": "Scripting operations aren't cancelable",
     "areas": [
@@ -1009,7 +1175,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "kevinrehrl",
@@ -2376,14 +2542,14 @@
     "number": 20002,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20002",
-    "title": "Copilot stops before answering",
+    "title": "[GitHub Copilot - Bug]: Copilot stops before answering",
     "areas": [
       "GitHub Copilot"
     ],
     "priority": -1,
-    "type": null,
+    "type": "Bug",
     "hasArea": true,
-    "hasType": false,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
     "milestone": "November 2025 Release"
@@ -2475,7 +2641,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "croblesm",
@@ -2657,7 +2823,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "sfscgjohnson",
@@ -5506,7 +5672,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "swaschitz",
@@ -6052,27 +6218,6 @@
     "totalReactions": 0,
     "commentCount": 0,
     "milestone": "June 2025 Release"
-  },
-  {
-    "author": "adamcamp7",
-    "closedAt": null,
-    "createdAt": "2025-05-07T14:56:50Z",
-    "number": 19368,
-    "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/19368",
-    "title": "Script as ALTER and Create Opening Blank Window with Synapse database",
-    "areas": [
-      "Object Explorer",
-      "Query Editor",
-      "Scripting"
-    ],
-    "priority": -1,
-    "type": "Bug",
-    "hasArea": true,
-    "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 8,
-    "milestone": "Backlog"
   },
   {
     "author": "LeonarddeR",
@@ -9160,7 +9305,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "poolhost",
@@ -31196,7 +31341,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "ransagy",
