@@ -1,5 +1,210 @@
 [
   {
+    "author": "tauseefsiddique10",
+    "closedAt": null,
+    "createdAt": "2025-11-06T22:39:27Z",
+    "number": 20468,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20468",
+    "title": "[Bug]: Success message needs to 'reveal in explorer' on export",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "tauseefsiddique10",
+    "closedAt": null,
+    "createdAt": "2025-11-06T22:37:15Z",
+    "number": 20467,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20467",
+    "title": "[Bug]: consistency in operation labels",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "tauseefsiddique10",
+    "closedAt": null,
+    "createdAt": "2025-11-06T22:34:41Z",
+    "number": 20466,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20466",
+    "title": "[Bug]: adding 'learn more' link",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "tauseefsiddique10",
+    "closedAt": null,
+    "createdAt": "2025-11-06T19:12:42Z",
+    "number": 20461,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20461",
+    "title": "[Bug]: remove system databases from database dropdown",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "tauseefsiddique10",
+    "closedAt": null,
+    "createdAt": "2025-11-06T19:09:52Z",
+    "number": 20460,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20460",
+    "title": "[Bug]: in export and extract interface, DB dropdown should be right after server",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "tauseefsiddique10",
+    "closedAt": null,
+    "createdAt": "2025-11-06T19:01:43Z",
+    "number": 20459,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20459",
+    "title": "[Bug]: application version field does not do any semver validation",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "tauseefsiddique10",
+    "closedAt": null,
+    "createdAt": "2025-11-06T18:57:28Z",
+    "number": 20458,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20458",
+    "title": "[Bug]: database name field changes after selecting package file in deploy",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "caohai",
+    "closedAt": null,
+    "createdAt": "2025-11-06T17:33:12Z",
+    "number": 20452,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20452",
+    "title": "[Bug]: Update dep on `github.copilot` to `github.copilot-chat`",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2025-11-06T15:17:36Z",
+    "number": 20450,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20450",
+    "title": "[Bug]: Dataverse connections are not working",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "lewis-sanchez",
+    "closedAt": "2025-11-06T17:37:23Z",
+    "createdAt": "2025-11-06T07:18:17Z",
+    "number": 20448,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20448",
+    "title": "[Bug]: Remove Extra Grid Padding",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": "2025-11-06T22:26:33Z",
+    "createdAt": "2025-11-06T01:17:58Z",
+    "number": 20444,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20444",
+    "title": "[Bug]: Cell color still shown as error state even if error is reverted",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
     "author": "pradeepsrikakolapu",
     "closedAt": null,
     "createdAt": "2025-11-06T00:29:19Z",
@@ -7,10 +212,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20443",
     "title": "[Bug]: master dacpac shows as msdb under database references in database projects",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -33,10 +240,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2025-11-06T17:37:50Z",
     "createdAt": "2025-11-05T02:02:37Z",
     "number": 20430,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20430",
     "title": "[Bug]: Horizontal scroll bar not available for tables with many columns",
     "areas": [
@@ -65,16 +272,16 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2025-11-06T04:53:59Z",
     "createdAt": "2025-11-05T01:34:39Z",
     "number": 20428,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20428",
     "title": "[Bug]: “Save Changes” button remains disabled after deleting a row",
     "areas": [
@@ -90,10 +297,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2025-11-06T23:28:51Z",
     "createdAt": "2025-11-05T01:25:37Z",
     "number": 20427,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20427",
     "title": "[Bug]: Date column shows timestamps",
     "areas": [
@@ -109,10 +316,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2025-11-06T18:48:19Z",
     "createdAt": "2025-11-05T01:08:37Z",
     "number": 20426,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20426",
     "title": "[Feature Request]: Improve Discoverability of Newly Added Rows",
     "areas": [
@@ -178,10 +385,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2025-11-06T18:48:18Z",
     "createdAt": "2025-11-04T21:56:50Z",
     "number": 20419,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20419",
     "title": "[Bug]: Unable to create row in empty table",
     "areas": [
@@ -197,10 +404,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2025-11-06T04:54:32Z",
     "createdAt": "2025-11-04T18:52:19Z",
     "number": 20416,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20416",
     "title": "[Feature Request]: Tab name shows \"Table Explorer: [Table Name] (Preview)\"",
     "areas": [
@@ -216,10 +423,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2025-11-06T20:50:34Z",
     "createdAt": "2025-11-04T18:46:38Z",
     "number": 20415,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20415",
     "title": "[Bug]: \"No data available\" shown when table data is still loading",
     "areas": [
@@ -321,7 +528,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "November 2025 Release"
   },
@@ -362,10 +569,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-06T17:36:44Z",
     "createdAt": "2025-11-03T04:23:07Z",
     "number": 20398,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20398",
     "title": "[Feature Request]: Updated Table-Level Context Menu with “View & Edit Data”",
     "areas": [
@@ -625,10 +832,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-06T16:35:27Z",
     "createdAt": "2025-10-23T02:50:20Z",
     "number": 20350,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20350",
     "title": "[Bug]: XML query results not formatted when opened in a new document",
     "areas": [
@@ -804,10 +1011,10 @@
   },
   {
     "author": "gordon-fu",
-    "closedAt": null,
+    "closedAt": "2025-11-06T19:13:20Z",
     "createdAt": "2025-10-09T17:17:53Z",
     "number": 20294,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20294",
     "title": "[Bug]: The filter contains query is not working.",
     "areas": [],
@@ -1387,10 +1594,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2025-11-06T18:02:32Z",
     "createdAt": "2025-09-17T19:43:17Z",
     "number": 20188,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20188",
     "title": "[Bug]: JSON column data type detection is incorrectly making links",
     "areas": [
@@ -2279,7 +2486,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 8,
+    "totalReactions": 9,
     "commentCount": 8,
     "milestone": "Backlog"
   },
@@ -7169,8 +7376,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "commentCount": 3,
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -12258,7 +12465,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 11,
+    "totalReactions": 12,
     "commentCount": 5,
     "milestone": "Backlog"
   },
@@ -12680,7 +12887,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 109,
+    "totalReactions": 110,
     "commentCount": 15,
     "milestone": "Backlog"
   },
@@ -20402,7 +20609,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 5,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "Backlog"
   },
   {
