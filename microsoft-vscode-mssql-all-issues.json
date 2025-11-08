@@ -1,5 +1,157 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-11-08T00:40:42Z",
+    "number": 20504,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20504",
+    "title": "[Feature Request]: Improve Delete Rows UX for Clarity and Transparency",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2025-11-07T22:39:21Z",
+    "createdAt": "2025-11-07T20:56:17Z",
+    "number": 20496,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20496",
+    "title": "[Bug]: Odd \"-9\" character show in \"#\" column",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2025-11-07T22:39:21Z",
+    "createdAt": "2025-11-07T20:50:57Z",
+    "number": 20494,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20494",
+    "title": "[Bug]: Remove the \"#\" row number column from Edit Data grid",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "skurik",
+    "closedAt": null,
+    "createdAt": "2025-11-07T08:16:32Z",
+    "number": 20478,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20478",
+    "title": "[Feature Request]: Purging the Entra ID token cache",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2025-11-07T20:23:45Z",
+    "createdAt": "2025-11-07T07:21:53Z",
+    "number": 20477,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20477",
+    "title": "[Bug]: \"Show Script\" Button State Not Synchronized When Panel Closed via X Button",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2025-11-07T21:17:36Z",
+    "createdAt": "2025-11-07T07:16:04Z",
+    "number": 20476,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20476",
+    "title": "[Bug]: Toast notification \"Row removed\" is confusing",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2025-11-07T19:16:33Z",
+    "createdAt": "2025-11-07T06:49:13Z",
+    "number": 20475,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20475",
+    "title": "[Bug]: Edit Data values not committed on blur",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2025-11-07T20:23:19Z",
+    "createdAt": "2025-11-07T06:38:26Z",
+    "number": 20474,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20474",
+    "title": "[Bug]: Edit Data INSERT fails - required columns removed when saving new row",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
     "author": "tauseefsiddique10",
     "closedAt": null,
     "createdAt": "2025-11-06T22:39:27Z",
@@ -259,16 +411,16 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2025-11-07T22:28:04Z",
     "createdAt": "2025-11-05T01:54:29Z",
     "number": 20429,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20429",
     "title": "[Feature Request]: Increase the max row option",
     "areas": [
       "View/Edit data"
     ],
-    "priority": 0,
+    "priority": 1,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
@@ -515,10 +667,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-07T19:16:32Z",
     "createdAt": "2025-11-03T20:07:37Z",
     "number": 20403,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20403",
     "title": "[Bug]: Fetch Data Loss - Multiple Column Data Deleted When Fetching with Unsaved Rows",
     "areas": [
@@ -569,7 +721,7 @@
   },
   {
     "author": "croblesm",
-    "closedAt": "2025-11-06T17:36:44Z",
+    "closedAt": "2025-11-07T20:04:00Z",
     "createdAt": "2025-11-03T04:23:07Z",
     "number": 20398,
     "state": "CLOSED",
@@ -579,12 +731,12 @@
       "Object Explorer",
       "View/Edit data"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 4,
+    "totalReactions": 1,
+    "commentCount": 6,
     "milestone": "November 2025 Release"
   },
   {
@@ -906,10 +1058,10 @@
   },
   {
     "author": "Andrew0002",
-    "closedAt": null,
+    "closedAt": "2025-11-07T21:16:12Z",
     "createdAt": "2025-10-21T18:13:28Z",
     "number": 20331,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20331",
     "title": "[Bug]: Results Grid keyboard shortcuts not working",
     "areas": [
@@ -4885,7 +5037,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 5,
+    "totalReactions": 6,
     "commentCount": 1,
     "milestone": "Backlog"
   },
@@ -9875,7 +10027,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 5,
+    "totalReactions": 6,
     "commentCount": 3,
     "milestone": "Backlog"
   },
@@ -10546,7 +10698,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 5,
+    "totalReactions": 6,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -11903,10 +12055,10 @@
   },
   {
     "author": "o-o00o-o",
-    "closedAt": null,
+    "closedAt": "2025-11-07T16:41:00Z",
     "createdAt": "2025-02-19T17:37:25Z",
     "number": 18707,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18707",
     "title": "Hot Exit not working for sql queries",
     "areas": [
@@ -11917,7 +12069,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "January 2026 Release"
   },
   {
@@ -12116,7 +12268,7 @@
     "number": 18682,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18682",
-    "title": "No indication on a tab of which database or server you are connected to",
+    "title": "[Feature Request]: No indication on a tab of which database or server you are connected to",
     "areas": [
       "Query Editor"
     ],
@@ -12366,16 +12518,17 @@
     "number": 18664,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18664",
-    "title": "MSSQL is missing edit data option like Azure Data Studio",
+    "title": "[Feature Request]: Add Edit Data",
     "areas": [
-      "Table Explorer"
+      "Table Explorer",
+      "View/Edit data"
     ],
     "priority": -1,
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 65,
-    "commentCount": 17,
+    "totalReactions": 67,
+    "commentCount": 18,
     "milestone": "November 2025 Release"
   },
   {
@@ -12422,7 +12575,7 @@
     "number": 18661,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18661",
-    "title": "Import Servers (and Server Groups) from Azure Data Studio",
+    "title": "[Feature Request]: Import Servers (and Server Groups) from Azure Data Studio",
     "areas": [
       "Connection"
     ],
@@ -12686,8 +12839,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 86,
-    "commentCount": 32,
+    "totalReactions": 87,
+    "commentCount": 33,
     "milestone": "December 2025 Release"
   },
   {
@@ -12887,8 +13040,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 110,
-    "commentCount": 15,
+    "totalReactions": 111,
+    "commentCount": 16,
     "milestone": "Backlog"
   },
   {
@@ -17598,7 +17751,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "tmng8888",
@@ -19071,10 +19224,10 @@
   },
   {
     "author": "meyerdominik",
-    "closedAt": null,
+    "closedAt": "2025-11-07T16:26:18Z",
     "createdAt": "2023-08-14T09:20:52Z",
     "number": 17776,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17776",
     "title": "SQLToolsService: Request textDocument/completion failed. Sequence contains no matching element. Code: 0 ",
     "areas": [
@@ -19085,7 +19238,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -22629,8 +22782,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 15,
-    "milestone": "December 2025 Release"
+    "commentCount": 16,
+    "milestone": "Backlog"
   },
   {
     "author": "Yashi1201",
@@ -24415,7 +24568,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0,
     "milestone": "December 2025 Release"
   },
