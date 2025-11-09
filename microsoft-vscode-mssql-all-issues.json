@@ -741,10 +741,10 @@
   },
   {
     "author": "oduis",
-    "closedAt": null,
+    "closedAt": "2025-11-08T05:09:56Z",
     "createdAt": "2025-10-31T08:46:23Z",
     "number": 20390,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20390",
     "title": "[GitHub Copilot - Bug]: Queries are not checked for schema errors",
     "areas": [
@@ -755,7 +755,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "November 2025 Release"
   },
   {
@@ -4725,7 +4725,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 1,
     "milestone": "Backlog"
   },
