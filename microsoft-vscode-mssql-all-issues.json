@@ -1,5 +1,169 @@
 [
   {
+    "author": "caohai",
+    "closedAt": null,
+    "createdAt": "2025-11-10T21:25:05Z",
+    "number": 20522,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20522",
+    "title": "[Bug]: GHCP investigate LLM compatibility",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "caohai",
+    "closedAt": null,
+    "createdAt": "2025-11-10T21:23:48Z",
+    "number": 20521,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20521",
+    "title": "[Bug]: GHCP investigate error with predefined query",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2025-11-10T19:43:02Z",
+    "number": 20520,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20520",
+    "title": "[Task]: Add publish project to local container",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2025-11-10T18:58:21Z",
+    "number": 20516,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20516",
+    "title": "Dacpac Dialog needs telemetry/logging and survey prompt upon completion",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2025-11-10T18:42:08Z",
+    "number": 20514,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20514",
+    "title": "Dacpac Dialog logic blocks valid `1.1` version",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2025-11-10T18:41:04Z",
+    "number": 20513,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20513",
+    "title": "Rename dacpac dialog commands so they're grouped as a feature",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2025-11-10T18:40:25Z",
+    "number": 20512,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20512",
+    "title": "Dacpac Dialog commands need to be conditional in package.json for command palette",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2025-11-10T18:38:08Z",
+    "number": 20511,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20511",
+    "title": "Use platform-specific text for \"Reveal in <file explorer>\" to match VS Code",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "dzsquared",
+    "closedAt": null,
+    "createdAt": "2025-11-10T18:18:54Z",
+    "number": 20510,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20510",
+    "title": "[Bug]: sqlproj build fails on Windows when default terminal profile is bash",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 2,
+    "commentCount": 1
+  },
+  {
     "author": "croblesm",
     "closedAt": null,
     "createdAt": "2025-11-08T00:40:42Z",
@@ -153,10 +317,10 @@
   },
   {
     "author": "tauseefsiddique10",
-    "closedAt": null,
+    "closedAt": "2025-11-10T18:44:34Z",
     "createdAt": "2025-11-06T22:39:27Z",
     "number": 20468,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20468",
     "title": "[Bug]: Success message needs to 'reveal in explorer' on export",
     "areas": [
@@ -172,10 +336,10 @@
   },
   {
     "author": "tauseefsiddique10",
-    "closedAt": null,
+    "closedAt": "2025-11-10T18:44:33Z",
     "createdAt": "2025-11-06T22:37:15Z",
     "number": 20467,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20467",
     "title": "[Bug]: consistency in operation labels",
     "areas": [
@@ -191,10 +355,10 @@
   },
   {
     "author": "tauseefsiddique10",
-    "closedAt": null,
+    "closedAt": "2025-11-10T18:44:32Z",
     "createdAt": "2025-11-06T22:34:41Z",
     "number": 20466,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20466",
     "title": "[Bug]: adding 'learn more' link",
     "areas": [
@@ -210,10 +374,10 @@
   },
   {
     "author": "tauseefsiddique10",
-    "closedAt": null,
+    "closedAt": "2025-11-10T18:44:32Z",
     "createdAt": "2025-11-06T19:12:42Z",
     "number": 20461,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20461",
     "title": "[Bug]: remove system databases from database dropdown",
     "areas": [
@@ -229,10 +393,10 @@
   },
   {
     "author": "tauseefsiddique10",
-    "closedAt": null,
+    "closedAt": "2025-11-10T18:44:31Z",
     "createdAt": "2025-11-06T19:09:52Z",
     "number": 20460,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20460",
     "title": "[Bug]: in export and extract interface, DB dropdown should be right after server",
     "areas": [
@@ -248,10 +412,10 @@
   },
   {
     "author": "tauseefsiddique10",
-    "closedAt": null,
+    "closedAt": "2025-11-10T18:44:30Z",
     "createdAt": "2025-11-06T19:01:43Z",
     "number": 20459,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20459",
     "title": "[Bug]: application version field does not do any semver validation",
     "areas": [
@@ -267,10 +431,10 @@
   },
   {
     "author": "tauseefsiddique10",
-    "closedAt": null,
+    "closedAt": "2025-11-10T18:44:30Z",
     "createdAt": "2025-11-06T18:57:28Z",
     "number": 20458,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20458",
     "title": "[Bug]: database name field changes after selecting package file in deploy",
     "areas": [
@@ -286,10 +450,10 @@
   },
   {
     "author": "caohai",
-    "closedAt": null,
+    "closedAt": "2025-11-10T21:34:48Z",
     "createdAt": "2025-11-06T17:33:12Z",
     "number": 20452,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20452",
     "title": "[Bug]: Update dep on `github.copilot` to `github.copilot-chat`",
     "areas": [],
@@ -298,7 +462,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
@@ -309,10 +473,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20450",
     "title": "[Bug]: Dataverse connections are not working",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
@@ -1052,7 +1218,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -1742,7 +1908,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "kburtram",
@@ -2351,7 +2517,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "November 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -2800,7 +2966,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "polandre90",
@@ -2817,9 +2983,9 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Provista-Stan",
@@ -2911,7 +3077,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Prefix42",
@@ -3109,7 +3275,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 4,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "capiyomero",
@@ -3144,7 +3310,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 2,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "agrabsi",
@@ -3659,7 +3825,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 4,
-    "milestone": "November 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "jasonhorner",
@@ -5514,7 +5680,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "November 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "kburtram",
@@ -5824,7 +5990,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "skyslide22",
@@ -6030,7 +6196,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "December 2025 Release"
   },
   {
@@ -6486,7 +6652,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "JamesDBartlett3",
@@ -6910,10 +7076,10 @@
   },
   {
     "author": "paladique",
-    "closedAt": null,
+    "closedAt": "2025-11-10T21:44:22Z",
     "createdAt": "2025-05-02T17:57:18Z",
     "number": 19334,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19334",
     "title": "[GitHub Copilot - Feature Request]: Provide usage information in chat",
     "areas": [
@@ -6924,7 +7090,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "November 2025 Release"
   },
   {
@@ -7000,7 +7166,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 9,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "juanmi108",
@@ -12527,8 +12693,8 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 67,
-    "commentCount": 18,
+    "totalReactions": 69,
+    "commentCount": 23,
     "milestone": "November 2025 Release"
   },
   {
@@ -12839,7 +13005,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 87,
+    "totalReactions": 89,
     "commentCount": 33,
     "milestone": "December 2025 Release"
   },
@@ -12932,8 +13098,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 59,
-    "commentCount": 9,
+    "totalReactions": 60,
+    "commentCount": 10,
     "milestone": "January 2026 Release"
   },
   {
@@ -23554,6 +23720,25 @@
     ],
     "priority": -1,
     "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "xkalf",
+    "closedAt": "2021-08-31T20:10:34Z",
+    "createdAt": "2021-08-26T04:32:19Z",
+    "number": 17048,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/17048",
+    "title": "Apple silicon Not Supported Issue",
+    "areas": [
+      "Acquisition"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
