@@ -1,5 +1,96 @@
 [
   {
+    "author": "lewis-sanchez",
+    "closedAt": "2025-11-11T22:52:41Z",
+    "createdAt": "2025-11-11T21:13:56Z",
+    "number": 20538,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20538",
+    "title": "[Bug]: Use Enable Experimental Feature flag with Edit Data",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "dlevy-msft-sql",
+    "closedAt": null,
+    "createdAt": "2025-11-11T20:31:23Z",
+    "number": 20536,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20536",
+    "title": "[Bug]: Password not passed correctly when creating a container",
+    "areas": [
+      "Local container"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "hofsoma",
+    "closedAt": null,
+    "createdAt": "2025-11-11T15:20:04Z",
+    "number": 20531,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20531",
+    "title": "[Feature Request]: execute `sp_help` in-memory for cursor-selected database objects",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": "2025-11-11T18:28:04Z",
+    "createdAt": "2025-11-11T07:22:43Z",
+    "number": 20529,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20529",
+    "title": "[Bug]: Publish Dialog Advance Options drawer is not allowing to reset on previous changes",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-11-11T01:23:12Z",
+    "number": 20525,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20525",
+    "title": "[Feature Request]: In-Product Release Notes and Announcement Panel",
+    "areas": [
+      "Object Explorer",
+      "Acquisition"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
     "author": "caohai",
     "closedAt": null,
     "createdAt": "2025-11-10T21:25:05Z",
@@ -71,10 +162,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-11-11T21:38:05Z",
     "createdAt": "2025-11-10T18:42:08Z",
     "number": 20514,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20514",
     "title": "Dacpac Dialog logic blocks valid `1.1` version",
     "areas": [
@@ -90,10 +181,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-11-11T21:38:04Z",
     "createdAt": "2025-11-10T18:41:04Z",
     "number": 20513,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20513",
     "title": "Rename dacpac dialog commands so they're grouped as a feature",
     "areas": [
@@ -109,10 +200,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-11-11T21:38:03Z",
     "createdAt": "2025-11-10T18:40:25Z",
     "number": 20512,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20512",
     "title": "Dacpac Dialog commands need to be conditional in package.json for command palette",
     "areas": [
@@ -128,10 +219,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-11-11T21:38:03Z",
     "createdAt": "2025-11-10T18:38:08Z",
     "number": 20511,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20511",
     "title": "Use platform-specific text for \"Reveal in <file explorer>\" to match VS Code",
     "areas": [
@@ -877,13 +968,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20399",
     "title": "[Bug]: `Switch to Text View` does not work with offline install",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "croblesm",
@@ -940,7 +1034,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "croblesm",
@@ -997,7 +1092,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 3,
+    "milestone": "Backlog"
   },
   {
     "author": "cbks-acc",
@@ -1017,10 +1113,10 @@
   },
   {
     "author": "altius-joe",
-    "closedAt": null,
+    "closedAt": "2025-11-11T23:01:56Z",
     "createdAt": "2025-10-29T00:51:24Z",
     "number": 20370,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20370",
     "title": "[Feature Request]: Store query result pane window height per tab",
     "areas": [],
@@ -1029,7 +1125,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 3
   },
   {
     "author": "altius-joe",
@@ -1039,13 +1135,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20369",
     "title": "[Feature Request]: Ability to set cell padding in query results",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "laurenastrid1",
@@ -1079,7 +1178,8 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Swati1700",
@@ -1095,7 +1195,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "amthomas46",
@@ -1121,13 +1222,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20356",
     "title": "[Feature Request]: Setting for turning -GeneralConnection application name suffix",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -2129,7 +2233,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Benjin",
@@ -2150,10 +2254,10 @@
   },
   {
     "author": "fernando-terra",
-    "closedAt": null,
+    "closedAt": "2025-11-11T20:00:11Z",
     "createdAt": "2025-09-09T14:39:52Z",
     "number": 20138,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20138",
     "title": "[Bug]: JSON export incorrectly formats decimal values, removing the decimal separator",
     "areas": [
@@ -2164,7 +2268,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
@@ -3023,7 +3127,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "SPerremans",
@@ -4075,10 +4179,10 @@
   },
   {
     "author": "ganagdhar123",
-    "closedAt": null,
+    "closedAt": "2025-11-11T21:22:22Z",
     "createdAt": "2025-07-21T10:24:30Z",
     "number": 19814,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19814",
     "title": "NVDA is unnecessarily announcing label name twice throughout the application: A11y_MSSQL for VSCode_User can create New Table_Add/delete Column_screen reader",
     "areas": [
@@ -10644,25 +10748,6 @@
     "milestone": "December 2025 Release"
   },
   {
-    "author": "MohammadAliAfsahi",
-    "closedAt": null,
-    "createdAt": "2025-03-17T05:26:09Z",
-    "number": 18940,
-    "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/18940",
-    "title": "SQL46010: Incorrect syntax near 'FOR'",
-    "areas": [
-      "SQL Project"
-    ],
-    "priority": -1,
-    "type": "Bug",
-    "hasArea": true,
-    "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 1,
-    "milestone": "November 2025 Release"
-  },
-  {
     "author": "tim-mit",
     "closedAt": "2025-09-30T22:00:30Z",
     "createdAt": "2025-03-17T01:10:29Z",
@@ -12694,7 +12779,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 69,
-    "commentCount": 23,
+    "commentCount": 24,
     "milestone": "November 2025 Release"
   },
   {
@@ -13006,7 +13091,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 89,
-    "commentCount": 33,
+    "commentCount": 34,
     "milestone": "December 2025 Release"
   },
   {
@@ -13170,7 +13255,7 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 16,
-    "commentCount": 11
+    "commentCount": 14
   },
   {
     "author": "BenReeveTSG",
@@ -31885,7 +31970,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
