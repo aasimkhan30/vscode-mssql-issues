@@ -1,5 +1,76 @@
 [
   {
+    "author": "schallm",
+    "closedAt": null,
+    "createdAt": "2025-11-12T17:08:38Z",
+    "number": 20553,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20553",
+    "title": "[Feature Request]: When opening JSON columns in an editor, the editor should not be dirty",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-11-12T04:30:07Z",
+    "number": 20552,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20552",
+    "title": "[Bug]: Unable to use Azure CLI token due to 128-character password limit",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-11-12T03:52:30Z",
+    "number": 20551,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20551",
+    "title": "[Bug]: Missing Summary and Selection Highlight in Query Results pane",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2025-11-12T02:16:20Z",
+    "number": 20546,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20546",
+    "title": "[Bug]: Publish Dialog Telemetry updates",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
     "author": "lewis-sanchez",
     "closedAt": "2025-11-11T22:52:41Z",
     "createdAt": "2025-11-11T21:13:56Z",
@@ -34,15 +105,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 3,
     "milestone": "December 2025 Release"
   },
   {
     "author": "hofsoma",
-    "closedAt": null,
+    "closedAt": "2025-11-12T03:03:14Z",
     "createdAt": "2025-11-11T15:20:04Z",
     "number": 20531,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20531",
     "title": "[Feature Request]: execute `sp_help` in-memory for cursor-selected database objects",
     "areas": [],
@@ -51,7 +122,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "ssreerama",
@@ -92,10 +163,10 @@
   },
   {
     "author": "caohai",
-    "closedAt": null,
+    "closedAt": "2025-11-12T21:20:12Z",
     "createdAt": "2025-11-10T21:25:05Z",
     "number": 20522,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20522",
     "title": "[Bug]: GHCP investigate LLM compatibility",
     "areas": [],
@@ -104,15 +175,15 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
     "author": "caohai",
-    "closedAt": null,
+    "closedAt": "2025-11-12T21:18:18Z",
     "createdAt": "2025-11-10T21:23:48Z",
     "number": 20521,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20521",
     "title": "[Bug]: GHCP investigate error with predefined query",
     "areas": [],
@@ -121,7 +192,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
@@ -143,10 +214,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-11-12T21:37:51Z",
     "createdAt": "2025-11-10T18:58:21Z",
     "number": 20516,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20516",
     "title": "Dacpac Dialog needs telemetry/logging and survey prompt upon completion",
     "areas": [
@@ -252,7 +323,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "croblesm",
@@ -558,10 +630,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2025-11-13T00:11:02Z",
     "createdAt": "2025-11-06T15:17:36Z",
     "number": 20450,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20450",
     "title": "[Bug]: Dataverse connections are not working",
     "areas": [
@@ -629,7 +701,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "justinburnscorpcu",
@@ -639,13 +712,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20432",
     "title": "[Bug]: Open .scmp file using database connections does nothing",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "yoleichen",
@@ -784,13 +860,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20423",
     "title": "[Feature Request]: transparent support for Azure CLI authentication",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "yoleichen",
@@ -857,13 +936,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20411",
     "title": "[Bug]: MERGE OUTPUT $action column incorrectly underlined as an error",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "croblesm",
@@ -1166,10 +1248,10 @@
   },
   {
     "author": "Swati1700",
-    "closedAt": null,
+    "closedAt": "2025-11-12T09:12:22Z",
     "createdAt": "2025-10-27T17:28:45Z",
     "number": 20359,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20359",
     "title": "Focus is not moving to \"line1\" link separately, entire line is treated as one interactive element: A11y_MSSQL for VSCode_Execute Query_Keyboard",
     "areas": [],
@@ -1178,7 +1260,7 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
@@ -1249,7 +1331,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 4,
     "milestone": "December 2025 Release"
   },
   {
@@ -1465,8 +1547,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "November 2025 Release"
+    "commentCount": 3,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "adc-vjoshi",
@@ -10297,7 +10379,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 6,
+    "totalReactions": 9,
     "commentCount": 3,
     "milestone": "Backlog"
   },
@@ -12778,7 +12860,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 69,
+    "totalReactions": 70,
     "commentCount": 24,
     "milestone": "November 2025 Release"
   },
@@ -14400,10 +14482,10 @@
   },
   {
     "author": "cosmoKenney",
-    "closedAt": null,
+    "closedAt": "2025-11-12T18:48:28Z",
     "createdAt": "2024-12-10T23:34:55Z",
     "number": 18492,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18492",
     "title": "Too much space between result sets in the QUERY RESULTS (PREVIEW) tab.",
     "areas": [
