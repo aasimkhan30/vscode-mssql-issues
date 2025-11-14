@@ -1,19 +1,138 @@
 [
   {
-    "author": "schallm",
+    "author": "Benjin",
     "closedAt": null,
-    "createdAt": "2025-11-12T17:08:38Z",
-    "number": 20553,
+    "createdAt": "2025-11-13T23:30:55Z",
+    "number": 20579,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/20553",
-    "title": "[Feature Request]: When opening JSON columns in an editor, the editor should not be dirty",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20579",
+    "title": "[Bug]: Object Explorer incorrectly things local/xcopy server is a docker container, and throws error about it not existing",
+    "areas": [
+      "Local container"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2025-11-14T00:44:08Z",
+    "createdAt": "2025-11-13T22:47:08Z",
+    "number": 20578,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20578",
+    "title": "[Bug]: Dacpac Dialog is not labeled as \"Preview\"",
     "areas": [],
     "priority": -1,
-    "type": "Feature Request",
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2024 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2025-11-13T21:36:27Z",
+    "createdAt": "2025-11-13T19:08:43Z",
+    "number": 20574,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20574",
+    "title": "[Task]: Add SQL Database Projects extension",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "amthomas46",
+    "closedAt": null,
+    "createdAt": "2025-11-13T13:57:40Z",
+    "number": 20568,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20568",
+    "title": "[Bug]: DACPAC import to new Fabric SQL database fails",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
+  },
+  {
+    "author": "amthomas46",
+    "closedAt": null,
+    "createdAt": "2025-11-13T13:50:32Z",
+    "number": 20567,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20567",
+    "title": "[Bug]: Bottom actions get cut off when zoomed for data tier application experience",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "neoGeneva",
+    "closedAt": null,
+    "createdAt": "2025-11-13T08:07:05Z",
+    "number": 20566,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20566",
+    "title": "[Bug]: Unable to connect to Azure SQL database with Entra after upgrading to VS Code 1.06.0",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "bwr1234",
+    "closedAt": null,
+    "createdAt": "2025-11-13T06:58:52Z",
+    "number": 20565,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20565",
+    "title": "[Bug]: Connection stuck in loading...",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 6
+  },
+  {
+    "author": "schallm",
+    "closedAt": "2025-11-13T17:45:37Z",
+    "createdAt": "2025-11-12T17:08:38Z",
+    "number": 20553,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20553",
+    "title": "[Feature Request]: When opening JSON columns in an editor, the editor should not be dirty",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "croblesm",
@@ -36,10 +155,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-13T03:16:36Z",
     "createdAt": "2025-11-12T03:52:30Z",
     "number": 20551,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20551",
     "title": "[Bug]: Missing Summary and Selection Highlight in Query Results pane",
     "areas": [
@@ -50,15 +169,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 3,
     "milestone": "November 2025 Release"
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2025-11-13T21:40:12Z",
     "createdAt": "2025-11-12T02:16:20Z",
     "number": 20546,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20546",
     "title": "[Bug]: Publish Dialog Telemetry updates",
     "areas": [],
@@ -72,7 +191,7 @@
   },
   {
     "author": "lewis-sanchez",
-    "closedAt": "2025-11-11T22:52:41Z",
+    "closedAt": "2025-11-14T00:53:22Z",
     "createdAt": "2025-11-11T21:13:56Z",
     "number": 20538,
     "state": "CLOSED",
@@ -105,7 +224,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "December 2025 Release"
   },
   {
@@ -158,7 +277,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2025 Release"
   },
   {
@@ -197,10 +316,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2025-11-13T21:40:11Z",
     "createdAt": "2025-11-10T19:43:02Z",
     "number": 20520,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20520",
     "title": "[Task]: Add publish project to local container",
     "areas": [],
@@ -385,10 +504,10 @@
   },
   {
     "author": "skurik",
-    "closedAt": null,
+    "closedAt": "2025-11-13T03:17:22Z",
     "createdAt": "2025-11-07T08:16:32Z",
     "number": 20478,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20478",
     "title": "[Feature Request]: Purging the Entra ID token cache",
     "areas": [
@@ -399,7 +518,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "January 2026 Release"
   },
   {
@@ -1044,10 +1163,10 @@
   },
   {
     "author": "schallm",
-    "closedAt": null,
+    "closedAt": "2025-11-13T03:21:30Z",
     "createdAt": "2025-11-03T15:46:25Z",
     "number": 20399,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20399",
     "title": "[Bug]: `Switch to Text View` does not work with offline install",
     "areas": [
@@ -1058,7 +1177,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -1317,10 +1436,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-13T20:52:49Z",
     "createdAt": "2025-10-23T18:31:20Z",
     "number": 20351,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20351",
     "title": "[Bug]: SQL Container connection hangs on first launch until VS Code is reloaded",
     "areas": [
@@ -1331,7 +1450,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "December 2025 Release"
   },
   {
@@ -1404,7 +1523,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -3301,10 +3420,10 @@
   },
   {
     "author": "joe-plumb",
-    "closedAt": null,
+    "closedAt": "2025-11-13T21:40:10Z",
     "createdAt": "2025-08-21T08:38:10Z",
     "number": 19991,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19991",
     "title": "[Bug]: Database Project Publish does not wait for build to run",
     "areas": [
@@ -4204,10 +4323,10 @@
   },
   {
     "author": "jasonhorner",
-    "closedAt": null,
+    "closedAt": "2025-11-13T21:40:09Z",
     "createdAt": "2025-07-21T15:10:09Z",
     "number": 19817,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19817",
     "title": "[Bug]:  .sql Extension Added Twice When Creating New Script",
     "areas": [
@@ -6213,7 +6332,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
@@ -6311,10 +6430,10 @@
   },
   {
     "author": "AleksandarFr",
-    "closedAt": null,
+    "closedAt": "2025-11-13T03:47:58Z",
     "createdAt": "2025-05-28T08:52:59Z",
     "number": 19489,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19489",
     "title": "[Bug]: Can't connect Microsoft Entra ID to establish connection to server",
     "areas": [
@@ -6325,7 +6444,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "December 2025 Release"
   },
   {
@@ -9513,7 +9632,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -12573,7 +12692,7 @@
     "hasType": false,
     "totalReactions": 1,
     "commentCount": 3,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "mtaylorfsmb",
@@ -12846,10 +12965,10 @@
   },
   {
     "author": "devHoek",
-    "closedAt": null,
+    "closedAt": "2025-11-13T21:40:09Z",
     "createdAt": "2025-02-12T15:07:40Z",
     "number": 18664,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18664",
     "title": "[Feature Request]: Add Edit Data",
     "areas": [
@@ -12861,7 +12980,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 70,
-    "commentCount": 24,
+    "commentCount": 25,
     "milestone": "November 2025 Release"
   },
   {
@@ -13373,9 +13492,9 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 111,
-    "commentCount": 16,
-    "milestone": "Backlog"
+    "totalReactions": 112,
+    "commentCount": 17,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "buckz1lla",
