@@ -1,5 +1,146 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2025-11-14T20:45:15Z",
+    "number": 20597,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20597",
+    "title": "[Bug]: Missing Schema Designer entry point for default database",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "amthomas46",
+    "closedAt": null,
+    "createdAt": "2025-11-14T12:00:56Z",
+    "number": 20595,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20595",
+    "title": "[GitHub Copilot - Bug | Feature request]: Agent mode won't run RESTORE statement",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Both Bug and Feature",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "amthomas46",
+    "closedAt": null,
+    "createdAt": "2025-11-14T11:50:38Z",
+    "number": 20594,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20594",
+    "title": "[GitHub Copilot - Bug | Feature request]: All tool calls failed or timed out",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Both Bug and Feature",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "amthomas46",
+    "closedAt": null,
+    "createdAt": "2025-11-14T11:48:16Z",
+    "number": 20593,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20593",
+    "title": "[GitHub Copilot - Bug | Feature request]: feedback link gets cut off with error message",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Both Bug and Feature",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "amthomas46",
+    "closedAt": null,
+    "createdAt": "2025-11-14T11:46:58Z",
+    "number": 20592,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20592",
+    "title": "[GitHub Copilot - Bug | Feature request]: no tables so returns no response",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Both Bug and Feature",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "panwauu",
+    "closedAt": null,
+    "createdAt": "2025-11-14T08:44:04Z",
+    "number": 20591,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20591",
+    "title": "[Bug]: Incorrect Indentation When Formatting MSSQL Queries Using UNION/UNION ALL Inside a CTE",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": "2025-11-14T17:33:24Z",
+    "createdAt": "2025-11-14T06:16:30Z",
+    "number": 20589,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20589",
+    "title": "[Bug]: Publish Project Dialog is not labeled as Preview",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2025-11-14T17:29:36Z",
+    "createdAt": "2025-11-14T05:15:53Z",
+    "number": 20587,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20587",
+    "title": "[Bug]: Changelog dialog does not automatically open the first time for users",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
     "author": "Benjin",
     "closedAt": null,
     "createdAt": "2025-11-13T23:30:55Z",
@@ -19,10 +160,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": "2025-11-14T00:44:08Z",
+    "closedAt": null,
     "createdAt": "2025-11-13T22:47:08Z",
     "number": 20578,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20578",
     "title": "[Bug]: Dacpac Dialog is not labeled as \"Preview\"",
     "areas": [],
@@ -59,13 +200,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20568",
     "title": "[Bug]: DACPAC import to new Fabric SQL database fails",
-    "areas": [],
+    "areas": [
+      "Dacpac Import/Export"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "November 2025 Release"
   },
   {
     "author": "amthomas46",
@@ -262,10 +406,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-14T17:29:31Z",
     "createdAt": "2025-11-11T01:23:12Z",
     "number": 20525,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20525",
     "title": "[Feature Request]: In-Product Release Notes and Announcement Panel",
     "areas": [
@@ -1507,7 +1651,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -1523,7 +1667,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 0,
     "milestone": "Backlog"
   },
