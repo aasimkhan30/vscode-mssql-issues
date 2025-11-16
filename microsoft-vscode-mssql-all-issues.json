@@ -25,16 +25,17 @@
     "number": 20595,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20595",
-    "title": "[GitHub Copilot - Bug | Feature request]: Agent mode won't run RESTORE statement",
+    "title": "[GitHub Copilot - Bug ]: Agent mode won't run RESTORE statement",
     "areas": [
       "GitHub Copilot"
     ],
     "priority": -1,
-    "type": "Both Bug and Feature",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "amthomas46",
@@ -43,16 +44,17 @@
     "number": 20594,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20594",
-    "title": "[GitHub Copilot - Bug | Feature request]: All tool calls failed or timed out",
+    "title": "[GitHub Copilot - Bug]: All tool calls failed or timed out",
     "areas": [
       "GitHub Copilot"
     ],
     "priority": -1,
-    "type": "Both Bug and Feature",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "amthomas46",
@@ -61,7 +63,7 @@
     "number": 20593,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20593",
-    "title": "[GitHub Copilot - Bug | Feature request]: feedback link gets cut off with error message",
+    "title": "[GitHub Copilot - Bug]: feedback link gets cut off with error message",
     "areas": [
       "GitHub Copilot"
     ],
@@ -70,7 +72,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "amthomas46",
@@ -79,16 +82,17 @@
     "number": 20592,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20592",
-    "title": "[GitHub Copilot - Bug | Feature request]: no tables so returns no response",
+    "title": "[GitHub Copilot - Bug]: no tables so returns no response",
     "areas": [
       "GitHub Copilot"
     ],
     "priority": -1,
-    "type": "Both Bug and Feature",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "panwauu",
@@ -98,13 +102,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20591",
     "title": "[Bug]: Incorrect Indentation When Formatting MSSQL Queries Using UNION/UNION ALL Inside a CTE",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "ssreerama",
@@ -156,7 +163,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Benjin",
@@ -218,14 +226,17 @@
     "number": 20567,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20567",
-    "title": "[Bug]: Bottom actions get cut off when zoomed for data tier application experience",
-    "areas": [],
+    "title": "[Bug]: Dacpac Dialog Bottom actions get cut off when zoomed for data tier application experience",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "neoGeneva",
@@ -235,13 +246,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20566",
     "title": "[Bug]: Unable to connect to Azure SQL database with Entra after upgrading to VS Code 1.06.0",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "bwr1234",
@@ -257,7 +271,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6
+    "commentCount": 6,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "schallm",
