@@ -1,5 +1,24 @@
 [
   {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-11-17T00:25:19Z",
+    "number": 20601,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20601",
+    "title": "[Bug]: Column shown as NULL in a non-nullable column",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
     "author": "croblesm",
     "closedAt": null,
     "createdAt": "2025-11-14T20:45:15Z",
@@ -13652,7 +13671,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 112,
-    "commentCount": 17,
+    "commentCount": 18,
     "milestone": "January 2026 Release"
   },
   {
