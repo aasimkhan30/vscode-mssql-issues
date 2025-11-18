@@ -1,5 +1,116 @@
 [
   {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2025-11-18T00:20:52Z",
+    "number": 20610,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20610",
+    "title": "[Bug]: Query result text mode resultset number isn't intuitive",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0
+  },
+  {
+    "author": "tauseefsiddique10",
+    "closedAt": null,
+    "createdAt": "2025-11-17T22:44:37Z",
+    "number": 20609,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20609",
+    "title": "[Feature Request]: Adding Fabric Target to DACPAC import/export",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2025-11-17T20:54:06Z",
+    "number": 20606,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20606",
+    "title": "[Bug]: Data-tier Application dialog has duplicate notifications",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2025-11-17T20:29:36Z",
+    "number": 20605,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20605",
+    "title": "[Bug]: Unnecessary scrollbars in Edit Data grid",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2025-11-17T18:39:49Z",
+    "number": 20603,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20603",
+    "title": "[Bug]: Intellisense not picking up database objects and not highlighting errors",
+    "areas": [
+      "Language Service"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2025 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-11-17T08:49:29Z",
+    "number": 20602,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20602",
+    "title": "[Bug]: Revert cell is not working on invalid edited cell instantly",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
     "author": "yoleichen",
     "closedAt": null,
     "createdAt": "2025-11-17T00:25:19Z",
@@ -35,7 +146,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2025 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "amthomas46",
@@ -128,7 +239,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "December 2025 Release"
   },
@@ -221,10 +332,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2025-11-17T19:11:03Z",
     "createdAt": "2025-11-13T13:57:40Z",
     "number": 20568,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20568",
     "title": "[Bug]: DACPAC import to new Fabric SQL database fails",
     "areas": [
@@ -240,10 +351,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2025-11-17T19:11:02Z",
     "createdAt": "2025-11-13T13:50:32Z",
     "number": 20567,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20567",
     "title": "[Bug]: Dacpac Dialog Bottom actions get cut off when zoomed for data tier application experience",
     "areas": [
@@ -621,7 +732,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "croblesm",
@@ -1829,10 +1940,10 @@
   },
   {
     "author": "oricami",
-    "closedAt": null,
+    "closedAt": "2025-11-18T00:43:35Z",
     "createdAt": "2025-10-09T17:10:40Z",
     "number": 20293,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20293",
     "title": "[Bug]: Error running command mssql.filterNode",
     "areas": [
@@ -1844,7 +1955,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "December 2025 Release"
   },
   {
@@ -3287,7 +3398,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 9,
+    "totalReactions": 10,
     "commentCount": 8,
     "milestone": "Backlog"
   },
@@ -13248,7 +13359,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 12,
+    "totalReactions": 13,
     "commentCount": 5,
     "milestone": "Backlog"
   },
@@ -13671,7 +13782,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 112,
-    "commentCount": 18,
+    "commentCount": 20,
     "milestone": "January 2026 Release"
   },
   {
@@ -25217,8 +25328,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
-    "commentCount": 0,
+    "totalReactions": 3,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
