@@ -1,10 +1,78 @@
 [
   {
-    "author": "kburtram",
+    "author": "shapeseas",
     "closedAt": null,
+    "createdAt": "2025-11-18T15:17:00Z",
+    "number": 20617,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20617",
+    "title": "[Bug]: After using the \"excluded from project\" feature, schema compare reports a deletion of table",
+    "areas": [
+      "Schema Compare"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "gregveres",
+    "closedAt": "2025-11-18T17:27:09Z",
+    "createdAt": "2025-11-18T14:49:38Z",
+    "number": 20616,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20616",
+    "title": "[Feature Request]: Please provide option to auto execute query for \"Select top 1000\"",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 4
+  },
+  {
+    "author": "pthivierge",
+    "closedAt": null,
+    "createdAt": "2025-11-18T11:44:55Z",
+    "number": 20615,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20615",
+    "title": "[Bug]: Schema Compare then Publish creates any new tables with ANSI_NULL OFF",
+    "areas": [
+      "Schema Compare"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ubuntuztc",
+    "closedAt": "2025-11-18T17:35:53Z",
+    "createdAt": "2025-11-18T10:44:25Z",
+    "number": 20614,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20614",
+    "title": "[Feature Request]: toolbar layout",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "kburtram",
+    "closedAt": "2025-11-18T18:26:21Z",
     "createdAt": "2025-11-18T00:20:52Z",
     "number": 20610,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20610",
     "title": "[Bug]: Query result text mode resultset number isn't intuitive",
     "areas": [
@@ -15,7 +83,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "tauseefsiddique10",
@@ -74,10 +143,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2025-11-18T21:43:29Z",
     "createdAt": "2025-11-17T18:39:49Z",
     "number": 20603,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20603",
     "title": "[Bug]: Intellisense not picking up database objects and not highlighting errors",
     "areas": [
@@ -131,10 +200,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-18T07:39:55Z",
     "createdAt": "2025-11-14T20:45:15Z",
     "number": 20597,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20597",
     "title": "[Bug]: Missing Schema Designer entry point for default database",
     "areas": [
@@ -241,7 +310,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -294,14 +363,14 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-11-18T22:21:27Z",
     "createdAt": "2025-11-13T22:47:08Z",
     "number": 20578,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20578",
     "title": "[Bug]: Dacpac Dialog is not labeled as \"Preview\"",
     "areas": [],
@@ -310,7 +379,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2024 Release"
   },
   {
@@ -375,7 +444,7 @@
     "number": 20566,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20566",
-    "title": "[Bug]: Unable to connect to Azure SQL database with Entra after upgrading to VS Code 1.06.0",
+    "title": "[Bug]: Unable to connect to Azure SQL database with Entra after upgrading to VS Code 1.106.0",
     "areas": [
       "Connection"
     ],
@@ -384,7 +453,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
@@ -395,13 +464,15 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20565",
     "title": "[Bug]: Connection stuck in loading...",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6,
+    "commentCount": 8,
     "milestone": "December 2025 Release"
   },
   {
@@ -1038,10 +1109,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": "2025-11-13T00:11:02Z",
+    "closedAt": null,
     "createdAt": "2025-11-06T15:17:36Z",
     "number": 20450,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20450",
     "title": "[Bug]: Dataverse connections are not working",
     "areas": [
@@ -1052,8 +1123,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "November 2025 Release"
+    "commentCount": 2,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "lewis-sanchez",
@@ -1338,10 +1409,10 @@
   },
   {
     "author": "gisn1",
-    "closedAt": null,
+    "closedAt": "2025-11-18T01:04:06Z",
     "createdAt": "2025-11-04T14:31:34Z",
     "number": 20411,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20411",
     "title": "[Bug]: MERGE OUTPUT $action column incorrectly underlined as an error",
     "areas": [
@@ -1352,7 +1423,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 3,
     "milestone": "December 2025 Release"
   },
   {
@@ -1812,7 +1883,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -1918,7 +1989,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
@@ -2388,7 +2459,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 1,
     "milestone": "Backlog"
   },
@@ -3564,10 +3635,10 @@
   },
   {
     "author": "polandre90",
-    "closedAt": null,
+    "closedAt": "2025-11-18T20:28:16Z",
     "createdAt": "2025-08-26T12:36:14Z",
     "number": 20024,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20024",
     "title": "Filter icon in OE is not present for Azure SQL database connection",
     "areas": [
@@ -4049,7 +4120,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 4,
     "commentCount": 5,
     "milestone": "Backlog"
   },
@@ -5878,10 +5949,10 @@
   },
   {
     "author": "bhuvanUSW",
-    "closedAt": null,
+    "closedAt": "2025-11-18T20:26:28Z",
     "createdAt": "2025-06-13T10:08:54Z",
     "number": 19603,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19603",
     "title": "[Bug]: This extension has been disabled because it does not support virtual workspaces.",
     "areas": [
@@ -6622,7 +6693,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "January 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "caohai",
@@ -8197,10 +8268,10 @@
   },
   {
     "author": "stephajn",
-    "closedAt": null,
+    "closedAt": "2025-11-18T19:47:14Z",
     "createdAt": "2025-04-28T21:17:49Z",
     "number": 19281,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19281",
     "title": "Entra based authentication experience doesn't handle silent refresh of access token",
     "areas": [
@@ -8212,7 +8283,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "December 2025 Release"
   },
   {
@@ -9147,7 +9218,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -10403,7 +10474,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 6,
+    "totalReactions": 8,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -13018,7 +13089,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 20,
-    "commentCount": 14,
+    "commentCount": 15,
     "milestone": "Backlog"
   },
   {
@@ -14265,8 +14336,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "January 2026 Release"
+    "commentCount": 3,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "gisn1",
@@ -19092,10 +19163,10 @@
   },
   {
     "author": "gbritton1",
-    "closedAt": null,
+    "closedAt": "2025-11-18T01:26:57Z",
     "createdAt": "2024-03-06T15:10:32Z",
     "number": 17884,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17884",
     "title": "Folding incorrect for Transact SQL",
     "areas": [
@@ -19105,8 +19176,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 1,
+    "totalReactions": 1,
+    "commentCount": 3,
     "milestone": "December 2025 Release"
   },
   {
@@ -19650,10 +19721,10 @@
   },
   {
     "author": "dijitali",
-    "closedAt": null,
+    "closedAt": "2025-11-18T18:39:37Z",
     "createdAt": "2023-09-18T23:59:09Z",
     "number": 17811,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17811",
     "title": "[Docs] Supported Operating Systems lists OS releases that are end of life",
     "areas": [
@@ -20243,7 +20314,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
@@ -22492,10 +22563,10 @@
   },
   {
     "author": "leandroko",
-    "closedAt": null,
+    "closedAt": "2025-11-18T20:16:19Z",
     "createdAt": "2022-06-20T20:45:02Z",
     "number": 17372,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17372",
     "title": "Decimal Separator as comma not working since 1.13.0",
     "areas": [
@@ -22506,7 +22577,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
@@ -23676,10 +23747,10 @@
   },
   {
     "author": "inferrinizzard",
-    "closedAt": null,
+    "closedAt": "2025-11-18T03:00:26Z",
     "createdAt": "2021-12-17T17:40:05Z",
     "number": 17182,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17182",
     "title": "How to detect language flavour outside extension?",
     "areas": [
@@ -23690,7 +23761,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -25315,10 +25386,10 @@
   },
   {
     "author": "HankRocha",
-    "closedAt": null,
+    "closedAt": "2025-11-18T00:55:11Z",
     "createdAt": "2021-02-04T01:53:35Z",
     "number": 16953,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/16953",
     "title": "Intellisense not working on large database",
     "areas": [
@@ -25329,7 +25400,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
@@ -27972,10 +28043,10 @@
   },
   {
     "author": "MikeGriffinReborn",
-    "closedAt": null,
+    "closedAt": "2025-11-18T02:58:54Z",
     "createdAt": "2020-01-22T14:24:01Z",
     "number": 1573,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/1573",
     "title": "Possible to access Metadata from another VS Code Extension?",
     "areas": [
@@ -27986,7 +28057,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -32274,10 +32345,10 @@
   },
   {
     "author": "ClaudioESSilva",
-    "closedAt": null,
+    "closedAt": "2025-11-18T20:15:45Z",
     "createdAt": "2018-09-05T10:22:34Z",
     "number": 1139,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/1139",
     "title": "DATETIMEOFFSET data types should be ISO formatted",
     "areas": [
@@ -32288,7 +32359,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
