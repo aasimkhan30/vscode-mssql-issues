@@ -1,5 +1,85 @@
 [
   {
+    "author": "EricZiola",
+    "closedAt": null,
+    "createdAt": "2025-11-19T19:54:53Z",
+    "number": 20635,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20635",
+    "title": "[Bug]: TypeError: Cannot read properties of undefined (reading 'call') When starting mssql extension v1.37 (v1.36 still works)",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "sspringer",
+    "closedAt": "2025-11-19T17:38:03Z",
+    "createdAt": "2025-11-19T17:16:22Z",
+    "number": 20634,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20634",
+    "title": "Unable to Run Scripts",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "RezaRahmatzadeh",
+    "closedAt": null,
+    "createdAt": "2025-11-19T17:09:10Z",
+    "number": 20633,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20633",
+    "title": "[Feature Request]: Missing SSMS Features in the MSSQL Extension",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "gregveres",
+    "closedAt": null,
+    "createdAt": "2025-11-19T12:36:26Z",
+    "number": 20631,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20631",
+    "title": "[Feature Request]: Edit Data must expose data generation script for editing",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0
+  },
+  {
+    "author": "gregveres",
+    "closedAt": null,
+    "createdAt": "2025-11-19T12:21:54Z",
+    "number": 20630,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20630",
+    "title": "[Feature Request]: bring Select Top 1000 back to the top level menu",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "shapeseas",
     "closedAt": null,
     "createdAt": "2025-11-18T15:17:00Z",
@@ -138,7 +218,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -233,7 +313,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
@@ -363,7 +443,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "Benjin",
@@ -420,7 +500,7 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": "2025-11-17T19:11:02Z",
+    "closedAt": "2025-11-19T22:07:56Z",
     "createdAt": "2025-11-13T13:50:32Z",
     "number": 20567,
     "state": "CLOSED",
@@ -434,7 +514,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -453,7 +533,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "December 2025 Release"
   },
   {
@@ -3358,7 +3438,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "croblesm",
@@ -3469,7 +3549,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 10,
+    "totalReactions": 11,
     "commentCount": 8,
     "milestone": "Backlog"
   },
@@ -8283,7 +8363,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 7,
+    "commentCount": 8,
     "milestone": "December 2025 Release"
   },
   {
@@ -11798,7 +11878,7 @@
     "type": null,
     "hasArea": false,
     "hasType": false,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 9,
     "milestone": "July 2025 Release"
   },
@@ -13340,7 +13420,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 70,
-    "commentCount": 25,
+    "commentCount": 30,
     "milestone": "November 2025 Release"
   },
   {
@@ -13651,7 +13731,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 89,
+    "totalReactions": 90,
     "commentCount": 34,
     "milestone": "December 2025 Release"
   },
