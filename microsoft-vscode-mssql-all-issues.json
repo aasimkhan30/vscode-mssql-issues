@@ -1,5 +1,59 @@
 [
   {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2025-11-20T16:45:49Z",
+    "number": 20643,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20643",
+    "title": "[Bug]: Styling of selected NULL cell block is inconsistent with other cells",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "tabelle1",
+    "closedAt": null,
+    "createdAt": "2025-11-20T11:55:51Z",
+    "number": 20642,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20642",
+    "title": "[Bug]: Table designer gets stuck loading",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "nathanhicktonwork",
+    "closedAt": null,
+    "createdAt": "2025-11-20T10:04:14Z",
+    "number": 20641,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20641",
+    "title": "[Bug]: Filtering Stuck Loading",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "EricZiola",
     "closedAt": null,
     "createdAt": "2025-11-19T19:54:53Z",
@@ -7,13 +61,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20635",
     "title": "[Bug]: TypeError: Cannot read properties of undefined (reading 'call') When starting mssql extension v1.37 (v1.36 still works)",
-    "areas": [],
+    "areas": [
+      "Acquisition"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 2,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "sspringer",
@@ -33,10 +90,10 @@
   },
   {
     "author": "RezaRahmatzadeh",
-    "closedAt": null,
+    "closedAt": "2025-11-20T02:01:07Z",
     "createdAt": "2025-11-19T17:09:10Z",
     "number": 20633,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20633",
     "title": "[Feature Request]: Missing SSMS Features in the MSSQL Extension",
     "areas": [],
@@ -45,7 +102,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "gregveres",
@@ -55,13 +112,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20631",
     "title": "[Feature Request]: Edit Data must expose data generation script for editing",
-    "areas": [],
+    "areas": [
+      "View/Edit data"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "gregveres",
@@ -71,13 +131,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20630",
     "title": "[Feature Request]: bring Select Top 1000 back to the top level menu",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0
+    "totalReactions": 3,
+    "commentCount": 4,
+    "milestone": "Backlog"
   },
   {
     "author": "shapeseas",
@@ -199,7 +262,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -218,7 +281,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 3,
     "milestone": "December 2025 Release"
   },
   {
@@ -1963,7 +2026,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -6329,7 +6392,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
@@ -13420,7 +13483,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 70,
-    "commentCount": 30,
+    "commentCount": 31,
     "milestone": "November 2025 Release"
   },
   {
@@ -13731,7 +13794,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 90,
+    "totalReactions": 91,
     "commentCount": 34,
     "milestone": "December 2025 Release"
   },
@@ -16768,12 +16831,12 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2025-11-20T23:56:58Z",
     "createdAt": "2024-10-16T15:55:14Z",
     "number": 18239,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18239",
-    "title": "Browse Azure doesn't support SQL VM or MI",
+    "title": "Browse Azure doesn't support SQL MI",
     "areas": [
       "Connection"
     ],
@@ -16782,7 +16845,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
