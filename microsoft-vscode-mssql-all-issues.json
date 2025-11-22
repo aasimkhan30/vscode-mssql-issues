@@ -1,5 +1,53 @@
 [
   {
+    "author": "app/microsoft-github-policy-service",
+    "closedAt": null,
+    "createdAt": "2025-11-21T17:50:38Z",
+    "number": 20662,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20662",
+    "title": "This repo is missing important files",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "dzimmerman-Westat",
+    "closedAt": null,
+    "createdAt": "2025-11-21T15:52:15Z",
+    "number": 20658,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20658",
+    "title": "[Bug]: 1.37.0 Scroll Bars Flickering After Update",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "JoshStrauss",
+    "closedAt": null,
+    "createdAt": "2025-11-21T11:22:47Z",
+    "number": 20657,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20657",
+    "title": "[Bug]: In 1.37.0 File Compare is missing after update",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "kburtram",
     "closedAt": null,
     "createdAt": "2025-11-20T16:45:49Z",
@@ -139,7 +187,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -4864,10 +4912,10 @@
   },
   {
     "author": "ganagdhar123",
-    "closedAt": null,
+    "closedAt": "2025-11-21T17:31:45Z",
     "createdAt": "2025-07-21T10:45:30Z",
     "number": 19815,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19815",
     "title": "Color contrast ratio of \"Error message\" text present for Combox is 2.85:1 which is less than 4.5:1:A11y_MSSQL for VSCode_User is Adding Connection_Adding connection via Parameters_ColorContrast.",
     "areas": [
@@ -4878,7 +4926,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 3,
     "milestone": "December 2025 Release"
   },
   {
@@ -6125,7 +6173,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "November 2025 Release"
   },
   {
@@ -7009,10 +7057,10 @@
   },
   {
     "author": "swaschitz",
-    "closedAt": null,
+    "closedAt": "2025-11-21T02:16:32Z",
     "createdAt": "2025-05-27T20:00:27Z",
     "number": 19485,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19485",
     "title": "Database Name Truncation in status bar leading to mistakes/ambiguity",
     "areas": [
@@ -7023,7 +7071,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "December 2025 Release"
   },
   {
@@ -7204,7 +7252,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 0,
     "milestone": "December 2025 Release"
   },
@@ -13573,7 +13621,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 13,
+    "totalReactions": 14,
     "commentCount": 5,
     "milestone": "Backlog"
   },
@@ -16831,10 +16879,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": "2025-11-20T23:56:58Z",
+    "closedAt": null,
     "createdAt": "2024-10-16T15:55:14Z",
     "number": 18239,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18239",
     "title": "Browse Azure doesn't support SQL MI",
     "areas": [
@@ -16845,7 +16893,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "December 2025 Release"
   },
   {
