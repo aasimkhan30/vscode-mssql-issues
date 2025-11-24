@@ -1,5 +1,6 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
-"20662","This repo is missing important files","app/microsoft-github-policy-service","OPEN","2025-11-21T17:50:38Z",,"",,"0","https://github.com/microsoft/vscode-mssql/issues/20662","0","-1",
+"20674","[Feature Request]: Include Column Name when Auto Sizing Columns","lancra","OPEN","2025-11-23T19:25:19Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20674","0","-1",
+"20662","This repo is missing important files","app/microsoft-github-policy-service","CLOSED","2025-11-21T17:50:38Z","2025-11-23T05:57:50Z","",,"0","https://github.com/microsoft/vscode-mssql/issues/20662","1","-1",
 "20658","[Bug]: 1.37.0 Scroll Bars Flickering After Update","dzimmerman-Westat","OPEN","2025-11-21T15:52:15Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20658","1","-1",
 "20657","[Bug]: In 1.37.0 File Compare is missing after update","JoshStrauss","OPEN","2025-11-21T11:22:47Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20657","0","-1",
 "20643","[Bug]: Styling of selected NULL cell block is inconsistent with other cells","kburtram","OPEN","2025-11-20T16:45:49Z",,"Query Result","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20643","0","-1","Backlog"

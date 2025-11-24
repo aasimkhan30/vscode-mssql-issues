@@ -1,10 +1,26 @@
 [
   {
-    "author": "app/microsoft-github-policy-service",
+    "author": "lancra",
     "closedAt": null,
+    "createdAt": "2025-11-23T19:25:19Z",
+    "number": 20674,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20674",
+    "title": "[Feature Request]: Include Column Name when Auto Sizing Columns",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "app/microsoft-github-policy-service",
+    "closedAt": "2025-11-23T05:57:50Z",
     "createdAt": "2025-11-21T17:50:38Z",
     "number": 20662,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20662",
     "title": "This repo is missing important files",
     "areas": [],
@@ -13,7 +29,7 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "dzimmerman-Westat",
