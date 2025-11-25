@@ -1,5 +1,104 @@
 [
   {
+    "author": "gisn1",
+    "closedAt": null,
+    "createdAt": "2025-11-24T16:31:11Z",
+    "number": 20681,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20681",
+    "title": "[Bug]: \"In Memory Data Processing Threshold\" setting ignored",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "gisn1",
+    "closedAt": null,
+    "createdAt": "2025-11-24T16:22:49Z",
+    "number": 20680,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20680",
+    "title": "[Bug]: \"Enable Actual Plan\" not working when running query with \"Execute Current Statement\" command",
+    "areas": [
+      "Query Plan"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "ActsSeraiah",
+    "closedAt": null,
+    "createdAt": "2025-11-24T16:14:30Z",
+    "number": 20679,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20679",
+    "title": "[Feature Request]: Copy Headers with brackets",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "bwa",
+    "closedAt": null,
+    "createdAt": "2025-11-24T14:54:45Z",
+    "number": 20678,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20678",
+    "title": "[Bug]: extension does not recognize opened file as sql",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "qaushqestaj",
+    "closedAt": null,
+    "createdAt": "2025-11-24T13:25:21Z",
+    "number": 20677,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20677",
+    "title": "[Bug]: MSSQL Extension in VS Code (macOS) won't open after updating to v1.37.0",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "laurawinchmore",
+    "closedAt": null,
+    "createdAt": "2025-11-24T11:50:33Z",
+    "number": 20676,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20676",
+    "title": "Mssql issues after VS code update \"run_query\" tool only",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "lancra",
     "closedAt": null,
     "createdAt": "2025-11-23T19:25:19Z",
@@ -12,7 +111,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -45,7 +144,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 4
   },
   {
     "author": "JoshStrauss",
@@ -61,7 +160,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "kburtram",
@@ -331,10 +430,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2025-11-24T23:13:09Z",
     "createdAt": "2025-11-17T20:29:36Z",
     "number": 20605,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20605",
     "title": "[Bug]: Unnecessary scrollbars in Edit Data grid",
     "areas": [
@@ -555,10 +654,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2025-11-24T18:17:19Z",
     "createdAt": "2025-11-13T23:30:55Z",
     "number": 20579,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20579",
     "title": "[Bug]: Object Explorer incorrectly things local/xcopy server is a docker container, and throws error about it not existing",
     "areas": [
@@ -660,7 +759,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "December 2025 Release"
   },
   {
@@ -777,10 +876,10 @@
   },
   {
     "author": "dlevy-msft-sql",
-    "closedAt": null,
+    "closedAt": "2025-11-24T18:17:20Z",
     "createdAt": "2025-11-11T20:31:23Z",
     "number": 20536,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20536",
     "title": "[Bug]: Password not passed correctly when creating a container",
     "areas": [
@@ -6117,10 +6216,10 @@
   },
   {
     "author": "caohai",
-    "closedAt": null,
+    "closedAt": "2025-11-24T18:17:19Z",
     "createdAt": "2025-06-13T21:52:21Z",
     "number": 19606,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19606",
     "title": "[Bug]: Local SQL Server Incorrectly Identified as Docker Container",
     "areas": [
