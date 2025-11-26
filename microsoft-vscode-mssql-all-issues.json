@@ -1,10 +1,10 @@
 [
   {
     "author": "gisn1",
-    "closedAt": null,
+    "closedAt": "2025-11-25T22:29:03Z",
     "createdAt": "2025-11-24T16:31:11Z",
     "number": 20681,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20681",
     "title": "[Bug]: \"In Memory Data Processing Threshold\" setting ignored",
     "areas": [],
@@ -12,15 +12,15 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
     "author": "gisn1",
-    "closedAt": null,
+    "closedAt": "2025-11-25T22:25:40Z",
     "createdAt": "2025-11-24T16:22:49Z",
     "number": 20680,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20680",
     "title": "[Bug]: \"Enable Actual Plan\" not working when running query with \"Execute Current Statement\" command",
     "areas": [
@@ -64,7 +64,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "qaushqestaj",
@@ -80,7 +80,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "laurawinchmore",
@@ -90,13 +90,15 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20676",
     "title": "Mssql issues after VS code update \"run_query\" tool only",
-    "areas": [],
+    "areas": [
+      "GitHub Copilot"
+    ],
     "priority": -1,
     "type": null,
-    "hasArea": false,
+    "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "lancra",
@@ -111,7 +113,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0
   },
   {
@@ -144,7 +146,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4
+    "commentCount": 7
   },
   {
     "author": "JoshStrauss",
@@ -160,7 +162,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "kburtram",
@@ -282,8 +284,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 2,
+    "totalReactions": 3,
+    "commentCount": 6,
     "milestone": "Backlog"
   },
   {
@@ -468,10 +470,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2025-11-25T19:03:24Z",
     "createdAt": "2025-11-17T08:49:29Z",
     "number": 20602,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20602",
     "title": "[Bug]: Revert cell is not working on invalid edited cell instantly",
     "areas": [
@@ -487,10 +489,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2025-11-25T18:21:35Z",
     "createdAt": "2025-11-17T00:25:19Z",
     "number": 20601,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20601",
     "title": "[Bug]: Column shown as NULL in a non-nullable column",
     "areas": [
@@ -759,7 +761,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "December 2025 Release"
   },
   {
@@ -1113,10 +1115,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2025-11-25T20:22:56Z",
     "createdAt": "2025-11-08T00:40:42Z",
     "number": 20504,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20504",
     "title": "[Feature Request]: Improve Delete Rows UX for Clarity and Transparency",
     "areas": [
@@ -1183,7 +1185,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 2,
     "milestone": "January 2026 Release"
   },
@@ -2067,19 +2069,22 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": "2025-11-03T20:44:34Z",
+    "closedAt": null,
     "createdAt": "2025-10-27T16:47:42Z",
     "number": 20357,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20357",
     "title": "[Bug]: mssql and postgres extension don't play nicely together",
-    "areas": [],
+    "areas": [
+      "Shell"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "hovek",
@@ -2870,7 +2875,6 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/20192",
     "title": "[Bug]: provisioning and connecting to SQL DB in Fabric takes a long time",
     "areas": [
-      "Connection",
       "Fabric Provisioning"
     ],
     "priority": -1,
@@ -5246,7 +5250,7 @@
       "Connection"
     ],
     "priority": -1,
-    "type": "Bug",
+    "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
@@ -5642,10 +5646,10 @@
   },
   {
     "author": "BenjaminRest",
-    "closedAt": null,
+    "closedAt": "2025-11-25T22:13:11Z",
     "createdAt": "2025-07-08T15:18:45Z",
     "number": 19711,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19711",
     "title": "[Bug]: MFA from VS Code (MSAL) does not work with ZScaler Private Access",
     "areas": [
@@ -7167,7 +7171,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "December 2025 Release"
   },
   {
@@ -8122,10 +8126,10 @@
   },
   {
     "author": "m-spangenberg",
-    "closedAt": null,
+    "closedAt": "2025-11-25T22:22:21Z",
     "createdAt": "2025-05-02T10:30:12Z",
     "number": 19330,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19330",
     "title": "Unable to connect to AzureSQL database using SQL Login",
     "areas": [
@@ -8136,7 +8140,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 9,
+    "commentCount": 10,
     "milestone": "December 2025 Release"
   },
   {
@@ -11611,8 +11615,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "commentCount": 3,
+    "milestone": "Backlog"
   },
   {
     "author": "tim-mit",
@@ -13703,7 +13707,7 @@
     "hasType": false,
     "totalReactions": 39,
     "commentCount": 10,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Kwhite-lilly",
@@ -20620,7 +20624,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "January 2026 Release"
   },
   {
@@ -20905,7 +20909,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 4,
     "milestone": "November 2025 Release"
   },
@@ -25106,7 +25110,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 1,
     "milestone": "Backlog"
   },
