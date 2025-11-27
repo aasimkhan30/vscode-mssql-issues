@@ -1,5 +1,21 @@
 [
   {
+    "author": "afernandezortuzar",
+    "closedAt": null,
+    "createdAt": "2025-11-26T15:20:40Z",
+    "number": 20697,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20697",
+    "title": "[Bug]: Error while copying query results",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
     "author": "gisn1",
     "closedAt": "2025-11-25T22:29:03Z",
     "createdAt": "2025-11-24T16:31:11Z",
@@ -80,7 +96,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 3
   },
   {
     "author": "laurawinchmore",
@@ -113,7 +129,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 0
   },
   {
@@ -146,7 +162,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 7
+    "commentCount": 10
   },
   {
     "author": "JoshStrauss",
@@ -761,7 +777,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "December 2025 Release"
   },
   {
@@ -5606,7 +5622,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 3,
     "milestone": "December 2025 Release"
   },
   {
