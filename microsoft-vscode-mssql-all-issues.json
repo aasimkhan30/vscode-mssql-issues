@@ -1,5 +1,21 @@
 [
   {
+    "author": "jamesfdickinson",
+    "closedAt": null,
+    "createdAt": "2025-11-28T10:17:21Z",
+    "number": 20706,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20706",
+    "title": "[Bug]: Schema Designer \"Open Publish Script\" executes changes before displaying script for review",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "afernandezortuzar",
     "closedAt": null,
     "createdAt": "2025-11-26T15:20:40Z",
@@ -190,7 +206,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 3
   },
   {
     "author": "kburtram",
@@ -312,7 +328,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 6,
     "milestone": "Backlog"
   },
@@ -13989,7 +14005,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 91,
+    "totalReactions": 92,
     "commentCount": 34,
     "milestone": "December 2025 Release"
   },
