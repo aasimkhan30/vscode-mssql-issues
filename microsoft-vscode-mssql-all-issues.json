@@ -1,10 +1,44 @@
 [
   {
-    "author": "jamesfdickinson",
+    "author": "Sheldon-ding",
     "closedAt": null,
+    "createdAt": "2025-12-01T16:02:09Z",
+    "number": 20710,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20710",
+    "title": "[Feature Request]: Support copying from excel in table explorer. ",
+    "areas": [
+      "Table Explorer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ubuntuztc",
+    "closedAt": null,
+    "createdAt": "2025-12-01T06:33:25Z",
+    "number": 20709,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20709",
+    "title": "[Feature Request]: Manage SQL Database, SQL Job agent",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jamesfdickinson",
+    "closedAt": "2025-12-01T18:23:35Z",
     "createdAt": "2025-11-28T10:17:21Z",
     "number": 20706,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20706",
     "title": "[Bug]: Schema Designer \"Open Publish Script\" executes changes before displaying script for review",
     "areas": [],
@@ -13,7 +47,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
   },
   {
     "author": "afernandezortuzar",
@@ -32,7 +67,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 6,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "gisn1",
@@ -137,14 +172,15 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "lancra",
-    "closedAt": null,
+    "closedAt": "2025-12-01T19:58:00Z",
     "createdAt": "2025-11-23T19:25:19Z",
     "number": 20674,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20674",
     "title": "[Feature Request]: Include Column Name when Auto Sizing Columns",
     "areas": [
@@ -154,7 +190,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 0,
     "milestone": "December 2025 Release"
   },
@@ -453,7 +489,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "kburtram",
@@ -605,7 +641,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "amthomas46",
@@ -643,7 +679,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "panwauu",
@@ -2223,7 +2259,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "laurenastrid1",
@@ -2494,7 +2530,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 10,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "kburtram",
@@ -2926,7 +2962,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -6375,7 +6411,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -6646,10 +6682,10 @@
   },
   {
     "author": "MartinVycital",
-    "closedAt": null,
+    "closedAt": "2025-12-01T19:47:29Z",
     "createdAt": "2025-06-07T22:21:22Z",
     "number": 19545,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19545",
     "title": "[Feature Request]: Select variable name including \"@\" prefix when double-clicked",
     "areas": [
@@ -6785,7 +6821,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 4,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "bujocek",
@@ -8148,7 +8184,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "dkratochvil-neit",
@@ -19874,7 +19910,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "npongo",
