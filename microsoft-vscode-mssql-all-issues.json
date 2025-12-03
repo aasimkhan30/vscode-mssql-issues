@@ -1,5 +1,21 @@
 [
   {
+    "author": "jasonhorner",
+    "closedAt": null,
+    "createdAt": "2025-12-02T17:34:32Z",
+    "number": 20715,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20715",
+    "title": "[Feature Request]: Ability to Mark Existing Scripts as Pre/Post-Deployment in SQL Projects",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Sheldon-ding",
     "closedAt": null,
     "createdAt": "2025-12-01T16:02:09Z",
@@ -47,7 +63,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -2962,8 +2978,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "commentCount": 2,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "kburtram",
@@ -17091,7 +17107,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 3,
     "milestone": "December 2025 Release"
   },
@@ -19908,7 +19924,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "January 2026 Release"
   },
