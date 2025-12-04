@@ -1,5 +1,41 @@
 [
   {
+    "author": "nathanweil",
+    "closedAt": null,
+    "createdAt": "2025-12-03T17:46:48Z",
+    "number": 20719,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20719",
+    "title": "[Bug]: Copying results doesn't work on Ubuntu",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2025-12-03T09:26:45Z",
+    "number": 20717,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20717",
+    "title": "[Bug]: AAD connections are broken in OE",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "December 2025 Release"
+  },
+  {
     "author": "jasonhorner",
     "closedAt": null,
     "createdAt": "2025-12-02T17:34:32Z",
@@ -7,13 +43,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20715",
     "title": "[Feature Request]: Ability to Mark Existing Scripts as Pre/Post-Deployment in SQL Projects",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "Sheldon-ding",
@@ -31,7 +70,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ubuntuztc",
@@ -47,7 +87,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "jamesfdickinson",
@@ -83,7 +124,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 6,
-    "milestone": "January 2026 Release"
+    "milestone": "December 2025 Release"
   },
   {
     "author": "gisn1",
@@ -228,10 +269,10 @@
   },
   {
     "author": "dzimmerman-Westat",
-    "closedAt": null,
+    "closedAt": "2025-12-03T08:51:29Z",
     "createdAt": "2025-11-21T15:52:15Z",
     "number": 20658,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20658",
     "title": "[Bug]: 1.37.0 Scroll Bars Flickering After Update",
     "areas": [
@@ -242,7 +283,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 10
+    "commentCount": 12
   },
   {
     "author": "JoshStrauss",
@@ -312,7 +353,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "EricZiola",
@@ -638,7 +679,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "amthomas46",
@@ -676,7 +717,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "amthomas46",
@@ -752,10 +793,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": "2025-11-24T18:17:19Z",
+    "closedAt": null,
     "createdAt": "2025-11-13T23:30:55Z",
     "number": 20579,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20579",
     "title": "[Bug]: Object Explorer incorrectly things local/xcopy server is a docker container, and throws error about it not existing",
     "areas": [
@@ -843,10 +884,10 @@
   },
   {
     "author": "neoGeneva",
-    "closedAt": null,
+    "closedAt": "2025-12-03T18:10:23Z",
     "createdAt": "2025-11-13T08:07:05Z",
     "number": 20566,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20566",
     "title": "[Bug]: Unable to connect to Azure SQL database with Entra after upgrading to VS Code 1.106.0",
     "areas": [
@@ -857,15 +898,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "December 2025 Release"
   },
   {
     "author": "bwr1234",
-    "closedAt": null,
+    "closedAt": "2025-12-03T18:09:31Z",
     "createdAt": "2025-11-13T06:58:52Z",
     "number": 20565,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20565",
     "title": "[Bug]: Connection stuck in loading...",
     "areas": [
@@ -876,7 +917,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 8,
+    "commentCount": 9,
     "milestone": "December 2025 Release"
   },
   {
@@ -1528,7 +1569,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "lewis-sanchez",
@@ -4075,7 +4116,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 6,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "mpurnyn",
@@ -5351,7 +5392,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 7,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "lewis-sanchez",
@@ -6316,10 +6357,10 @@
   },
   {
     "author": "caohai",
-    "closedAt": "2025-11-24T18:17:19Z",
+    "closedAt": null,
     "createdAt": "2025-06-13T21:52:21Z",
     "number": 19606,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19606",
     "title": "[Bug]: Local SQL Server Incorrectly Identified as Docker Container",
     "areas": [
@@ -6641,10 +6682,10 @@
   },
   {
     "author": "davidfordaus",
-    "closedAt": null,
+    "closedAt": "2025-12-03T18:07:50Z",
     "createdAt": "2025-06-10T01:03:21Z",
     "number": 19551,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19551",
     "title": "[Bug]: Can't login to SQL MI, no error message. Connect fails",
     "areas": [
@@ -6655,7 +6696,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "December 2025 Release"
   },
   {
@@ -7253,10 +7294,10 @@
   },
   {
     "author": "Lwhieldon",
-    "closedAt": null,
+    "closedAt": "2025-12-03T18:07:12Z",
     "createdAt": "2025-05-27T23:34:51Z",
     "number": 19518,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19518",
     "title": "SQL Database Projects VSCode Extension - Cannot Connect to Azure SQL Database using Microsoft Entra",
     "areas": [
@@ -7267,7 +7308,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "December 2025 Release"
   },
   {
@@ -10643,7 +10684,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "spewu",
@@ -17094,10 +17135,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2025-12-03T20:44:20Z",
     "createdAt": "2024-10-16T15:55:14Z",
     "number": 18239,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18239",
     "title": "Browse Azure doesn't support SQL MI",
     "areas": [
