@@ -1,5 +1,22 @@
 [
   {
+    "author": "cathrinew",
+    "closedAt": null,
+    "createdAt": "2025-12-05T14:46:34Z",
+    "number": 20737,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20737",
+    "title": "[Bug]: Sorting / filtering in results grid affects next query results when using \"Execute Current Statement\"",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
     "author": "khadden-compline",
     "closedAt": null,
     "createdAt": "2025-12-04T19:57:33Z",
@@ -12,7 +29,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0
   },
   {
@@ -2368,7 +2385,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 5,
+    "totalReactions": 6,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -14137,7 +14154,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 96,
+    "totalReactions": 97,
     "commentCount": 36,
     "milestone": "December 2025 Release"
   },
@@ -14338,7 +14355,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 113,
+    "totalReactions": 114,
     "commentCount": 20,
     "milestone": "January 2026 Release"
   },
