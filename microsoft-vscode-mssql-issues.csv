@@ -1,5 +1,5 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
-"20737","[Bug]: Sorting / filtering in results grid affects next query results when using ""Execute Current Statement""","cathrinew","OPEN","2025-12-05T14:46:34Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20737","0","-1","December 2025 Release"
+"20737","[Bug]: Sorting / filtering in results grid affects next query results when using ""Execute Current Statement""","cathrinew","CLOSED","2025-12-05T14:46:34Z","2025-12-06T02:53:15Z","","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20737","0","-1","December 2025 Release"
 "20735","[Feature Request]: [Option].[to].[turn].[OFF].[escaping].[of].[EVERYTHING]","khadden-compline","OPEN","2025-12-04T19:57:33Z",,"","Feature Request","2","https://github.com/microsoft/vscode-mssql/issues/20735","0","-1",
 "20731","[Feature Request]: Allow login to Azure with `--allow-no-subscriptions`","yooakim","OPEN","2025-12-04T06:27:29Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20731","0","-1",
 "20719","[Bug]: Copying results doesn't work on Ubuntu","nathanweil","CLOSED","2025-12-03T17:46:48Z","2025-12-05T00:56:08Z","","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20719","2","-1","December 2025 Release"
