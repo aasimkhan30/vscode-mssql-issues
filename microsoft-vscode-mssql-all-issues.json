@@ -1,5 +1,72 @@
 [
   {
+    "author": "deraifinta-code",
+    "closedAt": null,
+    "createdAt": "2025-12-08T19:33:21Z",
+    "number": 20748,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20748",
+    "title": "[Bug]: Unable to connect to the MSSQL database in visual studio code.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "burtonrodman",
+    "closedAt": null,
+    "createdAt": "2025-12-08T19:12:05Z",
+    "number": 20747,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20747",
+    "title": "Copy to clipboard from Results not working",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "torbenhamburg",
+    "closedAt": null,
+    "createdAt": "2025-12-08T15:10:15Z",
+    "number": 20744,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20744",
+    "title": "[Feature Request]: Show SQL Pane in Edit Data (Preview) area",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ltsyen",
+    "closedAt": null,
+    "createdAt": "2025-12-08T10:23:36Z",
+    "number": 20743,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20743",
+    "title": "[Bug]: Schema compare failed: startIndex ('-1') must be a non-negative value.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "cathrinew",
     "closedAt": "2025-12-06T02:53:15Z",
     "createdAt": "2025-12-05T14:46:34Z",
@@ -67,10 +134,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2025-12-08T16:44:27Z",
     "createdAt": "2025-12-03T09:26:45Z",
     "number": 20717,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20717",
     "title": "[Bug]: AAD connections are broken in OE",
     "areas": [
@@ -1009,7 +1076,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "December 2025 Release"
   },
   {
@@ -2095,7 +2162,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "croblesm",
@@ -2256,7 +2323,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "amthomas46",
@@ -2492,7 +2559,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "gordon-fu",
@@ -3276,7 +3343,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -3295,7 +3362,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Benjin",
@@ -3991,7 +4058,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Wermeling",
@@ -7083,25 +7150,6 @@
     "milestone": "June 2025 Release"
   },
   {
-    "author": "poornas89",
-    "closedAt": null,
-    "createdAt": "2025-06-02T10:12:58Z",
-    "number": 19522,
-    "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/19522",
-    "title": "[Bug]: Incorrect syntax: 'CREATE VIEW' must be the only statement in the batch when using OPENROWSET('CosmosDB'))",
-    "areas": [
-      "SQL Project"
-    ],
-    "priority": -1,
-    "type": "Bug",
-    "hasArea": true,
-    "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "December 2025 Release"
-  },
-  {
     "author": "croblesm",
     "closedAt": "2025-05-31T01:34:43Z",
     "createdAt": "2025-05-31T00:23:42Z",
@@ -8447,10 +8495,10 @@
   },
   {
     "author": "mmgagnon",
-    "closedAt": null,
+    "closedAt": "2025-12-08T22:04:58Z",
     "createdAt": "2025-05-01T14:43:38Z",
     "number": 19315,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19315",
     "title": "Slow query execution",
     "areas": [
@@ -8462,8 +8510,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 7,
-    "milestone": "December 2025 Release"
+    "commentCount": 8,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "ivobeemster",
@@ -8937,7 +8985,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "croblesm",
@@ -9180,10 +9228,10 @@
   },
   {
     "author": "emil-eklund",
-    "closedAt": null,
+    "closedAt": "2025-12-08T18:07:43Z",
     "createdAt": "2025-04-23T14:35:55Z",
     "number": 19238,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19238",
     "title": "[Bug:] Unable to connect to a database using ActiveDirectoryServicePrincipal",
     "areas": [
@@ -10261,7 +10309,7 @@
       "Schema Designer"
     ],
     "priority": -1,
-    "type": "Bug",
+    "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
@@ -10302,7 +10350,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 1,
+    "totalReactions": 0,
     "commentCount": 1,
     "milestone": "December 2025 Release"
   },
@@ -10846,8 +10894,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 4,
-    "milestone": "December 2025 Release"
+    "commentCount": 5,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "bdague-etskirsch",
@@ -11360,8 +11408,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 9,
-    "commentCount": 3,
+    "totalReactions": 10,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -13842,7 +13890,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 70,
-    "commentCount": 31,
+    "commentCount": 32,
     "milestone": "November 2025 Release"
   },
   {
