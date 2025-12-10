@@ -1,10 +1,48 @@
 [
   {
-    "author": "deraifinta-code",
+    "author": "aasimkhan30",
     "closedAt": null,
+    "createdAt": "2025-12-09T20:15:31Z",
+    "number": 20755,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20755",
+    "title": "[Bug]: Separate out column header menu in Query Results",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "ErickPower",
+    "closedAt": null,
+    "createdAt": "2025-12-09T18:19:52Z",
+    "number": 20752,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20752",
+    "title": "[Bug]: New Line does not copy from results",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "deraifinta-code",
+    "closedAt": "2025-12-09T20:32:00Z",
     "createdAt": "2025-12-08T19:33:21Z",
     "number": 20748,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20748",
     "title": "[Bug]: Unable to connect to the MSSQL database in visual studio code.",
     "areas": [],
@@ -13,7 +51,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "burtonrodman",
@@ -539,7 +577,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 6,
     "milestone": "Backlog"
   },
@@ -685,8 +723,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "commentCount": 3,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "kburtram",
@@ -929,7 +967,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Benjin",
@@ -1077,7 +1115,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "croblesm",
@@ -2310,10 +2348,10 @@
   },
   {
     "author": "Swati1700",
-    "closedAt": null,
+    "closedAt": "2025-12-09T09:44:13Z",
     "createdAt": "2025-10-27T17:12:21Z",
     "number": 20358,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20358",
     "title": "After \"Hide Panel\" button, focus is lost and goes to an unexpected location on the screen instead of Messages or results tab: A11y_MSSQL for VSCode_Execute Query_Keyboard",
     "areas": [],
@@ -2322,7 +2360,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
@@ -2670,7 +2708,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Stralle",
@@ -4199,7 +4237,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "polandre90",
@@ -4256,7 +4294,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "SPerremans",
@@ -4508,7 +4546,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 4,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "capiyomero",
@@ -4543,7 +4581,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "agrabsi",
@@ -5077,7 +5115,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "croblesm",
@@ -5864,8 +5902,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
-    "milestone": "December 2025 Release"
+    "commentCount": 5,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "hedgybeats",
@@ -6494,7 +6532,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "johnwdunn20",
@@ -7866,7 +7904,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "JamesDBartlett3",
@@ -9311,10 +9349,10 @@
   },
   {
     "author": "jasonhorner",
-    "closedAt": null,
+    "closedAt": "2025-12-09T19:50:29Z",
     "createdAt": "2025-04-19T18:44:48Z",
     "number": 19217,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19217",
     "title": "Auto-Clear & Maximize Output Panel on Database Project Build",
     "areas": [
@@ -9325,7 +9363,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 7,
+    "commentCount": 8,
     "milestone": "December 2025 Release"
   },
   {
@@ -10352,7 +10390,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -11044,7 +11082,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "poolhost",
@@ -13890,7 +13928,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 70,
-    "commentCount": 32,
+    "commentCount": 35,
     "milestone": "November 2025 Release"
   },
   {
@@ -14189,10 +14227,10 @@
   },
   {
     "author": "PureKrome",
-    "closedAt": null,
+    "closedAt": "2025-12-09T19:20:31Z",
     "createdAt": "2025-02-11T11:29:23Z",
     "number": 18644,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18644",
     "title": "[Feature Request]: Add DACPAC/BACPAC Database Functionality",
     "areas": [
@@ -14202,8 +14240,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 97,
-    "commentCount": 36,
+    "totalReactions": 100,
+    "commentCount": 37,
     "milestone": "December 2025 Release"
   },
   {
@@ -14888,7 +14926,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "gisn1",
@@ -17554,7 +17592,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Benjin",
@@ -33083,7 +33121,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "ransagy",
