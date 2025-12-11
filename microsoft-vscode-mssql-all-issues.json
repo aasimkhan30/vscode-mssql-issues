@@ -1,5 +1,143 @@
 [
   {
+    "author": "lewis-sanchez",
+    "closedAt": null,
+    "createdAt": "2025-12-11T00:22:18Z",
+    "number": 20780,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20780",
+    "title": "[Task]: Adjust Edit Data telemetry",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2025-12-10T19:52:54Z",
+    "createdAt": "2025-12-10T18:06:00Z",
+    "number": 20769,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20769",
+    "title": "[Bug]: SQL local container warning message for SQL 2025 + ARM-based systems is incorrect",
+    "areas": [
+      "Local container"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "ltsyen",
+    "closedAt": null,
+    "createdAt": "2025-12-10T11:13:14Z",
+    "number": 20767,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20767",
+    "title": "[Feature Request]: DBeaver \"Record View\" equivalent (transpose of columns and rows)",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ltsyen",
+    "closedAt": "2025-12-10T21:00:30Z",
+    "createdAt": "2025-12-10T11:03:26Z",
+    "number": 20766,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20766",
+    "title": "[Bug]: mssql.resultsGrid.inMemoryDataProcessingThreshold user setting not working after increase in setting",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "FLanphen",
+    "closedAt": null,
+    "createdAt": "2025-12-10T10:41:27Z",
+    "number": 20765,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20765",
+    "title": "Starting Client Failed on Windows",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "juk-stata",
+    "closedAt": null,
+    "createdAt": "2025-12-10T08:48:25Z",
+    "number": 20764,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20764",
+    "title": "[Bug]: Failed to load System.Private.CoreLib.dll (HRESULT: 0x80070002) on Windows 11 with mssql extension",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2025-12-10T06:57:16Z",
+    "number": 20763,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20763",
+    "title": "[Bug]: Handle designer errors and additional logging in 1.38",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "lewis-sanchez",
+    "closedAt": "2025-12-11T00:25:29Z",
+    "createdAt": "2025-12-10T06:02:28Z",
+    "number": 20760,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20760",
+    "title": "[Task]: Add Comprehensive Logging to Schema Compare",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
     "author": "aasimkhan30",
     "closedAt": null,
     "createdAt": "2025-12-09T20:15:31Z",
@@ -69,7 +207,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "January 2026 Release"
   },
   {
@@ -527,8 +665,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "commentCount": 3,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "sspringer",
@@ -13629,7 +13767,7 @@
     "number": 18685,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18685",
-    "title": "Feature Request - Toggle Results Pane",
+    "title": "[Feature Request] - Add keybinding to toggle Results Pane",
     "areas": [
       "Query Editor",
       "Query Result"
@@ -13663,10 +13801,10 @@
   },
   {
     "author": "coolaardvark",
-    "closedAt": null,
+    "closedAt": "2025-12-10T18:26:52Z",
     "createdAt": "2025-02-14T13:56:01Z",
     "number": 18682,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18682",
     "title": "[Feature Request]: No indication on a tab of which database or server you are connected to",
     "areas": [
@@ -13677,7 +13815,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 20,
-    "commentCount": 15,
+    "commentCount": 16,
     "milestone": "Backlog"
   },
   {
