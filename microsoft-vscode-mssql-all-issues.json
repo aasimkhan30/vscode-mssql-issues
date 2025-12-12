@@ -1,10 +1,47 @@
 [
   {
-    "author": "lewis-sanchez",
+    "author": "afateen",
     "closedAt": null,
+    "createdAt": "2025-12-11T22:03:09Z",
+    "number": 20786,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20786",
+    "title": "[Feature Request]: Introduce Configurable Row Limit and Pagination for Query Results",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2025-12-11T22:00:52Z",
+    "number": 20785,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20785",
+    "title": "[Bug]: Cleanup logging",
+    "areas": [
+      "Shell"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "December 2025 Release"
+  },
+  {
+    "author": "lewis-sanchez",
+    "closedAt": "2025-12-11T17:00:53Z",
     "createdAt": "2025-12-11T00:22:18Z",
     "number": 20780,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20780",
     "title": "[Task]: Adjust Edit Data telemetry",
     "areas": [
@@ -45,10 +82,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20767",
     "title": "[Feature Request]: DBeaver \"Record View\" equivalent (transpose of columns and rows)",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -76,7 +115,7 @@
     "number": 20765,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20765",
-    "title": "Starting Client Failed on Windows",
+    "title": "[Bug] 'Starting Client Failed' for extension SQL Server (mssql) on Windows",
     "areas": [],
     "priority": -1,
     "type": null,
@@ -103,10 +142,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2025-12-11T21:33:40Z",
     "createdAt": "2025-12-10T06:57:16Z",
     "number": 20763,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20763",
     "title": "[Bug]: Handle designer errors and additional logging in 1.38",
     "areas": [
@@ -139,10 +178,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2025-12-11T21:34:30Z",
     "createdAt": "2025-12-09T20:15:31Z",
     "number": 20755,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20755",
     "title": "[Bug]: Separate out column header menu in Query Results",
     "areas": [
@@ -629,7 +668,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "nathanhicktonwork",
@@ -734,7 +773,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 5,
     "milestone": "Backlog"
   },
@@ -754,7 +793,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "gregveres",
@@ -4560,10 +4600,10 @@
   },
   {
     "author": "peter-row-dwe",
-    "closedAt": null,
+    "closedAt": "2025-12-11T18:34:19Z",
     "createdAt": "2025-08-20T11:07:10Z",
     "number": 19987,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19987",
     "title": "[Bug]: Intellisense doesn't respect keyword casing preferences",
     "areas": [
@@ -4575,7 +4615,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "croblesm",
@@ -7365,10 +7405,10 @@
   },
   {
     "author": "webartoli",
-    "closedAt": null,
+    "closedAt": "2025-12-11T23:41:20Z",
     "createdAt": "2025-05-30T09:17:20Z",
     "number": 19516,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19516",
     "title": "[Bug]: Unable to list subscription from several tenants",
     "areas": [
@@ -10490,7 +10530,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "December 2025 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "yoleichen",
