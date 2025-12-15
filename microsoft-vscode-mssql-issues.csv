@@ -1,5 +1,5 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
-"20798","[Bug]: Fixing call stack logic in logging","aasimkhan30","OPEN","2025-12-12T20:51:12Z",,"Shell","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20798","0","-1","December 2025 Release"
+"20798","[Bug]: Fixing call stack logic in logging","aasimkhan30","CLOSED","2025-12-12T20:51:12Z","2025-12-14T20:28:17Z","Shell","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20798","0","-1","December 2025 Release"
 "20794","[Feature Request]: Support Importing Multiple SQL Objects From a Single File Into SQL Projects","jasonhorner","OPEN","2025-12-12T02:35:17Z",,"SQL Project","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20794","0","-1",
 "20793","[Bug]: Schema Compare fails when source and target platform are different","jasonhorner","OPEN","2025-12-12T02:07:55Z",,"Schema Compare","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20793","1","-1",
 "20786","[Feature Request]: Introduce Configurable Row Limit and Pagination for Query Results","afateen","OPEN","2025-12-11T22:03:09Z",,"Query Result","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20786","0","-1",

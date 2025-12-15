@@ -1,10 +1,10 @@
 [
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2025-12-14T20:28:17Z",
     "createdAt": "2025-12-12T20:51:12Z",
     "number": 20798,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20798",
     "title": "[Bug]: Fixing call stack logic in logging",
     "areas": [
