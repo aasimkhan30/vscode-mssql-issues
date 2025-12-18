@@ -1,12 +1,12 @@
 [
   {
-    "author": "ssreerama",
+    "author": "llali",
     "closedAt": null,
-    "createdAt": "2025-12-17T00:39:40Z",
-    "number": 20829,
+    "createdAt": "2025-12-17T21:59:53Z",
+    "number": 20839,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/20829",
-    "title": "[Bug]: Sql Projects telemetry events are getting lost",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20839",
+    "title": "[Bug]: Valid openrowset query shows error in the editor",
     "areas": [],
     "priority": -1,
     "type": "Bug",
@@ -16,6 +16,60 @@
     "commentCount": 0
   },
   {
+    "author": "resried",
+    "closedAt": null,
+    "createdAt": "2025-12-17T07:06:21Z",
+    "number": 20831,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20831",
+    "title": "[Bug]: Running SQL from files inside Devcontainer does not work",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "Prefix42",
+    "closedAt": "2025-12-17T18:36:31Z",
+    "createdAt": "2025-12-17T01:24:36Z",
+    "number": 20830,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20830",
+    "title": "[Bug]: Release 1.38.0 incorrectly tagged",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2025-12-17T00:39:40Z",
+    "number": 20829,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20829",
+    "title": "[Bug]: Sql Projects telemetry events are getting lost",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
     "author": "altius-joe",
     "closedAt": null,
     "createdAt": "2025-12-16T23:53:27Z",
@@ -23,10 +77,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20827",
     "title": "[Bug]: Scrollbars display over query results when there's too much content for the panel height",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -39,13 +95,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20826",
     "title": "[Bug]: Click to open JSON in new page",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "dzsquared",
@@ -61,7 +120,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "dzsquared",
@@ -71,20 +130,22 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20823",
     "title": "[Bug]: new publish dialog can't find dacpac on macos",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0
   },
   {
     "author": "mmmmmoasa-a11y",
-    "closedAt": null,
+    "closedAt": "2025-12-17T18:51:19Z",
     "createdAt": "2025-12-16T16:35:40Z",
     "number": 20814,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20814",
     "title": "Extension causes high cpu load",
     "areas": [],
@@ -93,7 +154,7 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "aasimkhan30",
@@ -402,10 +463,10 @@
   },
   {
     "author": "torbenhamburg",
-    "closedAt": null,
+    "closedAt": "2025-12-18T00:32:33Z",
     "createdAt": "2025-12-08T15:10:15Z",
     "number": 20744,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20744",
     "title": "[Feature Request]: Show SQL Pane in Edit Data (Preview) area",
     "areas": [],
@@ -561,7 +622,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/20710",
     "title": "[Feature Request]: Support copying from excel in table explorer. ",
     "areas": [
-      "Table Explorer"
+      "View/Edit data"
     ],
     "priority": -1,
     "type": "Feature Request",
@@ -600,7 +661,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 2,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -8348,7 +8409,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
@@ -11891,7 +11952,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 10,
+    "totalReactions": 11,
     "commentCount": 4,
     "milestone": "Backlog"
   },
@@ -14850,7 +14911,7 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 16,
-    "commentCount": 14
+    "commentCount": 15
   },
   {
     "author": "BenReeveTSG",
