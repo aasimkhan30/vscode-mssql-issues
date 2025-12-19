@@ -1,5 +1,101 @@
 [
   {
+    "author": "crush-74",
+    "closedAt": null,
+    "createdAt": "2025-12-18T15:44:34Z",
+    "number": 20846,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20846",
+    "title": "[Bug]: Installation error",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "sfscgjohnson",
+    "closedAt": null,
+    "createdAt": "2025-12-18T14:11:33Z",
+    "number": 20844,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20844",
+    "title": "[Bug]: Must Set Language to SQL",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "sfscgjohnson",
+    "closedAt": null,
+    "createdAt": "2025-12-18T14:03:00Z",
+    "number": 20843,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20843",
+    "title": "Poor experience with MSSQL Extension",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 1,
+    "commentCount": 0
+  },
+  {
+    "author": "pramod-bijadi",
+    "closedAt": null,
+    "createdAt": "2025-12-18T12:07:01Z",
+    "number": 20842,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20842",
+    "title": "[Feature Request]: Allow bacpac export to pass additional flags",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "MartinRyx",
+    "closedAt": null,
+    "createdAt": "2025-12-18T10:15:24Z",
+    "number": 20841,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20841",
+    "title": "Copying resultsets remove new lines",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "pgmo",
+    "closedAt": null,
+    "createdAt": "2025-12-18T09:10:10Z",
+    "number": 20840,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20840",
+    "title": "[Feature Request]: Descending sorting in edit data mode",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "llali",
     "closedAt": null,
     "createdAt": "2025-12-17T21:59:53Z",
@@ -52,10 +148,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2025-12-18T19:36:01Z",
     "createdAt": "2025-12-17T00:39:40Z",
     "number": 20829,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20829",
     "title": "[Bug]: Sql Projects telemetry events are getting lost",
     "areas": [
@@ -124,10 +220,10 @@
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2025-12-18T05:01:32Z",
     "createdAt": "2025-12-16T19:30:29Z",
     "number": 20823,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20823",
     "title": "[Bug]: new publish dialog can't find dacpac on macos",
     "areas": [
@@ -138,7 +234,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "mmmmmoasa-a11y",
@@ -302,7 +399,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ltsyen",
@@ -3855,10 +3953,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2025-12-18T22:58:51Z",
     "createdAt": "2025-09-10T02:58:41Z",
     "number": 20149,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20149",
     "title": "[Bug]: Launching Schema compare should compare automatically when runCmparison set to true",
     "areas": [
