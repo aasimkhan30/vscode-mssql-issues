@@ -7,13 +7,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20846",
     "title": "[Bug]: Installation error",
-    "areas": [],
+    "areas": [
+      "Acquisition"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "sfscgjohnson",
@@ -23,13 +26,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20844",
     "title": "[Bug]: Must Set Language to SQL",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "sfscgjohnson",
@@ -55,13 +61,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20842",
     "title": "[Feature Request]: Allow bacpac export to pass additional flags",
-    "areas": [],
+    "areas": [
+      "Dacpac Import/Export"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "MartinRyx",
@@ -70,7 +79,7 @@
     "number": 20841,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20841",
-    "title": "Copying resultsets remove new lines",
+    "title": "[Bug]: Copying resultsets removes new lines",
     "areas": [],
     "priority": -1,
     "type": null,
@@ -6396,7 +6405,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "croblesm",

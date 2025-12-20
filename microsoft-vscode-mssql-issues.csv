@@ -1,9 +1,9 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
-"20846","[Bug]: Installation error","crush-74","OPEN","2025-12-18T15:44:34Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20846","0","-1",
-"20844","[Bug]: Must Set Language to SQL","sfscgjohnson","OPEN","2025-12-18T14:11:33Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20844","0","-1",
+"20846","[Bug]: Installation error","crush-74","OPEN","2025-12-18T15:44:34Z",,"Acquisition","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20846","1","-1","January 2026 Release"
+"20844","[Bug]: Must Set Language to SQL","sfscgjohnson","OPEN","2025-12-18T14:11:33Z",,"Query Editor","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20844","1","-1","January 2026 Release"
 "20843","Poor experience with MSSQL Extension","sfscgjohnson","OPEN","2025-12-18T14:03:00Z",,"",,"1","https://github.com/microsoft/vscode-mssql/issues/20843","0","-1",
-"20842","[Feature Request]: Allow bacpac export to pass additional flags","pramod-bijadi","OPEN","2025-12-18T12:07:01Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20842","0","-1",
-"20841","Copying resultsets remove new lines","MartinRyx","OPEN","2025-12-18T10:15:24Z",,"",,"0","https://github.com/microsoft/vscode-mssql/issues/20841","0","-1",
+"20842","[Feature Request]: Allow bacpac export to pass additional flags","pramod-bijadi","OPEN","2025-12-18T12:07:01Z",,"Dacpac Import/Export","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20842","0","-1","Backlog"
+"20841","[Bug]: Copying resultsets removes new lines","MartinRyx","OPEN","2025-12-18T10:15:24Z",,"",,"0","https://github.com/microsoft/vscode-mssql/issues/20841","0","-1",
 "20840","[Feature Request]: Descending sorting in edit data mode","pgmo","OPEN","2025-12-18T09:10:10Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20840","0","-1",
 "20839","[Bug]: Valid openrowset query shows error in the editor","llali","OPEN","2025-12-17T21:59:53Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20839","0","-1",
 "20831","[Bug]: Running SQL from files inside Devcontainer does not work","resried","OPEN","2025-12-17T07:06:21Z",,"Query Editor",,"0","https://github.com/microsoft/vscode-mssql/issues/20831","0","-1","January 2026 Release"
@@ -362,7 +362,7 @@ Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Pr
 "19754","[Feature Request]: Add visual feedback when container image is being downloaded in Local SQL Container setup","croblesm","CLOSED","2025-07-14T17:19:08Z","2025-07-24T20:37:31Z","Local container",,"0","https://github.com/microsoft/vscode-mssql/issues/19754","0","1","August 2025 Release"
 "19752","[Bug]: Database Name in Status Bar","penihel","CLOSED","2025-07-14T13:47:33Z","2025-09-18T17:12:27Z","Query Editor","Bug","0","https://github.com/microsoft/vscode-mssql/issues/19752","1","-1","November 2025 Release"
 "19751","[Bug]: Incorrect Rosetta Warning on Intel-based Mac","BizzMine-PJ","CLOSED","2025-07-13T19:20:56Z","2025-07-14T17:00:42Z","","Bug","0","https://github.com/microsoft/vscode-mssql/issues/19751","1","-1",
-"20821","creating SQL project inside already open workspace results in tasks definition in wrong spot","dzsquared","OPEN","2025-07-11T22:02:09Z",,"SQL Project","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20821","0","-1",
+"20821","creating SQL project inside already open workspace results in tasks definition in wrong spot","dzsquared","OPEN","2025-07-11T22:02:09Z",,"SQL Project","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20821","0","-1","January 2026 Release"
 "19733","[Feature Request]: Auto-prompt to clear Entra token cache","croblesm","CLOSED","2025-07-11T00:10:36Z","2025-10-16T16:53:21Z","Connection","Feature Request","1","https://github.com/microsoft/vscode-mssql/issues/19733","0","-1","November 2025 Release"
 "19732","[Bug]: connecting to a container shows ""starting"" while connecting even when container is started","dzsquared","CLOSED","2025-07-10T23:34:37Z","2025-07-24T20:37:30Z","Local container","Bug","0","https://github.com/microsoft/vscode-mssql/issues/19732","0","-1",
 "19724","[Feature Request]: Single Sign on support for Fabric extension to open SQL DB in MSSQL extension","mksuni","OPEN","2025-07-10T17:32:51Z",,"Fabric Integration","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/19724","1","-1","Backlog"
