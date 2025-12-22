@@ -74,10 +74,10 @@
   },
   {
     "author": "MartinRyx",
-    "closedAt": null,
+    "closedAt": "2025-12-21T04:10:38Z",
     "createdAt": "2025-12-18T10:15:24Z",
     "number": 20841,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20841",
     "title": "[Bug]: Copying resultsets removes new lines",
     "areas": [],
@@ -86,7 +86,7 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "pgmo",
@@ -5140,7 +5140,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "January 2026 Release"
   },
   {
