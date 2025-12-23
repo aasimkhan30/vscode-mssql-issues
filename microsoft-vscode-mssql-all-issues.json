@@ -176,10 +176,10 @@
   },
   {
     "author": "altius-joe",
-    "closedAt": null,
+    "closedAt": "2025-12-22T19:03:36Z",
     "createdAt": "2025-12-16T23:53:27Z",
     "number": 20827,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20827",
     "title": "[Bug]: Scrollbars display over query results when there's too much content for the panel height",
     "areas": [
@@ -333,7 +333,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
