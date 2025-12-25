@@ -1,4 +1,5 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"20863","doesnt work","briannnelson","OPEN","2025-12-24T14:37:45Z",,"",,"0","https://github.com/microsoft/vscode-mssql/issues/20863","0","-1",
 "20846","[Bug]: Installation error","crush-74","OPEN","2025-12-18T15:44:34Z",,"Acquisition","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20846","1","-1","January 2026 Release"
 "20844","[Bug]: Must Set Language to SQL","sfscgjohnson","OPEN","2025-12-18T14:11:33Z",,"Query Editor","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20844","1","-1","January 2026 Release"
 "20843","Poor experience with MSSQL Extension","sfscgjohnson","OPEN","2025-12-18T14:03:00Z",,"",,"1","https://github.com/microsoft/vscode-mssql/issues/20843","0","-1",

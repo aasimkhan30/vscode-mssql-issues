@@ -1,5 +1,21 @@
 [
   {
+    "author": "briannnelson",
+    "closedAt": null,
+    "createdAt": "2025-12-24T14:37:45Z",
+    "number": 20863,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20863",
+    "title": "doesnt work",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "crush-74",
     "closedAt": null,
     "createdAt": "2025-12-18T15:44:34Z",
