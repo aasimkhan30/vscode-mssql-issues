@@ -1,5 +1,21 @@
 [
   {
+    "author": "BobCF",
+    "closedAt": null,
+    "createdAt": "2025-12-25T04:02:31Z",
+    "number": 20864,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20864",
+    "title": "[Bug]: My SQL Database project failed to connect SQL Server Database",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "briannnelson",
     "closedAt": null,
     "createdAt": "2025-12-24T14:37:45Z",
@@ -134,7 +150,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "resried",
