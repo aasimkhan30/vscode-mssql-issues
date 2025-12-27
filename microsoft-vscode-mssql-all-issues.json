@@ -1,5 +1,37 @@
 [
   {
+    "author": "gwduvalljr-AT",
+    "closedAt": "2025-12-26T19:52:18Z",
+    "createdAt": "2025-12-26T14:28:18Z",
+    "number": 20867,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20867",
+    "title": "[Bug]: Grids in the Query Results panel overlap in 1.38.0",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
+    "author": "kvart714",
+    "closedAt": null,
+    "createdAt": "2025-12-26T12:59:18Z",
+    "number": 20866,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20866",
+    "title": "[Feature Request]: Ability to restrict which connections are available to Copilot",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "BobCF",
     "closedAt": null,
     "createdAt": "2025-12-25T04:02:31Z",

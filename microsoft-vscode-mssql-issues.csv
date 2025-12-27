@@ -1,4 +1,6 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"20867","[Bug]: Grids in the Query Results panel overlap in 1.38.0","gwduvalljr-AT","CLOSED","2025-12-26T14:28:18Z","2025-12-26T19:52:18Z","","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20867","2","-1",
+"20866","[Feature Request]: Ability to restrict which connections are available to Copilot","kvart714","OPEN","2025-12-26T12:59:18Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20866","0","-1",
 "20864","[Bug]: My SQL Database project failed to connect SQL Server Database","BobCF","OPEN","2025-12-25T04:02:31Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20864","1","-1",
 "20863","doesnt work","briannnelson","OPEN","2025-12-24T14:37:45Z",,"",,"0","https://github.com/microsoft/vscode-mssql/issues/20863","0","-1",
 "20846","[Bug]: Installation error","crush-74","OPEN","2025-12-18T15:44:34Z",,"Acquisition","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20846","1","-1","January 2026 Release"
