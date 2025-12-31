@@ -1,5 +1,76 @@
 [
   {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-12-30T21:40:40Z",
+    "number": 20876,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20876",
+    "title": "[Feature Request]: Edit Data new entry point flow",
+    "areas": [],
+    "priority": 0,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-12-30T21:17:51Z",
+    "number": 20875,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20875",
+    "title": "[Feature Request]: Open Edit Data from SQL script results",
+    "areas": [],
+    "priority": 0,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-12-30T21:02:49Z",
+    "number": 20874,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20874",
+    "title": "[Bug]: Extra padding between categories in column context menu for Edit Data",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2025-12-30T20:44:42Z",
+    "number": 20873,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20873",
+    "title": "[Bug]: Edit Data unable to input filter value if column size is too small",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
     "author": "gwduvalljr-AT",
     "closedAt": "2025-12-26T19:52:18Z",
     "createdAt": "2025-12-26T14:28:18Z",
@@ -595,10 +666,10 @@
   },
   {
     "author": "ErickPower",
-    "closedAt": null,
+    "closedAt": "2025-12-30T20:10:38Z",
     "createdAt": "2025-12-09T18:19:52Z",
     "number": 20752,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20752",
     "title": "[Bug]: New Line does not copy from results",
     "areas": [
@@ -630,10 +701,10 @@
   },
   {
     "author": "burtonrodman",
-    "closedAt": null,
+    "closedAt": "2025-12-30T20:10:37Z",
     "createdAt": "2025-12-08T19:12:05Z",
     "number": 20747,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20747",
     "title": "Copy to clipboard from Results not working",
     "areas": [
@@ -1480,7 +1551,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -21582,10 +21653,10 @@
   },
   {
     "author": "meyerdominik",
-    "closedAt": null,
+    "closedAt": "2025-12-30T22:13:14Z",
     "createdAt": "2023-06-06T06:31:58Z",
     "number": 17721,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17721",
     "title": "Invalid column name",
     "areas": [
