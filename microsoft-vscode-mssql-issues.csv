@@ -1,7 +1,7 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
 "20876","[Feature Request]: Edit Data new entry point flow","yoleichen","OPEN","2025-12-30T21:40:40Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20876","0","0","February 2026 Release"
 "20875","[Feature Request]: Open Edit Data from SQL script results","yoleichen","OPEN","2025-12-30T21:17:51Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20875","0","0","February 2026 Release"
-"20874","[Bug]: Extra padding between categories in column context menu for Edit Data","yoleichen","OPEN","2025-12-30T21:02:49Z",,"View/Edit data","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20874","0","1",
+"20874","[Bug]: Extra padding between categories in column context menu for Edit Data","yoleichen","OPEN","2025-12-30T21:02:49Z",,"View/Edit data","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20874","1","1",
 "20873","[Bug]: Edit Data unable to input filter value if column size is too small","yoleichen","OPEN","2025-12-30T20:44:42Z",,"View/Edit data","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20873","0","0","January 2026 Release"
 "20867","[Bug]: Grids in the Query Results panel overlap in 1.38.0","gwduvalljr-AT","CLOSED","2025-12-26T14:28:18Z","2025-12-26T19:52:18Z","","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20867","2","-1",
 "20866","[Feature Request]: Ability to restrict which connections are available to Copilot","kvart714","OPEN","2025-12-26T12:59:18Z",,"GitHub Copilot","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20866","0","-1",
