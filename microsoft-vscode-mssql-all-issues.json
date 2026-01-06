@@ -1,5 +1,21 @@
 [
   {
+    "author": "antoniotbtech",
+    "closedAt": null,
+    "createdAt": "2026-01-05T12:21:31Z",
+    "number": 20880,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20880",
+    "title": "[Bug]: Always Encrypted still does not work properly",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "virzak",
     "closedAt": null,
     "createdAt": "2026-01-01T21:27:51Z",
@@ -118,7 +134,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "BobCF",
@@ -194,10 +211,10 @@
   },
   {
     "author": "sfscgjohnson",
-    "closedAt": null,
+    "closedAt": "2026-01-05T21:25:15Z",
     "createdAt": "2025-12-18T14:03:00Z",
     "number": 20843,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20843",
     "title": "Poor experience with MSSQL Extension",
     "areas": [
@@ -208,7 +225,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "pramod-bijadi",
@@ -1047,19 +1064,22 @@
   },
   {
     "author": "qaushqestaj",
-    "closedAt": null,
+    "closedAt": "2026-01-05T21:08:43Z",
     "createdAt": "2025-11-24T13:25:21Z",
     "number": 20677,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20677",
     "title": "[Bug]: MSSQL Extension in VS Code (macOS) won't open after updating to v1.37.0",
-    "areas": [],
+    "areas": [
+      "Acquisition"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 7
+    "commentCount": 8,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "laurawinchmore",
@@ -1135,19 +1155,21 @@
   },
   {
     "author": "JoshStrauss",
-    "closedAt": null,
+    "closedAt": "2026-01-05T21:17:35Z",
     "createdAt": "2025-11-21T11:22:47Z",
     "number": 20657,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20657",
     "title": "[Bug]: In 1.37.0 File Compare is missing after update",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 4
   },
   {
     "author": "kburtram",
@@ -1287,7 +1309,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 5,
+    "totalReactions": 6,
     "commentCount": 6,
     "milestone": "Backlog"
   },
@@ -6668,10 +6690,10 @@
   },
   {
     "author": "jasonhorner",
-    "closedAt": null,
+    "closedAt": "2026-01-05T18:09:56Z",
     "createdAt": "2025-07-09T19:06:35Z",
     "number": 19717,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19717",
     "title": "[Bug]: Inconsistent Target Platform Selection When Creating New Project via \"+\" Button",
     "areas": [
@@ -6682,7 +6704,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "January 2026 Release"
   },
   {
