@@ -1,5 +1,37 @@
 [
   {
+    "author": "gveerar",
+    "closedAt": null,
+    "createdAt": "2026-01-07T00:22:21Z",
+    "number": 20884,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20884",
+    "title": "[Bug]: SQL Tools service install - Request error: CERT_HAS_EXPIRED",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jdesai-24",
+    "closedAt": null,
+    "createdAt": "2026-01-06T17:25:43Z",
+    "number": 20882,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20882",
+    "title": "[Bug]: \"Execute (without parsing) button shows \"no active connection found\"  whereas \"Execute query\" button works.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "antoniotbtech",
     "closedAt": null,
     "createdAt": "2026-01-05T12:21:31Z",
@@ -2932,7 +2964,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
