@@ -1,5 +1,37 @@
 [
   {
+    "author": "aprimo-cdaboin",
+    "closedAt": null,
+    "createdAt": "2026-01-07T20:07:08Z",
+    "number": 20886,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20886",
+    "title": "[Feature Request]: SQL Server Profiler for Azure SQL Database",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "cjohnsto-nz",
+    "closedAt": null,
+    "createdAt": "2026-01-07T11:14:57Z",
+    "number": 20885,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20885",
+    "title": "[Feature Request]: Polyglot Integration via ConnectionSharingService - Discussion",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "gveerar",
     "closedAt": null,
     "createdAt": "2026-01-07T00:22:21Z",
@@ -640,13 +672,14 @@
   },
   {
     "author": "FLanphen",
-    "closedAt": null,
+    "closedAt": "2026-01-07T17:56:08Z",
     "createdAt": "2025-12-10T10:41:27Z",
     "number": 20765,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20765",
     "title": "[Bug] 'Starting Client Failed' for extension SQL Server (mssql) on Windows",
     "areas": [
+      "Acquisition",
       "Shell"
     ],
     "priority": -1,
@@ -654,17 +687,19 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "juk-stata",
-    "closedAt": null,
+    "closedAt": "2026-01-07T17:18:50Z",
     "createdAt": "2025-12-10T08:48:25Z",
     "number": 20764,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20764",
     "title": "[Bug]: Failed to load System.Private.CoreLib.dll (HRESULT: 0x80070002) on Windows 11 with mssql extension",
     "areas": [
+      "Acquisition",
       "Shell"
     ],
     "priority": -1,
@@ -672,7 +707,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "aasimkhan30",
@@ -840,13 +875,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20815",
     "title": "SQL Publish preview is locking the dll blocking subsequent builds",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "khadden-compline",
@@ -3078,19 +3116,22 @@
   },
   {
     "author": "rtmann",
-    "closedAt": null,
+    "closedAt": "2026-01-07T17:28:33Z",
     "createdAt": "2025-10-28T19:49:45Z",
     "number": 20818,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20818",
     "title": "Refactor and change Schema Compare save/open logic entirely with a better way.",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "laurenastrid1",
@@ -3209,13 +3250,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20819",
     "title": "Changed Options are not applied/saved when opening/saving a scmp file",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "croblesm",
@@ -5338,11 +5382,12 @@
       "SQL Project"
     ],
     "priority": -1,
-    "type": null,
+    "type": "Bug",
     "hasArea": true,
-    "hasType": false,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "fmms",
@@ -15167,7 +15212,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 60,
+    "totalReactions": 62,
     "commentCount": 10,
     "milestone": "January 2026 Release"
   },
