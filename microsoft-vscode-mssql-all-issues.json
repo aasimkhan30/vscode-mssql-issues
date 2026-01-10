@@ -1,5 +1,43 @@
 [
   {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-01-09T06:57:08Z",
+    "number": 20890,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20890",
+    "title": "[Bug]: Schema Designer Filter tree has UX issues.",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "JerryNixon",
+    "closedAt": null,
+    "createdAt": "2026-01-09T01:49:00Z",
+    "number": 20889,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20889",
+    "title": "[Bug]: When Schema Designer Loads It Looks Frozen!",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
     "author": "reubster",
     "closedAt": null,
     "createdAt": "2026-01-08T19:01:21Z",
@@ -12,7 +50,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -465,7 +503,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "January 2026 Release"
   },
@@ -666,7 +704,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -3923,7 +3961,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 1,
     "milestone": "Backlog"
   },
