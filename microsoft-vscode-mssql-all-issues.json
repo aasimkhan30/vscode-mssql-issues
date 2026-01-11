@@ -103,10 +103,10 @@
   },
   {
     "author": "jdesai-24",
-    "closedAt": null,
+    "closedAt": "2026-01-10T11:00:29Z",
     "createdAt": "2026-01-06T17:25:43Z",
     "number": 20882,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20882",
     "title": "[Bug]: \"Execute (without parsing) button shows \"no active connection found\"  whereas \"Execute query\" button works.",
     "areas": [],
@@ -115,7 +115,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "antoniotbtech",
