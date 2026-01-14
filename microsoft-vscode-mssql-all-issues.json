@@ -1,5 +1,56 @@
 [
   {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-01-13T15:51:32Z",
+    "number": 20898,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20898",
+    "title": "[Task]: Publish Dialog is missing the Dialog header and Icon",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "martijnremmen",
+    "closedAt": null,
+    "createdAt": "2026-01-13T14:10:16Z",
+    "number": 20897,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20897",
+    "title": "[Bug]: Unable to open Data-tier Application Wizard",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "joshwarren",
+    "closedAt": null,
+    "createdAt": "2026-01-13T09:03:25Z",
+    "number": 20896,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20896",
+    "title": "[Feature Request]: Allow alternative sorting of Connections/Connection Groups",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "tauseefsiddique10",
     "closedAt": null,
     "createdAt": "2026-01-12T21:39:54Z",
@@ -195,10 +246,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20876",
     "title": "[Feature Request]: Edit Data new entry point flow",
-    "areas": [],
+    "areas": [
+      "View/Edit data"
+    ],
     "priority": 0,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
@@ -237,7 +290,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -427,7 +481,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/20840",
     "title": "[Feature Request]: Descending sorting in edit data mode",
     "areas": [
-      "Table Explorer"
+      "View/Edit data"
     ],
     "priority": -1,
     "type": "Feature Request",
@@ -1751,7 +1805,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -2287,10 +2341,10 @@
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2026-01-13T15:43:19Z",
     "createdAt": "2025-11-10T18:18:54Z",
     "number": 20510,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20510",
     "title": "[Bug]: sqlproj build fails on Windows when default terminal profile is bash",
     "areas": [
@@ -3080,10 +3134,10 @@
   },
   {
     "author": "yooakim",
-    "closedAt": null,
+    "closedAt": "2026-01-13T15:45:48Z",
     "createdAt": "2025-10-31T07:00:23Z",
     "number": 20388,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20388",
     "title": "[Bug]: \"<None Include=\"queries\\**\" />\" not displayed correctly in explorer",
     "areas": [
@@ -3094,7 +3148,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "January 2026 Release"
   },
   {
@@ -5004,13 +5058,13 @@
     "areas": [
       "Object Explorer"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 11,
-    "commentCount": 8,
-    "milestone": "Backlog"
+    "commentCount": 9,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "legomind",
@@ -8613,14 +8667,15 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/19464",
     "title": "[Feature Request]: Import and Export wizard like we have in ms sql managment studio",
     "areas": [
+      "Object Explorer",
       "Acquisition"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": null,
     "hasArea": true,
     "hasType": false,
     "totalReactions": 4,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "February 2026 Release"
   },
   {
@@ -12410,10 +12465,9 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/18988",
     "title": "[Feature Request]: Custom Keybindings (Query Shortcuts) for SQL Query Execution",
     "areas": [
-      "Query Editor",
-      "Migration tool"
+      "Query Editor"
     ],
-    "priority": -1,
+    "priority": 1,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
@@ -14611,7 +14665,7 @@
     "hasType": false,
     "totalReactions": 1,
     "commentCount": 3,
-    "milestone": "January 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "mtaylorfsmb",
@@ -14951,12 +15005,12 @@
       "Connection",
       "Migration tool"
     ],
-    "priority": 1,
+    "priority": 0,
     "type": null,
     "hasArea": true,
     "hasType": false,
     "totalReactions": 39,
-    "commentCount": 10,
+    "commentCount": 11,
     "milestone": "January 2026 Release"
   },
   {
@@ -14986,13 +15040,13 @@
     "areas": [
       "Object Explorer"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 14,
-    "commentCount": 5,
-    "milestone": "Backlog"
+    "commentCount": 6,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "ManishaC1",
@@ -15300,12 +15354,12 @@
     "areas": [
       "Acquisition"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 62,
-    "commentCount": 10,
+    "commentCount": 11,
     "milestone": "January 2026 Release"
   },
   {
@@ -15408,13 +15462,13 @@
     "areas": [
       "Acquisition"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 115,
-    "commentCount": 20,
-    "milestone": "January 2026 Release"
+    "commentCount": 22,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "buckz1lla",
