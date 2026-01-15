@@ -1,5 +1,21 @@
 [
   {
+    "author": "rka-ppi",
+    "closedAt": null,
+    "createdAt": "2026-01-14T09:09:15Z",
+    "number": 20901,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20901",
+    "title": "[Bug]: MCP Tool mssql_run_query  - fails due invalide documentation response",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "ssreerama",
     "closedAt": null,
     "createdAt": "2026-01-13T15:51:32Z",
@@ -31,7 +47,7 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -276,10 +292,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-01-14T22:14:53Z",
     "createdAt": "2025-12-30T21:02:49Z",
     "number": 20874,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20874",
     "title": "[Bug]: Extra padding between categories in column context menu for Edit Data",
     "areas": [
@@ -295,10 +311,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-01-14T19:40:13Z",
     "createdAt": "2025-12-30T20:44:42Z",
     "number": 20873,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20873",
     "title": "[Bug]: Edit Data unable to input filter value if column size is too small",
     "areas": [
@@ -309,7 +325,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
@@ -1156,19 +1172,22 @@
   },
   {
     "author": "ubuntuztc",
-    "closedAt": null,
+    "closedAt": "2026-01-14T01:22:37Z",
     "createdAt": "2025-12-01T06:33:25Z",
     "number": 20709,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20709",
     "title": "[Feature Request]: Manage SQL Database, SQL Job agent",
-    "areas": [],
+    "areas": [
+      "Object Explorer",
+      "Acquisition"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -15359,7 +15378,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 62,
-    "commentCount": 11,
+    "commentCount": 12,
     "milestone": "January 2026 Release"
   },
   {
@@ -15467,7 +15486,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 115,
-    "commentCount": 22,
+    "commentCount": 23,
     "milestone": "March 2026 Release"
   },
   {
