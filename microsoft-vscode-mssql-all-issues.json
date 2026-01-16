@@ -1,5 +1,43 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-01-15T21:35:59Z",
+    "number": 20909,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20909",
+    "title": "[Bug]: ADS Migration command lacks discoverability",
+    "areas": [
+      "Migration tool"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-01-15T21:26:57Z",
+    "number": 20908,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20908",
+    "title": "[Bug]: ADS Migration tool allows orphan connections when migrating without parent groups",
+    "areas": [
+      "Migration tool"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
     "author": "rka-ppi",
     "closedAt": null,
     "createdAt": "2026-01-14T09:09:15Z",
@@ -7,13 +45,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20901",
     "title": "[Bug]: MCP Tool mssql_run_query  - fails due invalide documentation response",
-    "areas": [],
+    "areas": [
+      "GitHub Copilot"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -36,10 +77,10 @@
   },
   {
     "author": "martijnremmen",
-    "closedAt": null,
+    "closedAt": "2026-01-15T21:13:58Z",
     "createdAt": "2026-01-13T14:10:16Z",
     "number": 20897,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20897",
     "title": "[Bug]: Unable to open Data-tier Application Wizard",
     "areas": [],
@@ -48,7 +89,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "joshwarren",
@@ -58,13 +99,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20896",
     "title": "[Feature Request]: Allow alternative sorting of Connections/Connection Groups",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "tauseefsiddique10",
@@ -73,7 +117,7 @@
     "number": 20895,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20895",
-    "title": "[Bug]: Add legend for icons in connections import",
+    "title": "[Bug]: Add legend for icons in connections import to ADS Migration tool",
     "areas": [
       "Migration tool"
     ],
@@ -92,7 +136,7 @@
     "number": 20894,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20894",
-    "title": "[Bug]: Section needed for import settings file",
+    "title": "[Bug]: ADS Migration tool - Settings and key bindings section is missing",
     "areas": [
       "Migration tool"
     ],
@@ -150,20 +194,23 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20887",
     "title": "[Feature Request]: Run current query mssql extension command and shortcut",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "aprimo-cdaboin",
-    "closedAt": null,
+    "closedAt": "2026-01-15T21:16:13Z",
     "createdAt": "2026-01-07T20:07:08Z",
     "number": 20886,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20886",
     "title": "[Feature Request]: SQL Server Profiler for Azure SQL Database",
     "areas": [],
@@ -172,7 +219,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "cjohnsto-nz",
@@ -188,14 +235,15 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "gveerar",
-    "closedAt": null,
+    "closedAt": "2026-01-15T21:19:04Z",
     "createdAt": "2026-01-07T00:22:21Z",
     "number": 20884,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20884",
     "title": "[Bug]: SQL Tools service install - Request error: CERT_HAS_EXPIRED",
     "areas": [],
@@ -204,7 +252,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "jdesai-24",
@@ -230,13 +278,17 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20880",
     "title": "[Bug]: Always Encrypted still does not work properly",
-    "areas": [],
+    "areas": [
+      "Query Editor",
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "virzak",
@@ -246,13 +298,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20879",
     "title": "[Bug]: Connections don't show up even though they are specified in devcontainer.json",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -504,25 +559,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
-  },
-  {
-    "author": "llali",
-    "closedAt": null,
-    "createdAt": "2025-12-17T21:59:53Z",
-    "number": 20839,
-    "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/20839",
-    "title": "[Bug]: Valid openrowset query shows error in the editor",
-    "areas": [
-      "Language Service"
-    ],
-    "priority": -1,
-    "type": "Bug",
-    "hasArea": true,
-    "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "resried",
@@ -623,13 +661,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20825",
     "title": "[Bug]: disabling publish preview in SQL projects requires disabling preview features in mssql extension AND sql projects extension",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 3,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "dzsquared",
@@ -701,7 +742,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "jasonhorner",
@@ -719,7 +761,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "afateen",
@@ -1004,13 +1047,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20743",
     "title": "[Bug]: Schema compare failed: startIndex ('-1') must be a non-negative value.",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "cathrinew",
@@ -1045,7 +1091,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
@@ -1056,13 +1102,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20735",
     "title": "[Feature Request]: [Option].[to].[turn].[OFF].[escaping].[of].[EVERYTHING]",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "yooakim",
@@ -1072,13 +1121,17 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20731",
     "title": "[Feature Request]: Allow login to Azure with `--allow-no-subscriptions`",
-    "areas": [],
+    "areas": [
+      "Connection",
+      "Azure"
+    ],
     "priority": -1,
-    "type": "Feature Request",
-    "hasArea": false,
+    "type": "Bug",
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "nathanweil",
@@ -1162,13 +1215,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20816",
     "title": "Microsoft.Build.Sql.dll not extracted from nupkg in BuildDirectory (v1.5.5)",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "ubuntuztc",
@@ -1283,10 +1339,10 @@
   },
   {
     "author": "bwa",
-    "closedAt": null,
+    "closedAt": "2026-01-16T00:23:49Z",
     "createdAt": "2025-11-24T14:54:45Z",
     "number": 20678,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20678",
     "title": "[Bug]: extension does not recognize opened file as sql",
     "areas": [],
@@ -1295,7 +1351,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "qaushqestaj",
@@ -1446,10 +1502,10 @@
   },
   {
     "author": "nathanhicktonwork",
-    "closedAt": null,
+    "closedAt": "2026-01-16T00:14:03Z",
     "createdAt": "2025-11-20T10:04:14Z",
     "number": 20641,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20641",
     "title": "[Bug]: Filtering Stuck Loading",
     "areas": [
@@ -1460,7 +1516,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6
+    "commentCount": 7,
+    "milestone": "January 2026 Release"
   },
   {
     "author": "PerOve",
@@ -1470,13 +1527,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20817",
     "title": "Bug Report: DACPAC deployment fails on Linux/WSL2 with invalid path separators",
-    "areas": [],
+    "areas": [
+      "Dacpac Import/Export"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "EricZiola",
@@ -6139,7 +6199,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "January 2026 Release"
   },
   {
@@ -15014,10 +15074,10 @@
   },
   {
     "author": "dotnvo",
-    "closedAt": null,
+    "closedAt": "2026-01-15T18:46:02Z",
     "createdAt": "2025-02-12T14:06:03Z",
     "number": 18661,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18661",
     "title": "[Feature Request]: Import Servers (and Server Groups) from Azure Data Studio",
     "areas": [
