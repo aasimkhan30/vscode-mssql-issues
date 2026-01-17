@@ -1,5 +1,56 @@
 [
   {
+    "author": "ssreerama",
+    "closedAt": "2026-01-16T19:48:58Z",
+    "createdAt": "2026-01-16T18:11:50Z",
+    "number": 20913,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20913",
+    "title": "[Bug]: SqlTaskService fails to null check and causing the Generate Script/Publish fails",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "amitkbhola",
+    "closedAt": "2026-01-16T19:32:37Z",
+    "createdAt": "2026-01-16T15:37:53Z",
+    "number": 20911,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20911",
+    "title": "Migrating from Azure data studio to VSCode",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "AcGrube",
+    "closedAt": null,
+    "createdAt": "2026-01-16T11:12:36Z",
+    "number": 20910,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20910",
+    "title": "[Bug]: Query History stops logging after reaching queryHistoryLimit, Pause button misleading",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "croblesm",
     "closedAt": null,
     "createdAt": "2026-01-15T21:35:59Z",
@@ -58,10 +109,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-01-16T16:47:31Z",
     "createdAt": "2026-01-13T15:51:32Z",
     "number": 20898,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20898",
     "title": "[Task]: Publish Dialog is missing the Dialog header and Icon",
     "areas": [
@@ -145,8 +196,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "commentCount": 1,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -1077,10 +1128,10 @@
   },
   {
     "author": "Nathalilly",
-    "closedAt": null,
+    "closedAt": "2026-01-16T15:50:37Z",
     "createdAt": "2025-12-05T12:58:50Z",
     "number": 20815,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20815",
     "title": "SQL Publish preview is locking the dll blocking subsequent builds",
     "areas": [
@@ -1091,7 +1142,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 3,
     "milestone": "January 2026 Release"
   },
   {
@@ -1110,7 +1161,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -2978,7 +3029,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -5629,8 +5680,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 6,
+    "totalReactions": 2,
+    "commentCount": 7,
     "milestone": "January 2026 Release"
   },
   {
@@ -12996,7 +13047,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 3,
     "milestone": "Backlog"
   },
