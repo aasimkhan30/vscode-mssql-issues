@@ -1,5 +1,37 @@
 [
   {
+    "author": "martinzrrl",
+    "closedAt": null,
+    "createdAt": "2026-01-19T21:37:40Z",
+    "number": 20927,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20927",
+    "title": "[Feature Request]: Cached authentication with SSO",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "martinzrrl",
+    "closedAt": null,
+    "createdAt": "2026-01-19T21:26:35Z",
+    "number": 20926,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20926",
+    "title": "[Feature Request]: side-by-side comparison of two result windows",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "ssreerama",
     "closedAt": "2026-01-16T19:48:58Z",
     "createdAt": "2026-01-16T18:11:50Z",

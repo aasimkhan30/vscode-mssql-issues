@@ -1,4 +1,6 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"20927","[Feature Request]: Cached authentication with SSO","martinzrrl","OPEN","2026-01-19T21:37:40Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20927","0","-1",
+"20926","[Feature Request]: side-by-side comparison of two result windows","martinzrrl","OPEN","2026-01-19T21:26:35Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20926","0","-1",
 "20913","[Bug]: SqlTaskService fails to null check and causing the Generate Script/Publish fails","ssreerama","CLOSED","2026-01-16T18:11:50Z","2026-01-16T19:48:58Z","SQL Project","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20913","0","-1","January 2026 Release"
 "20911","Migrating from Azure data studio to VSCode","amitkbhola","CLOSED","2026-01-16T15:37:53Z","2026-01-16T19:32:37Z","","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/20911","1","-1",
 "20910","[Bug]: Query History stops logging after reaching queryHistoryLimit, Pause button misleading","AcGrube","OPEN","2026-01-16T11:12:36Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/20910","0","-1",
