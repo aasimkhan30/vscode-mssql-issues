@@ -1,5 +1,188 @@
 [
   {
+    "author": "vobrechkov",
+    "closedAt": null,
+    "createdAt": "2026-01-20T22:27:01Z",
+    "number": 20947,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20947",
+    "title": "[Bug]: \"Object reference not set to instance of an object\" error when expanding database node when connected Azure SQL server",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-01-20T21:52:46Z",
+    "number": 20946,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20946",
+    "title": "[Bug]: Update Changelog",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "llali",
+    "closedAt": null,
+    "createdAt": "2026-01-20T21:24:37Z",
+    "number": 20944,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20944",
+    "title": "[Bug]: Publish dialog \"generate command\" doesn't include all the options",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-01-20T20:57:23Z",
+    "number": 20942,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20942",
+    "title": "[Task]: Remove experimental flag and enable preview features by default",
+    "areas": [
+      "SQL Project",
+      "Dacpac Import/Export",
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-01-20T20:46:34Z",
+    "number": 20941,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20941",
+    "title": "[Task]: Remove ARM detection and blocking logic for SQL Server 2025 containers",
+    "areas": [
+      "Local container"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-01-20T19:51:28Z",
+    "number": 20937,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20937",
+    "title": "[Bug]: Publish Project server selection should be a dropdown of servers, not launch the connection dialog",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-01-20T19:44:19Z",
+    "number": 20936,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20936",
+    "title": "[Bug]: Publish Project uses toasts instead of GUI modal",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-01-20T19:42:49Z",
+    "number": 20935,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20935",
+    "title": "[Bug]: Publish Project dialog UI nits",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-01-20T23:30:07Z",
+    "createdAt": "2026-01-20T19:32:30Z",
+    "number": 20934,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20934",
+    "title": "[Bug]: new Publish Project dialog is default-off",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "acbperkins",
+    "closedAt": null,
+    "createdAt": "2026-01-20T14:47:33Z",
+    "number": 20930,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20930",
+    "title": "[Bug]: SSDT Scripting differences with SQL Server Partitioned tables using Data Compression",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 1
+  },
+  {
     "author": "martinzrrl",
     "closedAt": null,
     "createdAt": "2026-01-19T21:37:40Z",
@@ -136,7 +319,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "February 2026 Release"
   },
   {
@@ -233,10 +416,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-01-20T21:39:04Z",
     "createdAt": "2026-01-09T06:57:08Z",
     "number": 20890,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20890",
     "title": "[Bug]: Schema Designer Filter tree has UX issues.",
     "areas": [
@@ -247,8 +430,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "commentCount": 1,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "JerryNixon",
@@ -267,7 +450,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "reubster",
@@ -537,10 +720,10 @@
   },
   {
     "author": "crush-74",
-    "closedAt": null,
+    "closedAt": "2026-01-20T18:49:00Z",
     "createdAt": "2025-12-18T15:44:34Z",
     "number": 20846,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20846",
     "title": "[Bug]: Installation error",
     "areas": [
@@ -662,7 +845,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "Prefix42",
@@ -734,14 +917,14 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2026-01-20T23:30:06Z",
     "createdAt": "2025-12-16T20:09:01Z",
     "number": 20825,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20825",
     "title": "[Bug]: disabling publish preview in SQL projects requires disabling preview features in mssql extension AND sql projects extension",
     "areas": [
@@ -1581,7 +1764,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "nathanhicktonwork",
@@ -1762,7 +1945,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "ubuntuztc",
@@ -1816,7 +1999,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "kburtram",
@@ -2025,7 +2208,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -2896,7 +3079,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "justinburnscorpcu",
@@ -3624,7 +3807,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "laurenastrid1",
@@ -3744,9 +3927,9 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 2,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "gordon-fu",
@@ -3857,7 +4040,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "Stralle",
@@ -3895,7 +4078,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 10,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "kburtram",
@@ -4937,7 +5120,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -5113,7 +5296,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "croblesm",
@@ -5497,7 +5680,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "Prefix42",
@@ -6264,7 +6447,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 4,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "jasonhorner",
@@ -6283,7 +6466,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "croblesm",
@@ -8138,7 +8321,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "kburtram",
@@ -12270,7 +12453,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "poolhost",
@@ -16113,7 +16296,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "gisn1",
@@ -18764,10 +18947,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-01-20T21:47:13Z",
     "createdAt": "2024-10-10T18:12:28Z",
     "number": 18179,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18179",
     "title": "Consolidate linux distro packages",
     "areas": [
@@ -21296,7 +21479,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "npongo",
@@ -27105,10 +27288,10 @@
   },
   {
     "author": "mikkosaarinen",
-    "closedAt": null,
+    "closedAt": "2026-01-20T21:48:50Z",
     "createdAt": "2021-02-08T07:19:32Z",
     "number": 16957,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/16957",
     "title": "Intellisense agressively replacing SQL keywords like JOIN with table names",
     "areas": [
@@ -27119,7 +27302,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
@@ -34308,7 +34491,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "ransagy",
