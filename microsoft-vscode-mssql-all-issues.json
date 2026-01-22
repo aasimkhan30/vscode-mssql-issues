@@ -1,5 +1,140 @@
 [
   {
+    "author": "vmontanoc",
+    "closedAt": null,
+    "createdAt": "2026-01-22T00:37:50Z",
+    "number": 20971,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20971",
+    "title": "query results are not displayed",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-01-21T22:06:58Z",
+    "number": 20966,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20966",
+    "title": "[Feature Request]: Add Restore functionality",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-01-21T22:05:15Z",
+    "number": 20965,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20965",
+    "title": "[Feature Request]: Add Backup Database functionality",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-01-21T20:46:23Z",
+    "number": 20962,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20962",
+    "title": "[Bug]: Docker deployment dialog defaults to 1433 even if that port is already in use by a docker container",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-01-21T04:29:58Z",
+    "number": 20955,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20955",
+    "title": "[Task]: Update right-hand panels: modernize Resources and add Feedback section in Welcome & What’s New dialog",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-01-21T04:24:00Z",
+    "number": 20954,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20954",
+    "title": "[Task]: Add content for collapsed “In case you missed it” GA section in Welcome & What’s New dialog",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-01-21T03:14:28Z",
+    "number": 20953,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20953",
+    "title": "[Task]: Update “Highlights” content for current release in Welcome & What’s New dialog",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-01-21T02:49:37Z",
+    "number": 20952,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20952",
+    "title": "[Task]:  Update Welcome & What’s New dialog layout and section structure",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
     "author": "vobrechkov",
     "closedAt": null,
     "createdAt": "2026-01-20T22:27:01Z",
@@ -52,10 +187,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-01-22T01:00:36Z",
     "createdAt": "2026-01-20T20:57:23Z",
     "number": 20942,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20942",
     "title": "[Task]: Remove experimental flag and enable preview features by default",
     "areas": [
@@ -64,9 +199,9 @@
       "View/Edit data"
     ],
     "priority": -1,
-    "type": "Feature Request",
+    "type": null,
     "hasArea": true,
-    "hasType": true,
+    "hasType": false,
     "totalReactions": 1,
     "commentCount": 0,
     "milestone": "January 2026 Release"
@@ -87,7 +222,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
@@ -107,7 +242,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "February 2026 Release"
+    "milestone": "January 2026 Release"
   },
   {
     "author": "Benjin",
@@ -267,10 +402,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-01-21T20:37:05Z",
     "createdAt": "2026-01-15T21:35:59Z",
     "number": 20909,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20909",
     "title": "[Bug]: ADS Migration command lacks discoverability",
     "areas": [
@@ -286,10 +421,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-01-21T20:37:05Z",
     "createdAt": "2026-01-15T21:26:57Z",
     "number": 20908,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20908",
     "title": "[Bug]: ADS Migration tool allows orphan connections when migrating without parent groups",
     "areas": [
@@ -319,7 +454,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 4,
     "milestone": "February 2026 Release"
   },
   {
@@ -378,10 +513,10 @@
   },
   {
     "author": "tauseefsiddique10",
-    "closedAt": null,
+    "closedAt": "2026-01-21T20:37:04Z",
     "createdAt": "2026-01-12T21:39:54Z",
     "number": 20895,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20895",
     "title": "[Bug]: Add legend for icons in connections import to ADS Migration tool",
     "areas": [
@@ -467,7 +602,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 3,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -739,10 +874,10 @@
   },
   {
     "author": "sfscgjohnson",
-    "closedAt": null,
+    "closedAt": "2026-01-21T21:10:15Z",
     "createdAt": "2025-12-18T14:11:33Z",
     "number": 20844,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20844",
     "title": "[Bug]: Must Set Language to SQL",
     "areas": [
@@ -753,7 +888,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "January 2026 Release"
   },
   {
@@ -2246,10 +2381,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-01-21T18:40:27Z",
     "createdAt": "2025-11-13T23:30:55Z",
     "number": 20579,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20579",
     "title": "[Bug]: Object Explorer incorrectly things local/xcopy server is a docker container, and throws error about it not existing",
     "areas": [
@@ -4511,7 +4646,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "kburtram",
@@ -5428,7 +5563,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "Wermeling",
@@ -5569,7 +5704,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "polandre90",
@@ -5607,7 +5742,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 6,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "mpurnyn",
@@ -5626,7 +5761,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "SPerremans",
@@ -5897,7 +6032,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 7,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "capiyomero",
@@ -5932,7 +6067,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 2,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "agrabsi",
@@ -7532,7 +7667,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 1,
     "milestone": "Backlog"
   },
@@ -7886,10 +8021,10 @@
   },
   {
     "author": "caohai",
-    "closedAt": null,
+    "closedAt": "2026-01-21T18:40:28Z",
     "createdAt": "2025-06-13T21:52:21Z",
     "number": 19606,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19606",
     "title": "[Bug]: Local SQL Server Incorrectly Identified as Docker Container",
     "areas": [
@@ -8407,7 +8542,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 4,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "bujocek",
@@ -9275,7 +9410,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "JamesDBartlett3",
@@ -10394,7 +10529,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "croblesm",
@@ -11723,7 +11858,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -11761,7 +11896,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -12195,7 +12330,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "spewu",
@@ -12289,10 +12424,10 @@
   },
   {
     "author": "number65259",
-    "closedAt": null,
+    "closedAt": "2026-01-21T21:51:09Z",
     "createdAt": "2025-04-02T17:40:55Z",
     "number": 19068,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19068",
     "title": "Table Designer object reference error",
     "areas": [
@@ -12303,7 +12438,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "January 2026 Release"
   },
   {
@@ -15704,8 +15839,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 62,
-    "commentCount": 12,
-    "milestone": "January 2026 Release"
+    "commentCount": 13,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "gregveres",
