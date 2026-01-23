@@ -1,5 +1,117 @@
 [
   {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-01-22T23:52:43Z",
+    "number": 20988,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20988",
+    "title": "Update cascading checkbox behavior in ADS Migration dialog",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "January 2026 Release"
+  },
+  {
+    "author": "yorkshirelandscape",
+    "closedAt": null,
+    "createdAt": "2026-01-22T17:46:42Z",
+    "number": 20983,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20983",
+    "title": "[Feature Request]: Support for viewing query results in SandDance",
+    "areas": [
+      "Extensibility"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 2,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "gisn1",
+    "closedAt": null,
+    "createdAt": "2026-01-22T15:25:12Z",
+    "number": 20979,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20979",
+    "title": "[Feature Request]: Double-Click select # sign for temp table",
+    "areas": [
+      "Language Service"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "nalexsantos",
+    "closedAt": null,
+    "createdAt": "2026-01-22T11:38:40Z",
+    "number": 20978,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20978",
+    "title": "Results don't show values in all the recordsets",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "jasonhorner",
+    "closedAt": null,
+    "createdAt": "2026-01-22T04:12:39Z",
+    "number": 20977,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20977",
+    "title": "[Feature Request]: SQL Database Projects do not support targeting Microsoft Fabric SQL Analytics Endpoint",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "jasonhorner",
+    "closedAt": null,
+    "createdAt": "2026-01-22T03:43:58Z",
+    "number": 20976,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20976",
+    "title": "VS Code mssql extension throws “Error Loading. Refresh to try again” when expanding External File Formats for Fabric Data Warehouse and Fabric SQL Analytics Endpoint",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "vmontanoc",
     "closedAt": null,
     "createdAt": "2026-01-22T00:37:50Z",
@@ -7,13 +119,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20971",
     "title": "query results are not displayed",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "laurenastrid1",
@@ -68,10 +183,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-01-22T21:19:09Z",
     "createdAt": "2026-01-21T04:29:58Z",
     "number": 20955,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20955",
     "title": "[Task]: Update right-hand panels: modernize Resources and add Feedback section in Welcome & What’s New dialog",
     "areas": [],
@@ -85,10 +200,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-01-22T21:19:09Z",
     "createdAt": "2026-01-21T04:24:00Z",
     "number": 20954,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20954",
     "title": "[Task]: Add content for collapsed “In case you missed it” GA section in Welcome & What’s New dialog",
     "areas": [],
@@ -102,10 +217,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-01-22T21:19:08Z",
     "createdAt": "2026-01-21T03:14:28Z",
     "number": 20953,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20953",
     "title": "[Task]: Update “Highlights” content for current release in Welcome & What’s New dialog",
     "areas": [],
@@ -119,10 +234,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-01-22T21:19:08Z",
     "createdAt": "2026-01-21T02:49:37Z",
     "number": 20952,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20952",
     "title": "[Task]:  Update Welcome & What’s New dialog layout and section structure",
     "areas": [],
@@ -142,13 +257,17 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20947",
     "title": "[Bug]: \"Object reference not set to instance of an object\" error when expanding database node when connected Azure SQL server",
-    "areas": [],
+    "areas": [
+      "Object Explorer",
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "Benjin",
@@ -157,7 +276,7 @@
     "number": 20946,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20946",
-    "title": "[Bug]: Update Changelog",
+    "title": "Update CHANGELOG.md",
     "areas": [],
     "priority": -1,
     "type": "Bug",
@@ -183,11 +302,12 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "croblesm",
-    "closedAt": "2026-01-22T01:00:36Z",
+    "closedAt": "2026-01-22T20:06:27Z",
     "createdAt": "2026-01-20T20:57:23Z",
     "number": 20942,
     "state": "CLOSED",
@@ -203,7 +323,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "January 2026 Release"
   },
   {
@@ -223,7 +343,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "Benjin",
@@ -242,7 +362,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "Benjin",
@@ -309,13 +429,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20930",
     "title": "[Bug]: SSDT Scripting differences with SQL Server Partitioned tables using Data Compression",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "martinzrrl",
@@ -325,13 +448,17 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20927",
     "title": "[Feature Request]: Cached authentication with SSO",
-    "areas": [],
+    "areas": [
+      "Connection",
+      "Azure"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "martinzrrl",
@@ -341,13 +468,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20926",
     "title": "[Feature Request]: side-by-side comparison of two result windows",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "ssreerama",
@@ -392,13 +522,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20910",
     "title": "[Bug]: Query History stops logging after reaching queryHistoryLimit, Pause button misleading",
-    "areas": [],
+    "areas": [
+      "Query History"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -1256,7 +1389,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -5703,7 +5836,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "February 2026 Release"
   },
   {
@@ -6065,8 +6198,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 2,
+    "totalReactions": 2,
+    "commentCount": 3,
     "milestone": "February 2026 Release"
   },
   {
@@ -6600,7 +6733,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "February 2026 Release"
   },
   {
@@ -7297,7 +7430,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "January 2026 Release"
+    "milestone": "February 2026 Release"
   },
   {
     "author": "croblesm",
@@ -9830,7 +9963,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 2
+    "commentCount": 4
   },
   {
     "author": "paladique",
@@ -15838,7 +15971,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 62,
+    "totalReactions": 63,
     "commentCount": 13,
     "milestone": "February 2026 Release"
   },
