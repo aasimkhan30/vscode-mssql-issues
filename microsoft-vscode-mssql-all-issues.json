@@ -1,10 +1,45 @@
 [
   {
-    "author": "Benjin",
+    "author": "ksdaniel",
     "closedAt": null,
+    "createdAt": "2026-01-23T14:04:59Z",
+    "number": 20993,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20993",
+    "title": "MSSQL Copilot tool calls failing or timing out",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "elefA",
+    "closedAt": "2026-01-23T17:11:14Z",
+    "createdAt": "2026-01-23T09:45:31Z",
+    "number": 20991,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/20991",
+    "title": "Single Row is hidden from horizontal scrollbar in grid results",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-01-23T20:56:31Z",
     "createdAt": "2026-01-22T23:52:43Z",
     "number": 20988,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20988",
     "title": "Update cascading checkbox behavior in ADS Migration dialog",
     "areas": [],
@@ -56,10 +91,10 @@
   },
   {
     "author": "nalexsantos",
-    "closedAt": null,
+    "closedAt": "2026-01-23T02:37:04Z",
     "createdAt": "2026-01-22T11:38:40Z",
     "number": 20978,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20978",
     "title": "Results don't show values in all the recordsets",
     "areas": [
@@ -70,7 +105,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "February 2026 Release"
   },
   {
@@ -271,10 +306,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-01-23T20:56:33Z",
     "createdAt": "2026-01-20T21:52:46Z",
     "number": 20946,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20946",
     "title": "Update CHANGELOG.md",
     "areas": [],
@@ -722,10 +757,10 @@
   },
   {
     "author": "reubster",
-    "closedAt": null,
+    "closedAt": "2026-01-23T14:54:06Z",
     "createdAt": "2026-01-08T19:01:21Z",
     "number": 20887,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20887",
     "title": "[Feature Request]: Run current query mssql extension command and shortcut",
     "areas": [
@@ -736,7 +771,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
