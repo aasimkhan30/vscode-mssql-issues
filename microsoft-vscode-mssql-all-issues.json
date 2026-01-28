@@ -1,5 +1,57 @@
 [
   {
+    "author": "FabriceBauerUpsideo",
+    "closedAt": null,
+    "createdAt": "2026-01-27T17:28:08Z",
+    "number": 21019,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21019",
+    "title": "[Feature Request]: Add setting to disable Transferring active connection when opening a new SQL file (#19503)",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "gbrueckl",
+    "closedAt": null,
+    "createdAt": "2026-01-27T13:16:58Z",
+    "number": 21017,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21017",
+    "title": "[Bug]: Workspace settings are ignored",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "boonpheng-p",
+    "closedAt": null,
+    "createdAt": "2026-01-27T07:26:08Z",
+    "number": 21016,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21016",
+    "title": "[Feature Request]: Ability to use : to specify a server port",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "ksdaniel",
     "closedAt": null,
     "createdAt": "2026-01-23T14:04:59Z",
@@ -488,12 +540,12 @@
       "Azure"
     ],
     "priority": -1,
-    "type": "Feature Request",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "Backlog"
+    "commentCount": 2,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "martinzrrl",
@@ -804,7 +856,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -889,7 +941,7 @@
     "areas": [
       "View/Edit data"
     ],
-    "priority": 0,
+    "priority": -1,
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
@@ -906,7 +958,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/20875",
     "title": "[Feature Request]: Open Edit Data from SQL script results",
     "areas": [],
-    "priority": 0,
+    "priority": -1,
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
@@ -984,7 +1036,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -2420,10 +2472,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2026-01-27T01:19:11Z",
     "createdAt": "2025-11-14T12:00:56Z",
     "number": 20595,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20595",
     "title": "[GitHub Copilot - Bug ]: Agent mode won't run RESTORE statement",
     "areas": [
@@ -2434,7 +2486,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -2477,10 +2529,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2026-01-27T01:22:25Z",
     "createdAt": "2025-11-14T11:46:58Z",
     "number": 20592,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20592",
     "title": "[GitHub Copilot - Bug]: no tables so returns no response",
     "areas": [
@@ -2491,7 +2543,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -3548,7 +3600,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -3996,14 +4048,14 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "hovek",
-    "closedAt": null,
+    "closedAt": "2026-01-27T01:41:58Z",
     "createdAt": "2025-10-25T01:14:09Z",
     "number": 20356,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20356",
     "title": "[Feature Request]: Setting for turning -GeneralConnection application name suffix",
     "areas": [
@@ -4014,7 +4066,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -4366,10 +4418,10 @@
   },
   {
     "author": "m4ss1m0g",
-    "closedAt": null,
+    "closedAt": "2026-01-27T09:28:08Z",
     "createdAt": "2025-10-01T09:37:53Z",
     "number": 20261,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20261",
     "title": "[Feature Request]: Provide docs about connection-sharing (API)",
     "areas": [
@@ -4380,7 +4432,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 11,
+    "commentCount": 12,
     "milestone": "February 2026 Release"
   },
   {
@@ -13545,7 +13597,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 4,
     "milestone": "March 2026 Release"
   },
