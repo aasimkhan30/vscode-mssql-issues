@@ -1,5 +1,40 @@
 [
   {
+    "author": "DoiCo",
+    "closedAt": null,
+    "createdAt": "2026-01-29T01:03:26Z",
+    "number": 21045,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21045",
+    "title": "[Bug]: Invalid containerPort error when creating SQL Server container",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-01-28T15:31:07Z",
+    "number": 21031,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21031",
+    "title": "[Task]: Add support to exclude non‑schema .sql scripts from build",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "FabriceBauerUpsideo",
     "closedAt": null,
     "createdAt": "2026-01-27T17:28:08Z",
@@ -12,7 +47,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "February 2026 Release"
   },
@@ -49,7 +84,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "ksdaniel",
@@ -2212,10 +2248,10 @@
   },
   {
     "author": "gregveres",
-    "closedAt": null,
+    "closedAt": "2026-01-28T17:48:16Z",
     "createdAt": "2025-11-19T12:36:26Z",
     "number": 20631,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20631",
     "title": "[Feature Request]: Edit Data must expose data generation script for editing",
     "areas": [
@@ -2226,7 +2262,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 6,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "Backlog"
   },
   {
@@ -4284,7 +4320,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 2,
-    "milestone": "February 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "gordon-fu",
@@ -4377,25 +4413,6 @@
     "totalReactions": 1,
     "commentCount": 5,
     "milestone": "November 2025 Release"
-  },
-  {
-    "author": "matbishop",
-    "closedAt": null,
-    "createdAt": "2025-10-03T06:59:32Z",
-    "number": 20276,
-    "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/20276",
-    "title": "[Bug]: Script as Create does not provide valid script",
-    "areas": [
-      "Language Service"
-    ],
-    "priority": -1,
-    "type": "Bug",
-    "hasArea": true,
-    "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "February 2026 Release"
   },
   {
     "author": "Stralle",
@@ -5636,10 +5653,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-01-28T17:36:36Z",
     "createdAt": "2025-09-03T06:13:00Z",
     "number": 20063,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20063",
     "title": "[Bug]: Connection profile not created when provisioning Webview Panel is closed mid-run",
     "areas": [
@@ -5650,8 +5667,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "February 2026 Release"
+    "commentCount": 2,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "croblesm",
@@ -6820,7 +6837,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "February 2026 Release"
   },
   {
@@ -8990,10 +9007,10 @@
   },
   {
     "author": "khalid2051",
-    "closedAt": null,
+    "closedAt": "2026-01-28T17:32:25Z",
     "createdAt": "2025-05-29T12:02:28Z",
     "number": 19505,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19505",
     "title": "[Bug]: Clicking on query result cell value opens in new tab. Interrupting workflow.",
     "areas": [
@@ -9004,7 +9021,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -10657,10 +10674,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-01-28T17:27:32Z",
     "createdAt": "2025-04-24T22:09:43Z",
     "number": 19269,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19269",
     "title": "[Feature Request]:Move Foreign Key Mapping UI into Main Window",
     "areas": [
@@ -10671,7 +10688,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -10733,10 +10750,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-01-28T17:27:04Z",
     "createdAt": "2025-04-24T21:59:43Z",
     "number": 19265,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19265",
     "title": "[Feature Request]:\"Length\" field should be inline in Table Designer",
     "areas": [
@@ -10747,7 +10764,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
