@@ -1,5 +1,60 @@
 [
   {
+    "author": "llali",
+    "closedAt": null,
+    "createdAt": "2026-01-29T20:06:47Z",
+    "number": 21054,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21054",
+    "title": "[Bug]: Table Designer vector column",
+    "areas": [
+      "Table Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-01-29T20:02:18Z",
+    "number": 21053,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21053",
+    "title": "[Bug]: Reload project has no response after SC two projects and apply change",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "tanselmi-appliedsurety",
+    "closedAt": null,
+    "createdAt": "2026-01-29T02:25:55Z",
+    "number": 21047,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21047",
+    "title": "Feature request: First-class, AI-callable export from executed SQL to 1:1 Python (mssql-python)",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "DoiCo",
     "closedAt": null,
     "createdAt": "2026-01-29T01:03:26Z",
@@ -53,10 +108,10 @@
   },
   {
     "author": "gbrueckl",
-    "closedAt": null,
+    "closedAt": "2026-01-29T16:25:58Z",
     "createdAt": "2026-01-27T13:16:58Z",
     "number": 21017,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21017",
     "title": "[Bug]: Workspace settings are ignored",
     "areas": [
@@ -67,7 +122,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "February 2026 Release"
   },
   {
@@ -300,7 +355,7 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 2,
     "milestone": "February 2026 Release"
   },
@@ -470,10 +525,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-01-29T02:19:08Z",
     "createdAt": "2026-01-20T19:51:28Z",
     "number": 20937,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20937",
     "title": "[Bug]: Publish Project server selection should be a dropdown of servers, not launch the connection dialog",
     "areas": [
@@ -802,7 +857,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "February 2026 Release"
   },
   {
