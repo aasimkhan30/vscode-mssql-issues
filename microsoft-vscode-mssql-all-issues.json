@@ -1,5 +1,43 @@
 [
   {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-01-30T16:52:13Z",
+    "number": 21061,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21061",
+    "title": "[Bug]: Pagination navigation controls are not anchored to the bottom of the document.",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "noonessh",
+    "closedAt": null,
+    "createdAt": "2026-01-30T07:23:23Z",
+    "number": 21059,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21059",
+    "title": "[Bug]: when updating from 1.5.5 to 1.5.6 new extension folder does not contain SystemDacpacs",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "February 2026 Release"
+  },
+  {
     "author": "llali",
     "closedAt": null,
     "createdAt": "2026-01-29T20:06:47Z",
@@ -67,7 +105,7 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -563,10 +601,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-01-30T22:57:15Z",
     "createdAt": "2026-01-20T19:42:49Z",
     "number": 20935,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20935",
     "title": "[Bug]: Publish Project dialog UI nits",
     "areas": [
@@ -10177,7 +10215,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -12361,10 +12399,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-01-30T14:53:37Z",
     "createdAt": "2025-04-09T03:43:41Z",
     "number": 19105,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19105",
     "title": "Regressed drag-and-drop experience when creating relationships",
     "areas": [
@@ -12375,7 +12413,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -15470,7 +15508,7 @@
     "type": null,
     "hasArea": false,
     "hasType": false,
-    "totalReactions": 34,
+    "totalReactions": 35,
     "commentCount": 16
   },
   {
