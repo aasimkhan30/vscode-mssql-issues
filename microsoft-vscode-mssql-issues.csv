@@ -1,6 +1,10 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"21081","Schema Compare: Populate Select Source database dropdown with listing from saved connections","jasonhorner","OPEN","2026-02-03T00:58:08Z",,"",,"0","https://github.com/microsoft/vscode-mssql/issues/21081","0","-1",
+"21080","[Bug]: Schema Compare flags cross-database references using variables as code differences","jasonhorner","OPEN","2026-02-03T00:45:09Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21080","0","-1",
+"21079","[Bug]: Unresolved Reference to System Database","himanshu-ram-punjabi","OPEN","2026-02-02T21:15:59Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21079","0","-1",
+"21078","[Bug]: GO Reformattng","birchadyne","OPEN","2026-02-02T21:08:42Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21078","0","-1",
 "21061","[Bug]: Pagination navigation controls are not anchored to the bottom of the document.","kburtram","OPEN","2026-01-30T16:52:13Z",,"View/Edit data","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21061","2","-1","March 2026 Release"
-"21059","[Bug]: when updating from 1.5.5 to 1.5.6 new extension folder does not contain SystemDacpacs","noonessh","OPEN","2026-01-30T07:23:23Z",,"SQL Project","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21059","2","-1","February 2026 Release"
+"21059","[Bug]: when updating from 1.5.5 to 1.5.6 new extension folder does not contain SystemDacpacs","noonessh","OPEN","2026-01-30T07:23:23Z",,"SQL Project","Bug","1","https://github.com/microsoft/vscode-mssql/issues/21059","2","-1","February 2026 Release"
 "21054","[Bug]: Table Designer vector column","llali","OPEN","2026-01-29T20:06:47Z",,"Table Designer","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21054","0","-1","Backlog"
 "21053","[Bug]: Reload project has no response after SC two projects and apply change","ssreerama","OPEN","2026-01-29T20:02:18Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21053","0","-1","February 2026 Release"
 "21047","Feature request: First-class, AI-callable export from executed SQL to 1:1 Python (mssql-python)","tanselmi-appliedsurety","OPEN","2026-01-29T02:25:55Z",,"GitHub Copilot","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/21047","0","-1","Backlog"
