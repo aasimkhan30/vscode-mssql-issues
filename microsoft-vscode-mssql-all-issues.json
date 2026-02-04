@@ -1,5 +1,76 @@
 [
   {
+    "author": "lewis-sanchez",
+    "closedAt": null,
+    "createdAt": "2026-02-03T22:31:50Z",
+    "number": 21091,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21091",
+    "title": "[Task]: Remove old metadata code",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "TjLuckyBastard",
+    "closedAt": null,
+    "createdAt": "2026-02-03T19:27:47Z",
+    "number": 21089,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21089",
+    "title": "[Bug]: Cannot resolve tree item for element",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-03T16:20:17Z",
+    "number": 21084,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21084",
+    "title": "[Bug]: SQL Project is using deprecated request npm package",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "sayed-sxanpro",
+    "closedAt": null,
+    "createdAt": "2026-02-03T14:59:53Z",
+    "number": 21083,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21083",
+    "title": "[Bug]: Fail to save results using excel",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "jasonhorner",
     "closedAt": null,
     "createdAt": "2026-02-03T00:58:08Z",
@@ -39,10 +110,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21079",
     "title": "[Bug]: Unresolved Reference to System Database",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -55,10 +128,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21078",
     "title": "[Bug]: GO Reformattng",
-    "areas": [],
+    "areas": [
+      "Formatter"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -79,7 +154,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "March 2026 Release"
   },
   {
@@ -164,10 +239,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21045",
     "title": "[Bug]: Invalid containerPort error when creating SQL Server container",
-    "areas": [],
+    "areas": [
+      "Local container"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 2
@@ -16314,7 +16391,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/18630",
     "title": "[Feature Request]: SQL Profiler",
     "areas": [
-      "Profiler"
+      "SQL Profiler"
     ],
     "priority": -1,
     "type": "Feature Request",
