@@ -1,5 +1,62 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-02-04T02:15:35Z",
+    "number": 21095,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21095",
+    "title": "[Feature Request]: Improve SQL Profiler Filter UX with Inline Column Filters",
+    "areas": [
+      "SQL Profiler"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-02-04T01:50:57Z",
+    "number": 21094,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21094",
+    "title": "[Bug]: SQL Profiler Event Details Panel Opens in VS Code Panel Instead of Webview",
+    "areas": [
+      "SQL Profiler"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-02-04T01:33:15Z",
+    "number": 21093,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21093",
+    "title": "[Feature Request]: Enhanced Database-Level Profiler Launch with Automatic Filtering",
+    "areas": [
+      "SQL Profiler"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
     "author": "lewis-sanchez",
     "closedAt": null,
     "createdAt": "2026-02-03T22:31:50Z",
@@ -32,7 +89,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "February 2026 Release"
   },
   {
@@ -55,7 +112,7 @@
     "milestone": "February 2026 Release"
   },
   {
-    "author": "sayed-sxanpro",
+    "author": "app/",
     "closedAt": null,
     "createdAt": "2026-02-03T14:59:53Z",
     "number": 21083,
@@ -233,10 +290,10 @@
   },
   {
     "author": "DoiCo",
-    "closedAt": null,
+    "closedAt": "2026-02-04T18:57:50Z",
     "createdAt": "2026-01-29T01:03:26Z",
     "number": 21045,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21045",
     "title": "[Bug]: Invalid containerPort error when creating SQL Server container",
     "areas": [
@@ -523,10 +580,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-02-04T18:57:49Z",
     "createdAt": "2026-01-21T20:46:23Z",
     "number": 20962,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20962",
     "title": "[Bug]: Docker deployment dialog defaults to 1433 even if that port is already in use by a docker container",
     "areas": [],
@@ -645,10 +702,10 @@
   },
   {
     "author": "llali",
-    "closedAt": null,
+    "closedAt": "2026-02-04T23:39:56Z",
     "createdAt": "2026-01-20T21:24:37Z",
     "number": 20944,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20944",
     "title": "[Bug]: Publish dialog \"generate command\" doesn't include all the options",
     "areas": [
@@ -2113,7 +2170,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "February 2026 Release"
   },
@@ -3703,7 +3760,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "February 2026 Release"
   },
   {
@@ -7969,7 +8026,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -8450,7 +8507,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 7,
+    "totalReactions": 8,
     "commentCount": 1,
     "milestone": "Backlog"
   },
