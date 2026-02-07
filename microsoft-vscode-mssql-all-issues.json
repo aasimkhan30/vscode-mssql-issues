@@ -1,5 +1,97 @@
 [
   {
+    "author": "allancascante",
+    "closedAt": null,
+    "createdAt": "2026-02-06T18:36:27Z",
+    "number": 21114,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21114",
+    "title": "[Feature Request]: Create database selector util",
+    "areas": [
+      "Profiler"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-02-06T16:02:44Z",
+    "number": 21112,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21112",
+    "title": "[Bug]: Delete database reference fails for Fabric SQL projects (DbFabric, FabricDw)",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-02-06T04:07:21Z",
+    "number": 21111,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21111",
+    "title": "[GitHub Copilot - Feature request]: Database Schema Context for Inline Suggestions",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "May 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-02-06T03:49:59Z",
+    "number": 21110,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21110",
+    "title": "[GitHub Copilot - Feature request]: Add Database Object Context References in Chat",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "May 2026 Release"
+  },
+  {
+    "author": "cancan101",
+    "closedAt": null,
+    "createdAt": "2026-02-06T03:36:16Z",
+    "number": 21109,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21109",
+    "title": "[Feature Request]: Setting to Not Open Output File in Editor when Save as CSV",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "FraHolt",
     "closedAt": null,
     "createdAt": "2026-02-05T15:39:03Z",
@@ -7,13 +99,17 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21102",
     "title": "Connection lost after saving",
-    "areas": [],
+    "areas": [
+      "Query Editor",
+      "Connection"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "croblesm",
@@ -2177,10 +2273,10 @@
   },
   {
     "author": "chai-deshpande",
-    "closedAt": null,
+    "closedAt": "2026-02-06T20:39:59Z",
     "createdAt": "2025-12-01T14:53:09Z",
     "number": 20816,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20816",
     "title": "Microsoft.Build.Sql.dll not extracted from nupkg in BuildDirectory (v1.5.5)",
     "areas": [
@@ -4481,12 +4577,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20349",
     "title": "[Bug]: “MSSQL: Select Top 1000” command fails with Cannot read properties of undefined (reading 'nodeType')",
-    "areas": [
-      "Scripting"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Bug",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
@@ -4772,8 +4866,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/20259",
     "title": "Scripting operations aren't cancelable",
     "areas": [
-      "Query Editor",
-      "Scripting"
+      "Query Editor"
     ],
     "priority": -1,
     "type": "Bug",
@@ -6065,12 +6158,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20056",
     "title": "[Feature Request]:",
-    "areas": [
-      "Table Explorer"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1
@@ -6481,12 +6572,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19983",
     "title": "[Bug]: Execution Failed: Cannot connect to the database due to invalid OwnerUri",
-    "areas": [
-      "Scripting"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Bug",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 7,
@@ -6625,12 +6714,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19955",
     "title": "[Bug]: Fabric Table SELECT TOP 1000 -> Connection cancelled",
-    "areas": [
-      "Scripting"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Bug",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
@@ -7272,12 +7359,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19824",
     "title": "Even canceling a script generation, an alert keeps running.",
-    "areas": [
-      "Scripting"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Bug",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
@@ -9543,7 +9628,7 @@
     "milestone": "September 2025 Release"
   },
   {
-    "author": "GrzegorzLyp",
+    "author": "absgrlyp",
     "closedAt": "2025-05-24T15:25:18Z",
     "createdAt": "2025-05-24T15:24:42Z",
     "number": 19482,
@@ -13252,12 +13337,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19004",
     "title": "Feature Suggestion: SELECT TOP 1000 with columns listed alphabetically",
-    "areas": [
-      "Scripting"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
@@ -13545,12 +13628,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18979",
     "title": "Empty Script Generated for Views/Tables in MSSQL Extension, but Stored Procedures Work Fine",
-    "areas": [
-      "Scripting"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Bug",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
@@ -15953,7 +16034,6 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/18664",
     "title": "[Feature Request]: Add Edit Data",
     "areas": [
-      "Table Explorer",
       "View/Edit data"
     ],
     "priority": -1,
@@ -16394,12 +16474,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18637",
     "title": "Request config option to prevent automatically executing queries",
-    "areas": [
-      "Data Preview"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 3,
@@ -20541,12 +20619,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18090",
     "title": "Customize default number of rows when right-click > select top (1000)",
-    "areas": [
-      "Scripting"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Bug",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 1,
@@ -25594,12 +25670,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17315",
     "title": "[Suggestion]: Add \"Select from\" menu item.",
-    "areas": [
-      "Scripting"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
@@ -26003,12 +26077,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17224",
     "title": "Option to disable opening file with TSQL query while doing Select Top 1000",
-    "areas": [
-      "Scripting"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
@@ -35461,8 +35533,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/1091",
     "title": "Searching through Query Results",
     "areas": [
-      "Query Result",
-      "Table Explorer"
+      "Query Result"
     ],
     "priority": -1,
     "type": "Feature Request",
@@ -36105,8 +36176,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/1030",
     "title": "Query results to text",
     "areas": [
-      "Query Result",
-      "Table Explorer"
+      "Query Result"
     ],
     "priority": 1,
     "type": "Feature Request",
