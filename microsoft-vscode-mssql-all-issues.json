@@ -1,5 +1,69 @@
 [
   {
+    "author": "unlock21",
+    "closedAt": null,
+    "createdAt": "2026-02-09T21:11:13Z",
+    "number": 21132,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21132",
+    "title": "Table Designer - Publish Changes Missing Recrating Default Constraints",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "unlock21",
+    "closedAt": null,
+    "createdAt": "2026-02-09T20:58:55Z",
+    "number": 21130,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21130",
+    "title": "[Feature Request]: Modify Table - Display Connected Database",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "samgusick",
+    "closedAt": null,
+    "createdAt": "2026-02-09T19:57:32Z",
+    "number": 21127,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21127",
+    "title": "[Bug]: Query won't execute if the workspace path has illegal characters",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "samgusick",
+    "closedAt": "2026-02-09T19:45:59Z",
+    "createdAt": "2026-02-09T19:37:47Z",
+    "number": 21126,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21126",
+    "title": "[Bug]: Cannot execute Queries on Serverless Synapse Workspace",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "allancascante",
     "closedAt": null,
     "createdAt": "2026-02-06T18:36:27Z",
@@ -52,7 +116,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "May 2026 Release"
   },
@@ -287,7 +351,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "birchadyne",
@@ -6667,7 +6732,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 7,
     "milestone": "April 2026 Release"
   },
@@ -7915,10 +7980,10 @@
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2026-02-09T23:49:00Z",
     "createdAt": "2025-07-11T22:02:09Z",
     "number": 20821,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20821",
     "title": "creating SQL project inside already open workspace results in tasks definition in wrong spot",
     "areas": [
