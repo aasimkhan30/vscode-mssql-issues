@@ -1,5 +1,138 @@
 [
   {
+    "author": "jasonhorner",
+    "closedAt": null,
+    "createdAt": "2026-02-11T00:12:57Z",
+    "number": 21157,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21157",
+    "title": "[Feature Request]: Publish SQL Database Projects Extension to Open VSX Registry",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "keith-oak",
+    "closedAt": null,
+    "createdAt": "2026-02-11T00:08:42Z",
+    "number": 21156,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21156",
+    "title": "[Bug]: SQL Database Projects generates invalid all-zeros ProjectGuid and modifies files without consent",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-02-10T20:00:26Z",
+    "number": 21152,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21152",
+    "title": "[Bug]: Error when moving a .sql file from within a folder to the root of the project",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "keen85",
+    "closedAt": null,
+    "createdAt": "2026-02-10T18:37:31Z",
+    "number": 21149,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21149",
+    "title": "[Feature Request]: Support external configuration file for (connection) settings (`mssql.configPath`)",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "TLuquet-MAG",
+    "closedAt": null,
+    "createdAt": "2026-02-10T15:53:35Z",
+    "number": 21147,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21147",
+    "title": "[GitHub Copilot - Bug | Feature request]: @mssql Copilot participant loses connection context after saving untitled SQL editor to disk",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Both Bug and Feature",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "markalroberts",
+    "closedAt": null,
+    "createdAt": "2026-02-10T15:42:27Z",
+    "number": 21146,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21146",
+    "title": "[Bug]: Cannot open Query History query",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "TheGongoDev82",
+    "closedAt": null,
+    "createdAt": "2026-02-10T14:09:13Z",
+    "number": 21145,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21145",
+    "title": "[Bug]: SQL Database Project: duplicate creation of constraints",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "joelmansford",
+    "closedAt": null,
+    "createdAt": "2026-02-10T12:11:06Z",
+    "number": 21144,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21144",
+    "title": "[Feature Request]: Make Schema Compare .scmp files portable (relative paths, connection profiles, team‑friendly)",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "unlock21",
     "closedAt": null,
     "createdAt": "2026-02-09T21:11:13Z",
@@ -84,10 +217,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-02-10T18:13:53Z",
     "createdAt": "2026-02-06T16:02:44Z",
     "number": 21112,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21112",
     "title": "[Bug]: Delete database reference fails for Fabric SQL projects (DbFabric, FabricDw)",
     "areas": [
@@ -234,10 +367,10 @@
   },
   {
     "author": "lewis-sanchez",
-    "closedAt": null,
+    "closedAt": "2026-02-10T21:37:23Z",
     "createdAt": "2026-02-03T22:31:50Z",
     "number": 21091,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21091",
     "title": "[Task]: Remove old metadata code",
     "areas": [],
@@ -3927,10 +4060,10 @@
   },
   {
     "author": "pradeepsrikakolapu",
-    "closedAt": null,
+    "closedAt": "2026-02-10T18:13:52Z",
     "createdAt": "2025-11-06T00:29:19Z",
     "number": 20443,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20443",
     "title": "[Bug]: master dacpac shows as msdb under database references in database projects",
     "areas": [
@@ -7301,7 +7434,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "February 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -7828,25 +7961,6 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0
-  },
-  {
-    "author": "ArkianeAlexandre",
-    "closedAt": null,
-    "createdAt": "2025-07-15T08:35:39Z",
-    "number": 19766,
-    "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/19766",
-    "title": "[Feature Request]: Add support for the \"CREATE OR ALTER ...\" statement for SQL stored procedures",
-    "areas": [
-      "SQL Project"
-    ],
-    "priority": -1,
-    "type": "Feature Request",
-    "hasArea": true,
-    "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 1,
-    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
