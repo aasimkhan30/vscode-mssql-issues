@@ -1,10 +1,80 @@
 [
   {
-    "author": "jasonhorner",
+    "author": "AdH-GW",
     "closedAt": null,
+    "createdAt": "2026-02-11T16:06:28Z",
+    "number": 21163,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21163",
+    "title": "[Bug]: SQL71561: Cross-project artifact references fail to resolve during build in VS Code SQL Database Projects",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "praha-amvm",
+    "closedAt": "2026-02-11T21:04:18Z",
+    "createdAt": "2026-02-11T11:51:51Z",
+    "number": 21162,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21162",
+    "title": "[Bug]: mssql extension v1.39.0 not activating in VS Code",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "ByteJuggler",
+    "closedAt": null,
+    "createdAt": "2026-02-11T09:29:01Z",
+    "number": 21161,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21161",
+    "title": "[Bug]: An error occurred while retrieving rows: Byte array for Guid must be exactly 16 bytes long.",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "AdamHolmstrom",
+    "closedAt": "2026-02-11T21:02:28Z",
+    "createdAt": "2026-02-11T09:12:42Z",
+    "number": 21160,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21160",
+    "title": "[Bug]: Go to definition - \"No definition found for [object]\"",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "jasonhorner",
+    "closedAt": "2026-02-11T21:07:52Z",
     "createdAt": "2026-02-11T00:12:57Z",
     "number": 21157,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21157",
     "title": "[Feature Request]: Publish SQL Database Projects Extension to Open VSX Registry",
     "areas": [],
@@ -12,8 +82,8 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0
+    "totalReactions": 6,
+    "commentCount": 2
   },
   {
     "author": "keith-oak",
@@ -23,13 +93,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21156",
     "title": "[Bug]: SQL Database Projects generates invalid all-zeros ProjectGuid and modifies files without consent",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -58,13 +131,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21149",
     "title": "[Feature Request]: Support external configuration file for (connection) settings (`mssql.configPath`)",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "TLuquet-MAG",
@@ -78,11 +154,12 @@
       "GitHub Copilot"
     ],
     "priority": -1,
-    "type": "Both Bug and Feature",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "markalroberts",
@@ -92,13 +169,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21146",
     "title": "[Bug]: Cannot open Query History query",
-    "areas": [],
+    "areas": [
+      "Query History"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "TheGongoDev82",
@@ -108,13 +188,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21145",
     "title": "[Bug]: SQL Database Project: duplicate creation of constraints",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "joelmansford",
@@ -124,13 +207,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21144",
     "title": "[Feature Request]: Make Schema Compare .scmp files portable (relative paths, connection profiles, team‑friendly)",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "unlock21",
@@ -140,13 +226,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21132",
     "title": "Table Designer - Publish Changes Missing Recrating Default Constraints",
-    "areas": [],
+    "areas": [
+      "Table Designer"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "unlock21",
@@ -156,13 +245,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21130",
     "title": "[Feature Request]: Modify Table - Display Connected Database",
-    "areas": [],
+    "areas": [
+      "Table Designer"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "samgusick",
@@ -172,13 +264,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21127",
     "title": "[Bug]: Query won't execute if the workspace path has illegal characters",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "samgusick",
@@ -280,13 +375,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21109",
     "title": "[Feature Request]: Setting to Not Open Output File in Editor when Save as CSV",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "FraHolt",
@@ -422,10 +520,10 @@
   },
   {
     "author": "app/",
-    "closedAt": null,
+    "closedAt": "2026-02-11T21:29:26Z",
     "createdAt": "2026-02-03T14:59:53Z",
     "number": 21083,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21083",
     "title": "[Bug]: Fail to save results using excel",
     "areas": [],
@@ -434,7 +532,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "jasonhorner",
@@ -444,13 +542,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21081",
     "title": "Schema Compare: Populate Select Source database dropdown with listing from saved connections",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "jasonhorner",
@@ -460,20 +561,23 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21080",
     "title": "[Bug]: Schema Compare flags cross-database references using variables as code differences",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "himanshu-ram-punjabi",
-    "closedAt": null,
+    "closedAt": "2026-02-11T17:35:01Z",
     "createdAt": "2026-02-02T21:15:59Z",
     "number": 21079,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21079",
     "title": "[Bug]: Unresolved Reference to System Database",
     "areas": [
@@ -489,10 +593,10 @@
   },
   {
     "author": "birchadyne",
-    "closedAt": null,
+    "closedAt": "2026-02-11T21:23:16Z",
     "createdAt": "2026-02-02T21:08:42Z",
     "number": 21078,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21078",
     "title": "[Bug]: GO Reformattng",
     "areas": [
@@ -503,7 +607,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 2
   },
   {
     "author": "kburtram",
@@ -15986,7 +16090,7 @@
     "type": null,
     "hasArea": false,
     "hasType": false,
-    "totalReactions": 35,
+    "totalReactions": 36,
     "commentCount": 16
   },
   {
