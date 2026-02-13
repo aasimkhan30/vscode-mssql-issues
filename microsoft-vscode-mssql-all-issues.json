@@ -1,5 +1,21 @@
 [
   {
+    "author": "cjohnsto-nz",
+    "closedAt": null,
+    "createdAt": "2026-02-12T23:52:35Z",
+    "number": 21190,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21190",
+    "title": "[Bug]: SQL Database Project persistently asks if User wants to create a PublishProfile after deploy, even if one was used.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "AdH-GW",
     "closedAt": null,
     "createdAt": "2026-02-11T16:06:28Z",
@@ -32,7 +48,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "ByteJuggler",
@@ -106,10 +122,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-02-12T22:17:52Z",
     "createdAt": "2026-02-10T20:00:26Z",
     "number": 21152,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21152",
     "title": "[Bug]: Error when moving a .sql file from within a folder to the root of the project",
     "areas": [
@@ -1290,7 +1306,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "martinzrrl",
@@ -4122,7 +4138,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "lewis-sanchez",
@@ -4920,7 +4936,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 7,
+    "totalReactions": 8,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -9027,7 +9043,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 1,
     "milestone": "February 2026 Release"
   },
