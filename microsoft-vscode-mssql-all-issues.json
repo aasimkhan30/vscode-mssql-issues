@@ -2,6 +2,39 @@
   {
     "author": "allancascante",
     "closedAt": null,
+    "createdAt": "2026-02-17T23:34:26Z",
+    "number": 21220,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21220",
+    "title": "[Bug]: Add preview to profiler labels",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "samgusick",
+    "closedAt": null,
+    "createdAt": "2026-02-17T22:05:26Z",
+    "number": 21217,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21217",
+    "title": "[Bug]: Random SQLToolsService crash (Usually seen after hours of use)",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "allancascante",
+    "closedAt": null,
     "createdAt": "2026-02-13T22:58:37Z",
     "number": 21201,
     "state": "OPEN",
@@ -817,7 +850,7 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0,
     "milestone": "February 2026 Release"
   },
@@ -1225,10 +1258,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-02-18T00:51:07Z",
     "createdAt": "2026-01-20T20:46:34Z",
     "number": 20941,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20941",
     "title": "[Task]: Remove ARM detection and blocking logic for SQL Server 2025 containers",
     "areas": [
@@ -2895,10 +2928,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-02-17T19:41:19Z",
     "createdAt": "2025-11-20T16:45:49Z",
     "number": 20643,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20643",
     "title": "[Bug]: Styling of selected NULL cell block is inconsistent with other cells",
     "areas": [
@@ -6535,10 +6568,10 @@
   },
   {
     "author": "jasperkpi",
-    "closedAt": null,
+    "closedAt": "2026-02-17T20:02:10Z",
     "createdAt": "2025-09-02T12:18:07Z",
     "number": 20055,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20055",
     "title": "[Feature Request]: Add \"Database Explorer\" to list, search and script objects from OE",
     "areas": [
@@ -6549,7 +6582,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 11,
-    "commentCount": 9,
+    "commentCount": 10,
     "milestone": "February 2026 Release"
   },
   {
@@ -6767,7 +6800,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "SPerremans",
@@ -7016,8 +7049,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "February 2026 Release"
+    "commentCount": 1,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "fmms",
