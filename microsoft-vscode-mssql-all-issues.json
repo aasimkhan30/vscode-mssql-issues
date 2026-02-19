@@ -1,10 +1,221 @@
 [
   {
-    "author": "allancascante",
+    "author": "Benjin",
     "closedAt": null,
+    "createdAt": "2026-02-19T00:05:26Z",
+    "number": 21254,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21254",
+    "title": "[Task] Minor context menu organization for Feb features",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-18T22:53:56Z",
+    "number": 21252,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21252",
+    "title": "[Bug]: Connecting to Fabric SQL instance in browser gives token error",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-02-18T20:55:50Z",
+    "number": 21246,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21246",
+    "title": "[Bug]: Flat File Import Database field should default correctly",
+    "areas": [
+      "Flat File Import"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": "2026-02-18T22:01:19Z",
+    "createdAt": "2026-02-18T20:40:10Z",
+    "number": 21244,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21244",
+    "title": "[Bug]: Changes in state provider exposing failing null checks.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-02-18T20:32:20Z",
+    "number": 21243,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21243",
+    "title": "[Feature Request]: Add Export dialog",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": "2026-02-18T20:32:42Z",
+    "createdAt": "2026-02-18T20:30:57Z",
+    "number": 21242,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21242",
+    "title": "[Feature Request]: Add Flat File Import",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-18T19:50:33Z",
+    "number": 21237,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21237",
+    "title": "[Bug]: Restore Target Database should be editable",
+    "areas": [
+      "Backup/Restore"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": "2026-02-19T00:32:34Z",
+    "createdAt": "2026-02-18T19:19:07Z",
+    "number": 21235,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21235",
+    "title": "[Bug]: Table Designer is failing to load",
+    "areas": [
+      "Table Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 3,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-02-18T23:06:41Z",
+    "createdAt": "2026-02-18T18:19:50Z",
+    "number": 21233,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21233",
+    "title": "[Bug]: Database Management keymap Ctrl+N should be `mssql.newQuery` instead of `mssql.objectExplorerNewQuery`",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-02-18T17:39:34Z",
+    "number": 21231,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21231",
+    "title": "Update keymap download target",
+    "areas": [
+      "Migration tool"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "SachiShrestha-bot",
+    "closedAt": "2026-02-18T16:31:23Z",
+    "createdAt": "2026-02-18T16:20:09Z",
+    "number": 21230,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21230",
+    "title": "[Bug]: VS code lags a lot when running simple queries while using azure synapse analytics",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "MirkoFerioli",
+    "closedAt": null,
+    "createdAt": "2026-02-18T07:05:05Z",
+    "number": 21227,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21227",
+    "title": "[Feature Request]: debug step by step",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "allancascante",
+    "closedAt": "2026-02-18T20:41:42Z",
     "createdAt": "2026-02-17T23:34:26Z",
     "number": 21220,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21220",
     "title": "[Bug]: Add preview to profiler labels",
     "areas": [],
@@ -24,10 +235,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21217",
     "title": "[Bug]: Random SQLToolsService crash (Usually seen after hours of use)",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -46,7 +259,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -198,7 +412,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -356,10 +570,10 @@
   },
   {
     "author": "samgusick",
-    "closedAt": null,
+    "closedAt": "2026-02-18T18:50:15Z",
     "createdAt": "2026-02-09T19:57:32Z",
     "number": 21127,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21127",
     "title": "[Bug]: Query won't execute if the workspace path has illegal characters",
     "areas": [
@@ -506,10 +720,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-02-18T20:28:46Z",
     "createdAt": "2026-02-04T02:15:35Z",
     "number": 21095,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21095",
     "title": "[Feature Request]: Improve SQL Profiler Filter UX with Inline Column Filters",
     "areas": [
@@ -525,10 +739,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-02-18T20:28:22Z",
     "createdAt": "2026-02-04T01:50:57Z",
     "number": 21094,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21094",
     "title": "[Bug]: SQL Profiler Event Details Panel Opens in VS Code Panel Instead of Webview",
     "areas": [
@@ -559,7 +773,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "lewis-sanchez",
@@ -594,8 +808,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
-    "milestone": "February 2026 Release"
+    "commentCount": 4,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "kburtram",
@@ -779,7 +993,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "tanselmi-appliedsurety",
@@ -852,7 +1066,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "gbrueckl",
@@ -907,7 +1121,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "elefA",
@@ -1058,10 +1272,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-02-18T20:29:25Z",
     "createdAt": "2026-01-21T22:06:58Z",
     "number": 20966,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20966",
     "title": "[Feature Request]: Add Restore functionality",
     "areas": [
@@ -1077,10 +1291,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-02-18T20:29:31Z",
     "createdAt": "2026-01-21T22:05:15Z",
     "number": 20965,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20965",
     "title": "[Feature Request]: Add Backup Database functionality",
     "areas": [
@@ -1197,7 +1411,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "Benjin",
@@ -1311,7 +1525,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "Benjin",
@@ -1518,7 +1732,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -1643,12 +1857,12 @@
       "Schema Designer"
     ],
     "priority": -1,
-    "type": "Bug",
+    "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "reubster",
@@ -2043,7 +2257,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "Prefix42",
@@ -2115,7 +2329,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "dzsquared",
@@ -2595,7 +2809,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "nathanweil",
@@ -2962,7 +3176,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "February 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "nathanhicktonwork",
@@ -3019,7 +3233,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "sspringer",
@@ -3089,7 +3303,7 @@
     "hasType": true,
     "totalReactions": 5,
     "commentCount": 6,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "shapeseas",
@@ -5003,7 +5217,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "laurenastrid1",
@@ -6296,7 +6510,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -7617,7 +7831,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 5,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "jasonhorner",
@@ -9112,10 +9326,10 @@
   },
   {
     "author": "jasonhorner",
-    "closedAt": null,
+    "closedAt": "2026-02-18T23:06:38Z",
     "createdAt": "2025-06-13T04:45:45Z",
     "number": 19601,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19601",
     "title": "[Feature Request]: Enhance the tenant selection dropdown",
     "areas": [
@@ -9126,7 +9340,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "February 2026 Release"
   },
   {
@@ -9556,7 +9770,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 4,
-    "milestone": "February 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "bujocek",
@@ -10154,10 +10368,10 @@
   },
   {
     "author": "alonisoft",
-    "closedAt": null,
+    "closedAt": "2026-02-18T20:33:43Z",
     "createdAt": "2025-05-20T12:37:38Z",
     "number": 19464,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19464",
     "title": "[Feature Request]: Import and Export wizard like we have in ms sql managment studio",
     "areas": [
@@ -10168,7 +10382,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 4,
-    "commentCount": 2,
+    "commentCount": 5,
     "milestone": "February 2026 Release"
   },
   {
@@ -13944,7 +14158,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 12,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -16814,10 +17028,10 @@
   },
   {
     "author": "semics-tech",
-    "closedAt": null,
+    "closedAt": "2026-02-18T20:29:39Z",
     "createdAt": "2025-02-10T08:34:45Z",
     "number": 18639,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18639",
     "title": "[Feature Request]: Add Backup and Restore Database Functionality",
     "areas": [
