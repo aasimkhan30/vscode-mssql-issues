@@ -1,10 +1,220 @@
 [
   {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-02-19T22:40:46Z",
+    "number": 21280,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21280",
+    "title": "[Bug]: Revert to old schema designer toolbar.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "allancascante",
+    "closedAt": null,
+    "createdAt": "2026-02-19T22:36:02Z",
+    "number": 21279,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21279",
+    "title": "[Feature Request]: Rename Profiler to Query Profiler",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
     "author": "Benjin",
     "closedAt": null,
+    "createdAt": "2026-02-19T22:00:24Z",
+    "number": 21277,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21277",
+    "title": "Changelog updates for 1.40.0",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-19T21:58:32Z",
+    "number": 21276,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21276",
+    "title": "[Bug]: Resizing the text panel up/down causes the grid size to get locked",
+    "areas": [
+      "Profiler"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-02-19T21:54:02Z",
+    "number": 21275,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21275",
+    "title": "[Bug]: Changelog page doesn't scroll all the way down at different zoom levels",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-19T21:45:50Z",
+    "number": 21274,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21274",
+    "title": "[Bug]: Query Profiler grid doesn't properly support multi-cell select",
+    "areas": [
+      "Profiler"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-02-19T18:37:10Z",
+    "number": 21269,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21269",
+    "title": "[Bug]: Backup Database default backup name should include backup type",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": "2026-02-19T18:52:17Z",
+    "createdAt": "2026-02-19T16:59:17Z",
+    "number": 21264,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21264",
+    "title": "[Bug]: Query results open in tab is broken.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "philipp-barnau",
+    "closedAt": null,
+    "createdAt": "2026-02-19T16:51:46Z",
+    "number": 21263,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21263",
+    "title": "[Bug]: 'Save as CSV' has no line brakes",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Ndu3000",
+    "closedAt": null,
+    "createdAt": "2026-02-19T12:00:59Z",
+    "number": 21262,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21262",
+    "title": "Inconsistent behavior in working",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-19T03:18:44Z",
+    "number": 21260,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21260",
+    "title": "[Bug]: Global Search object list should sort by default",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-19T02:39:05Z",
+    "number": 21258,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21258",
+    "title": "[Bug]: Backup dialog fails to load on Azure SQL",
+    "areas": [
+      "Backup/Restore"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-02-19T19:56:50Z",
     "createdAt": "2026-02-19T00:05:26Z",
     "number": 21254,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21254",
     "title": "[Task] Minor context menu organization for Feb features",
     "areas": [],
@@ -13,7 +223,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
   },
   {
     "author": "kburtram",
@@ -106,10 +317,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-02-19T23:59:47Z",
     "createdAt": "2026-02-18T19:50:33Z",
     "number": 21237,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21237",
     "title": "[Bug]: Restore Target Database should be editable",
     "areas": [
@@ -120,7 +331,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "February 2026 Release"
   },
   {
@@ -175,7 +386,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "February 2026 Release"
   },
   {
@@ -3562,7 +3773,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -6509,7 +6720,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "March 2026 Release"
   },
   {
@@ -6956,7 +7167,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "April 2026 Release"
   },
   {
@@ -7281,7 +7492,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 7,
     "milestone": "April 2026 Release"
   },
@@ -14158,7 +14369,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 12,
-    "commentCount": 5,
+    "commentCount": 7,
     "milestone": "Backlog"
   },
   {
