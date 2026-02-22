@@ -20,10 +20,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": "2026-02-20T23:29:37Z",
+    "closedAt": null,
     "createdAt": "2026-02-20T22:45:36Z",
     "number": 21300,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21300",
     "title": "[Bug]: Server level create database",
     "areas": [],

@@ -1,6 +1,6 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
 "21301","[Bug]: New database option is missing from context menu at Instance level","croblesm","OPEN","2026-02-20T22:56:50Z",,"Object Explorer","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21301","0","-1","February 2026 Release"
-"21300","[Bug]: Server level create database","aasimkhan30","CLOSED","2026-02-20T22:45:36Z","2026-02-20T23:29:37Z","","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21300","0","-1","February 2026 Release"
+"21300","[Bug]: Server level create database","aasimkhan30","OPEN","2026-02-20T22:45:36Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21300","0","-1","February 2026 Release"
 "21295","[Bug]: Browse Azure not loading resource groups, locations, or servers","amthomas46","OPEN","2026-02-20T21:26:56Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21295","0","-1",
 "21280","[Bug]: Revert to old schema designer toolbar.","aasimkhan30","CLOSED","2026-02-19T22:40:46Z","2026-02-20T17:54:29Z","","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21280","0","-1","February 2026 Release"
 "21279","[Feature Request]: Rename Profiler to Query Profiler","allancascante","CLOSED","2026-02-19T22:36:02Z","2026-02-20T17:54:42Z","","Feature Request","1","https://github.com/microsoft/vscode-mssql/issues/21279","0","-1","February 2026 Release"
