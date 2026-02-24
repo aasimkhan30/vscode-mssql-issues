@@ -1,10 +1,29 @@
 [
   {
-    "author": "croblesm",
+    "author": "kburtram",
     "closedAt": null,
+    "createdAt": "2026-02-23T16:33:49Z",
+    "number": 21310,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21310",
+    "title": "Review light grey colors in query results grid",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2026-02-23T09:40:36Z",
     "createdAt": "2026-02-20T22:56:50Z",
     "number": 21301,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21301",
     "title": "[Bug]: New database option is missing from context menu at Instance level",
     "areas": [
@@ -20,10 +39,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-02-23T09:40:44Z",
     "createdAt": "2026-02-20T22:45:36Z",
     "number": 21300,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21300",
     "title": "[Bug]: Server level create database",
     "areas": [],
@@ -43,13 +62,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21295",
     "title": "[Bug]: Browse Azure not loading resource groups, locations, or servers",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -246,10 +268,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-02-23T22:08:42Z",
     "createdAt": "2026-02-19T02:39:05Z",
     "number": 21258,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21258",
     "title": "[Bug]: Backup dialog fails to load on Azure SQL",
     "areas": [
@@ -301,10 +323,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-02-23T22:08:51Z",
     "createdAt": "2026-02-18T20:55:50Z",
     "number": 21246,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21246",
     "title": "[Bug]: Flat File Import Database field should default correctly",
     "areas": [
@@ -440,7 +462,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "February 2026 Release"
   },
   {
@@ -541,7 +563,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "March 2026 Release"
   },
   {
@@ -10334,7 +10356,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -25131,7 +25153,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 5,
+    "totalReactions": 6,
     "commentCount": 6,
     "milestone": "Backlog"
   },
