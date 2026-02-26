@@ -1,5 +1,140 @@
 [
   {
+    "author": "Michael9094",
+    "closedAt": null,
+    "createdAt": "2026-02-26T00:10:02Z",
+    "number": 21356,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21356",
+    "title": "[Bug]: \"MS SQL: Add Microsoft Entra Account\" hangs on localhost callback and fails token redemption with ClientAuthError: network_error (macOS arm64, VS Code 1.109.5)",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-02-25T23:41:50Z",
+    "number": 21354,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21354",
+    "title": "[Bug]: Rename database fails if other connections are open, should prompt to terminate other connections",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-02-25T21:14:29Z",
+    "createdAt": "2026-02-25T17:30:07Z",
+    "number": 21347,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21347",
+    "title": "[Bug]: Typos in 1.40 release",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "February 2026 Release"
+  },
+  {
+    "author": "areed1192",
+    "closedAt": null,
+    "createdAt": "2026-02-25T15:17:13Z",
+    "number": 21344,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21344",
+    "title": "[Bug]: Schema Compare - Deselected Items Remain Selected / Delayed UI Response",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kzendra",
+    "closedAt": null,
+    "createdAt": "2026-02-25T12:30:14Z",
+    "number": 21343,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21343",
+    "title": "[Bug]: Save results as JSON issues with decimal number",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-25T01:53:16Z",
+    "number": 21341,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21341",
+    "title": "[Bug]: Double-clicking a BAK item in the Select a file dialog doesn't choose it",
+    "areas": [
+      "Backup/Restore"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-25T01:32:54Z",
+    "number": 21340,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21340",
+    "title": "[Bug]: Loading restore plan spins indefinitely",
+    "areas": [
+      "Backup/Restore"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-25T01:20:35Z",
+    "number": 21338,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21338",
+    "title": "[Bug]: Simple notebook query gets triple scrollbars",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "kburtram",
     "closedAt": null,
     "createdAt": "2026-02-25T01:00:19Z",
@@ -106,13 +241,15 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21327",
     "title": "[Bug]: Connection keeps being treated as a container connection",
-    "areas": [],
+    "areas": [
+      "Local container"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 2
   },
   {
     "author": "kburtram",
@@ -296,10 +433,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-02-25T19:55:40Z",
     "createdAt": "2026-02-19T18:37:10Z",
     "number": 21269,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21269",
     "title": "[Bug]: Backup Database default backup name should include backup type",
     "areas": [
@@ -373,13 +510,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21260",
     "title": "[Bug]: Global Search object list should sort by default",
-    "areas": [],
+    "areas": [
+      "Object Search"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "kburtram",
@@ -598,10 +738,10 @@
   },
   {
     "author": "MirkoFerioli",
-    "closedAt": null,
+    "closedAt": "2026-02-25T22:33:08Z",
     "createdAt": "2026-02-18T07:05:05Z",
     "number": 21227,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21227",
     "title": "[Feature Request]: debug step by step",
     "areas": [],
@@ -610,7 +750,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "allancascante",
@@ -645,7 +786,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "allancascante",
@@ -714,7 +856,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "AdH-GW",
