@@ -1,5 +1,281 @@
 [
   {
+    "author": "willgart",
+    "closedAt": null,
+    "createdAt": "2026-02-27T20:02:02Z",
+    "number": 21390,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21390",
+    "title": "[Bug]: a database with a \"Security\" schema name breaks the tree view",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "diegojuc",
+    "closedAt": null,
+    "createdAt": "2026-02-27T18:10:01Z",
+    "number": 21387,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21387",
+    "title": "[Bug]: Exported INSERT statements use placeholder \"TableName\" instead of actual table name",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-02-27T18:01:44Z",
+    "number": 21386,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21386",
+    "title": "[Bug]: MSSQL extension (ms-mssql.mssql) relies on post-install SqlToolsService download during activation",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-02-27T17:43:42Z",
+    "number": 21385,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21385",
+    "title": "[Bug]: SQL Database Projects extension should not require NuGet access at build time",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "checkmate14673-sys",
+    "closedAt": "2026-02-27T16:56:28Z",
+    "createdAt": "2026-02-27T06:55:05Z",
+    "number": 21383,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21383",
+    "title": "error",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-27T00:16:52Z",
+    "number": 21378,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21378",
+    "title": "[Bug]: Text selection in the query messages window doesn't work for long outputs",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-26T22:45:49Z",
+    "number": 21374,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21374",
+    "title": "[Bug]: SQL Notebook messages and row count UI overlap",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-02-26T22:42:58Z",
+    "number": 21373,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21373",
+    "title": "[Bug]: SQL Notebook output is truncated to 50 rows without any warning",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "wghwgh",
+    "closedAt": "2026-02-26T17:57:24Z",
+    "createdAt": "2026-02-26T17:49:36Z",
+    "number": 21368,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21368",
+    "title": "[Bug]: Why is SQLCON banner included in release changelog?",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "semics-tech",
+    "closedAt": null,
+    "createdAt": "2026-02-26T17:42:11Z",
+    "number": 21367,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21367",
+    "title": "[Bug]: Backup default name is invalid on windows",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": "2026-02-27T16:52:41Z",
+    "createdAt": "2026-02-26T17:28:48Z",
+    "number": 21366,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21366",
+    "title": "[Bug]: Query History clears after we close vscode",
+    "areas": [
+      "Query History"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-02-26T17:23:37Z",
+    "number": 21365,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21365",
+    "title": "[Bug]: Last column on results grid cannot be resized correctly.",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ashleypace00",
+    "closedAt": "2026-02-26T16:07:19Z",
+    "createdAt": "2026-02-26T14:42:10Z",
+    "number": 21363,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21363",
+    "title": "[Bug]: Query results grid - null values with purple or light yellow background",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "Thallerich",
+    "closedAt": "2026-02-27T01:07:32Z",
+    "createdAt": "2026-02-26T13:58:23Z",
+    "number": 21362,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21362",
+    "title": "[Bug]: MSSQL Database Management Keymap Extension - Win+Shift+R shortcut is used by snipping tool",
+    "areas": [
+      "Shell"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "jsantos-iplus",
+    "closedAt": null,
+    "createdAt": "2026-02-26T13:37:21Z",
+    "number": 21361,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21361",
+    "title": "[Bug]: MSSQL extension hangs after query execution, blocking subsequent runs; requires \"Reload Window\"",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 8,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "Prefix42",
+    "closedAt": null,
+    "createdAt": "2026-02-26T01:18:08Z",
+    "number": 21357,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21357",
+    "title": "[Bug]: Missing Microsoft.Build.Sql.2.0.0 and Microsoft.SqlServer.TransactSql.ScriptDom.170.128.0",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 3
+  },
+  {
     "author": "Michael9094",
     "closedAt": null,
     "createdAt": "2026-02-26T00:10:02Z",
@@ -102,10 +378,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-02-27T19:13:20Z",
     "createdAt": "2026-02-25T01:32:54Z",
     "number": 21340,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21340",
     "title": "[Bug]: Loading restore plan spins indefinitely",
     "areas": [
@@ -126,13 +402,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21338",
     "title": "[Bug]: Simple notebook query gets triple scrollbars",
-    "areas": [],
+    "areas": [
+      "SQL Notebook"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "kburtram",
@@ -142,13 +421,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21337",
     "title": "[Bug]: Query execution shortcut doesn't work properly in notebook cell",
-    "areas": [],
+    "areas": [
+      "SQL Notebook"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "kburtram",
@@ -158,29 +440,35 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21336",
     "title": "[Bug]: Notebook codelen is showing connected but execution prompts for kernel",
-    "areas": [],
+    "areas": [
+      "SQL Notebook"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-02-27T22:40:05Z",
     "createdAt": "2026-02-25T00:12:20Z",
     "number": 21335,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21335",
     "title": "[Bug]: Failed connection doesn't put error in notification message",
-    "areas": [],
+    "areas": [
+      "SQL Notebook"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "kburtram",
@@ -190,13 +478,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21334",
     "title": "[Bug]: Notebook has two connect buttons and one doesn't work",
-    "areas": [],
+    "areas": [
+      "SQL Notebook"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "kburtram",
@@ -206,13 +497,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21333",
     "title": "[Bug]: SQL Notebook can only connect to a saved connection profile",
-    "areas": [],
+    "areas": [
+      "SQL Notebook"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "kburtram",
@@ -248,7 +542,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 2
   },
   {
@@ -960,7 +1254,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -1248,10 +1542,10 @@
   },
   {
     "author": "FraHolt",
-    "closedAt": null,
+    "closedAt": "2026-02-27T20:49:09Z",
     "createdAt": "2026-02-05T15:39:03Z",
     "number": 21102,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21102",
     "title": "Connection lost after saving",
     "areas": [
@@ -2134,10 +2428,10 @@
   },
   {
     "author": "martinzrrl",
-    "closedAt": null,
+    "closedAt": "2026-02-27T17:30:51Z",
     "createdAt": "2026-01-19T21:37:40Z",
     "number": 20927,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20927",
     "title": "[Feature Request]: Cached authentication with SSO",
     "areas": [
@@ -2149,7 +2443,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "March 2026 Release"
   },
   {
@@ -4166,7 +4460,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -5205,8 +5499,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
-    "milestone": "Backlog"
+    "commentCount": 2,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -5769,10 +6063,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-02-27T23:17:53Z",
     "createdAt": "2025-10-22T18:19:28Z",
     "number": 20337,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20337",
     "title": "[Feature Request]: Add support for SQL Server 2025 containers on ARM architecture",
     "areas": [],
@@ -5781,7 +6075,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 8,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -7344,7 +7638,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 11,
-    "commentCount": 10,
+    "commentCount": 11,
     "milestone": "February 2026 Release"
   },
   {
@@ -8360,7 +8654,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "March 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Epivaral",
@@ -17682,10 +17976,10 @@
   },
   {
     "author": "PureKrome",
-    "closedAt": null,
+    "closedAt": "2026-02-27T23:21:06Z",
     "createdAt": "2025-02-06T22:33:15Z",
     "number": 18630,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18630",
     "title": "[Feature Request]: SQL Profiler",
     "areas": [
@@ -17696,7 +17990,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 115,
-    "commentCount": 23,
+    "commentCount": 24,
     "milestone": "March 2026 Release"
   },
   {
