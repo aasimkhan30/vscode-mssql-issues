@@ -1,5 +1,21 @@
 [
   {
+    "author": "lightinen",
+    "closedAt": null,
+    "createdAt": "2026-02-28T12:11:52Z",
+    "number": 21400,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21400",
+    "title": "[Bug]: Sql server profiler StartTime column shows \"Invalid Date\"",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "willgart",
     "closedAt": null,
     "createdAt": "2026-02-27T20:02:02Z",
@@ -616,7 +632,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "March 2026 Release"
   },
   {
@@ -775,7 +791,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "Ndu3000",
@@ -1085,10 +1101,10 @@
   },
   {
     "author": "allancascante",
-    "closedAt": null,
+    "closedAt": "2026-02-28T01:21:53Z",
     "createdAt": "2026-02-13T22:58:37Z",
     "number": 21201,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21201",
     "title": "[Bug]: FilteredBuffer improvements",
     "areas": [],
