@@ -23,20 +23,23 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21390",
     "title": "[Bug]: a database with a \"Security\" schema name breaks the tree view",
-    "areas": [],
+    "areas": [
+      "Object Explorer"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "diegojuc",
-    "closedAt": null,
+    "closedAt": "2026-03-01T21:20:33Z",
     "createdAt": "2026-02-27T18:10:01Z",
     "number": 21387,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21387",
     "title": "[Bug]: Exported INSERT statements use placeholder \"TableName\" instead of actual table name",
     "areas": [],
@@ -45,7 +48,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "ssreerama",
@@ -219,7 +222,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "ashleypace00",
@@ -354,7 +358,7 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -1384,7 +1388,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 1,
     "milestone": "Backlog"
   },
@@ -7870,7 +7874,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 2,
     "milestone": "March 2026 Release"
   },
