@@ -1,5 +1,120 @@
 [
   {
+    "author": "LicenseProliferation",
+    "closedAt": null,
+    "createdAt": "2026-03-02T20:29:40Z",
+    "number": 21416,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21416",
+    "title": "[Feature Request]: License not detected by GitHub",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "amthomas46",
+    "closedAt": null,
+    "createdAt": "2026-03-02T19:03:39Z",
+    "number": 21414,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21414",
+    "title": "[Bug]: Extract dacpac not working for Azure SQL Database database specific connection",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-03-02T18:13:10Z",
+    "number": 21412,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21412",
+    "title": "[Bug]: Ensure correct NuGet/DLL version is used when skipping download",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "blackmaff",
+    "closedAt": null,
+    "createdAt": "2026-03-02T15:35:29Z",
+    "number": 21409,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21409",
+    "title": "[Bug]: Flat File Import not finding Table Schema",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jkubecki",
+    "closedAt": null,
+    "createdAt": "2026-03-02T13:59:46Z",
+    "number": 21408,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21408",
+    "title": "[Bug]: Query Results Always Sort Case-Sensitive",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ProHumanisRB",
+    "closedAt": null,
+    "createdAt": "2026-03-02T10:41:39Z",
+    "number": 21407,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21407",
+    "title": "[Bug]: Missing little \"x\" symbol in icon of disabled triggers",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Nikolai5",
+    "closedAt": null,
+    "createdAt": "2026-03-02T09:44:02Z",
+    "number": 21406,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21406",
+    "title": "[Bug]: Command Pallet - 'Manage Connection Profiles -> Edit opens' the setting module",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "lightinen",
     "closedAt": null,
     "createdAt": "2026-02-28T12:11:52Z",
@@ -13,7 +128,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "willgart",
@@ -276,7 +391,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 8,
+    "commentCount": 15,
     "milestone": "March 2026 Release"
   },
   {
@@ -303,10 +418,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21356",
     "title": "[Bug]: \"MS SQL: Add Microsoft Entra Account\" hangs on localhost callback and fails token redemption with ClientAuthError: network_error (macOS arm64, VS Code 1.109.5)",
-    "areas": [],
+    "areas": [
+      "Azure"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1
@@ -369,20 +486,22 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21343",
     "title": "[Bug]: Save results as JSON issues with decimal number",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-02T20:42:23Z",
     "createdAt": "2026-02-25T01:53:16Z",
     "number": 21341,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21341",
     "title": "[Bug]: Double-clicking a BAK item in the Select a file dialog doesn't choose it",
     "areas": [
@@ -549,10 +668,10 @@
   },
   {
     "author": "acgritt",
-    "closedAt": null,
+    "closedAt": "2026-03-02T14:09:06Z",
     "createdAt": "2026-02-24T15:16:29Z",
     "number": 21327,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21327",
     "title": "[Bug]: Connection keeps being treated as a container connection",
     "areas": [
@@ -563,7 +682,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2
+    "commentCount": 3
   },
   {
     "author": "kburtram",
@@ -581,7 +700,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 6,
     "milestone": "April 2026 Release"
   },
   {
@@ -783,19 +902,21 @@
   },
   {
     "author": "philipp-barnau",
-    "closedAt": null,
+    "closedAt": "2026-03-02T08:01:33Z",
     "createdAt": "2026-02-19T16:51:46Z",
     "number": 21263,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21263",
     "title": "[Bug]: 'Save as CSV' has no line brakes",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "Ndu3000",
@@ -1100,7 +1221,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -1224,7 +1345,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -2468,10 +2589,10 @@
   },
   {
     "author": "martinzrrl",
-    "closedAt": null,
+    "closedAt": "2026-03-02T07:16:12Z",
     "createdAt": "2026-01-19T21:26:35Z",
     "number": 20926,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20926",
     "title": "[Feature Request]: side-by-side comparison of two result windows",
     "areas": [
@@ -2482,7 +2603,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -3027,7 +3148,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "January 2026 Release"
   },
   {
@@ -4587,7 +4708,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "November 2025 Release"
   },
   {
@@ -35217,7 +35338,7 @@
     "commentCount": 1
   },
   {
-    "author": "jaybproductions",
+    "author": "chrisblair0827",
     "closedAt": "2019-09-13T22:31:51Z",
     "createdAt": "2019-07-02T05:54:03Z",
     "number": 1255,
