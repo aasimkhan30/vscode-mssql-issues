@@ -1,10 +1,42 @@
 [
   {
-    "author": "LicenseProliferation",
+    "author": "MegaNeal",
     "closedAt": null,
+    "createdAt": "2026-03-03T21:14:22Z",
+    "number": 21430,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21430",
+    "title": "[Bug]: Query execution gets hung on \"getting definition...\"",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
+    "author": "vickerymark",
+    "closedAt": "2026-03-03T18:58:49Z",
+    "createdAt": "2026-03-03T04:34:33Z",
+    "number": 21422,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21422",
+    "title": "[Bug]: Import Flat File Import not supported on Darwin",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "LicenseProliferation",
+    "closedAt": "2026-03-03T21:05:27Z",
     "createdAt": "2026-03-02T20:29:40Z",
     "number": 21416,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21416",
     "title": "[Feature Request]: License not detected by GitHub",
     "areas": [],
@@ -13,7 +45,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "amthomas46",
@@ -64,7 +96,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 2
   },
   {
     "author": "jkubecki",
@@ -122,10 +154,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21400",
     "title": "[Bug]: Sql server profiler StartTime column shows \"Invalid Date\"",
-    "areas": [],
+    "areas": [
+      "Query Profiler"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1
@@ -289,10 +323,10 @@
   },
   {
     "author": "semics-tech",
-    "closedAt": null,
+    "closedAt": "2026-03-03T20:36:21Z",
     "createdAt": "2026-02-26T17:42:11Z",
     "number": 21367,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21367",
     "title": "[Bug]: Backup default name is invalid on windows",
     "areas": [],
@@ -391,7 +425,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 15,
+    "commentCount": 20,
     "milestone": "March 2026 Release"
   },
   {
@@ -426,7 +460,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "Benjin",
@@ -741,10 +776,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2026-03-03T21:15:20Z",
     "createdAt": "2026-02-20T21:26:56Z",
     "number": 21295,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21295",
     "title": "[Bug]: Browse Azure not loading resource groups, locations, or servers",
     "areas": [
@@ -755,7 +790,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "March 2026 Release"
   },
   {
@@ -817,12 +852,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21276",
     "title": "[Bug]: Resizing the text panel up/down causes the grid size to get locked",
-    "areas": [
-      "Profiler"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Bug",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
@@ -853,12 +886,10 @@
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21274",
     "title": "[Bug]: Query Profiler grid doesn't properly support multi-cell select",
-    "areas": [
-      "Profiler"
-    ],
+    "areas": [],
     "priority": -1,
     "type": "Bug",
-    "hasArea": true,
+    "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
@@ -1595,7 +1626,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/21114",
     "title": "[Feature Request]: Create database selector util",
     "areas": [
-      "Profiler"
+      "Query Profiler"
     ],
     "priority": -1,
     "type": "Feature Request",
@@ -1710,7 +1741,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/21095",
     "title": "[Feature Request]: Improve SQL Profiler Filter UX with Inline Column Filters",
     "areas": [
-      "SQL Profiler"
+      "Query Profiler"
     ],
     "priority": -1,
     "type": "Feature Request",
@@ -1729,7 +1760,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/21094",
     "title": "[Bug]: SQL Profiler Event Details Panel Opens in VS Code Panel Instead of Webview",
     "areas": [
-      "SQL Profiler"
+      "Query Profiler"
     ],
     "priority": -1,
     "type": "Bug",
@@ -1748,7 +1779,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/21093",
     "title": "[Feature Request]: Enhanced Database-Level Profiler Launch with Automatic Filtering",
     "areas": [
-      "SQL Profiler"
+      "Query Profiler"
     ],
     "priority": -1,
     "type": "Feature Request",
@@ -1777,10 +1808,10 @@
   },
   {
     "author": "TjLuckyBastard",
-    "closedAt": null,
+    "closedAt": "2026-03-03T21:06:52Z",
     "createdAt": "2026-02-03T19:27:47Z",
     "number": 21089,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21089",
     "title": "[Bug]: Cannot resolve tree item for element",
     "areas": [
@@ -1791,7 +1822,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "March 2026 Release"
   },
   {
@@ -2948,7 +2979,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "March 2026 Release"
   },
   {
@@ -18124,7 +18155,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/18630",
     "title": "[Feature Request]: SQL Profiler",
     "areas": [
-      "SQL Profiler"
+      "Query Profiler"
     ],
     "priority": -1,
     "type": "Feature Request",
