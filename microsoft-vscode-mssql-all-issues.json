@@ -1,5 +1,228 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": "2026-03-04T23:45:39Z",
+    "createdAt": "2026-03-04T23:42:12Z",
+    "number": 21453,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21453",
+    "title": "[Bug]: Duplicated connection profile / database in status bar",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-04T23:34:37Z",
+    "number": 21452,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21452",
+    "title": "[Bug]: Unable to change connection profile using Code Lens",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "nlenzCSMI",
+    "closedAt": null,
+    "createdAt": "2026-03-04T19:31:35Z",
+    "number": 21448,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21448",
+    "title": "[GitHub Copilot - Bug | Feature request]:",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "jsantos-iplus",
+    "closedAt": null,
+    "createdAt": "2026-03-04T19:13:47Z",
+    "number": 21447,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21447",
+    "title": "[Feature Request]: Add option to include USE [database] header when scripting from \"Search Database Objects\"",
+    "areas": [
+      "Object Search"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "dzsquared",
+    "closedAt": null,
+    "createdAt": "2026-03-04T18:44:59Z",
+    "number": 21446,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21446",
+    "title": "[Bug]: Closing (saving) the code analysis settings steals terminal focus to \"output\" panel",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "dzsquared",
+    "closedAt": null,
+    "createdAt": "2026-03-04T18:39:42Z",
+    "number": 21445,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21445",
+    "title": "[Bug]: Checkboxes on individual rules can't be toggled",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "dzsquared",
+    "closedAt": null,
+    "createdAt": "2026-03-04T18:22:35Z",
+    "number": 21444,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21444",
+    "title": "[Bug]: New project results in sqlproj with blank SDK version",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "itallackpure",
+    "closedAt": null,
+    "createdAt": "2026-03-04T10:01:14Z",
+    "number": 21442,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21442",
+    "title": "[Bug]: Can't use flat file import with Entra authentication",
+    "areas": [
+      "Flat File Import"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 1
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-03-04T02:09:28Z",
+    "number": 21438,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21438",
+    "title": "[Feature Request]: Open Data API Builder Designer directly from GitHub Copilot chat",
+    "areas": [
+      "Schema Designer",
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-03-04T02:04:49Z",
+    "number": 21437,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21437",
+    "title": "[Feature Request]: Add Build Data API as new context menu entry point",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-03-04T01:52:08Z",
+    "number": 21436,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21436",
+    "title": "[Feature Request]: Copilot publish validation errors & 'fix error' button",
+    "areas": [
+      "Schema Designer",
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-03-04T01:47:40Z",
+    "number": 21435,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21435",
+    "title": "[Feature Request]: Notify or Merge when Schema Designer is stale due to concurrent edits",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
     "author": "MegaNeal",
     "closedAt": null,
     "createdAt": "2026-03-03T21:14:22Z",
@@ -7,10 +230,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21430",
     "title": "[Bug]: Query execution gets hung on \"getting definition...\"",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2
@@ -45,7 +270,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "amthomas46",
@@ -55,13 +280,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21414",
     "title": "[Bug]: Extract dacpac not working for Azure SQL Database database specific connection",
-    "areas": [],
+    "areas": [
+      "Dacpac Import/Export"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -106,13 +334,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21408",
     "title": "[Bug]: Query Results Always Sort Case-Sensitive",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
-    "type": "Bug",
-    "hasArea": false,
+    "type": "Feature Request",
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "ProHumanisRB",
@@ -278,12 +509,12 @@
     "areas": [
       "SQL Notebook"
     ],
-    "priority": -1,
+    "priority": 1,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "March 2026 Release"
   },
   {
@@ -297,12 +528,12 @@
     "areas": [
       "SQL Notebook"
     ],
-    "priority": -1,
+    "priority": 1,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "March 2026 Release"
   },
   {
@@ -425,7 +656,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 20,
+    "commentCount": 21,
     "milestone": "March 2026 Release"
   },
   {
@@ -460,7 +691,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "April 2026 Release"
   },
   {
@@ -570,21 +801,21 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-04T23:41:05Z",
     "createdAt": "2026-02-25T01:20:35Z",
     "number": 21338,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21338",
     "title": "[Bug]: Simple notebook query gets triple scrollbars",
     "areas": [
       "SQL Notebook"
     ],
-    "priority": -1,
+    "priority": 1,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "March 2026 Release"
   },
   {
@@ -598,12 +829,12 @@
     "areas": [
       "SQL Notebook"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "March 2026 Release"
   },
   {
@@ -617,7 +848,7 @@
     "areas": [
       "SQL Notebook"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
@@ -655,12 +886,12 @@
     "areas": [
       "SQL Notebook"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "March 2026 Release"
   },
   {
@@ -674,7 +905,7 @@
     "areas": [
       "SQL Notebook"
     ],
-    "priority": -1,
+    "priority": 0,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
@@ -1310,10 +1541,10 @@
   },
   {
     "author": "cjohnsto-nz",
-    "closedAt": null,
+    "closedAt": "2026-03-04T17:16:46Z",
     "createdAt": "2026-02-12T23:52:35Z",
     "number": 21190,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21190",
     "title": "[Bug]: SQL Database Project persistently asks if User wants to create a PublishProfile after deploy, even if one was used.",
     "areas": [],
@@ -1322,7 +1553,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "March 2026 Release"
   },
   {
@@ -2044,7 +2275,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 2
+    "commentCount": 3
   },
   {
     "author": "ssreerama",
@@ -2067,10 +2298,10 @@
   },
   {
     "author": "FabriceBauerUpsideo",
-    "closedAt": null,
+    "closedAt": "2026-03-04T04:42:07Z",
     "createdAt": "2026-01-27T17:28:08Z",
     "number": 21019,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21019",
     "title": "[Feature Request]: Add setting to disable Transferring active connection when opening a new SQL file (#19503)",
     "areas": [],
@@ -2746,7 +2977,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "March 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "ssreerama",
@@ -4425,7 +4656,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "March 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "kburtram",
@@ -8830,10 +9061,10 @@
   },
   {
     "author": "Epivaral",
-    "closedAt": null,
+    "closedAt": "2026-03-04T01:20:04Z",
     "createdAt": "2025-07-25T17:45:13Z",
     "number": 19841,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19841",
     "title": "[Bug] Copy button in SQL code block does not work on macOS Sequoia",
     "areas": [
@@ -8844,7 +9075,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "March 2026 Release"
   },
   {
@@ -10321,10 +10552,10 @@
   },
   {
     "author": "txh57",
-    "closedAt": "2025-10-30T00:10:39Z",
+    "closedAt": null,
     "createdAt": "2025-06-13T08:24:14Z",
     "number": 19602,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19602",
     "title": "[Bug]: Cannot connect to SQL database of Power Platform environment",
     "areas": [
@@ -12113,10 +12344,10 @@
   },
   {
     "author": "a-bolanos",
-    "closedAt": null,
+    "closedAt": "2026-03-04T01:29:21Z",
     "createdAt": "2025-05-02T15:38:41Z",
     "number": 19332,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19332",
     "title": "[GitHub Copilot - Bug]: GitHub Copilot MSSQL Connector Fails to Connect to Synapse Dedicated SQL Pool",
     "areas": [
@@ -12127,7 +12358,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -15617,7 +15848,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 5,
-    "milestone": "March 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "tim-mit",
@@ -17363,7 +17594,7 @@
     "hasType": false,
     "totalReactions": 1,
     "commentCount": 3,
-    "milestone": "Backlog"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "mtaylorfsmb",
