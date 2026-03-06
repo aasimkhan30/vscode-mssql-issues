@@ -1,5 +1,97 @@
 [
   {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-03-05T19:59:42Z",
+    "number": 21471,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21471",
+    "title": "[Bug]: Schema designer 'Show Definition' button text state should change",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "llali",
+    "closedAt": null,
+    "createdAt": "2026-03-05T19:51:03Z",
+    "number": 21470,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21470",
+    "title": "[Bug]: Schema Design Table edit dialog doesn't show length for varchar columns",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "allancascante",
+    "closedAt": null,
+    "createdAt": "2026-03-05T19:50:19Z",
+    "number": 21469,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21469",
+    "title": "[Bug]: Application Quickstart Docker fails when starting a DAB container",
+    "areas": [
+      "Application QuickStart"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-05T09:05:36Z",
+    "number": 21460,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21460",
+    "title": "[Feature Request]: Add option to open REST/GraphQL endpoints in VS Code Simple browser",
+    "areas": [
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": 0,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-05T08:48:30Z",
+    "number": 21459,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21459",
+    "title": "[Bug]: DAB container port check is not consistent.",
+    "areas": [
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
     "author": "croblesm",
     "closedAt": "2026-03-04T23:45:39Z",
     "createdAt": "2026-03-04T23:42:12Z",
@@ -75,10 +167,10 @@
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2026-03-05T15:26:06Z",
     "createdAt": "2026-03-04T18:44:59Z",
     "number": 21446,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21446",
     "title": "[Bug]: Closing (saving) the code analysis settings steals terminal focus to \"output\" panel",
     "areas": [
@@ -93,10 +185,10 @@
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2026-03-05T15:26:05Z",
     "createdAt": "2026-03-04T18:39:42Z",
     "number": 21445,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21445",
     "title": "[Bug]: Checkboxes on individual rules can't be toggled",
     "areas": [
@@ -111,10 +203,10 @@
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2026-03-06T00:03:24Z",
     "createdAt": "2026-03-04T18:22:35Z",
     "number": 21444,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21444",
     "title": "[Bug]: New project results in sqlproj with blank SDK version",
     "areas": [
@@ -166,10 +258,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-03-05T21:08:28Z",
     "createdAt": "2026-03-04T02:04:49Z",
     "number": 21437,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21437",
     "title": "[Feature Request]: Add Build Data API as new context menu entry point",
     "areas": [
@@ -185,10 +277,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-03-05T18:01:15Z",
     "createdAt": "2026-03-04T01:52:08Z",
     "number": 21436,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21436",
     "title": "[Feature Request]: Copilot publish validation errors & 'fix error' button",
     "areas": [
@@ -200,7 +292,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "March 2026 Release"
   },
   {
@@ -287,7 +379,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "March 2026 Release"
   },
@@ -533,7 +625,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "March 2026 Release"
   },
   {
@@ -656,7 +748,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 21,
+    "commentCount": 23,
     "milestone": "March 2026 Release"
   },
   {
@@ -741,7 +833,7 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0
   },
   {
@@ -760,7 +852,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "kburtram",
@@ -820,10 +913,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-05T19:44:07Z",
     "createdAt": "2026-02-25T01:00:19Z",
     "number": 21337,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21337",
     "title": "[Bug]: Query execution shortcut doesn't work properly in notebook cell",
     "areas": [
@@ -853,7 +946,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "March 2026 Release"
   },
   {
@@ -877,10 +970,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-05T19:42:14Z",
     "createdAt": "2026-02-25T00:09:46Z",
     "number": 21334,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21334",
     "title": "[Bug]: Notebook has two connect buttons and one doesn't work",
     "areas": [
@@ -4053,7 +4146,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "March 2026 Release"
   },
   {
@@ -4439,7 +4532,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 7,
+    "commentCount": 8,
     "milestone": "January 2026 Release"
   },
   {
@@ -4527,7 +4620,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 6,
+    "totalReactions": 7,
     "commentCount": 7,
     "milestone": "Backlog"
   },
@@ -5664,10 +5757,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-05T21:20:14Z",
     "createdAt": "2025-11-06T15:17:36Z",
     "number": 20450,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20450",
     "title": "[Bug]: Dataverse connections are not working",
     "areas": [
@@ -10566,7 +10659,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 7,
+    "commentCount": 8,
     "milestone": "November 2025 Release"
   },
   {
