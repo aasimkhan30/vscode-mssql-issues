@@ -1,5 +1,162 @@
 [
   {
+    "author": "tauseefsiddique10",
+    "closedAt": null,
+    "createdAt": "2026-03-06T21:58:07Z",
+    "number": 21507,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21507",
+    "title": "[Feature Request]: Add SQL Notebooks to MSSQL",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "peterbud",
+    "closedAt": null,
+    "createdAt": "2026-03-06T21:06:08Z",
+    "number": 21501,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21501",
+    "title": "[Bug]: 1.40.0 is not displaying JSON fields anymore",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-03-06T22:02:44Z",
+    "createdAt": "2026-03-06T20:47:30Z",
+    "number": 21497,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21497",
+    "title": "[Bug]: Tooltip for Schema Designer/DAB menu item has wrong hitbox",
+    "areas": [
+      "Schema Designer",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "ClaudioESSilva",
+    "closedAt": null,
+    "createdAt": "2026-03-06T18:02:57Z",
+    "number": 21494,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21494",
+    "title": "[Feature Request]: Allow sorting on DAB grid",
+    "areas": [
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "ClaudioESSilva",
+    "closedAt": null,
+    "createdAt": "2026-03-06T17:53:59Z",
+    "number": 21493,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21493",
+    "title": "[Feature Request]: Keep filtered selection when clicking \"Design API\"",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": "2026-03-06T22:01:31Z",
+    "createdAt": "2026-03-06T15:56:55Z",
+    "number": 21488,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21488",
+    "title": "[Bug]: Hide Changes Highlight not working",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "sfscgjohnson",
+    "closedAt": "2026-03-06T21:31:29Z",
+    "createdAt": "2026-03-06T15:54:15Z",
+    "number": 21487,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21487",
+    "title": "[Bug]: Missing Manage Database",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "keen85",
+    "closedAt": null,
+    "createdAt": "2026-03-06T15:35:05Z",
+    "number": 21486,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21486",
+    "title": "[Bug]: Azure SQL + Entra MFA → re-authentication required every time when opening database connection",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "peterbud",
+    "closedAt": "2026-03-06T20:46:41Z",
+    "createdAt": "2026-03-06T15:34:04Z",
+    "number": 21485,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21485",
+    "title": "[Feature Request]: Add a configuration option to disable MSSQL intellisense",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
     "author": "ssreerama",
     "closedAt": null,
     "createdAt": "2026-03-05T19:59:42Z",
@@ -53,10 +210,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-07T00:32:00Z",
     "createdAt": "2026-03-05T09:05:36Z",
     "number": 21460,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21460",
     "title": "[Feature Request]: Add option to open REST/GraphQL endpoints in VS Code Simple browser",
     "areas": [
@@ -235,7 +392,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -380,7 +538,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "March 2026 Release"
   },
   {
@@ -592,10 +750,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-06T21:03:28Z",
     "createdAt": "2026-02-26T22:45:49Z",
     "number": 21374,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21374",
     "title": "[Bug]: SQL Notebook messages and row count UI overlap",
     "areas": [
@@ -611,10 +769,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-06T23:09:26Z",
     "createdAt": "2026-02-26T22:42:58Z",
     "number": 21373,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21373",
     "title": "[Bug]: SQL Notebook output is truncated to 50 rows without any warning",
     "areas": [
@@ -833,8 +991,8 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 2,
-    "commentCount": 0
+    "totalReactions": 3,
+    "commentCount": 1
   },
   {
     "author": "kzendra",
@@ -989,10 +1147,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-06T19:29:43Z",
     "createdAt": "2026-02-24T23:52:11Z",
     "number": 21333,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21333",
     "title": "[Bug]: SQL Notebook can only connect to a saved connection profile",
     "areas": [
@@ -1059,7 +1217,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "April 2026 Release"
   },
   {
@@ -3665,8 +3823,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 1,
+    "totalReactions": 2,
+    "commentCount": 2,
     "milestone": "March 2026 Release"
   },
   {
