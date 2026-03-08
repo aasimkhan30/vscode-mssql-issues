@@ -1,5 +1,21 @@
 [
   {
+    "author": "amthomas46",
+    "closedAt": null,
+    "createdAt": "2026-03-07T19:21:01Z",
+    "number": 21517,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21517",
+    "title": "[Bug]: DAB container deployment error",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "tauseefsiddique10",
     "closedAt": null,
     "createdAt": "2026-03-06T21:58:07Z",
@@ -397,10 +413,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-03-07T02:16:55Z",
     "createdAt": "2026-03-04T02:09:28Z",
     "number": 21438,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21438",
     "title": "[Feature Request]: Open Data API Builder Designer directly from GitHub Copilot chat",
     "areas": [
@@ -613,10 +629,10 @@
   },
   {
     "author": "Nikolai5",
-    "closedAt": null,
+    "closedAt": "2026-03-07T02:09:34Z",
     "createdAt": "2026-03-02T09:44:02Z",
     "number": 21406,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21406",
     "title": "[Bug]: Command Pallet - 'Manage Connection Profiles -> Edit opens' the setting module",
     "areas": [],
@@ -906,7 +922,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 23,
+    "commentCount": 24,
     "milestone": "March 2026 Release"
   },
   {
@@ -946,10 +962,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-03-07T02:10:16Z",
     "createdAt": "2026-02-25T23:41:50Z",
     "number": 21354,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21354",
     "title": "[Bug]: Rename database fails if other connections are open, should prompt to terminate other connections",
     "areas": [],
@@ -4729,7 +4745,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "March 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "sspringer",
