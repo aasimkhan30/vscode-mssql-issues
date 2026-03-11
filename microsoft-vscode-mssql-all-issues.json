@@ -1,10 +1,63 @@
 [
   {
-    "author": "lewis-sanchez",
+    "author": "croblesm",
+    "closedAt": "2026-03-11T01:03:57Z",
+    "createdAt": "2026-03-10T22:09:50Z",
+    "number": 21548,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21548",
+    "title": "[Bug]: DAB container deployment error with local container",
+    "areas": [
+      "Schema Designer",
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "itsimtiaz",
     "closedAt": null,
+    "createdAt": "2026-03-10T19:01:42Z",
+    "number": 21547,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21547",
+    "title": "[Bug]: Missing Execution Plan Details in VS Code SQL Server Extension",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jcristin",
+    "closedAt": null,
+    "createdAt": "2026-03-10T12:31:35Z",
+    "number": 21545,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21545",
+    "title": "[Bug]: MCP mssql_connect reuses existing connection instead of creating new one with specified profile credentials",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "lewis-sanchez",
+    "closedAt": "2026-03-10T17:10:09Z",
     "createdAt": "2026-03-09T23:50:11Z",
     "number": 21541,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21541",
     "title": "[Task]: Add Preview tags to SQL Notebooks",
     "areas": [
@@ -55,7 +108,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "March 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "nicolassaavedra-rgb",
@@ -93,23 +146,6 @@
     "totalReactions": 0,
     "commentCount": 0,
     "milestone": "Backlog"
-  },
-  {
-    "author": "Benjin",
-    "closedAt": null,
-    "createdAt": "2026-03-09T17:39:18Z",
-    "number": 21528,
-    "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/21528",
-    "title": "Ask Mode kickoff - March Release (1.41.0)",
-    "areas": [],
-    "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
-    "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "March 2026 Release"
   },
   {
     "author": "Benjin",
@@ -154,16 +190,18 @@
     "number": 21517,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21517",
-    "title": "[Bug]: DAB container deployment error",
+    "title": "[Bug]: DAB container deployment error while connected to SQL database in Fabric",
     "areas": [
-      "Application QuickStart"
+      "Application QuickStart",
+      "Data API Designer"
     ],
     "priority": -1,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5
+    "commentCount": 2,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "tauseefsiddique10",
@@ -251,7 +289,8 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/21493",
     "title": "[Feature Request]: Keep filtered selection when clicking \"Design API\"",
     "areas": [
-      "Application QuickStart"
+      "Application QuickStart",
+      "Data API Designer"
     ],
     "priority": -1,
     "type": "Feature Request",
@@ -361,14 +400,15 @@
   },
   {
     "author": "allancascante",
-    "closedAt": null,
+    "closedAt": "2026-03-10T19:55:11Z",
     "createdAt": "2026-03-05T19:50:19Z",
     "number": 21469,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21469",
     "title": "[Bug]: Application Quickstart Docker fails when starting a DAB container",
     "areas": [
-      "Application QuickStart"
+      "Application QuickStart",
+      "Data API Designer"
     ],
     "priority": -1,
     "type": "Bug",
@@ -399,10 +439,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-10T13:42:00Z",
     "createdAt": "2026-03-05T08:48:30Z",
     "number": 21459,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21459",
     "title": "[Bug]: DAB container port check is not consistent.",
     "areas": [
@@ -1180,7 +1220,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "March 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "kburtram",
@@ -1372,10 +1412,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-11T00:23:41Z",
     "createdAt": "2026-02-23T16:33:49Z",
     "number": 21310,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21310",
     "title": "Review light grey colors in query results grid",
     "areas": [
@@ -1386,7 +1426,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 7,
+    "commentCount": 8,
     "milestone": "April 2026 Release"
   },
   {
@@ -1602,10 +1642,10 @@
   },
   {
     "author": "Ndu3000",
-    "closedAt": null,
+    "closedAt": "2026-03-11T00:25:33Z",
     "createdAt": "2026-02-19T12:00:59Z",
     "number": 21262,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21262",
     "title": "Inconsistent behavior in working",
     "areas": [
@@ -1616,7 +1656,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "April 2026 Release"
   },
   {
@@ -1691,7 +1731,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "March 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "laurenastrid1",
@@ -2285,7 +2325,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "March 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -2786,7 +2826,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "March 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "elefA",
@@ -3076,7 +3116,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "March 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "Benjin",
@@ -3527,7 +3567,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "March 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "reubster",
@@ -3615,10 +3655,10 @@
   },
   {
     "author": "antoniotbtech",
-    "closedAt": null,
+    "closedAt": "2026-03-10T21:21:58Z",
     "createdAt": "2026-01-05T12:21:31Z",
     "number": 20880,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20880",
     "title": "[Bug]: Always Encrypted still does not work properly",
     "areas": [
@@ -3630,7 +3670,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "March 2026 Release"
   },
   {
@@ -3650,7 +3690,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "March 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -3922,7 +3962,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "March 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "Prefix42",
@@ -4458,10 +4498,10 @@
   },
   {
     "author": "yooakim",
-    "closedAt": null,
+    "closedAt": "2026-03-10T20:48:08Z",
     "createdAt": "2025-12-04T06:27:29Z",
     "number": 20731,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20731",
     "title": "[Feature Request]: Allow login to Azure with `--allow-no-subscriptions`",
     "areas": [
@@ -4826,10 +4866,10 @@
   },
   {
     "author": "tabelle1",
-    "closedAt": null,
+    "closedAt": "2026-03-11T00:25:01Z",
     "createdAt": "2025-11-20T11:55:51Z",
     "number": 20642,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20642",
     "title": "[Bug]: Table designer gets stuck loading",
     "areas": [
@@ -4840,7 +4880,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -8175,7 +8215,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "March 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "ssreerama",
