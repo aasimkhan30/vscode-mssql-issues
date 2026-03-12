@@ -1,5 +1,169 @@
 [
   {
+    "author": "cheenamalhotra",
+    "closedAt": null,
+    "createdAt": "2026-03-11T19:39:29Z",
+    "number": 21569,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21569",
+    "title": "[Bug]: DIstorted UI on error",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "manujoseph85",
+    "closedAt": "2026-03-11T18:05:22Z",
+    "createdAt": "2026-03-11T17:24:58Z",
+    "number": 21565,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21565",
+    "title": "[Bug]: Some buttons in Schema Designer are not clickable",
+    "areas": [
+      "Application QuickStart"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-11T03:51:13Z",
+    "number": 21561,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21561",
+    "title": "[Feature Request]: Proactively warn users when connecting to Microsoft Fabric SQL that DAB requires managed identity authentication",
+    "areas": [
+      "Schema Designer",
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-11T03:34:22Z",
+    "number": 21559,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21559",
+    "title": "[Bug]: Deploy confirmation dialog shows hardcoded API types instead of reflecting the user's actual selection",
+    "areas": [
+      "Schema Designer",
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-11T03:28:42Z",
+    "number": 21558,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21558",
+    "title": "[Bug]: REST API checkbox looks disabled while it is enabled by default",
+    "areas": [
+      "Schema Designer",
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2026-03-12T00:59:53Z",
+    "createdAt": "2026-03-11T03:17:44Z",
+    "number": 21557,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21557",
+    "title": "[Bug]: DAB container readiness failure shows generic timeout instead of the actual engine error",
+    "areas": [
+      "Schema Designer",
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-11T03:01:26Z",
+    "number": 21556,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21556",
+    "title": "[Feature Request]: Detect tables and views with missing or ambiguous primary key configuration",
+    "areas": [
+      "Schema Designer",
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-11T02:54:21Z",
+    "number": 21555,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21555",
+    "title": "[Feature Request]: Proactively surface unsupported data type warnings in the entity list",
+    "areas": [
+      "Schema Designer",
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
     "author": "croblesm",
     "closedAt": "2026-03-11T01:03:57Z",
     "createdAt": "2026-03-10T22:09:50Z",
@@ -185,10 +349,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2026-03-11T16:53:54Z",
     "createdAt": "2026-03-07T19:21:01Z",
     "number": 21517,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21517",
     "title": "[Bug]: DAB container deployment error while connected to SQL database in Fabric",
     "areas": [
@@ -366,10 +530,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-03-11T16:39:01Z",
     "createdAt": "2026-03-05T19:59:42Z",
     "number": 21471,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21471",
     "title": "[Bug]: Schema designer 'Show Definition' button text state should change",
     "areas": [
@@ -380,7 +544,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
   },
   {
     "author": "llali",
@@ -1155,7 +1320,7 @@
   },
   {
     "author": "Benjin",
-    "closedAt": "2026-03-07T02:10:16Z",
+    "closedAt": "2026-03-11T03:20:06Z",
     "createdAt": "2026-02-25T23:41:50Z",
     "number": 21354,
     "state": "CLOSED",
