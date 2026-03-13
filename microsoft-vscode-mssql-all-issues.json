@@ -1,5 +1,225 @@
 [
   {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-03-13T00:56:54Z",
+    "number": 21614,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21614",
+    "title": "[Bug]: Peek Definition fails on functions and goes to schema",
+    "areas": [
+      "Language Service"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-13T00:50:11Z",
+    "number": 21613,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21613",
+    "title": "[Task]: Change Log Dialog updates for v1.41",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-13T00:08:36Z",
+    "number": 21612,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21612",
+    "title": "[Feature Request]: Pre-deployment validation: block entity selection when table contains DAB-unsupported column data types",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-13T00:07:55Z",
+    "number": 21611,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21611",
+    "title": "[Feature Request]: Pre-deployment validation: block container deployment when connection is not using SQL authentication",
+    "areas": [
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "alexchexes",
+    "closedAt": "2026-03-12T23:44:08Z",
+    "createdAt": "2026-03-12T22:05:31Z",
+    "number": 21603,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21603",
+    "title": "[Bug]: SQL grammar incorrectly starts an `N'...'` string after any trailing `N`",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-03-12T19:57:34Z",
+    "number": 21600,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21600",
+    "title": "[Bug]: Design Schema command doesn't show up on a connection directly to a database",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "JesusValmiki",
+    "closedAt": null,
+    "createdAt": "2026-03-12T17:14:52Z",
+    "number": 21595,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21595",
+    "title": "Time Out",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "jbauerrfid",
+    "closedAt": null,
+    "createdAt": "2026-03-12T16:11:49Z",
+    "number": 21593,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21593",
+    "title": "[Bug]: Cannot connect to Azure SQL databases after upgrade to 1.40.0",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "unlock21",
+    "closedAt": "2026-03-13T00:38:39Z",
+    "createdAt": "2026-03-12T15:00:38Z",
+    "number": 21591,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21591",
+    "title": "[Bug]: Sorted results grid copy ignores sort state",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "samgusick",
+    "closedAt": null,
+    "createdAt": "2026-03-12T14:58:01Z",
+    "number": 21590,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21590",
+    "title": "[Bug]: Microsoft Entra connection strings with Authentication=\"Active Directory Default\" not supported",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-12T03:53:17Z",
+    "number": 21588,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21588",
+    "title": "[Task]: Remove / add \"Preview\" label from features",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-03-12T03:49:05Z",
+    "number": 21587,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21587",
+    "title": "[Task]: Remove SQLCon banner from Change log dialog",
+    "areas": [
+      "Acquisition"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
     "author": "cheenamalhotra",
     "closedAt": null,
     "createdAt": "2026-03-11T19:39:29Z",
@@ -60,10 +280,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-12T18:27:35Z",
     "createdAt": "2026-03-11T03:34:22Z",
     "number": 21559,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21559",
     "title": "[Bug]: Deploy confirmation dialog shows hardcoded API types instead of reflecting the user's actual selection",
     "areas": [
@@ -81,10 +301,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-12T18:27:34Z",
     "createdAt": "2026-03-11T03:28:42Z",
     "number": 21558,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21558",
     "title": "[Bug]: REST API checkbox looks disabled while it is enabled by default",
     "areas": [
@@ -123,10 +343,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-12T16:47:54Z",
     "createdAt": "2026-03-11T03:01:26Z",
     "number": 21556,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21556",
     "title": "[Feature Request]: Detect tables and views with missing or ambiguous primary key configuration",
     "areas": [
@@ -144,10 +364,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-12T16:47:54Z",
     "createdAt": "2026-03-11T02:54:21Z",
     "number": 21555,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21555",
     "title": "[Feature Request]: Proactively surface unsupported data type warnings in the entity list",
     "areas": [
@@ -191,14 +411,17 @@
     "number": 21547,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21547",
-    "title": "[Bug]: Missing Execution Plan Details in VS Code SQL Server Extension",
-    "areas": [],
+    "title": "[Feature Request]: Missing Execution Plan Details in VS Code SQL Server Extension",
+    "areas": [
+      "Query Plan"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "jcristin",
@@ -208,13 +431,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21545",
     "title": "[Bug]: MCP mssql_connect reuses existing connection instead of creating new one with specified profile credentials",
-    "areas": [],
+    "areas": [
+      "GitHub Copilot"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "lewis-sanchez",
@@ -251,7 +477,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -281,16 +507,17 @@
     "number": 21537,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21537",
-    "title": "[GitHub Copilot - Bug | Feature request]:",
+    "title": "Copilot not processing chat queries",
     "areas": [
       "GitHub Copilot"
     ],
     "priority": -1,
-    "type": "Both Bug and Feature",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -330,10 +557,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-12T21:07:58Z",
     "createdAt": "2026-03-09T16:00:54Z",
     "number": 21522,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21522",
     "title": "[Feature Request]: Add SQL Database in Fabric support for Query Profiler",
     "areas": [
@@ -369,10 +596,10 @@
   },
   {
     "author": "tauseefsiddique10",
-    "closedAt": null,
+    "closedAt": "2026-03-12T16:58:37Z",
     "createdAt": "2026-03-06T21:58:07Z",
     "number": 21507,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21507",
     "title": "[Feature Request]: Add SQL Notebooks to MSSQL",
     "areas": [
@@ -383,7 +610,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "peterbud",
@@ -504,13 +731,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21486",
     "title": "[Bug]: Azure SQL + Entra MFA → re-authentication required every time when opening database connection",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "peterbud",
@@ -555,13 +785,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21470",
     "title": "[Bug]: Schema Design Table edit dialog doesn't show length for varchar columns",
-    "areas": [],
+    "areas": [
+      "Table Designer"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "allancascante",
@@ -662,10 +895,10 @@
   },
   {
     "author": "nlenzCSMI",
-    "closedAt": null,
+    "closedAt": "2026-03-12T16:57:18Z",
     "createdAt": "2026-03-04T19:31:35Z",
     "number": 21448,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21448",
     "title": "[GitHub Copilot - Bug | Feature request]:",
     "areas": [
@@ -676,7 +909,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "jsantos-iplus",
@@ -694,7 +927,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "dzsquared",
@@ -848,10 +1082,10 @@
   },
   {
     "author": "MegaNeal",
-    "closedAt": null,
+    "closedAt": "2026-03-12T17:16:43Z",
     "createdAt": "2026-03-03T21:14:22Z",
     "number": 21430,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21430",
     "title": "[Bug]: Query execution gets hung on \"getting definition...\"",
     "areas": [
@@ -862,7 +1096,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 3,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "vickerymark",
@@ -903,7 +1138,7 @@
     "number": 21414,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21414",
-    "title": "[Bug]: Extract dacpac not working for Azure SQL Database database specific connection",
+    "title": "[Bug]: Extract dacpac not working when user doesn't have LIST DATABASES",
     "areas": [
       "Dacpac Import/Export"
     ],
@@ -913,7 +1148,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 1,
-    "milestone": "March 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -942,13 +1177,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21409",
     "title": "[Bug]: Flat File Import not finding Table Schema",
-    "areas": [],
+    "areas": [
+      "Flat File Import"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "jkubecki",
@@ -977,13 +1215,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21407",
     "title": "[Bug]: Missing little \"x\" symbol in icon of disabled triggers",
-    "areas": [],
+    "areas": [
+      "Object Explorer"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "Nikolai5",
@@ -1003,10 +1244,10 @@
   },
   {
     "author": "lightinen",
-    "closedAt": null,
+    "closedAt": "2026-03-12T16:54:22Z",
     "createdAt": "2026-02-28T12:11:52Z",
     "number": 21400,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21400",
     "title": "[Bug]: Sql server profiler StartTime column shows \"Invalid Date\"",
     "areas": [
@@ -1017,14 +1258,14 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "willgart",
-    "closedAt": null,
+    "closedAt": "2026-03-12T23:32:01Z",
     "createdAt": "2026-02-27T20:02:02Z",
     "number": 21390,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21390",
     "title": "[Bug]: a database with a \"Security\" schema name breaks the tree view",
     "areas": [
@@ -1056,10 +1297,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-03-12T16:52:39Z",
     "createdAt": "2026-02-27T18:01:44Z",
     "number": 21386,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21386",
     "title": "[Bug]: MSSQL extension (ms-mssql.mssql) relies on post-install SqlToolsService download during activation",
     "areas": [],
@@ -1068,7 +1309,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "ssreerama",
@@ -1279,8 +1520,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 24,
+    "totalReactions": 2,
+    "commentCount": 25,
     "milestone": "April 2026 Release"
   },
   {
@@ -1291,13 +1532,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21357",
     "title": "[Bug]: Missing Microsoft.Build.Sql.2.0.0 and Microsoft.SqlServer.TransactSql.ScriptDom.170.128.0",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 3,
+    "milestone": "Backlog"
   },
   {
     "author": "Michael9094",
@@ -1360,13 +1604,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21344",
     "title": "[Bug]: Schema Compare - Deselected Items Remain Selected / Delayed UI Response",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "kzendra",
@@ -1826,10 +2073,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-12T17:02:39Z",
     "createdAt": "2026-02-19T03:18:44Z",
     "number": 21260,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21260",
     "title": "[Bug]: Global Search object list should sort by default",
     "areas": [
@@ -2231,8 +2478,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 1,
+    "totalReactions": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -2628,10 +2875,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-12T21:10:56Z",
     "createdAt": "2026-02-04T01:33:15Z",
     "number": 21093,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21093",
     "title": "[Feature Request]: Enhanced Database-Level Profiler Launch with Automatic Filtering",
     "areas": [
@@ -2793,10 +3040,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-12T19:59:27Z",
     "createdAt": "2026-01-30T16:52:13Z",
     "number": 21061,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21061",
     "title": "[Bug]: Pagination navigation controls are not anchored to the bottom of the document.",
     "areas": [
@@ -4198,8 +4445,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 2,
-    "milestone": "March 2026 Release"
+    "commentCount": 3,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "dzsquared",
@@ -5158,10 +5405,10 @@
   },
   {
     "author": "gregveres",
-    "closedAt": null,
+    "closedAt": "2026-03-12T01:36:22Z",
     "createdAt": "2025-11-19T12:21:54Z",
     "number": 20630,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20630",
     "title": "[Feature Request]: bring Select Top 1000 back to the top level menu",
     "areas": [
@@ -5173,7 +5420,7 @@
     "hasType": true,
     "totalReactions": 5,
     "commentCount": 6,
-    "milestone": "April 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "shapeseas",
@@ -18203,10 +18450,10 @@
   },
   {
     "author": "LarnuUK",
-    "closedAt": null,
+    "closedAt": "2026-03-12T23:29:58Z",
     "createdAt": "2025-02-14T16:19:02Z",
     "number": 18685,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18685",
     "title": "[Feature Request] - Add keybinding to toggle Results Pane",
     "areas": [
