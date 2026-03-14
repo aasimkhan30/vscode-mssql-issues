@@ -1,10 +1,67 @@
 [
   {
+    "author": "allancascante",
+    "closedAt": null,
+    "createdAt": "2026-03-13T20:02:56Z",
+    "number": 21625,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21625",
+    "title": "[Bug]: Error Launching Query Profiler from direct-to-database connection profile",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
+    "author": "allancascante",
+    "closedAt": null,
+    "createdAt": "2026-03-13T19:50:37Z",
+    "number": 21623,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21623",
+    "title": "[Feature Request]: Remove fabric warning",
+    "areas": [
+      "Query Profiler"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "March 2026 Release"
+  },
+  {
     "author": "kburtram",
     "closedAt": null,
+    "createdAt": "2026-03-13T16:03:17Z",
+    "number": 21618,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21618",
+    "title": "[Bug]: Intellisense stops working when an untitled SQL script is saved",
+    "areas": [
+      "Language Service"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": "2026-03-13T14:40:21Z",
     "createdAt": "2026-03-13T00:56:54Z",
     "number": 21614,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21614",
     "title": "[Bug]: Peek Definition fails on functions and goes to schema",
     "areas": [
@@ -31,16 +88,16 @@
     "type": null,
     "hasArea": false,
     "hasType": false,
-    "totalReactions": 0,
-    "commentCount": 0,
+    "totalReactions": 1,
+    "commentCount": 1,
     "milestone": "March 2026 Release"
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-13T19:13:06Z",
     "createdAt": "2026-03-13T00:08:36Z",
     "number": 21612,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21612",
     "title": "[Feature Request]: Pre-deployment validation: block entity selection when table contains DAB-unsupported column data types",
     "areas": [],
@@ -54,10 +111,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-13T19:13:06Z",
     "createdAt": "2026-03-13T00:07:55Z",
     "number": 21611,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21611",
     "title": "[Feature Request]: Pre-deployment validation: block container deployment when connection is not using SQL authentication",
     "areas": [
@@ -178,15 +235,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-13T15:41:22Z",
     "createdAt": "2026-03-12T03:53:17Z",
     "number": 21588,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21588",
     "title": "[Task]: Remove / add \"Preview\" label from features",
     "areas": [
@@ -202,10 +259,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-13T15:41:21Z",
     "createdAt": "2026-03-12T03:49:05Z",
     "number": 21587,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21587",
     "title": "[Task]: Remove SQLCon banner from Change log dialog",
     "areas": [
@@ -259,10 +316,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-13T19:13:05Z",
     "createdAt": "2026-03-11T03:51:13Z",
     "number": 21561,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21561",
     "title": "[Feature Request]: Proactively warn users when connecting to Microsoft Fabric SQL that DAB requires managed identity authentication",
     "areas": [
@@ -540,10 +597,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-03-13T15:46:38Z",
     "createdAt": "2026-03-09T17:37:01Z",
     "number": 21526,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21526",
     "title": "Update changelog for 1.41.0 release",
     "areas": [],
@@ -2531,7 +2588,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "Benjin",
@@ -7264,10 +7321,10 @@
   },
   {
     "author": "PhilippRoessner",
-    "closedAt": null,
+    "closedAt": "2026-03-13T17:39:38Z",
     "createdAt": "2025-10-23T09:40:07Z",
     "number": 20819,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20819",
     "title": "Changed Options are not applied/saved when opening/saving a scmp file",
     "areas": [
@@ -7278,7 +7335,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "April 2026 Release"
   },
   {
@@ -9129,7 +9186,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 2,
     "milestone": "April 2026 Release"
   },
@@ -9385,10 +9442,10 @@
   },
   {
     "author": "fmms",
-    "closedAt": null,
+    "closedAt": "2026-03-13T17:10:20Z",
     "createdAt": "2025-08-18T21:20:00Z",
     "number": 20176,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20176",
     "title": "Database projects: \"Generate Script\" does not do anything in Schema Compare for me",
     "areas": [
@@ -30206,7 +30263,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 1,
     "milestone": "Backlog"
   },
