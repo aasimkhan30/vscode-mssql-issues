@@ -1,10 +1,43 @@
 [
   {
-    "author": "allancascante",
+    "author": "gisn1",
     "closedAt": null,
+    "createdAt": "2026-03-16T17:18:29Z",
+    "number": 21636,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21636",
+    "title": "[Bug]: Temporal table child tables missing right-click menu options",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "bmx-ht",
+    "closedAt": "2026-03-16T11:01:54Z",
+    "createdAt": "2026-03-16T10:58:35Z",
+    "number": 21632,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21632",
+    "title": "[Feature Request]: Copy just header / column name from the result set",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "allancascante",
+    "closedAt": "2026-03-16T20:27:05Z",
     "createdAt": "2026-03-13T20:02:56Z",
     "number": 21625,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21625",
     "title": "[Bug]: Error Launching Query Profiler from direct-to-database connection profile",
     "areas": [
@@ -20,10 +53,10 @@
   },
   {
     "author": "allancascante",
-    "closedAt": null,
+    "closedAt": "2026-03-16T20:26:45Z",
     "createdAt": "2026-03-13T19:50:37Z",
     "number": 21623,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21623",
     "title": "[Feature Request]: Remove fabric warning",
     "areas": [
@@ -54,7 +87,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "March 2026 Release"
   },
   {
     "author": "kburtram",
@@ -235,7 +268,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -796,7 +829,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "April 2026 Release"
   },
   {
@@ -8367,7 +8400,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -15729,7 +15762,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0,
     "milestone": "April 2026 Release"
   },
@@ -37980,10 +38013,10 @@
   },
   {
     "author": "msftrncs",
-    "closedAt": null,
+    "closedAt": "2026-03-16T19:07:25Z",
     "createdAt": "2018-07-24T00:13:27Z",
     "number": 1126,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/1126",
     "title": "'definition' of some types of objects cannot be found",
     "areas": [
@@ -37994,7 +38027,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "April 2026 Release"
   },
   {
