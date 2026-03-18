@@ -1,5 +1,74 @@
 [
   {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-03-17T19:13:41Z",
+    "number": 21650,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21650",
+    "title": "[Bug]: Launch Query Profiler menu item is displayed twice for database nodes",
+    "areas": [
+      "Query Profiler"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "karlb-dev",
+    "closedAt": "2026-03-18T00:49:27Z",
+    "createdAt": "2026-03-17T18:56:11Z",
+    "number": 21649,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21649",
+    "title": "[Bug]: Close button on What's New page doesn't do anything",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "Nikolai5",
+    "closedAt": null,
+    "createdAt": "2026-03-17T11:19:06Z",
+    "number": 21647,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21647",
+    "title": "[Feature Request]: Flat File Importer - Support for non-master users",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-03-17T06:24:56Z",
+    "number": 21645,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21645",
+    "title": "[Bug]: Connection Dialog doesn't hydrate recent connections.",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "gisn1",
     "closedAt": null,
     "createdAt": "2026-03-16T17:18:29Z",
@@ -18,10 +87,10 @@
   },
   {
     "author": "bmx-ht",
-    "closedAt": "2026-03-16T11:01:54Z",
+    "closedAt": null,
     "createdAt": "2026-03-16T10:58:35Z",
     "number": 21632,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21632",
     "title": "[Feature Request]: Copy just header / column name from the result set",
     "areas": [],
@@ -30,7 +99,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "allancascante",
@@ -72,10 +141,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-17T06:11:35Z",
     "createdAt": "2026-03-13T16:03:17Z",
     "number": 21618,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21618",
     "title": "[Bug]: Intellisense stops working when an untitled SQL script is saved",
     "areas": [
@@ -199,10 +268,10 @@
   },
   {
     "author": "JesusValmiki",
-    "closedAt": null,
+    "closedAt": "2026-03-18T00:49:52Z",
     "createdAt": "2026-03-12T17:14:52Z",
     "number": 21595,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21595",
     "title": "Time Out",
     "areas": [],
@@ -211,7 +280,7 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "April 2026 Release"
   },
   {
@@ -254,10 +323,10 @@
   },
   {
     "author": "samgusick",
-    "closedAt": null,
+    "closedAt": "2026-03-17T13:33:05Z",
     "createdAt": "2026-03-12T14:58:01Z",
     "number": 21590,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21590",
     "title": "[Bug]: Microsoft Entra connection strings with Authentication=\"Active Directory Default\" not supported",
     "areas": [
@@ -268,7 +337,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -11416,7 +11485,7 @@
     "hasType": true,
     "totalReactions": 8,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "shivashanmugam",
@@ -25005,10 +25074,10 @@
   },
   {
     "author": "EdCallahan",
-    "closedAt": null,
+    "closedAt": "2026-03-17T23:50:14Z",
     "createdAt": "2023-12-15T19:35:08Z",
     "number": 17853,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17853",
     "title": "Special characters cause export to Excel to fail",
     "areas": [
