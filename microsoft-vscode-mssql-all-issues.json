@@ -1,5 +1,132 @@
 [
   {
+    "author": "cjohnsto-nz",
+    "closedAt": null,
+    "createdAt": "2026-03-19T00:28:51Z",
+    "number": 21674,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21674",
+    "title": "[Feature Request]: SQL Notebooks AI Generate - Multiple Cells",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-03-18T23:24:51Z",
+    "number": 21673,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21673",
+    "title": "[Bug]: Peek Definition fails on SQL Server 2025",
+    "areas": [
+      "Language Service"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "gbritton1",
+    "closedAt": null,
+    "createdAt": "2026-03-18T20:53:22Z",
+    "number": 21670,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21670",
+    "title": "[Bug]: Actual Execution plan for query with JSON index fails",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": "2026-03-18T21:04:42Z",
+    "createdAt": "2026-03-18T15:39:08Z",
+    "number": 21664,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21664",
+    "title": "[Bug]: Inconsistent spacing in \"SQL Container\" in menu",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "pauli-kappi-hpo",
+    "closedAt": null,
+    "createdAt": "2026-03-18T13:01:56Z",
+    "number": 21661,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21661",
+    "title": "[Bug]: Exporting an Excel file is problematic",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "FlavioAttolni",
+    "closedAt": null,
+    "createdAt": "2026-03-18T10:03:01Z",
+    "number": 21659,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21659",
+    "title": "Edit Data filters are only applied to prefetched rows",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-03-18T06:45:59Z",
+    "number": 21658,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21658",
+    "title": "[Bug]: Import Data dialog cannot launch service on macOS",
+    "areas": [
+      "Flat File Import"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
     "author": "kburtram",
     "closedAt": null,
     "createdAt": "2026-03-17T19:13:41Z",
@@ -52,10 +179,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-03-18T06:37:45Z",
     "createdAt": "2026-03-17T06:24:56Z",
     "number": 21645,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21645",
     "title": "[Bug]: Connection Dialog doesn't hydrate recent connections.",
     "areas": [
@@ -66,7 +193,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "gisn1",
@@ -81,8 +208,8 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0,
+    "totalReactions": 1,
+    "commentCount": 1,
     "milestone": "April 2026 Release"
   },
   {
@@ -179,10 +306,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-18T16:04:02Z",
     "createdAt": "2026-03-13T00:50:11Z",
     "number": 21613,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21613",
     "title": "[Task]: Change Log Dialog updates for v1.41",
     "areas": [],
@@ -191,7 +318,7 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "March 2026 Release"
   },
   {
@@ -636,7 +763,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -1685,10 +1812,10 @@
   },
   {
     "author": "Prefix42",
-    "closedAt": null,
+    "closedAt": "2026-03-18T22:39:32Z",
     "createdAt": "2026-02-26T01:18:08Z",
     "number": 21357,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21357",
     "title": "[Bug]: Missing Microsoft.Build.Sql.2.0.0 and Microsoft.SqlServer.TransactSql.ScriptDom.170.128.0",
     "areas": [
@@ -1699,7 +1826,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -2881,10 +3008,10 @@
   },
   {
     "author": "allancascante",
-    "closedAt": null,
+    "closedAt": "2026-03-18T21:48:02Z",
     "createdAt": "2026-02-06T18:36:27Z",
     "number": 21114,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21114",
     "title": "[Feature Request]: Create database selector util",
     "areas": [
@@ -11470,10 +11597,10 @@
   },
   {
     "author": "ibrowne",
-    "closedAt": null,
+    "closedAt": "2026-03-18T22:21:08Z",
     "createdAt": "2025-06-16T12:49:22Z",
     "number": 19614,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19614",
     "title": "[Feature Request]: Customizable Styling for Results Grid",
     "areas": [
@@ -11597,7 +11724,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 8,
+    "commentCount": 10,
     "milestone": "November 2025 Release"
   },
   {
