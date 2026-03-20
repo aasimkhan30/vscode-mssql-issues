@@ -1,30 +1,14 @@
 [
   {
-    "author": "cjohnsto-nz",
-    "closedAt": null,
-    "createdAt": "2026-03-19T00:28:51Z",
-    "number": 21674,
-    "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/21674",
-    "title": "[Feature Request]: SQL Notebooks AI Generate - Multiple Cells",
-    "areas": [],
-    "priority": -1,
-    "type": "Feature Request",
-    "hasArea": false,
-    "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0
-  },
-  {
     "author": "kburtram",
     "closedAt": null,
-    "createdAt": "2026-03-18T23:24:51Z",
-    "number": 21673,
+    "createdAt": "2026-03-19T22:08:25Z",
+    "number": 21685,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/21673",
-    "title": "[Bug]: Peek Definition fails on SQL Server 2025",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21685",
+    "title": "[Bug]: Validate Authenticode signatures of STS binaries after download and extraction",
     "areas": [
-      "Language Service"
+      "Shell"
     ],
     "priority": -1,
     "type": "Bug",
@@ -35,20 +19,99 @@
     "milestone": "April 2026 Release"
   },
   {
-    "author": "gbritton1",
+    "author": "kburtram",
     "closedAt": null,
-    "createdAt": "2026-03-18T20:53:22Z",
-    "number": 21670,
+    "createdAt": "2026-03-19T21:19:54Z",
+    "number": 21684,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/21670",
-    "title": "[Bug]: Actual Execution plan for query with JSON index fails",
-    "areas": [],
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21684",
+    "title": "[Bug]: Right-click twice on result grid shows different context menu",
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "co-xpts",
+    "closedAt": null,
+    "createdAt": "2026-03-19T10:44:39Z",
+    "number": 21676,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21676",
+    "title": "[Feature Request]: Add setting to show / hide / postfix the schema of items in Explorer window",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "cjohnsto-nz",
+    "closedAt": null,
+    "createdAt": "2026-03-19T00:28:51Z",
+    "number": 21674,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21674",
+    "title": "[Feature Request]: SQL Notebooks AI Generate - Multiple Cells",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": "2026-03-19T01:33:42Z",
+    "createdAt": "2026-03-18T23:24:51Z",
+    "number": 21673,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21673",
+    "title": "[Bug]: Peek Definition fails on SQL Server 2025",
+    "areas": [
+      "Language Service"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "gbritton1",
+    "closedAt": "2026-03-19T16:35:40Z",
+    "createdAt": "2026-03-18T20:53:22Z",
+    "number": 21670,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21670",
+    "title": "[Bug]: Actual Execution plan for query with JSON index fails",
+    "areas": [
+      "Query Plan"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "kburtram",
@@ -71,10 +134,10 @@
   },
   {
     "author": "pauli-kappi-hpo",
-    "closedAt": null,
+    "closedAt": "2026-03-19T19:48:09Z",
     "createdAt": "2026-03-18T13:01:56Z",
     "number": 21661,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21661",
     "title": "[Bug]: Exporting an Excel file is problematic",
     "areas": [
@@ -85,7 +148,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 3,
     "milestone": "April 2026 Release"
   },
   {
@@ -123,7 +186,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "April 2026 Release"
   },
   {
@@ -169,13 +232,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21647",
     "title": "[Feature Request]: Flat File Importer - Support for non-master users",
-    "areas": [],
+    "areas": [
+      "Flat File Import"
+    ],
     "priority": -1,
-    "type": "Feature Request",
-    "hasArea": false,
+    "type": "Bug",
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -220,13 +286,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21632",
     "title": "[Feature Request]: Copy just header / column name from the result set",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "allancascante",
@@ -1807,7 +1876,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 25,
+    "commentCount": 28,
     "milestone": "April 2026 Release"
   },
   {
@@ -2641,7 +2710,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -10539,10 +10608,10 @@
   },
   {
     "author": "mvoggu",
-    "closedAt": null,
+    "closedAt": "2026-03-20T00:53:29Z",
     "createdAt": "2025-07-19T12:38:11Z",
     "number": 19809,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19809",
     "title": "[Feature Request]: \"Add Related Tables\" context menu for tables in Schema Designer",
     "areas": [
@@ -10553,7 +10622,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -16560,7 +16629,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 12,
+    "totalReactions": 13,
     "commentCount": 7,
     "milestone": "Backlog"
   },
