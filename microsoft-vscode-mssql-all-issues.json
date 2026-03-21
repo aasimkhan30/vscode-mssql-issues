@@ -1,5 +1,78 @@
 [
   {
+    "author": "MaxLandh",
+    "closedAt": null,
+    "createdAt": "2026-03-20T19:47:50Z",
+    "number": 21700,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21700",
+    "title": "[Feature Request]: Show SQL Server Messages Panel Output Inline per Notebook Cell",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": "2026-03-20T19:42:15Z",
+    "createdAt": "2026-03-20T16:57:27Z",
+    "number": 21697,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21697",
+    "title": "[Bug]: Connection info codelens text isn't showing in query editor",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-03-20T16:23:56Z",
+    "number": 21695,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21695",
+    "title": "[Bug]: Query editor connection fails when OE connection is fine",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": "2026-03-20T17:33:28Z",
+    "createdAt": "2026-03-20T15:04:24Z",
+    "number": 21692,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21692",
+    "title": "[Bug]: Query results text output has extra '(' ')' around rows affected",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
     "author": "kburtram",
     "closedAt": null,
     "createdAt": "2026-03-19T22:08:25Z",
@@ -20,10 +93,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-20T15:44:26Z",
     "createdAt": "2026-03-19T21:19:54Z",
     "number": 21684,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21684",
     "title": "[Bug]: Right-click twice on result grid shows different context menu",
     "areas": [
@@ -280,10 +353,10 @@
   },
   {
     "author": "bmx-ht",
-    "closedAt": null,
+    "closedAt": "2026-03-20T21:02:37Z",
     "createdAt": "2026-03-16T10:58:35Z",
     "number": 21632,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21632",
     "title": "[Feature Request]: Copy just header / column name from the result set",
     "areas": [
@@ -1876,7 +1949,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 28,
+    "commentCount": 30,
     "milestone": "April 2026 Release"
   },
   {
