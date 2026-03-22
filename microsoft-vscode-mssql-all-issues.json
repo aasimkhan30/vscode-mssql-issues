@@ -1,5 +1,37 @@
 [
   {
+    "author": "andresMZ-ec",
+    "closedAt": null,
+    "createdAt": "2026-03-21T16:21:25Z",
+    "number": 21704,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21704",
+    "title": "[Feature Request]: Allow the database cache to be updated based on changes to tables",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "andresMZ-ec",
+    "closedAt": null,
+    "createdAt": "2026-03-21T16:12:44Z",
+    "number": 21703,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21703",
+    "title": "[Bug]: Disconnection from databases due to inactivity",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "MaxLandh",
     "closedAt": null,
     "createdAt": "2026-03-20T19:47:50Z",
@@ -18947,7 +18979,7 @@
     "type": null,
     "hasArea": false,
     "hasType": false,
-    "totalReactions": 36,
+    "totalReactions": 37,
     "commentCount": 16
   },
   {
