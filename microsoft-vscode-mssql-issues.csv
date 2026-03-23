@@ -1,5 +1,6 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
-"21704","[Feature Request]: Allow the database cache to be updated based on changes to tables","andresMZ-ec","OPEN","2026-03-21T16:21:25Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/21704","0","-1",
+"21707","[Bug]: Extension Fails to Load -- Could Not Load File or Assembly","dfaivre-pcs","CLOSED","2026-03-22T19:09:13Z","2026-03-22T21:45:03Z","","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21707","2","-1",
+"21704","[Feature Request]: Allow the database cache to be updated based on changes to tables","andresMZ-ec","CLOSED","2026-03-21T16:21:25Z","2026-03-22T21:46:46Z","","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/21704","1","-1",
 "21703","[Bug]: Disconnection from databases due to inactivity","andresMZ-ec","OPEN","2026-03-21T16:12:44Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21703","0","-1",
 "21700","[Feature Request]: Show SQL Server Messages Panel Output Inline per Notebook Cell","MaxLandh","OPEN","2026-03-20T19:47:50Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/21700","0","-1",
 "21697","[Bug]: Connection info codelens text isn't showing in query editor","kburtram","CLOSED","2026-03-20T16:57:27Z","2026-03-20T19:42:15Z","Connection","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21697","1","-1","April 2026 Release"

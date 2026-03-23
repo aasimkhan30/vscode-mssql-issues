@@ -1,10 +1,26 @@
 [
   {
+    "author": "dfaivre-pcs",
+    "closedAt": "2026-03-22T21:45:03Z",
+    "createdAt": "2026-03-22T19:09:13Z",
+    "number": 21707,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21707",
+    "title": "[Bug]: Extension Fails to Load -- Could Not Load File or Assembly",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
     "author": "andresMZ-ec",
-    "closedAt": null,
+    "closedAt": "2026-03-22T21:46:46Z",
     "createdAt": "2026-03-21T16:21:25Z",
     "number": 21704,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21704",
     "title": "[Feature Request]: Allow the database cache to be updated based on changes to tables",
     "areas": [],
@@ -13,7 +29,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "andresMZ-ec",
