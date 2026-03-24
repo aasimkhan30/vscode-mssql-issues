@@ -1,5 +1,55 @@
 [
   {
+    "author": "bweissman",
+    "closedAt": null,
+    "createdAt": "2026-03-23T21:53:00Z",
+    "number": 21715,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21715",
+    "title": "[Feature Request]: SQL Notebooks - Multiple connections",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Aniruddh25",
+    "closedAt": null,
+    "createdAt": "2026-03-23T18:21:44Z",
+    "number": 21712,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21712",
+    "title": "[Bug]: Casing of `builder` is incorrect in `Data API Builder`",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0
+  },
+  {
+    "author": "volodymyr-kryvoshapov",
+    "closedAt": null,
+    "createdAt": "2026-03-23T17:53:25Z",
+    "number": 21711,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21711",
+    "title": "[Bug]: MSSQL Info notification hides data behind it",
+    "areas": [
+      "Shell"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
     "author": "dfaivre-pcs",
     "closedAt": "2026-03-22T21:45:03Z",
     "createdAt": "2026-03-22T19:09:13Z",
@@ -13,7 +63,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 3
   },
   {
     "author": "andresMZ-ec",
@@ -1997,7 +2047,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 30,
+    "commentCount": 31,
     "milestone": "April 2026 Release"
   },
   {
@@ -2992,10 +3042,10 @@
   },
   {
     "author": "keith-oak",
-    "closedAt": null,
+    "closedAt": "2026-03-23T15:32:25Z",
     "createdAt": "2026-02-11T00:08:42Z",
     "number": 21156,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21156",
     "title": "[Bug]: SQL Database Projects generates invalid all-zeros ProjectGuid and modifies files without consent",
     "areas": [
