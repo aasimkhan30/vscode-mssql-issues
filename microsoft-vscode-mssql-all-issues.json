@@ -1,5 +1,62 @@
 [
   {
+    "author": "ssreerama",
+    "closedAt": "2026-03-24T18:34:59Z",
+    "createdAt": "2026-03-24T17:22:53Z",
+    "number": 21725,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21725",
+    "title": "[Bug]:  Publish dialog fields float to center instead of being left-anchored when editor panel is wide",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "ErikEJ",
+    "closedAt": null,
+    "createdAt": "2026-03-24T16:17:02Z",
+    "number": 21724,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21724",
+    "title": "[Bug]: 3rd party analyzer rules not shown in new rule management UI",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "May 2026 Release"
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": "2026-03-24T15:31:38Z",
+    "createdAt": "2026-03-24T15:30:31Z",
+    "number": 21723,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21723",
+    "title": "[Bug]: In database project create new database object with correct schema",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
     "author": "bweissman",
     "closedAt": null,
     "createdAt": "2026-03-23T21:53:00Z",
@@ -17,10 +74,10 @@
   },
   {
     "author": "Aniruddh25",
-    "closedAt": null,
+    "closedAt": "2026-03-24T17:54:58Z",
     "createdAt": "2026-03-23T18:21:44Z",
     "number": 21712,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21712",
     "title": "[Bug]: Casing of `builder` is incorrect in `Data API Builder`",
     "areas": [],
@@ -2047,7 +2104,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 31,
+    "commentCount": 33,
     "milestone": "April 2026 Release"
   },
   {
@@ -3623,10 +3680,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-03-24T16:49:41Z",
     "createdAt": "2026-01-29T20:02:18Z",
     "number": 21053,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21053",
     "title": "[Bug]: Reload project has no response after SC two projects and apply change",
     "areas": [],
@@ -3635,7 +3692,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "April 2026 Release"
   },
   {
@@ -8059,10 +8116,10 @@
   },
   {
     "author": "terrykinnaman",
-    "closedAt": "2025-10-20T20:21:38Z",
+    "closedAt": null,
     "createdAt": "2025-10-06T17:32:57Z",
     "number": 20283,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20283",
     "title": "[Bug]: Offset and Length Out of Bounds",
     "areas": [
@@ -8073,7 +8130,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 5,
+    "commentCount": 7,
     "milestone": "November 2025 Release"
   },
   {
