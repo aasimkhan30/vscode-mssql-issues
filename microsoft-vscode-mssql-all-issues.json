@@ -1,5 +1,40 @@
 [
   {
+    "author": "hajerty",
+    "closedAt": null,
+    "createdAt": "2026-03-25T14:52:41Z",
+    "number": 21739,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21739",
+    "title": "[Bug]: Run query from sql notebook",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "mrValtiel",
+    "closedAt": null,
+    "createdAt": "2026-03-25T10:02:58Z",
+    "number": 21738,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21738",
+    "title": "[Bug]: Error while installing SQL tools service",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "ssreerama",
     "closedAt": "2026-03-24T18:34:59Z",
     "createdAt": "2026-03-24T17:22:53Z",
@@ -454,10 +489,10 @@
   },
   {
     "author": "Nikolai5",
-    "closedAt": null,
+    "closedAt": "2026-03-25T16:35:04Z",
     "createdAt": "2026-03-17T11:19:06Z",
     "number": 21647,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21647",
     "title": "[Feature Request]: Flat File Importer - Support for non-master users",
     "areas": [
@@ -1754,10 +1789,10 @@
   },
   {
     "author": "blackmaff",
-    "closedAt": null,
+    "closedAt": "2026-03-25T16:35:05Z",
     "createdAt": "2026-03-02T15:35:29Z",
     "number": 21409,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21409",
     "title": "[Bug]: Flat File Import not finding Table Schema",
     "areas": [
@@ -2196,7 +2231,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 1,
-    "milestone": "Backlog"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "kzendra",
@@ -9963,7 +9998,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "June 2026 Release"
   },
   {
@@ -15770,10 +15805,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-03-25T17:48:02Z",
     "createdAt": "2025-04-11T00:25:43Z",
     "number": 19120,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19120",
     "title": "[Bug]: Add tree-based table filtering to Schema Designer",
     "areas": [
@@ -20880,8 +20915,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
-    "commentCount": 5,
+    "totalReactions": 3,
+    "commentCount": 6,
     "milestone": "Backlog"
   },
   {
