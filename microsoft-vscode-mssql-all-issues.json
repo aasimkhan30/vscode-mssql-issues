@@ -1,5 +1,183 @@
 [
   {
+    "author": "familygw",
+    "closedAt": null,
+    "createdAt": "2026-03-26T21:50:08Z",
+    "number": 21764,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21764",
+    "title": "[Bug]: ms-mssql.mssql crashes immediately on VS Code startup and can only be recovered by restarting the Extension Host",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ShruthikaAnandur",
+    "closedAt": "2026-03-26T18:07:13Z",
+    "createdAt": "2026-03-26T16:21:45Z",
+    "number": 21760,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21760",
+    "title": "[Bug]: Unable to attach mdf file to SQL server on macOS VS Code",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "davidcousinsho",
+    "closedAt": null,
+    "createdAt": "2026-03-26T10:42:36Z",
+    "number": 21756,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21756",
+    "title": "[Bug]: Connection to Azure synapse via Browse Azure option uses the wrong hostname",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": "2026-03-26T19:54:48Z",
+    "createdAt": "2026-03-26T06:05:08Z",
+    "number": 21754,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21754",
+    "title": "Backup dialog: New file card path inputs lose focus while typing",
+    "areas": [
+      "Backup/Restore"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-03-26T04:01:56Z",
+    "number": 21753,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21753",
+    "title": "DAB and Schema Designer webview icons match Database Projects icon",
+    "areas": [
+      "SQL Project",
+      "Schema Designer",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-03-26T03:49:46Z",
+    "number": 21752,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21752",
+    "title": "Table Designer icon mismatch between OE and webview",
+    "areas": [
+      "Object Explorer",
+      "Table Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-03-26T03:43:50Z",
+    "number": 21751,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21751",
+    "title": "Style profiler filter menu to match result grid menu",
+    "areas": [
+      "Query Profiler"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-03-26T03:40:42Z",
+    "number": 21750,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21750",
+    "title": "[Bug]: Profiler context menu doesn't follow theme.",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-03-26T03:35:52Z",
+    "number": 21749,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21749",
+    "title": "[Bug]: Profiler toolbar is too long.",
+    "areas": [
+      "Query Profiler"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-03-26T03:32:13Z",
+    "number": 21748,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21748",
+    "title": "[Bug]: Profile slick grid doesn't have a minimum column width.",
+    "areas": [
+      "Query Profiler"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "hajerty",
     "closedAt": null,
     "createdAt": "2026-03-25T14:52:41Z",
@@ -2138,7 +2316,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 33,
     "milestone": "April 2026 Release"
   },
@@ -3616,7 +3794,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -6131,10 +6309,10 @@
   },
   {
     "author": "tauseefsiddique10",
-    "closedAt": null,
+    "closedAt": "2026-03-26T18:37:23Z",
     "createdAt": "2025-11-17T22:44:37Z",
     "number": 20609,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20609",
     "title": "[Feature Request]: Adding Fabric Target to DACPAC import/export",
     "areas": [
@@ -6145,7 +6323,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "April 2026 Release"
   },
   {
@@ -16892,7 +17070,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 13,
+    "totalReactions": 14,
     "commentCount": 7,
     "milestone": "Backlog"
   },
