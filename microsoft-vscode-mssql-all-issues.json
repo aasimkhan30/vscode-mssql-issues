@@ -1,5 +1,59 @@
 [
   {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-03-27T17:18:52Z",
+    "number": 21771,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21771",
+    "title": "[Bug]: Provide SQL Projects documentation link",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "dmbaio",
+    "closedAt": null,
+    "createdAt": "2026-03-27T17:14:46Z",
+    "number": 21770,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21770",
+    "title": "[GitHub Copilot - Bug | Feature request]: Copilot Chat fails MSSQL-assisted query analysis when mssql_schema_designer tool validation rejects top-level oneOf",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Both Bug and Feature",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ki6bjv",
+    "closedAt": null,
+    "createdAt": "2026-03-27T02:33:44Z",
+    "number": 21765,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21765",
+    "title": "[Feature Request]: Query History — option to exclude specific queries from being captured",
+    "areas": [
+      "Query History"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "familygw",
     "closedAt": null,
     "createdAt": "2026-03-26T21:50:08Z",
@@ -29,7 +83,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "davidcousinsho",
@@ -84,7 +138,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -1202,10 +1257,10 @@
   },
   {
     "author": "itsimtiaz",
-    "closedAt": null,
+    "closedAt": "2026-03-27T20:29:05Z",
     "createdAt": "2026-03-10T19:01:42Z",
     "number": 21547,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21547",
     "title": "[Feature Request]: Missing Execution Plan Details in VS Code SQL Server Extension",
     "areas": [
@@ -12668,10 +12723,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-03-27T21:10:39Z",
     "createdAt": "2025-06-05T16:12:01Z",
     "number": 19535,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19535",
     "title": "[Bug]: Query editor shows duplicate icons when MSSQL and PostgreSQL extensions are both installed",
     "areas": [
@@ -19404,7 +19459,7 @@
     "type": null,
     "hasArea": false,
     "hasType": false,
-    "totalReactions": 28,
+    "totalReactions": 27,
     "commentCount": 11
   },
   {
