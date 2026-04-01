@@ -1,5 +1,40 @@
 [
   {
+    "author": "smartycope",
+    "closedAt": null,
+    "createdAt": "2026-03-31T20:44:54Z",
+    "number": 21792,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21792",
+    "title": "[Bug]: No error messages when running malformed SQL query",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "uhillbom",
+    "closedAt": null,
+    "createdAt": "2026-03-31T11:30:40Z",
+    "number": 21789,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21789",
+    "title": "[Bug]: Schema compare doesn't show the expected changes",
+    "areas": [
+      "Schema Compare"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "vianney-alfaro",
     "closedAt": null,
     "createdAt": "2026-03-30T15:15:55Z",
@@ -15,7 +50,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "April 2026 Release"
   },
   {
@@ -36,10 +71,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-03-31T20:00:07Z",
     "createdAt": "2026-03-27T17:18:52Z",
     "number": 21771,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21771",
     "title": "[Bug]: Provide SQL Projects documentation link",
     "areas": [
@@ -316,7 +351,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "April 2026 Release"
   },
   {
@@ -749,10 +784,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-31T20:02:56Z",
     "createdAt": "2026-03-17T19:13:41Z",
     "number": 21650,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21650",
     "title": "[Bug]: Launch Query Profiler menu item is displayed twice for database nodes",
     "areas": [
@@ -1003,10 +1038,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-31T20:02:56Z",
     "createdAt": "2026-03-12T19:57:34Z",
     "number": 21600,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21600",
     "title": "[Bug]: Design Schema command doesn't show up on a connection directly to a database",
     "areas": [
@@ -2266,7 +2301,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/21378",
     "title": "[Bug]: Text selection in the query messages window doesn't work for long outputs",
     "areas": [
-      "Query Result"
+      "SQL Notebook"
     ],
     "priority": -1,
     "type": "Bug",
@@ -2434,7 +2469,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 33,
+    "commentCount": 35,
     "milestone": "April 2026 Release"
   },
   {
@@ -3343,10 +3378,10 @@
   },
   {
     "author": "AdH-GW",
-    "closedAt": null,
+    "closedAt": "2026-03-31T20:00:05Z",
     "createdAt": "2026-02-11T16:06:28Z",
     "number": 21163,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21163",
     "title": "[Bug]: SQL71561: Cross-project artifact references fail to resolve during build in VS Code SQL Database Projects",
     "areas": [
@@ -5122,7 +5157,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 1,
     "milestone": "Backlog"
   },
@@ -24870,10 +24905,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-03-31T22:13:02Z",
     "createdAt": "2024-08-26T19:21:50Z",
     "number": 17992,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/17992",
     "title": "Integrate with .Net Install Tool to use shared runtime",
     "areas": [
@@ -34411,7 +34446,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 3,
     "commentCount": 11,
     "milestone": "Backlog"
   },
