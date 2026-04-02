@@ -1,5 +1,38 @@
 [
   {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-04-01T17:59:32Z",
+    "number": 21799,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21799",
+    "title": "Require sandbox for test stubs",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "sraban75",
+    "closedAt": null,
+    "createdAt": "2026-04-01T11:47:12Z",
+    "number": 21796,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21796",
+    "title": "[Feature Request]: Action bar (Connect, Change, Execute, etc.)",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "smartycope",
     "closedAt": null,
     "createdAt": "2026-03-31T20:44:54Z",
@@ -1088,7 +1121,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "April 2026 Release"
   },
   {
@@ -2469,7 +2502,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 35,
+    "commentCount": 38,
     "milestone": "April 2026 Release"
   },
   {
@@ -3289,10 +3322,10 @@
   },
   {
     "author": "samgusick",
-    "closedAt": null,
+    "closedAt": "2026-04-01T19:29:51Z",
     "createdAt": "2026-02-17T22:05:26Z",
     "number": 21217,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21217",
     "title": "[Bug]: Random SQLToolsService crash (Usually seen after hours of use)",
     "areas": [
@@ -3303,7 +3336,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -4460,10 +4493,10 @@
   },
   {
     "author": "vobrechkov",
-    "closedAt": null,
+    "closedAt": "2026-04-01T20:28:28Z",
     "createdAt": "2026-01-20T22:27:01Z",
     "number": 20947,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20947",
     "title": "[Bug]: \"Object reference not set to instance of an object\" error when expanding database node when connected Azure SQL server",
     "areas": [
@@ -4475,7 +4508,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "April 2026 Release"
   },
   {
@@ -12372,10 +12405,10 @@
   },
   {
     "author": "txh57",
-    "closedAt": null,
+    "closedAt": "2026-04-01T21:30:43Z",
     "createdAt": "2025-06-13T08:24:14Z",
     "number": 19602,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19602",
     "title": "[Bug]: Cannot connect to SQL database of Power Platform environment",
     "areas": [
@@ -12386,7 +12419,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 10,
+    "commentCount": 11,
     "milestone": "November 2025 Release"
   },
   {
