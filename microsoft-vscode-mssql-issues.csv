@@ -1,4 +1,6 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"21806","[Bug]: VECTOR data type values display as hex bytes instead of numeric arrays in query results and edit data view","croblesm","OPEN","2026-04-03T00:00:51Z",,"Query Result","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21806","0","-1","April 2026 Release"
+"21806","[Bug]: VECTOR data type values display as hex bytes instead of numeric arrays in query results and edit data view","croblesm","OPEN","2026-04-03T00:00:51Z",,"View/Edit data","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21806","0","-1","April 2026 Release"
 "21799","Require sandbox for test stubs","Benjin","OPEN","2026-04-01T17:59:32Z",,"",,"0","https://github.com/microsoft/vscode-mssql/issues/21799","0","-1","April 2026 Release"
 "21796","[Feature Request]: Action bar (Connect, Change, Execute, etc.)","sraban75","OPEN","2026-04-01T11:47:12Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/21796","0","-1",
 "21792","[Bug]: No error messages when running malformed SQL query","smartycope","OPEN","2026-03-31T20:44:54Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21792","0","-1",

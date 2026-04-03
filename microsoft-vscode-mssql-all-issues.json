@@ -1,5 +1,25 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-04-03T00:00:51Z",
+    "number": 21806,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21806",
+    "title": "[Bug]: VECTOR data type values display as hex bytes instead of numeric arrays in query results and edit data view",
+    "areas": [
+      "Query Result",
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
     "author": "Benjin",
     "closedAt": null,
     "createdAt": "2026-04-01T17:59:32Z",
