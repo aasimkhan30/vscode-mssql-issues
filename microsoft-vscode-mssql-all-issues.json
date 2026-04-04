@@ -1,14 +1,29 @@
 [
   {
-    "author": "croblesm",
+    "author": "johnbridgwater",
     "closedAt": null,
-    "createdAt": "2026-04-03T00:00:51Z",
-    "number": 21806,
+    "createdAt": "2026-04-03T23:10:28Z",
+    "number": 21817,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/21806",
-    "title": "[Bug]: VECTOR data type values display as hex bytes instead of numeric arrays in query results and edit data view",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21817",
+    "title": "[Bug]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-03T16:19:51Z",
+    "number": 21812,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21812",
+    "title": "[Bug]: VECTOR data type values display as hex bytes instead of numeric arrays in edit data view",
     "areas": [
-      "Query Result",
       "View/Edit data"
     ],
     "priority": -1,
@@ -17,6 +32,43 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
+    "milestone": "May 2026 Release"
+  },
+  {
+    "author": "gerrynoble",
+    "closedAt": "2026-04-03T15:53:25Z",
+    "createdAt": "2026-04-03T09:37:36Z",
+    "number": 21810,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21810",
+    "title": "[Feature Request]: Ability to import CSV file",
+    "areas": [
+      "Flat File Import"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-04-03T00:00:51Z",
+    "number": 21806,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21806",
+    "title": "[Bug]: VECTOR data type values display as hex bytes instead of numeric arrays in query results",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
     "milestone": "April 2026 Release"
   },
   {
@@ -157,7 +209,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "April 2026 Release"
   },
   {
@@ -812,7 +864,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 2,
     "milestone": "April 2026 Release"
   },
@@ -2522,7 +2574,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 38,
+    "commentCount": 39,
     "milestone": "April 2026 Release"
   },
   {
@@ -3479,7 +3531,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 2,
     "milestone": "Backlog"
   },
