@@ -1,12 +1,12 @@
 [
   {
-    "author": "johnbridgwater",
+    "author": "ssreerama",
     "closedAt": null,
-    "createdAt": "2026-04-03T23:10:28Z",
-    "number": 21817,
+    "createdAt": "2026-04-06T20:44:07Z",
+    "number": 21827,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/21817",
-    "title": "[Bug]:",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21827",
+    "title": "[Bug]:  Automatically create folder structure when adding SQL objects to a project",
     "areas": [],
     "priority": -1,
     "type": "Bug",
@@ -14,6 +14,41 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
+  },
+  {
+    "author": "Omzig",
+    "closedAt": null,
+    "createdAt": "2026-04-06T19:54:07Z",
+    "number": 21826,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21826",
+    "title": "[Feature Request]: Allow @mssql /connect in the Github Copilot CLI",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "johnbridgwater",
+    "closedAt": null,
+    "createdAt": "2026-04-03T23:10:28Z",
+    "number": 21817,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21817",
+    "title": "[Bug]: Object Explorer freezes with large number of tables",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -155,7 +190,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "April 2026 Release"
   },
   {
@@ -13749,7 +13784,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 11,
     "milestone": "November 2025 Release"
   },
