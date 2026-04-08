@@ -1,12 +1,12 @@
 [
   {
-    "author": "ssreerama",
+    "author": "gogetwoo",
     "closedAt": null,
-    "createdAt": "2026-04-06T20:44:07Z",
-    "number": 21827,
+    "createdAt": "2026-04-07T17:42:22Z",
+    "number": 21832,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/21827",
-    "title": "[Bug]:  Automatically create folder structure when adding SQL objects to a project",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21832",
+    "title": "[Bug]: Clicking Refresh on the Filtered Stored Procedures List Never Loads Filtered List",
     "areas": [],
     "priority": -1,
     "type": "Bug",
@@ -16,6 +16,57 @@
     "commentCount": 0
   },
   {
+    "author": "DawidMazur-CAL",
+    "closedAt": null,
+    "createdAt": "2026-04-07T11:27:22Z",
+    "number": 21831,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21831",
+    "title": "[Bug]: Schema Compare does not generate a script.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "bronthulke",
+    "closedAt": null,
+    "createdAt": "2026-04-07T06:20:15Z",
+    "number": 21830,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21830",
+    "title": "[Feature Request]: Pin connection profile to the top of the view",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-04-06T20:44:07Z",
+    "number": 21827,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21827",
+    "title": "[Bug]:  Automatically create folder structure when adding SQL objects to a project",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "April 2026 Release"
+  },
+  {
     "author": "Omzig",
     "closedAt": null,
     "createdAt": "2026-04-06T19:54:07Z",
@@ -23,10 +74,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21826",
     "title": "[Feature Request]: Allow @mssql /connect in the Github Copilot CLI",
-    "areas": [],
+    "areas": [
+      "GitHub Copilot"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -176,10 +229,10 @@
   },
   {
     "author": "vianney-alfaro",
-    "closedAt": null,
+    "closedAt": "2026-04-07T15:34:03Z",
     "createdAt": "2026-03-30T15:15:55Z",
     "number": 21782,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21782",
     "title": "[Bug]: Extension failed to install or load correctly",
     "areas": [
@@ -190,7 +243,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "April 2026 Release"
   },
   {
@@ -10487,7 +10540,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 7,
+    "commentCount": 8,
     "milestone": "April 2026 Release"
   },
   {
@@ -17806,7 +17859,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 5,
     "milestone": "April 2026 Release"
   },
