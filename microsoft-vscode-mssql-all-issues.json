@@ -1,5 +1,24 @@
 [
   {
+    "author": "TheHuyCung",
+    "closedAt": "2026-04-08T22:14:53Z",
+    "createdAt": "2026-04-08T11:14:43Z",
+    "number": 21837,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21837",
+    "title": "[Bug]: SQL Tools service fails to launch",
+    "areas": [
+      "Acquisition"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 8,
+    "milestone": "April 2026 Release"
+  },
+  {
     "author": "gogetwoo",
     "closedAt": null,
     "createdAt": "2026-04-07T17:42:22Z",
@@ -13,7 +32,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "DawidMazur-CAL",
@@ -45,7 +64,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 3
   },
   {
     "author": "ssreerama",
@@ -63,7 +82,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "April 2026 Release"
   },
   {
@@ -120,7 +139,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "May 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "gerrynoble",
@@ -142,10 +161,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-04-08T21:28:53Z",
     "createdAt": "2026-04-03T00:00:51Z",
     "number": 21806,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21806",
     "title": "[Bug]: VECTOR data type values display as hex bytes instead of numeric arrays in query results",
     "areas": [
@@ -371,7 +390,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "May 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -431,7 +450,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "May 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -469,7 +488,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "May 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -544,7 +563,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "April 2026 Release"
   },
   {
@@ -583,7 +602,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "May 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -641,10 +660,10 @@
   },
   {
     "author": "volodymyr-kryvoshapov",
-    "closedAt": null,
+    "closedAt": "2026-04-08T18:01:19Z",
     "createdAt": "2026-03-23T17:53:25Z",
     "number": 21711,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21711",
     "title": "[Bug]: MSSQL Info notification hides data behind it",
     "areas": [
@@ -726,7 +745,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "May 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "kburtram",
@@ -3916,7 +3935,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "May 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "croblesm",
@@ -3935,7 +3954,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "May 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "cancan101",
