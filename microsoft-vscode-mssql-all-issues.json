@@ -1,5 +1,212 @@
 [
   {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-04-10T00:41:24Z",
+    "number": 21862,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21862",
+    "title": "[Feature Request]: Add API diagram to improve readability of config preview",
+    "areas": [
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-10T00:37:10Z",
+    "number": 21860,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21860",
+    "title": "[Bug]: SQL Notebook result set disappears",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-04-10T00:18:54Z",
+    "number": 21859,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21859",
+    "title": "[Feature Request]: Support column selection in Data API Builder",
+    "areas": [
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-04-10T00:01:19Z",
+    "number": 21858,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21858",
+    "title": "[Feature Request]: Real-time ORM Definition Generation in Schema Designer",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-04-09T23:42:04Z",
+    "number": 21857,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21857",
+    "title": "[Bug]: Connection leaks on Object explorer",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-04-09T23:25:47Z",
+    "number": 21855,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21855",
+    "title": "[Bug]: Object Explorer displays user-defined and XML column types without key details",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-04-09T23:11:15Z",
+    "number": 21854,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21854",
+    "title": "[Bug]: Peek/Go to Definition doesn't work when schema and table share the same name",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-04-09T23:07:03Z",
+    "number": 21853,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21853",
+    "title": "[Feature Request]: Make IntelliSense metadata refresh easier to discover",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-09T22:58:57Z",
+    "number": 21852,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21852",
+    "title": "[Bug]: SQL Notebook cell output formatting could be improved",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-09T22:46:20Z",
+    "number": 21851,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21851",
+    "title": "[Bug]: Checkboxes in Object Search are slow to change state on clicks",
+    "areas": [
+      "Object Search"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-04-09T22:39:58Z",
+    "number": 21850,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21850",
+    "title": "[Bug]: Save as Excel fails when result set exceeds Excel worksheet row limit",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-04-09T22:36:36Z",
+    "number": 21848,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21848",
+    "title": "[Bug]: Query results pane is slow to render large or wide result sets",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "TheHuyCung",
     "closedAt": "2026-04-08T22:14:53Z",
     "createdAt": "2026-04-08T11:14:43Z",
@@ -26,13 +233,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21832",
     "title": "[Bug]: Clicking Refresh on the Filtered Stored Procedures List Never Loads Filtered List",
-    "areas": [],
+    "areas": [
+      "Object Explorer"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "DawidMazur-CAL",
@@ -42,20 +252,23 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21831",
     "title": "[Bug]: Schema Compare does not generate a script.",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "bronthulke",
-    "closedAt": null,
+    "closedAt": "2026-04-09T22:01:34Z",
     "createdAt": "2026-04-07T06:20:15Z",
     "number": 21830,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21830",
     "title": "[Feature Request]: Pin connection profile to the top of the view",
     "areas": [],
@@ -64,14 +277,14 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 4
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-04-09T21:26:41Z",
     "createdAt": "2026-04-06T20:44:07Z",
     "number": 21827,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21827",
     "title": "[Bug]:  Automatically create folder structure when adding SQL objects to a project",
     "areas": [
@@ -101,7 +314,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "johnbridgwater",
@@ -203,29 +417,35 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21796",
     "title": "[Feature Request]: Action bar (Connect, Change, Execute, etc.)",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "smartycope",
-    "closedAt": null,
+    "closedAt": "2026-04-10T00:46:24Z",
     "createdAt": "2026-03-31T20:44:54Z",
     "number": 21792,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21792",
     "title": "[Bug]: No error messages when running malformed SQL query",
-    "areas": [],
+    "areas": [
+      "SQL Notebook"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
   },
   {
     "author": "uhillbom",
@@ -525,7 +745,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -11055,10 +11275,10 @@
   },
   {
     "author": "HugoMSFT",
-    "closedAt": null,
+    "closedAt": "2026-04-09T16:26:39Z",
     "createdAt": "2025-07-28T22:58:11Z",
     "number": 19848,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19848",
     "title": "[Bug]: External Tables not showing on VSCode",
     "areas": [
@@ -11069,7 +11289,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -19260,10 +19480,10 @@
   },
   {
     "author": "built2order",
-    "closedAt": null,
+    "closedAt": "2026-04-09T16:24:51Z",
     "createdAt": "2025-02-21T02:57:00Z",
     "number": 18742,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18742",
     "title": "Lack of code signing for macOS binaries",
     "areas": [
@@ -19274,7 +19494,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -48118,19 +48338,21 @@
   },
   {
     "author": "erickangMSFT",
-    "closedAt": "2019-04-02T18:53:55Z",
+    "closedAt": null,
     "createdAt": "2016-11-09T03:34:23Z",
     "number": 311,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/311",
     "title": "Language Service doesn't implement drift detection and gets out-of-sync after CREATE",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 4
   },
   {
     "author": "MitchellSternke",
