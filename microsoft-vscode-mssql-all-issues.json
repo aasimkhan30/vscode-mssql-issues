@@ -1,5 +1,133 @@
 [
   {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-10T21:00:47Z",
+    "number": 21879,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21879",
+    "title": "[Bug]: Query results cell selection becomes inconsistent when pointer leaves grid during drag selection",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-10T20:49:22Z",
+    "number": 21878,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21878",
+    "title": "[Bug]: Peek Definition editor is connected to the active database and allows query execution",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "philipnye",
+    "closedAt": null,
+    "createdAt": "2026-04-10T19:49:02Z",
+    "number": 21876,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21876",
+    "title": "[Feature Request]: Add setting to disable automatic bracket-wrapping of reserved words in IntelliSense completions",
+    "areas": [
+      "Language Service"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-10T19:28:29Z",
+    "number": 21875,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21875",
+    "title": "[Bug]: Copying SQL text in notebook editor cell causes an exception in console",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-10T19:06:02Z",
+    "number": 21871,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21871",
+    "title": "[Bug]: Create SQL Notebook menu title should be New SQL Notebook",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-10T03:26:26Z",
+    "number": 21866,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21866",
+    "title": "[Bug]: Saving a SQL Notebook resets SQL cells to Python",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-10T01:48:19Z",
+    "number": 21865,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21865",
+    "title": "[Bug]: New SQL Notebooks does not select MSSQL kernel",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "yoleichen",
     "closedAt": null,
     "createdAt": "2026-04-10T00:41:24Z",
@@ -20,10 +148,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-04-10T19:08:01Z",
     "createdAt": "2026-04-10T00:37:10Z",
     "number": 21860,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21860",
     "title": "[Bug]: SQL Notebook result set disappears",
     "areas": [
@@ -34,7 +162,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "yoleichen",
@@ -82,11 +210,14 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21857",
     "title": "[Bug]: Connection leaks on Object explorer",
-    "areas": [],
+    "areas": [
+      "Object Explorer",
+      "Connection"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
@@ -98,11 +229,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21855",
     "title": "[Bug]: Object Explorer displays user-defined and XML column types without key details",
-    "areas": [],
+    "areas": [
+      "Object Explorer"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
@@ -114,11 +247,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21854",
     "title": "[Bug]: Peek/Go to Definition doesn't work when schema and table share the same name",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
@@ -130,20 +265,22 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21853",
     "title": "[Feature Request]: Make IntelliSense metadata refresh easier to discover",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-04-10T18:38:56Z",
     "createdAt": "2026-04-09T22:58:57Z",
     "number": 21852,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21852",
     "title": "[Bug]: SQL Notebook cell output formatting could be improved",
     "areas": [
@@ -182,11 +319,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21850",
     "title": "[Bug]: Save as Excel fails when result set exceeds Excel worksheet row limit",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 1
   },
@@ -198,11 +337,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21848",
     "title": "[Bug]: Query results pane is slow to render large or wide result sets",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
@@ -411,10 +552,10 @@
   },
   {
     "author": "sraban75",
-    "closedAt": null,
+    "closedAt": "2026-04-10T19:09:24Z",
     "createdAt": "2026-04-01T11:47:12Z",
     "number": 21796,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21796",
     "title": "[Feature Request]: Action bar (Connect, Change, Execute, etc.)",
     "areas": [
@@ -425,8 +566,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "April 2026 Release"
+    "commentCount": 2,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "smartycope",
@@ -574,8 +715,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "April 2026 Release"
+    "commentCount": 6,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "ShruthikaAnandur",
@@ -763,7 +904,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 2,
     "milestone": "April 2026 Release"
   },
@@ -784,7 +925,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -1003,7 +1144,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "kburtram",
@@ -1878,7 +2019,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "nicolassaavedra-rgb",
@@ -2118,7 +2259,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 1,
     "milestone": "April 2026 Release"
   },
@@ -2458,7 +2599,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "MegaNeal",
@@ -2583,8 +2724,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 1,
+    "totalReactions": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -2848,7 +2989,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "ashleypace00",
@@ -2902,7 +3043,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 39,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "Prefix42",
@@ -3012,7 +3153,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "kburtram",
@@ -5359,7 +5500,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "reubster",
@@ -5754,7 +5895,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "Prefix42",
@@ -6711,7 +6852,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "EricZiola",
@@ -6854,7 +6995,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "ubuntuztc",
@@ -8714,7 +8855,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "laurenastrid1",
@@ -10492,7 +10633,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 6,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "mpurnyn",
@@ -16620,7 +16761,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -17054,7 +17195,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "spewu",
