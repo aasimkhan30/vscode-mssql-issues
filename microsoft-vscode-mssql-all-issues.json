@@ -1,5 +1,85 @@
 [
   {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-04-11T04:52:58Z",
+    "number": 21884,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21884",
+    "title": "[Feature Request]: Autocomplete stored procedure parameters when completing procedure names",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-04-11T04:48:55Z",
+    "number": 21883,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21883",
+    "title": "[Bug]: IntelliSense after SELECT * FROM only suggests dbo tables",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-04-11T04:36:15Z",
+    "number": 21882,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21882",
+    "title": "[Bug]: IntelliSense suggests SQL keywords when entering a table alias",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-04-11T04:31:58Z",
+    "number": 21881,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21881",
+    "title": "[Feature Request]: Position cursor inside parentheses when function autocomplete inserts ()",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-04-11T04:30:20Z",
+    "number": 21880,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21880",
+    "title": "[Bug]: Query editor stays active after database is deleted and later reports 'Query was canceled by user'",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "kburtram",
     "closedAt": null,
     "createdAt": "2026-04-10T21:00:47Z",
@@ -701,10 +781,10 @@
   },
   {
     "author": "familygw",
-    "closedAt": null,
+    "closedAt": "2026-04-11T02:11:19Z",
     "createdAt": "2026-03-26T21:50:08Z",
     "number": 21764,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21764",
     "title": "[Bug]: ms-mssql.mssql crashes immediately on VS Code startup and can only be recovered by restarting the Extension Host",
     "areas": [
@@ -715,7 +795,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "June 2026 Release"
   },
   {
@@ -17797,7 +17877,7 @@
     "hasType": true,
     "totalReactions": 14,
     "commentCount": 7,
-    "milestone": "Backlog"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "Mahmoud-Elgendi",
