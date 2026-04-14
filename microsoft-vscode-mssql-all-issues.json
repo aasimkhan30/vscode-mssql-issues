@@ -1,5 +1,73 @@
 [
   {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-04-13T22:27:12Z",
+    "number": 21897,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21897",
+    "title": "VS Code account + EntraMFA connections don't refresh tokens from STS",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "bwalters3",
+    "closedAt": null,
+    "createdAt": "2026-04-13T20:44:08Z",
+    "number": 21895,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21895",
+    "title": "[Bug]: Publish fails to find .dacpac for project containing <SqlTargetName> tag",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-04-13T17:58:06Z",
+    "number": 21890,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21890",
+    "title": "Update changelog for 1.42.0 release",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "mtosic",
+    "closedAt": null,
+    "createdAt": "2026-04-13T15:07:59Z",
+    "number": 21889,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21889",
+    "title": "[Bug]: Schema compare - not reading clustered PK from DACPAC",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "aasimkhan30",
     "closedAt": null,
     "createdAt": "2026-04-11T04:52:58Z",
@@ -7,10 +75,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21884",
     "title": "[Feature Request]: Autocomplete stored procedure parameters when completing procedure names",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -23,10 +93,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21883",
     "title": "[Bug]: IntelliSense after SELECT * FROM only suggests dbo tables",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -39,10 +111,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21882",
     "title": "[Bug]: IntelliSense suggests SQL keywords when entering a table alias",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -55,10 +129,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21881",
     "title": "[Feature Request]: Position cursor inside parentheses when function autocomplete inserts ()",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -71,10 +147,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21880",
     "title": "[Bug]: Query editor stays active after database is deleted and later reports 'Query was canceled by user'",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -278,7 +356,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -628,7 +706,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "sraban75",
@@ -758,7 +836,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "ki6bjv",
@@ -986,7 +1064,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 2,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "mrValtiel",
@@ -1414,7 +1492,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 2,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "Benjin",
@@ -1732,7 +1810,7 @@
     "number": 21593,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21593",
-    "title": "[Bug]: Cannot connect to Azure SQL databases after upgrade to 1.40.0",
+    "title": "[Bug]: Cannot connect to private endpoints for Azure SQL databases after upgrade to 1.40.0",
     "areas": [
       "Connection"
     ],
@@ -1741,7 +1819,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "April 2026 Release"
   },
   {
@@ -2041,7 +2119,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "lewis-sanchez",
@@ -2270,7 +2348,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "ClaudioESSilva",
@@ -2326,10 +2404,10 @@
   },
   {
     "author": "keen85",
-    "closedAt": null,
+    "closedAt": "2026-04-13T22:28:51Z",
     "createdAt": "2026-03-06T15:35:05Z",
     "number": 21486,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21486",
     "title": "[Bug]: Azure SQL + Entra MFA → re-authentication required every time when opening database connection",
     "areas": [
@@ -2340,7 +2418,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "April 2026 Release"
   },
   {
@@ -3160,7 +3238,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "April 2026 Release"
   },
   {
@@ -5702,7 +5780,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "April 2026 Release"
   },
   {
@@ -5722,7 +5800,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -8361,10 +8439,10 @@
   },
   {
     "author": "romanpolunin",
-    "closedAt": null,
+    "closedAt": "2026-04-13T20:51:56Z",
     "createdAt": "2025-11-05T00:28:26Z",
     "number": 20423,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20423",
     "title": "[Feature Request]: transparent support for Azure CLI authentication",
     "areas": [
@@ -10675,7 +10753,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "polandre90",
@@ -10732,7 +10810,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 2,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "SPerremans",
@@ -11036,7 +11114,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 3,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "agrabsi",
@@ -12613,7 +12691,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 1,
     "milestone": "Backlog"
   },
@@ -14355,7 +14433,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "JamesDBartlett3",
@@ -18321,7 +18399,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 5,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "tim-mit",
