@@ -1,5 +1,41 @@
 [
   {
+    "author": "kburtram",
+    "closedAt": "2026-04-14T23:12:42Z",
+    "createdAt": "2026-04-14T22:01:45Z",
+    "number": 21903,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21903",
+    "title": "[Bug]: Remove Preview label from Query Profiler and Global Object Search",
+    "areas": [
+      "Shell"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": "2026-04-14T21:03:41Z",
+    "createdAt": "2026-04-14T18:09:50Z",
+    "number": 21900,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21900",
+    "title": "[Bug]: Infinite loop when user group fetch request errors",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
     "author": "Benjin",
     "closedAt": null,
     "createdAt": "2026-04-13T22:27:12Z",
@@ -233,10 +269,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-04-14T23:16:12Z",
     "createdAt": "2026-04-10T19:06:02Z",
     "number": 21871,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21871",
     "title": "[Bug]: Create SQL Notebook menu title should be New SQL Notebook",
     "areas": [
@@ -1193,7 +1229,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "May 2026 Release"
   },
   {
@@ -1340,7 +1376,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "kburtram",
@@ -1600,7 +1636,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 1,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "bmx-ht",
@@ -2348,7 +2384,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "April 2026 Release"
   },
   {
     "author": "ClaudioESSilva",
@@ -3224,10 +3260,10 @@
   },
   {
     "author": "Michael9094",
-    "closedAt": null,
+    "closedAt": "2026-04-14T20:16:53Z",
     "createdAt": "2026-02-26T00:10:02Z",
     "number": 21356,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21356",
     "title": "[Bug]: \"MS SQL: Add Microsoft Entra Account\" hangs on localhost callback and fails token redemption with ClientAuthError: network_error (macOS arm64, VS Code 1.109.5)",
     "areas": [
@@ -3238,7 +3274,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 6,
     "milestone": "April 2026 Release"
   },
   {
@@ -3292,7 +3328,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 1,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "kzendra",
@@ -3309,7 +3345,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "June 2026 Release"
   },
@@ -5781,7 +5817,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -6110,10 +6146,10 @@
   },
   {
     "author": "gtluciano",
-    "closedAt": null,
+    "closedAt": "2026-04-14T20:18:35Z",
     "createdAt": "2025-12-16T20:53:20Z",
     "number": 20826,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20826",
     "title": "[Bug]: Click to open JSON in new page",
     "areas": [
@@ -7014,10 +7050,10 @@
   },
   {
     "author": "EricZiola",
-    "closedAt": null,
+    "closedAt": "2026-04-14T20:14:03Z",
     "createdAt": "2025-11-19T19:54:53Z",
     "number": 20635,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20635",
     "title": "[Bug]: TypeError: Cannot read properties of undefined (reading 'call') When starting mssql extension v1.37 (v1.36 still works)",
     "areas": [
@@ -10612,7 +10648,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "Wermeling",
@@ -27798,7 +27834,7 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 1,
-    "commentCount": 16
+    "commentCount": 17
   },
   {
     "author": "cheenamalhotra",
