@@ -1,5 +1,72 @@
 [
   {
+    "author": "cilerler",
+    "closedAt": null,
+    "createdAt": "2026-04-16T01:27:32Z",
+    "number": 21926,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21926",
+    "title": "[Bug]: Create/Update Project from Database generates non-deterministic SQL file content, breaking git tracking",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-04-15T20:23:11Z",
+    "number": 21918,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21918",
+    "title": "Fit and finish for new connection dialog features",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-04-15T18:03:01Z",
+    "number": 21916,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21916",
+    "title": "[Bug]: Generate SQL PRoj from OpenAPI/Swaggers fails",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": "2026-04-15T22:24:46Z",
+    "createdAt": "2026-04-15T17:15:39Z",
+    "number": 21913,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21913",
+    "title": "[Bug]: Publish Project to Docker container fails with \"port already allocated\" and \"Login failed for SA\"",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Release"
+  },
+  {
     "author": "kburtram",
     "closedAt": "2026-04-14T23:12:42Z",
     "createdAt": "2026-04-14T22:01:45Z",
@@ -136,7 +203,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -871,7 +938,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 3,
     "milestone": "June 2026 Release"
   },
   {
@@ -1856,7 +1923,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "April 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "unlock21",
@@ -1936,10 +2003,10 @@
   },
   {
     "author": "cheenamalhotra",
-    "closedAt": null,
+    "closedAt": "2026-04-15T18:28:54Z",
     "createdAt": "2026-03-11T19:39:29Z",
     "number": 21569,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21569",
     "title": "[Bug]: DIstorted UI on error",
     "areas": [
@@ -1950,7 +2017,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "April 2026 Release"
   },
   {
@@ -2368,10 +2435,10 @@
   },
   {
     "author": "ClaudioESSilva",
-    "closedAt": null,
+    "closedAt": "2026-04-15T17:39:03Z",
     "createdAt": "2026-03-06T18:02:57Z",
     "number": 21494,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21494",
     "title": "[Feature Request]: Allow sorting on DAB grid",
     "areas": [
@@ -2388,10 +2455,10 @@
   },
   {
     "author": "ClaudioESSilva",
-    "closedAt": null,
+    "closedAt": "2026-04-15T16:22:27Z",
     "createdAt": "2026-03-06T17:53:59Z",
     "number": 21493,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21493",
     "title": "[Feature Request]: Keep filtered selection when clicking \"Design API\"",
     "areas": [
@@ -3235,7 +3302,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 39,
     "milestone": "June 2026 Release"
   },
@@ -3843,10 +3910,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-04-15T23:24:13Z",
     "createdAt": "2026-02-18T22:53:56Z",
     "number": 21252,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21252",
     "title": "[Bug]: Connecting to Fabric SQL instance in browser gives token error",
     "areas": [
@@ -6752,7 +6819,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 1,
     "milestone": "Backlog"
   },
