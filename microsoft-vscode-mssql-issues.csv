@@ -1,4 +1,7 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"21942","[Bug]: sql server 2017 is default container in mssql deployment experience","amthomas46","OPEN","2026-04-17T13:37:13Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21942","0","-1",
+"21941","[Bug]: Launch Query Profiler option shows up twice in right click menu","amthomas46","OPEN","2026-04-17T13:35:55Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21941","0","-1",
+"21940","[Bug]: Object Explorer Filter is an empty tab","SergioDamasceno","OPEN","2026-04-17T12:47:07Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21940","0","-1",
 "21932","No notification if account is missing for MSAL auth","Benjin","CLOSED","2026-04-16T19:14:41Z","2026-04-16T22:50:04Z","",,"0","https://github.com/microsoft/vscode-mssql/issues/21932","0","-1","April 2026 Release"
 "21931","[Bug]: AutoRest is deprecated","ssreerama","OPEN","2026-04-16T18:34:38Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21931","0","-1","June 2026 Release"
 "21930","[Bug]: IntelliSense does not suggest dbo schema objects (only keywords / buffer words)","CarbonChauvinist","OPEN","2026-04-16T16:31:03Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21930","0","-1",
