@@ -1,5 +1,37 @@
 [
   {
+    "author": "SoyDBA",
+    "closedAt": null,
+    "createdAt": "2026-04-19T08:29:12Z",
+    "number": 21953,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21953",
+    "title": "[Feature Request]: Use a distinct application name for GitHub Copilot chat sessions in the VS Code MSSQL extension",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "SoyDBA",
+    "closedAt": null,
+    "createdAt": "2026-04-19T08:24:12Z",
+    "number": 21952,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21952",
+    "title": "[Feature Request]: Respect SSMS database instructions in the VS Code MSSQL extension",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "amthomas46",
     "closedAt": null,
     "createdAt": "2026-04-17T13:37:13Z",

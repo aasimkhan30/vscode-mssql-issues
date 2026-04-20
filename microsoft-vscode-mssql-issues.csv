@@ -1,4 +1,6 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"21953","[Feature Request]: Use a distinct application name for GitHub Copilot chat sessions in the VS Code MSSQL extension","SoyDBA","OPEN","2026-04-19T08:29:12Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/21953","0","-1",
+"21952","[Feature Request]: Respect SSMS database instructions in the VS Code MSSQL extension","SoyDBA","OPEN","2026-04-19T08:24:12Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/21952","0","-1",
 "21942","[Bug]: sql server 2017 is default container in mssql deployment experience","amthomas46","OPEN","2026-04-17T13:37:13Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21942","0","-1",
 "21941","[Bug]: Launch Query Profiler option shows up twice in right click menu","amthomas46","OPEN","2026-04-17T13:35:55Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21941","0","-1",
 "21940","[Bug]: Object Explorer Filter is an empty tab","SergioDamasceno","OPEN","2026-04-17T12:47:07Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/21940","0","-1",
