@@ -1,12 +1,50 @@
 [
   {
-    "author": "SoyDBA",
+    "author": "croblesm",
     "closedAt": null,
-    "createdAt": "2026-04-19T08:29:12Z",
-    "number": 21953,
+    "createdAt": "2026-04-21T00:42:49Z",
+    "number": 21964,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/21953",
-    "title": "[Feature Request]: Use a distinct application name for GitHub Copilot chat sessions in the VS Code MSSQL extension",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21964",
+    "title": "[Bug]: Fabric provisioning is not flagging capacity limits",
+    "areas": [
+      "Fabric Provisioning"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-20T23:49:22Z",
+    "number": 21962,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21962",
+    "title": "[Bug]: Cell selection doesn't work in Edit Data when clicking on text",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "ervinte",
+    "closedAt": null,
+    "createdAt": "2026-04-20T20:11:20Z",
+    "number": 21961,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21961",
+    "title": "[Feature Request]: Support CAST AS XML clickable results in SQL Notebook outputs",
     "areas": [],
     "priority": -1,
     "type": "Feature Request",
@@ -16,6 +54,44 @@
     "commentCount": 0
   },
   {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-20T17:18:51Z",
+    "number": 21958,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21958",
+    "title": "Language Service does not detect schema changes",
+    "areas": [
+      "Language Service"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "SoyDBA",
+    "closedAt": null,
+    "createdAt": "2026-04-19T08:29:12Z",
+    "number": 21953,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21953",
+    "title": "[Feature Request]: Use a distinct application name for GitHub Copilot chat sessions in the VS Code MSSQL extension",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
     "author": "SoyDBA",
     "closedAt": null,
     "createdAt": "2026-04-19T08:24:12Z",
@@ -23,13 +99,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21952",
     "title": "[Feature Request]: Respect SSMS database instructions in the VS Code MSSQL extension",
-    "areas": [],
+    "areas": [
+      "GitHub Copilot"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "amthomas46",
@@ -76,8 +155,8 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0
+    "totalReactions": 1,
+    "commentCount": 1
   },
   {
     "author": "Benjin",
@@ -48887,10 +48966,10 @@
   },
   {
     "author": "erickangMSFT",
-    "closedAt": null,
+    "closedAt": "2026-04-20T17:20:14Z",
     "createdAt": "2016-11-09T03:34:23Z",
     "number": 311,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/311",
     "title": "Language Service doesn't implement drift detection and gets out-of-sync after CREATE",
     "areas": [
@@ -48901,7 +48980,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4
+    "commentCount": 5
   },
   {
     "author": "MitchellSternke",
