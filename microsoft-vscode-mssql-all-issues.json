@@ -1,5 +1,78 @@
 [
   {
+    "author": "kburtram",
+    "closedAt": "2026-04-21T22:05:08Z",
+    "createdAt": "2026-04-21T17:47:27Z",
+    "number": 21972,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21972",
+    "title": "[Bug]: Query Profiler Details table doesn't support cell selection",
+    "areas": [
+      "Query Profiler"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-21T17:35:18Z",
+    "number": 21971,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21971",
+    "title": "[Bug]: Copy as In Clause menu item shouldn't appear if multiple columns are selected",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-21T17:20:06Z",
+    "number": 21970,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21970",
+    "title": "[Bug]: Object Explorer timeout should provide option to retry",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "kipdec",
+    "closedAt": null,
+    "createdAt": "2026-04-21T15:37:33Z",
+    "number": 21968,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21968",
+    "title": "[Bug]: \"A query is already running for this editor session\", can't cancel query",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "croblesm",
     "closedAt": null,
     "createdAt": "2026-04-21T00:42:49Z",
@@ -20,10 +93,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-04-21T01:55:37Z",
     "createdAt": "2026-04-20T23:49:22Z",
     "number": 21962,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21962",
     "title": "[Bug]: Cell selection doesn't work in Edit Data when clicking on text",
     "areas": [
@@ -45,13 +118,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21961",
     "title": "[Feature Request]: Support CAST AS XML clickable results in SQL Notebook outputs",
-    "areas": [],
+    "areas": [
+      "SQL Notebook"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -118,20 +194,23 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21942",
     "title": "[Bug]: sql server 2017 is default container in mssql deployment experience",
-    "areas": [],
+    "areas": [
+      "Local container"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2026-04-21T02:09:09Z",
     "createdAt": "2026-04-17T13:35:55Z",
     "number": 21941,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21941",
     "title": "[Bug]: Launch Query Profiler option shows up twice in right click menu",
     "areas": [],
@@ -140,7 +219,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "SergioDamasceno",
@@ -150,13 +229,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21940",
     "title": "[Bug]: Object Explorer Filter is an empty tab",
-    "areas": [],
+    "areas": [
+      "Object Explorer"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 5,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "Benjin",
@@ -466,7 +548,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -598,10 +681,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-04-21T02:39:49Z",
     "createdAt": "2026-04-10T01:48:19Z",
     "number": 21865,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21865",
     "title": "[Bug]: New SQL Notebooks does not select MSSQL kernel",
     "areas": [
@@ -612,7 +695,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "yoleichen",
@@ -742,7 +825,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -760,7 +844,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -782,10 +867,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-04-21T02:23:33Z",
     "createdAt": "2026-04-09T22:46:20Z",
     "number": 21851,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21851",
     "title": "[Bug]: Checkboxes in Object Search are slow to change state on clicks",
     "areas": [
@@ -796,7 +881,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -814,7 +900,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -1321,10 +1408,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-04-21T17:39:52Z",
     "createdAt": "2026-03-26T03:40:42Z",
     "number": 21750,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21750",
     "title": "[Bug]: Profiler context menu doesn't follow theme.",
     "areas": [
@@ -1340,10 +1427,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-04-21T15:51:37Z",
     "createdAt": "2026-03-26T03:35:52Z",
     "number": 21749,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21749",
     "title": "[Bug]: Profiler toolbar is too long.",
     "areas": [
@@ -1359,10 +1446,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-04-21T17:39:53Z",
     "createdAt": "2026-03-26T03:32:13Z",
     "number": 21748,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21748",
     "title": "[Bug]: Profile slick grid doesn't have a minimum column width.",
     "areas": [
@@ -1578,10 +1665,10 @@
   },
   {
     "author": "MaxLandh",
-    "closedAt": null,
+    "closedAt": "2026-04-21T04:44:14Z",
     "createdAt": "2026-03-20T19:47:50Z",
     "number": 21700,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21700",
     "title": "[Feature Request]: Show SQL Server Messages Panel Output Inline per Notebook Cell",
     "areas": [
@@ -1592,7 +1679,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "June 2026 Release"
   },
   {
@@ -2148,7 +2235,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "June 2026 Release"
   },
   {
@@ -3368,8 +3455,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "Backlog"
+    "commentCount": 3,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "kburtram",
@@ -4783,7 +4870,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
