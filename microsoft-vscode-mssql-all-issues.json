@@ -1,5 +1,21 @@
 [
   {
+    "author": "Peluko",
+    "closedAt": null,
+    "createdAt": "2026-04-22T08:44:09Z",
+    "number": 21980,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21980",
+    "title": "[Bug]: Intellisense not working on specific server",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "kburtram",
     "closedAt": "2026-04-21T22:05:08Z",
     "createdAt": "2026-04-21T17:47:27Z",
@@ -88,7 +104,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 3,
     "milestone": "June 2026 Release"
   },
   {
@@ -202,7 +218,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "June 2026 Release"
   },
   {
@@ -567,7 +583,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -641,7 +658,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -755,10 +773,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-04-22T20:29:00Z",
     "createdAt": "2026-04-10T00:01:19Z",
     "number": 21858,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21858",
     "title": "[Feature Request]: Real-time ORM Definition Generation in Schema Designer",
     "areas": [
@@ -789,7 +807,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -807,7 +826,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -919,7 +939,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "TheHuyCung",
@@ -1912,10 +1933,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-04-22T16:10:09Z",
     "createdAt": "2026-03-18T06:45:59Z",
     "number": 21658,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21658",
     "title": "[Bug]: Import Data dialog cannot launch service on macOS",
     "areas": [
@@ -2558,10 +2579,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-04-22T19:31:31Z",
     "createdAt": "2026-03-09T23:00:48Z",
     "number": 21540,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21540",
     "title": "[Bug]: Connection Recent Connections doesn't populate",
     "areas": [
