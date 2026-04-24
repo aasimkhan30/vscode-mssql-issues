@@ -1,5 +1,42 @@
 [
   {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-04-24T01:40:56Z",
+    "number": 21992,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21992",
+    "title": "[Bug]: Uninstall blocked by .Net Runtime dependency",
+    "areas": [
+      "Acquisition"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-04-23T19:10:45Z",
+    "number": 21990,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21990",
+    "title": "[Feature Request]: Schema Designer Synchronization State",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
     "author": "Peluko",
     "closedAt": null,
     "createdAt": "2026-04-22T08:44:09Z",
@@ -7,13 +44,15 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21980",
     "title": "[Bug]: Intellisense not working on specific server",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "kburtram",
@@ -298,13 +337,15 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21930",
     "title": "[Bug]: IntelliSense does not suggest dbo schema objects (only keywords / buffer words)",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 2
   },
   {
     "author": "ssreerama",
@@ -695,7 +736,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "kburtram",
@@ -977,7 +1019,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "June 2026 Release"
   },
   {
@@ -3623,10 +3665,10 @@
   },
   {
     "author": "jsantos-iplus",
-    "closedAt": null,
+    "closedAt": "2026-04-23T18:36:10Z",
     "createdAt": "2026-02-26T13:37:21Z",
     "number": 21361,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21361",
     "title": "[Bug]: MSSQL extension hangs after query execution, blocking subsequent runs; requires \"Reload Window\"",
     "areas": [
@@ -3637,7 +3679,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 39,
+    "commentCount": 40,
     "milestone": "June 2026 Release"
   },
   {
@@ -13128,7 +13170,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 5,
+    "totalReactions": 6,
     "commentCount": 1,
     "milestone": "Backlog"
   },
