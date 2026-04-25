@@ -1,5 +1,158 @@
 [
   {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-04-24T18:34:05Z",
+    "number": 22004,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22004",
+    "title": "[Bug]: Slow context menu / Add Item on large projects",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-04-24T18:32:46Z",
+    "number": 22003,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22003",
+    "title": "[Bug]: Severe latency when opening large SQL projects (2k+ objects) due to full project parsing on load",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "omnisient-Marcel",
+    "closedAt": null,
+    "createdAt": "2026-04-24T18:13:40Z",
+    "number": 22002,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22002",
+    "title": "[Bug]: The dotnet runtime required version change not updating when updating dotnet runtime",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-04-24T17:09:46Z",
+    "number": 22001,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22001",
+    "title": "[Bug]: Missing Global Search and Query Profiler from 1.42 release notes",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "April 2026 Hotfix 1 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2026-04-24T16:44:13Z",
+    "createdAt": "2026-04-24T16:17:27Z",
+    "number": 21999,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21999",
+    "title": "[Bug]: Remove \"Preview\" tag from GA features",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "ActsSeraiah",
+    "closedAt": null,
+    "createdAt": "2026-04-24T13:17:41Z",
+    "number": 21997,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21997",
+    "title": "[Feature Request]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "peterbud",
+    "closedAt": null,
+    "createdAt": "2026-04-24T08:27:50Z",
+    "number": 21996,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21996",
+    "title": "[Bug]: 1.42 regression: Entra login no longer allows selecting personal account, only corporate account",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
+    "author": "shivamjjha",
+    "closedAt": null,
+    "createdAt": "2026-04-24T05:39:41Z",
+    "number": 21995,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21995",
+    "title": "[Bug]: Regression in v1.42.0: SQLToolsService and AzureResourceProvider crash with CoreCLR HRESULT 0x80070008 on macOS arm64",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 2,
+    "commentCount": 1
+  },
+  {
+    "author": "NguyenDHPhuc2207",
+    "closedAt": null,
+    "createdAt": "2026-04-24T05:17:59Z",
+    "number": 21994,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/21994",
+    "title": "[Bug]: A consistent delay of approximately 5 seconds before query execution completes/ change connection completes",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "kburtram",
     "closedAt": null,
     "createdAt": "2026-04-24T01:40:56Z",
@@ -15,7 +168,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 3
   },
   {
     "author": "yoleichen",
@@ -292,8 +445,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 5,
-    "milestone": "June 2026 Release"
+    "commentCount": 6,
+    "milestone": "April 2026 Hotfix 1 Release"
   },
   {
     "author": "Benjin",
@@ -1091,7 +1244,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -1547,10 +1700,10 @@
   },
   {
     "author": "mrValtiel",
-    "closedAt": null,
+    "closedAt": "2026-04-24T04:59:45Z",
     "createdAt": "2026-03-25T10:02:58Z",
     "number": 21738,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21738",
     "title": "[Bug]: Error while installing SQL tools service",
     "areas": [
@@ -1561,7 +1714,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "June 2026 Release"
   },
   {
@@ -18877,7 +19030,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "June 2026 Release"
   },
   {
