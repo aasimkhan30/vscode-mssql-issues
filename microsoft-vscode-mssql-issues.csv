@@ -1,4 +1,5 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"22012","[Bug]:","BMains","OPEN","2026-04-26T04:57:52Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22012","0","-1",
 "22004","[Bug]: Slow context menu / Add Item on large projects","ssreerama","OPEN","2026-04-24T18:34:05Z",,"SQL Project","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22004","0","-1","Backlog"
 "22003","[Bug]: Severe latency when opening large SQL projects (2k+ objects) due to full project parsing on load","ssreerama","OPEN","2026-04-24T18:32:46Z",,"SQL Project","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22003","0","-1","Backlog"
 "22002","[Bug]: The dotnet runtime required version change not updating when updating dotnet runtime","omnisient-Marcel","OPEN","2026-04-24T18:13:40Z",,"","Bug","2","https://github.com/microsoft/vscode-mssql/issues/22002","2","-1",
