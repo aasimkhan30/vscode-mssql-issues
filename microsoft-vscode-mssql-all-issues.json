@@ -1,19 +1,56 @@
 [
   {
-    "author": "BMains",
+    "author": "IgorDias-Abc",
     "closedAt": null,
-    "createdAt": "2026-04-26T04:57:52Z",
-    "number": 22012,
+    "createdAt": "2026-04-27T13:50:34Z",
+    "number": 22017,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/22012",
-    "title": "[Bug]:",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22017",
+    "title": "[Bug]: VS Code Frozen After Running Query",
     "areas": [],
     "priority": -1,
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "SchabaJo",
+    "closedAt": null,
+    "createdAt": "2026-04-27T08:24:22Z",
+    "number": 22015,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22015",
+    "title": "[Bug]: Microsoft.NETCore.App version mismatch",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "April 2026 Hotfix 1 Release"
+  },
+  {
+    "author": "BMains",
+    "closedAt": null,
+    "createdAt": "2026-04-26T04:57:52Z",
+    "number": 22012,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22012",
+    "title": "[Bug]: Unable to load DLL 'Microsoft.Data.SqlClient.SNI.dll'  when connecting with windows authentication. ",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ssreerama",
@@ -67,7 +104,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "April 2026 Hotfix 1 Release"
   },
   {
     "author": "croblesm",
@@ -109,14 +147,17 @@
     "number": 21997,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21997",
-    "title": "[Feature Request]:",
-    "areas": [],
+    "title": "[Feature Request]: Allow reordering of the query result columns",
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "peterbud",
@@ -134,7 +175,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "shivamjjha",
@@ -149,8 +191,9 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 2,
-    "commentCount": 1
+    "totalReactions": 4,
+    "commentCount": 4,
+    "milestone": "Backlog"
   },
   {
     "author": "NguyenDHPhuc2207",
@@ -166,7 +209,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -184,7 +228,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 3,
+    "milestone": "Backlog"
   },
   {
     "author": "yoleichen",
@@ -221,7 +266,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -294,7 +340,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -447,10 +494,10 @@
   },
   {
     "author": "SergioDamasceno",
-    "closedAt": null,
+    "closedAt": "2026-04-27T19:10:26Z",
     "createdAt": "2026-04-17T12:47:07Z",
     "number": 21940,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21940",
     "title": "[Bug]: Object Explorer Filter is an empty tab",
     "areas": [
@@ -514,7 +561,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "ssreerama",
@@ -547,7 +595,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -669,7 +718,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -702,7 +752,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -720,7 +771,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -738,7 +790,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -756,7 +809,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -812,7 +866,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -965,10 +1020,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-04-27T21:39:05Z",
     "createdAt": "2026-04-10T00:18:54Z",
     "number": 21859,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21859",
     "title": "[Feature Request]: Support column selection in Data API Builder",
     "areas": [
@@ -11783,10 +11838,10 @@
   },
   {
     "author": "jmalarcon",
-    "closedAt": null,
+    "closedAt": "2026-04-27T21:21:29Z",
     "createdAt": "2025-08-13T17:14:23Z",
     "number": 19951,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19951",
     "title": "[Bug]: Schema Designer SVG export doesn't open in editors, it's not standard",
     "areas": [
@@ -11797,7 +11852,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
