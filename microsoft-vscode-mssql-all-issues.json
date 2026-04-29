@@ -1,10 +1,26 @@
 [
   {
-    "author": "IgorDias-Abc",
+    "author": "jono-phobos",
     "closedAt": null,
+    "createdAt": "2026-04-29T01:23:53Z",
+    "number": 22029,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22029",
+    "title": "[Bug]: Table -> Select Top 1000 script has CRLF line endings on mac/linux",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "IgorDias-Abc",
+    "closedAt": "2026-04-28T12:26:24Z",
     "createdAt": "2026-04-27T13:50:34Z",
     "number": 22017,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22017",
     "title": "[Bug]: VS Code Frozen After Running Query",
     "areas": [],
@@ -13,7 +29,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -30,7 +46,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 7,
     "milestone": "April 2026 Hotfix 1 Release"
   },
   {
@@ -92,10 +108,10 @@
   },
   {
     "author": "omnisient-Marcel",
-    "closedAt": null,
+    "closedAt": "2026-04-28T19:36:45Z",
     "createdAt": "2026-04-24T18:13:40Z",
     "number": 22002,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22002",
     "title": "[Bug]: The dotnet runtime required version change not updating when updating dotnet runtime",
     "areas": [],
@@ -104,15 +120,15 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "April 2026 Hotfix 1 Release"
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-04-28T19:37:49Z",
     "createdAt": "2026-04-24T17:09:46Z",
     "number": 22001,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22001",
     "title": "[Bug]: Missing Global Search and Query Profiler from 1.42 release notes",
     "areas": [],
@@ -121,7 +137,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "April 2026 Hotfix 1 Release"
   },
   {
@@ -175,15 +191,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
     "author": "shivamjjha",
-    "closedAt": null,
+    "closedAt": "2026-04-28T19:37:05Z",
     "createdAt": "2026-04-24T05:39:41Z",
     "number": 21995,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21995",
     "title": "[Bug]: Regression in v1.42.0: SQLToolsService and AzureResourceProvider crash with CoreCLR HRESULT 0x80070008 on macOS arm64",
     "areas": [],
@@ -192,7 +208,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -360,7 +376,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "June 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -13820,7 +13836,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 11,
+    "commentCount": 12,
     "milestone": "November 2025 Release"
   },
   {
