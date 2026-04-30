@@ -1,12 +1,85 @@
 [
   {
-    "author": "jono-phobos",
+    "author": "Nikolai5",
     "closedAt": null,
-    "createdAt": "2026-04-29T01:23:53Z",
-    "number": 22029,
+    "createdAt": "2026-04-29T15:10:56Z",
+    "number": 22034,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/22029",
-    "title": "[Bug]: Table -> Select Top 1000 script has CRLF line endings on mac/linux",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22034",
+    "title": "[Bug]: Flat File Importer - Support for non-master",
+    "areas": [
+      "Flat File Import"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "damonripper",
+    "closedAt": null,
+    "createdAt": "2026-04-29T13:08:26Z",
+    "number": 22033,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22033",
+    "title": "[Bug]: Query Profiler issues",
+    "areas": [
+      "Query Profiler"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
+    "author": "ErwinSchleier",
+    "closedAt": null,
+    "createdAt": "2026-04-29T10:08:09Z",
+    "number": 22032,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22032",
+    "title": "[Feature Request]: jupiter notebook SQL CTE style support",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "micwed-chy",
+    "closedAt": null,
+    "createdAt": "2026-04-29T09:18:16Z",
+    "number": 22031,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22031",
+    "title": "[Bug]: mssql: Error 18456: Login failed for user '<token-identified principal>'. Incorrect or invalid token.",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 3
+  },
+  {
+    "author": "MagAlp",
+    "closedAt": null,
+    "createdAt": "2026-04-29T08:37:38Z",
+    "number": 22030,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22030",
+    "title": "[Bug]: Publish using a saved publish profile does not use stored values for SCLCMD Variables",
     "areas": [],
     "priority": -1,
     "type": "Bug",
@@ -14,6 +87,24 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
+  },
+  {
+    "author": "jono-phobos",
+    "closedAt": null,
+    "createdAt": "2026-04-29T01:23:53Z",
+    "number": 22029,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22029",
+    "title": "[Bug]: Table -> Select Top 1000 script has CRLF line endings on mac/linux",
+    "areas": [
+      "Language Service"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
   },
   {
     "author": "IgorDias-Abc",
@@ -46,8 +137,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 7,
-    "milestone": "April 2026 Hotfix 1 Release"
+    "commentCount": 9,
+    "milestone": "April 2026 Hotfix 2 Release"
   },
   {
     "author": "BMains",
@@ -2880,10 +2971,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-04-29T22:55:17Z",
     "createdAt": "2026-03-09T22:32:13Z",
     "number": 21538,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21538",
     "title": "[Bug]: Schema diff not showing correct lines",
     "areas": [
@@ -2914,8 +3005,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "Backlog"
+    "commentCount": 1,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "kburtram",
@@ -4009,7 +4100,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 1,
     "milestone": "June 2026 Release"
   },
@@ -4876,7 +4967,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -4971,10 +5062,10 @@
   },
   {
     "author": "TLuquet-MAG",
-    "closedAt": null,
+    "closedAt": "2026-04-29T16:37:46Z",
     "createdAt": "2026-02-10T15:53:35Z",
     "number": 21147,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21147",
     "title": "[GitHub Copilot - Bug | Feature request]: @mssql Copilot participant loses connection context after saving untitled SQL editor to disk",
     "areas": [
@@ -5621,10 +5712,10 @@
   },
   {
     "author": "ksdaniel",
-    "closedAt": null,
+    "closedAt": "2026-04-29T16:26:16Z",
     "createdAt": "2026-01-23T14:04:59Z",
     "number": 20993,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20993",
     "title": "MSSQL Copilot tool calls failing or timing out",
     "areas": [
@@ -5635,7 +5726,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -6232,10 +6323,10 @@
   },
   {
     "author": "rka-ppi",
-    "closedAt": null,
+    "closedAt": "2026-04-29T16:25:31Z",
     "createdAt": "2026-01-14T09:09:15Z",
     "number": 20901,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20901",
     "title": "[Bug]: MCP Tool mssql_run_query  - fails due invalide documentation response",
     "areas": [
@@ -6246,7 +6337,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -8063,10 +8154,10 @@
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2026-04-29T16:24:49Z",
     "createdAt": "2025-11-14T11:50:38Z",
     "number": 20594,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20594",
     "title": "[GitHub Copilot - Bug]: All tool calls failed or timed out",
     "areas": [
@@ -8077,15 +8168,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "Backlog"
   },
   {
     "author": "amthomas46",
-    "closedAt": null,
+    "closedAt": "2026-04-29T16:24:13Z",
     "createdAt": "2025-11-14T11:48:16Z",
     "number": 20593,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20593",
     "title": "[GitHub Copilot - Bug]: feedback link gets cut off with error message",
     "areas": [
@@ -8096,7 +8187,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -11010,10 +11101,10 @@
   },
   {
     "author": "khalilbenaz",
-    "closedAt": null,
+    "closedAt": "2026-04-29T16:23:27Z",
     "createdAt": "2025-09-04T16:52:36Z",
     "number": 20075,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20075",
     "title": "[GitHub Copilot - Bug] - Message couldn't be processed error",
     "areas": [
@@ -11024,7 +11115,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -18057,10 +18148,10 @@
   },
   {
     "author": "columbaspexit",
-    "closedAt": null,
+    "closedAt": "2026-04-30T01:18:26Z",
     "createdAt": "2025-04-04T16:10:35Z",
     "number": 19083,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19083",
     "title": "Feature Request: Display script's line number in query execution errors",
     "areas": [
