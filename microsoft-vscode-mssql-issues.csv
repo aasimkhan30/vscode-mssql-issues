@@ -1,8 +1,11 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"22046","[Bug]: MSSQL Extension v1.42.1 – Query execution fails after idle & table explorer errors","RMArthur","OPEN","2026-05-01T00:58:17Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22046","1","-1",
+"22040","[Bug]: No carga pantalla de filtros","regisVald","OPEN","2026-04-30T16:23:04Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22040","0","-1",
+"22038","[Bug]: Repeatedly being asked to authenticate azure connection","chairmandenis","OPEN","2026-04-30T14:19:13Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22038","0","-1",
 "22034","[Bug]: Flat File Importer - Support for non-master","Nikolai5","OPEN","2026-04-29T15:10:56Z",,"Flat File Import","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22034","0","-1",
 "22033","[Bug]: Query Profiler issues","damonripper","OPEN","2026-04-29T13:08:26Z",,"Query Profiler","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22033","2","-1",
 "22032","[Feature Request]: jupiter notebook SQL CTE style support","ErwinSchleier","OPEN","2026-04-29T10:08:09Z",,"SQL Notebook","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/22032","0","-1","June 2026 Release"
-"22031","[Bug]: mssql: Error 18456: Login failed for user '<token-identified principal>'. Incorrect or invalid token.","micwed-chy","OPEN","2026-04-29T09:18:16Z",,"Connection","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22031","3","-1",
+"22031","[Bug]: mssql: Error 18456: Login failed for user '<token-identified principal>'. Incorrect or invalid token.","micwed-chy","OPEN","2026-04-29T09:18:16Z",,"Connection","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22031","5","-1",
 "22030","[Bug]: Publish using a saved publish profile does not use stored values for SCLCMD Variables","MagAlp","OPEN","2026-04-29T08:37:38Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22030","0","-1",
 "22029","[Bug]: Table -> Select Top 1000 script has CRLF line endings on mac/linux","jono-phobos","OPEN","2026-04-29T01:23:53Z",,"Language Service","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22029","1","-1",
 "22017","[Bug]: VS Code Frozen After Running Query","IgorDias-Abc","CLOSED","2026-04-27T13:50:34Z","2026-04-28T12:26:24Z","","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22017","2","-1","Backlog"

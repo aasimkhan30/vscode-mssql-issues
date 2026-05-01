@@ -1,5 +1,53 @@
 [
   {
+    "author": "RMArthur",
+    "closedAt": null,
+    "createdAt": "2026-05-01T00:58:17Z",
+    "number": 22046,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22046",
+    "title": "[Bug]: MSSQL Extension v1.42.1 – Query execution fails after idle & table explorer errors",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "regisVald",
+    "closedAt": null,
+    "createdAt": "2026-04-30T16:23:04Z",
+    "number": 22040,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22040",
+    "title": "[Bug]: No carga pantalla de filtros",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "chairmandenis",
+    "closedAt": null,
+    "createdAt": "2026-04-30T14:19:13Z",
+    "number": 22038,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22038",
+    "title": "[Bug]: Repeatedly being asked to authenticate azure connection",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Nikolai5",
     "closedAt": null,
     "createdAt": "2026-04-29T15:10:56Z",
@@ -70,7 +118,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 5
   },
   {
     "author": "MagAlp",
