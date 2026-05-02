@@ -1,5 +1,37 @@
 [
   {
+    "author": "Micael-stack",
+    "closedAt": null,
+    "createdAt": "2026-05-01T19:49:15Z",
+    "number": 22053,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22053",
+    "title": "Endless loop login Azure microsoft Login. Cache keeps old token",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "burtonrodman",
+    "closedAt": null,
+    "createdAt": "2026-05-01T17:12:02Z",
+    "number": 22051,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22051",
+    "title": "SQL Schema Comparison diff pane divider drags in wrong direction",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 4
+  },
+  {
     "author": "RMArthur",
     "closedAt": null,
     "createdAt": "2026-05-01T00:58:17Z",
@@ -22,14 +54,17 @@
     "number": 22040,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22040",
-    "title": "[Bug]: No carga pantalla de filtros",
-    "areas": [],
+    "title": "[Bug]: OE Stored procedure filter screen does not load",
+    "areas": [
+      "Object Explorer"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "chairmandenis",
@@ -118,7 +153,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5
+    "commentCount": 6
   },
   {
     "author": "MagAlp",
@@ -138,10 +173,10 @@
   },
   {
     "author": "jono-phobos",
-    "closedAt": null,
+    "closedAt": "2026-05-01T15:45:04Z",
     "createdAt": "2026-04-29T01:23:53Z",
     "number": 22029,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22029",
     "title": "[Bug]: Table -> Select Top 1000 script has CRLF line endings on mac/linux",
     "areas": [
@@ -152,7 +187,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "IgorDias-Abc",
