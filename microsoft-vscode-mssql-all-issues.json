@@ -7,11 +7,14 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22053",
     "title": "Endless loop login Azure microsoft Login. Cache keeps old token",
-    "areas": [],
+    "areas": [
+      "Connection",
+      "Azure"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
@@ -23,11 +26,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22051",
     "title": "SQL Schema Comparison diff pane divider drags in wrong direction",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 4
   },
@@ -74,10 +79,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22038",
     "title": "[Bug]: Repeatedly being asked to authenticate azure connection",
-    "areas": [],
+    "areas": [
+      "Connection",
+      "Azure"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
