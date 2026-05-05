@@ -1,5 +1,37 @@
 [
   {
+    "author": "Niklasbechdamgaard",
+    "closedAt": null,
+    "createdAt": "2026-05-04T09:38:33Z",
+    "number": 22056,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22056",
+    "title": "[Feature Request]: Browse Fabric - support for warehouse",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "nmakela",
+    "closedAt": null,
+    "createdAt": "2026-05-04T06:57:26Z",
+    "number": 22055,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22055",
+    "title": "[Bug]: Query failed: Object reference not set to an instance of an object.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Micael-stack",
     "closedAt": null,
     "createdAt": "2026-05-01T19:49:15Z",
@@ -44,10 +76,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22046",
     "title": "[Bug]: MSSQL Extension v1.42.1 – Query execution fails after idle & table explorer errors",
-    "areas": [],
+    "areas": [
+      "Query Editor",
+      "Azure"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1
@@ -161,7 +196,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6
+    "commentCount": 7
   },
   {
     "author": "MagAlp",
@@ -216,10 +251,10 @@
   },
   {
     "author": "SchabaJo",
-    "closedAt": null,
+    "closedAt": "2026-05-05T01:48:10Z",
     "createdAt": "2026-04-27T08:24:22Z",
     "number": 22015,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22015",
     "title": "[Bug]: Microsoft.NETCore.App version mismatch",
     "areas": [],
@@ -228,7 +263,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 9,
+    "commentCount": 10,
     "milestone": "April 2026 Hotfix 2 Release"
   },
   {
@@ -302,7 +337,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "April 2026 Hotfix 1 Release"
   },
   {
@@ -764,10 +799,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-05-04T13:20:46Z",
     "createdAt": "2026-04-16T16:15:58Z",
     "number": 21929,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21929",
     "title": "[Bug]: Improve Publish Database Project dialog launch latency",
     "areas": [],
@@ -1144,10 +1179,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-05-05T00:38:01Z",
     "createdAt": "2026-04-10T03:26:26Z",
     "number": 21866,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21866",
     "title": "[Bug]: Saving a SQL Notebook resets SQL cells to Python",
     "areas": [
@@ -11946,10 +11981,10 @@
   },
   {
     "author": "fmms",
-    "closedAt": null,
+    "closedAt": "2026-05-04T20:18:52Z",
     "createdAt": "2025-08-18T21:26:25Z",
     "number": 20820,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20820",
     "title": "Database projects: Apply does not work \"The target login in not a member of the 'loginmanager' role.\"",
     "areas": [
@@ -11960,7 +11995,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "June 2026 Release"
   },
   {
@@ -14521,7 +14556,7 @@
     "type": null,
     "hasArea": true,
     "hasType": false,
-    "totalReactions": 5,
+    "totalReactions": 6,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -21975,8 +22010,8 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
-    "commentCount": 1,
+    "totalReactions": 3,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
