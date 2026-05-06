@@ -1,5 +1,23 @@
 [
   {
+    "author": "AndriyDmytrenko",
+    "closedAt": null,
+    "createdAt": "2026-05-05T11:51:38Z",
+    "number": 22059,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22059",
+    "title": "[Feature Request]: Do not open excel doc after exporting data to xlsx",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Niklasbechdamgaard",
     "closedAt": null,
     "createdAt": "2026-05-04T09:38:33Z",
@@ -7,10 +25,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22056",
     "title": "[Feature Request]: Browse Fabric - support for warehouse",
-    "areas": [],
+    "areas": [
+      "Fabric Integration"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -23,10 +43,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22055",
     "title": "[Bug]: Query failed: Object reference not set to an instance of an object.",
-    "areas": [],
+    "areas": [
+      "Query Editor",
+      "Azure"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -47,8 +70,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0
+    "totalReactions": 1,
+    "commentCount": 2
   },
   {
     "author": "burtonrodman",
@@ -152,6 +175,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/22033",
     "title": "[Bug]: Query Profiler issues",
     "areas": [
+      "Azure",
       "Query Profiler"
     ],
     "priority": -1,
@@ -206,10 +230,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22030",
     "title": "[Bug]: Publish using a saved publish profile does not use stored values for SCLCMD Variables",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -5202,7 +5228,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
