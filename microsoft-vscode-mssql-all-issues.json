@@ -1,10 +1,45 @@
 [
   {
-    "author": "AndriyDmytrenko",
+    "author": "edisonjromor",
     "closedAt": null,
+    "createdAt": "2026-05-06T16:43:38Z",
+    "number": 22065,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22065",
+    "title": "mssql: An error occurred while retrieving rows: Unable to read beyond the end of the stream.",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "earlynov5th",
+    "closedAt": "2026-05-06T19:32:06Z",
+    "createdAt": "2026-05-06T15:52:12Z",
+    "number": 22064,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22064",
+    "title": "Entra ID deadloop on Fabric sql analytics endpoint",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
+    "author": "AndriyDmytrenko",
+    "closedAt": "2026-05-07T00:04:45Z",
     "createdAt": "2026-05-05T11:51:38Z",
     "number": 22059,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22059",
     "title": "[Feature Request]: Do not open excel doc after exporting data to xlsx",
     "areas": [
@@ -70,8 +105,9 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 2
+    "totalReactions": 2,
+    "commentCount": 4,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "burtonrodman",
@@ -146,7 +182,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "Nikolai5",
@@ -183,7 +219,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 3
   },
   {
     "author": "ErwinSchleier",
@@ -213,14 +249,15 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/22031",
     "title": "[Bug]: mssql: Error 18456: Login failed for user '<token-identified principal>'. Incorrect or invalid token.",
     "areas": [
-      "Connection"
+      "Connection",
+      "Azure"
     ],
     "priority": -1,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 7
+    "commentCount": 8
   },
   {
     "author": "MagAlp",
@@ -1915,10 +1952,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-05-06T23:39:32Z",
     "createdAt": "2026-03-26T03:49:46Z",
     "number": 21752,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21752",
     "title": "Table Designer icon mismatch between OE and webview",
     "areas": [
@@ -4094,10 +4131,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-05-07T01:37:05Z",
     "createdAt": "2026-02-26T17:23:37Z",
     "number": 21365,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21365",
     "title": "[Bug]: Last column on results grid cannot be resized correctly.",
     "areas": [
@@ -9990,8 +10027,8 @@
     "type": "Feature Request",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 8,
-    "commentCount": 1,
+    "totalReactions": 9,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
