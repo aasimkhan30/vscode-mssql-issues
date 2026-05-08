@@ -1,5 +1,77 @@
 [
   {
+    "author": "gsimardimt",
+    "closedAt": null,
+    "createdAt": "2026-05-07T20:44:34Z",
+    "number": 22075,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22075",
+    "title": "[Feature Request]: Support Microsoft Entra Service Principal connections",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "connor-meeks-stryker",
+    "closedAt": null,
+    "createdAt": "2026-05-07T15:42:42Z",
+    "number": 22071,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22071",
+    "title": "[Bug]: MFA Authentication failure for latest extension version",
+    "areas": [
+      "Azure"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "BULLAM-sagar5810",
+    "closedAt": "2026-05-07T17:01:53Z",
+    "createdAt": "2026-05-07T13:22:44Z",
+    "number": 22070,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22070",
+    "title": "sagar valmiki",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2026-05-07T18:06:27Z",
+    "createdAt": "2026-05-07T06:24:13Z",
+    "number": 22069,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22069",
+    "title": "[Task]: Remove \"Preview\" label from GA features - v1.43",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "June 2026 Release"
+  },
+  {
     "author": "edisonjromor",
     "closedAt": null,
     "createdAt": "2026-05-06T16:43:38Z",
@@ -105,8 +177,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
-    "commentCount": 4,
+    "totalReactions": 3,
+    "commentCount": 5,
     "milestone": "June 2026 Release"
   },
   {
@@ -144,7 +216,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "regisVald",
@@ -219,7 +292,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 4
   },
   {
     "author": "ErwinSchleier",
@@ -256,7 +329,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 8
   },
   {
@@ -275,7 +348,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "jono-phobos",
@@ -2062,7 +2136,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "June 2026 Release"
   },
   {
@@ -4370,22 +4444,22 @@
   },
   {
     "author": "kburtram",
-    "closedAt": "2026-03-05T19:44:07Z",
+    "closedAt": null,
     "createdAt": "2026-02-25T01:00:19Z",
     "number": 21337,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21337",
     "title": "[Bug]: Query execution shortcut doesn't work properly in notebook cell",
     "areas": [
       "SQL Notebook"
     ],
-    "priority": 0,
+    "priority": -1,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "March 2026 Release"
+    "commentCount": 3,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "kburtram",
@@ -31545,7 +31619,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 0,
     "milestone": "March 2025 Release"
   },
   {
@@ -31947,7 +32021,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3
+    "commentCount": 0
   },
   {
     "author": "alanrenmsft",
