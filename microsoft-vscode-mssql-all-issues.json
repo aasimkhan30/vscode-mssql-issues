@@ -1,5 +1,71 @@
 [
   {
+    "author": "mfhs",
+    "closedAt": null,
+    "createdAt": "2026-05-08T21:17:42Z",
+    "number": 22085,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22085",
+    "title": "[Bug]: Documentation Rendering issue - Malformed GitHub URLs in SQL Database Projects README Code Block",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "uahnbu",
+    "closedAt": null,
+    "createdAt": "2026-05-08T18:12:39Z",
+    "number": 22083,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22083",
+    "title": "[Feature Request]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jimquittenton",
+    "closedAt": null,
+    "createdAt": "2026-05-08T12:10:34Z",
+    "number": 22080,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22080",
+    "title": "[GitHub Copilot - Bug | Feature request]: @mssql prompts hang then give an error",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Both Bug and Feature",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "obviousSailfish",
+    "closedAt": null,
+    "createdAt": "2026-05-08T02:34:01Z",
+    "number": 22078,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22078",
+    "title": "[Bug]: Query was canceled by user",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 1
+  },
+  {
     "author": "gsimardimt",
     "closedAt": null,
     "createdAt": "2026-05-07T20:44:34Z",
@@ -33,7 +99,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 1
   },
   {
@@ -215,7 +281,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 1,
     "milestone": "June 2026 Release"
   },
@@ -330,7 +396,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 8
+    "commentCount": 9
   },
   {
     "author": "MagAlp",
@@ -598,7 +664,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 6,
     "milestone": "Backlog"
   },
   {
