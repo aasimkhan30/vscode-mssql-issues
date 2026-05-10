@@ -22,7 +22,7 @@
     "number": 22083,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22083",
-    "title": "[Feature Request]:",
+    "title": "[Feature Request]:Add filter and sorting capability for each column in the table like MSSQL or Azure Data Studio query's result",
     "areas": [],
     "priority": -1,
     "type": "Feature Request",

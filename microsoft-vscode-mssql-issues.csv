@@ -1,6 +1,6 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
 "22085","[Bug]: Documentation Rendering issue - Malformed GitHub URLs in SQL Database Projects README Code Block","mfhs","OPEN","2026-05-08T21:17:42Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22085","0","-1",
-"22083","[Feature Request]:","uahnbu","OPEN","2026-05-08T18:12:39Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/22083","0","-1",
+"22083","[Feature Request]:Add filter and sorting capability for each column in the table like MSSQL or Azure Data Studio query's result","uahnbu","OPEN","2026-05-08T18:12:39Z",,"","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/22083","0","-1",
 "22080","[GitHub Copilot - Bug | Feature request]: @mssql prompts hang then give an error","jimquittenton","OPEN","2026-05-08T12:10:34Z",,"GitHub Copilot","Both Bug and Feature","0","https://github.com/microsoft/vscode-mssql/issues/22080","0","-1",
 "22078","[Bug]: Query was canceled by user","obviousSailfish","OPEN","2026-05-08T02:34:01Z",,"","Bug","1","https://github.com/microsoft/vscode-mssql/issues/22078","1","-1",
 "22075","[Feature Request]: Support Microsoft Entra Service Principal connections","gsimardimt","OPEN","2026-05-07T20:44:34Z",,"Connection","Feature Request","0","https://github.com/microsoft/vscode-mssql/issues/22075","0","-1","Backlog"
