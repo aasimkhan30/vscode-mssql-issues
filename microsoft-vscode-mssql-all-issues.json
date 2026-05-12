@@ -1,12 +1,30 @@
 [
   {
-    "author": "mfhs",
+    "author": "MarkusAngenendt",
     "closedAt": null,
-    "createdAt": "2026-05-08T21:17:42Z",
-    "number": 22085,
+    "createdAt": "2026-05-11T14:33:33Z",
+    "number": 22092,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/22085",
-    "title": "[Bug]: Documentation Rendering issue - Malformed GitHub URLs in SQL Database Projects README Code Block",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22092",
+    "title": "[Bug]: \"Database Name\" field is grayed out in Extract DACPAC dialog when opened via right-click on a database",
+    "areas": [
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "brian-aroflo",
+    "closedAt": null,
+    "createdAt": "2026-05-11T06:15:44Z",
+    "number": 22091,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22091",
+    "title": "[Bug]: runCurrentStatement fails with \"Internal Parser Error\" on macOS ARM64 - webview not initializing",
     "areas": [],
     "priority": -1,
     "type": "Bug",
@@ -16,6 +34,24 @@
     "commentCount": 0
   },
   {
+    "author": "mfhs",
+    "closedAt": null,
+    "createdAt": "2026-05-08T21:17:42Z",
+    "number": 22085,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22085",
+    "title": "[Bug]: Documentation Rendering issue - Malformed GitHub URLs in SQL Database Projects README Code Block",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "uahnbu",
     "closedAt": null,
     "createdAt": "2026-05-08T18:12:39Z",
@@ -23,10 +59,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22083",
     "title": "[Feature Request]:Add filter and sorting capability for each column in the table like MSSQL or Azure Data Studio query's result",
-    "areas": [],
+    "areas": [
+      "SQL Notebook"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -57,10 +95,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22078",
     "title": "[Bug]: Query was canceled by user",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 1
@@ -86,10 +126,10 @@
   },
   {
     "author": "connor-meeks-stryker",
-    "closedAt": null,
+    "closedAt": "2026-05-11T17:04:27Z",
     "createdAt": "2026-05-07T15:42:42Z",
     "number": 22071,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22071",
     "title": "[Bug]: MFA Authentication failure for latest extension version",
     "areas": [
@@ -100,7 +140,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 3
   },
   {
     "author": "BULLAM-sagar5810",
@@ -152,7 +192,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "June 2026 Release"
   },
@@ -199,6 +239,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/22056",
     "title": "[Feature Request]: Browse Fabric - support for warehouse",
     "areas": [
+      "Connection",
       "Fabric Integration"
     ],
     "priority": -1,
@@ -206,7 +247,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "nmakela",
@@ -306,10 +348,10 @@
   },
   {
     "author": "chairmandenis",
-    "closedAt": null,
+    "closedAt": "2026-05-11T13:27:11Z",
     "createdAt": "2026-04-30T14:19:13Z",
     "number": 22038,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22038",
     "title": "[Bug]: Repeatedly being asked to authenticate azure connection",
     "areas": [
@@ -321,7 +363,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 3
   },
   {
     "author": "Nikolai5",
@@ -395,8 +437,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 9
+    "totalReactions": 2,
+    "commentCount": 11
   },
   {
     "author": "MagAlp",
@@ -509,10 +551,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-05-11T18:37:30Z",
     "createdAt": "2026-04-24T18:32:46Z",
     "number": 22003,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22003",
     "title": "[Bug]: Severe latency when opening large SQL projects (2k+ objects) due to full project parsing on load",
     "areas": [
@@ -764,10 +806,10 @@
   },
   {
     "author": "kipdec",
-    "closedAt": null,
+    "closedAt": "2026-05-11T21:57:50Z",
     "createdAt": "2026-04-21T15:37:33Z",
     "number": 21968,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21968",
     "title": "[Bug]: \"A query is already running for this editor session\", can't cancel query",
     "areas": [],
@@ -776,7 +818,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -1250,10 +1292,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-05-11T21:59:39Z",
     "createdAt": "2026-04-11T04:31:58Z",
     "number": 21881,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21881",
     "title": "[Feature Request]: Position cursor inside parentheses when function autocomplete inserts ()",
     "areas": [
@@ -1264,7 +1306,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "June 2026 Release"
   },
   {
