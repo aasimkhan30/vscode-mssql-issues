@@ -1,5 +1,59 @@
 [
   {
+    "author": "habibhammy",
+    "closedAt": null,
+    "createdAt": "2026-05-12T13:29:03Z",
+    "number": 22100,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22100",
+    "title": "[Bug]: Missing SQL objects after Importing from existing database",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "ritaipf",
+    "closedAt": null,
+    "createdAt": "2026-05-12T12:51:33Z",
+    "number": 22099,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22099",
+    "title": "[Bug]: Can't connect to Fabric items endpoint",
+    "areas": [
+      "Fabric Integration"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "cokohler",
+    "closedAt": "2026-05-12T22:33:20Z",
+    "createdAt": "2026-05-12T03:53:15Z",
+    "number": 22097,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22097",
+    "title": "[Bug]:  ms-mssql.mssql v.1.42.2 EntraID with MFA Login Loop",
+    "areas": [
+      "Azure"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 2
+  },
+  {
     "author": "MarkusAngenendt",
     "closedAt": null,
     "createdAt": "2026-05-11T14:33:33Z",
@@ -121,7 +175,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -179,10 +233,10 @@
   },
   {
     "author": "edisonjromor",
-    "closedAt": null,
+    "closedAt": "2026-05-12T05:08:26Z",
     "createdAt": "2026-05-06T16:43:38Z",
     "number": 22065,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22065",
     "title": "mssql: An error occurred while retrieving rows: Unable to read beyond the end of the stream.",
     "areas": [
@@ -193,7 +247,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "June 2026 Release"
   },
   {
@@ -285,7 +339,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 5,
     "milestone": "June 2026 Release"
   },
@@ -653,7 +707,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -2244,7 +2298,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "June 2026 Release"
   },
   {
@@ -4206,10 +4260,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-05-12T15:58:17Z",
     "createdAt": "2026-02-27T00:16:52Z",
     "number": 21378,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21378",
     "title": "[Bug]: Text selection in the query messages window doesn't work for long outputs",
     "areas": [
@@ -4552,10 +4606,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-05-12T18:57:42Z",
     "createdAt": "2026-02-25T01:00:19Z",
     "number": 21337,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21337",
     "title": "[Bug]: Query execution shortcut doesn't work properly in notebook cell",
     "areas": [
@@ -5325,10 +5379,10 @@
   },
   {
     "author": "ByteJuggler",
-    "closedAt": null,
+    "closedAt": "2026-05-12T05:09:33Z",
     "createdAt": "2026-02-11T09:29:01Z",
     "number": 21161,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21161",
     "title": "[Bug]: An error occurred while retrieving rows: Byte array for Guid must be exactly 16 bytes long.",
     "areas": [
@@ -5339,7 +5393,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -5857,7 +5911,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -7709,7 +7763,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
