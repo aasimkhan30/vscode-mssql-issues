@@ -1,5 +1,141 @@
 [
   {
+    "author": "JerryNixon",
+    "closedAt": null,
+    "createdAt": "2026-05-13T16:13:14Z",
+    "number": 22113,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22113",
+    "title": "[Bug]: Critical. DAB configuration properties not available via MCP (DAB MCP)",
+    "areas": [
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "JerryNixon",
+    "closedAt": "2026-05-14T00:22:12Z",
+    "createdAt": "2026-05-13T16:12:14Z",
+    "number": 22112,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22112",
+    "title": "[Bug]: Views and stored procedures not discoverable (DAB MCP)",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "JerryNixon",
+    "closedAt": null,
+    "createdAt": "2026-05-13T16:11:23Z",
+    "number": 22111,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22111",
+    "title": "[Bug]: Empty `customRestPath` is a silent no-op (DAB MCP)",
+    "areas": [
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "JerryNixon",
+    "closedAt": null,
+    "createdAt": "2026-05-13T16:10:31Z",
+    "number": 22110,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22110",
+    "title": "[Bug]: No input sanitization on string properties (DAB MCP)",
+    "areas": [
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "JerryNixon",
+    "closedAt": null,
+    "createdAt": "2026-05-13T16:08:16Z",
+    "number": 22109,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22109",
+    "title": "[Bug]: Partial batch failure with no rollback (DAB MCP)",
+    "areas": [
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "JerryNixon",
+    "closedAt": null,
+    "createdAt": "2026-05-13T16:06:55Z",
+    "number": 22108,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22108",
+    "title": "[Bug]: Duplicate `entityName` validation doesn't prevent mutation (DAB MCP)",
+    "areas": [
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "JerryNixon",
+    "closedAt": null,
+    "createdAt": "2026-05-13T16:05:40Z",
+    "number": 22107,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22107",
+    "title": "[Bug]: Entity enable/disable silently reverts (DAB MCP)",
+    "areas": [
+      "Application QuickStart",
+      "Data API Designer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "habibhammy",
     "closedAt": null,
     "createdAt": "2026-05-12T13:29:03Z",
@@ -15,7 +151,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "ritaipf",
@@ -32,7 +168,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -175,7 +311,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -492,7 +628,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 11
+    "commentCount": 12
   },
   {
     "author": "MagAlp",
@@ -707,7 +843,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "Backlog"
   },
   {
@@ -780,7 +916,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Peluko",
@@ -1557,7 +1693,7 @@
     "number": 21859,
     "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21859",
-    "title": "[Feature Request]: Support column selection in Data API Builder",
+    "title": "[Feature Request]: Support column selection in Data API builder",
     "areas": [
       "Data API Designer"
     ],
@@ -1704,10 +1840,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-05-13T23:24:00Z",
     "createdAt": "2026-04-09T22:39:58Z",
     "number": 21850,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21850",
     "title": "[Bug]: Save as Excel fails when result set exceeds Excel worksheet row limit",
     "areas": [
@@ -2298,7 +2434,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 4,
+    "commentCount": 7,
     "milestone": "June 2026 Release"
   },
   {
@@ -3992,7 +4128,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "MegaNeal",
@@ -7045,10 +7181,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20875",
     "title": "[Feature Request]: Open Edit Data from SQL script results",
-    "areas": [],
+    "areas": [
+      "View/Edit data"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
@@ -9979,10 +10117,10 @@
   },
   {
     "author": "trippetoe",
-    "closedAt": null,
+    "closedAt": "2026-05-13T17:28:11Z",
     "createdAt": "2025-10-30T22:45:32Z",
     "number": 20383,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20383",
     "title": "[Feature Request]: Add \"Change Connection\" to Right-Click Context Menu in Editor Window",
     "areas": [
@@ -10233,10 +10371,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-05-13T17:27:40Z",
     "createdAt": "2025-10-23T00:14:18Z",
     "number": 20348,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20348",
     "title": "[Bug]: Command label “MSSQL: Execute Current Statement” does not reflect actual behavior",
     "areas": [
