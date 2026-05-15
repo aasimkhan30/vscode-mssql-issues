@@ -461,10 +461,10 @@
   },
   {
     "author": "Micael-stack",
-    "closedAt": null,
+    "closedAt": "2026-05-14T20:30:14Z",
     "createdAt": "2026-05-01T19:49:15Z",
     "number": 22053,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22053",
     "title": "Endless loop login Azure microsoft Login. Cache keeps old token",
     "areas": [
@@ -476,7 +476,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 5,
+    "commentCount": 9,
     "milestone": "June 2026 Release"
   },
   {
@@ -829,10 +829,10 @@
   },
   {
     "author": "peterbud",
-    "closedAt": null,
+    "closedAt": "2026-05-14T19:58:11Z",
     "createdAt": "2026-04-24T08:27:50Z",
     "number": 21996,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21996",
     "title": "[Bug]: 1.42 regression: Entra login no longer allows selecting personal account, only corporate account",
     "areas": [
@@ -843,7 +843,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6,
+    "commentCount": 10,
     "milestone": "Backlog"
   },
   {
