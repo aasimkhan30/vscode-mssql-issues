@@ -1,4 +1,5 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"22130","[Bug]: Login failed for '<token-identified principal>' — Error 18456, works in DBeaver but not in vscode-mssql","juandiegou","OPEN","2026-05-17T11:39:03Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22130","0","-1",
 "22124","[Bug]: Intellisense availiability in SQL Notebook is inconsistent","jmetape","OPEN","2026-05-15T16:54:17Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22124","0","-1",
 "22113","[Bug]: Critical. DAB configuration properties not available via MCP (DAB MCP)","JerryNixon","OPEN","2026-05-13T16:13:14Z",,"Application QuickStart","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22113","0","-1","Backlog"
 "22113","[Bug]: Critical. DAB configuration properties not available via MCP (DAB MCP)","JerryNixon","OPEN","2026-05-13T16:13:14Z",,"Data API Designer","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22113","0","-1","Backlog"
