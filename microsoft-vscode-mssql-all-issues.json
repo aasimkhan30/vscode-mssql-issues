@@ -1,10 +1,64 @@
 [
   {
-    "author": "juandiegou",
+    "author": "croblesm",
     "closedAt": null,
+    "createdAt": "2026-05-18T21:31:46Z",
+    "number": 22137,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22137",
+    "title": "[Bug]: Improve SQL Notebooks quality and performance",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-05-18T21:21:50Z",
+    "number": 22136,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22136",
+    "title": "[Feature Request]: Add export options to SQL Notebooks",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "rohinithangavelu",
+    "closedAt": "2026-05-18T19:26:12Z",
+    "createdAt": "2026-05-18T09:57:24Z",
+    "number": 22132,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22132",
+    "title": "the MSSQL connections doesnt work with latest VS code version",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
+    "author": "juandiegou",
+    "closedAt": "2026-05-18T11:14:07Z",
     "createdAt": "2026-05-17T11:39:03Z",
     "number": 22130,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22130",
     "title": "[Bug]: Login failed for '<token-identified principal>' — Error 18456, works in DBeaver but not in vscode-mssql",
     "areas": [],
@@ -13,7 +67,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 2
   },
   {
     "author": "jmetape",
@@ -23,13 +77,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22124",
     "title": "[Bug]: Intellisense availiability in SQL Notebook is inconsistent",
-    "areas": [],
+    "areas": [
+      "SQL Notebook"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "JerryNixon",
@@ -187,10 +244,10 @@
   },
   {
     "author": "ritaipf",
-    "closedAt": null,
+    "closedAt": "2026-05-18T13:08:03Z",
     "createdAt": "2026-05-12T12:51:33Z",
     "number": 22099,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22099",
     "title": "[Bug]: Can't connect to Fabric items endpoint",
     "areas": [
@@ -201,7 +258,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "cokohler",
@@ -415,7 +472,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "June 2026 Release"
   },
   {
@@ -645,10 +702,10 @@
   },
   {
     "author": "micwed-chy",
-    "closedAt": null,
+    "closedAt": "2026-05-18T19:23:47Z",
     "createdAt": "2026-04-29T09:18:16Z",
     "number": 22031,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22031",
     "title": "[Bug]: mssql: Error 18456: Login failed for user '<token-identified principal>'. Incorrect or invalid token.",
     "areas": [
@@ -660,7 +717,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 12
+    "commentCount": 14
   },
   {
     "author": "MagAlp",
@@ -1961,8 +2018,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0,
+    "totalReactions": 1,
+    "commentCount": 1,
     "milestone": "June 2026 Release"
   },
   {
@@ -2466,7 +2523,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 7,
+    "commentCount": 11,
     "milestone": "June 2026 Release"
   },
   {
@@ -7046,10 +7103,10 @@
   },
   {
     "author": "JerryNixon",
-    "closedAt": null,
+    "closedAt": "2026-05-18T22:12:54Z",
     "createdAt": "2026-01-09T01:49:00Z",
     "number": 20889,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20889",
     "title": "[Bug]: When Schema Designer Loads It Looks Frozen!",
     "areas": [
