@@ -1,5 +1,37 @@
 [
   {
+    "author": "ewinkiser",
+    "closedAt": null,
+    "createdAt": "2026-05-19T12:39:52Z",
+    "number": 22143,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22143",
+    "title": "Create a Star Schema for Fabric with the Schema Designer",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ByteJuggler",
+    "closedAt": "2026-05-20T00:51:08Z",
+    "createdAt": "2026-05-19T11:04:17Z",
+    "number": 22142,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22142",
+    "title": "[Bug]: mssql: An error occurred while retrieving rows: Unable to read beyond the end of the stream.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "croblesm",
     "closedAt": null,
     "createdAt": "2026-05-18T21:31:46Z",
@@ -472,7 +504,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 4,
+    "commentCount": 7,
     "milestone": "June 2026 Release"
   },
   {
@@ -716,7 +748,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 14
   },
   {
