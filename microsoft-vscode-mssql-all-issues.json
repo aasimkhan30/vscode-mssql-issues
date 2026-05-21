@@ -1,12 +1,12 @@
 [
   {
-    "author": "ewinkiser",
+    "author": "laurenastrid1",
     "closedAt": null,
-    "createdAt": "2026-05-19T12:39:52Z",
-    "number": 22143,
+    "createdAt": "2026-05-20T21:14:51Z",
+    "number": 22152,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/22143",
-    "title": "Create a Star Schema for Fabric with the Schema Designer",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22152",
+    "title": "[Feature Request]: Add post-deployment script drawers for Fabric and Azure Provisioning",
     "areas": [],
     "priority": -1,
     "type": "Feature Request",
@@ -14,6 +14,60 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-05-20T21:10:45Z",
+    "number": 22151,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22151",
+    "title": "[Feature Request]: Switch firewall service over to using azure node ARM libraries",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "rgward",
+    "closedAt": null,
+    "createdAt": "2026-05-20T17:12:51Z",
+    "number": 22146,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22146",
+    "title": "Execution plan using a vector index seek does not render with Actual Execution Plan",
+    "areas": [
+      "Query Plan"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "ewinkiser",
+    "closedAt": null,
+    "createdAt": "2026-05-19T12:39:52Z",
+    "number": 22143,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22143",
+    "title": "Create a Star Schema for Fabric with the Schema Designer",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ByteJuggler",
@@ -272,7 +326,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "ritaipf",
@@ -326,7 +381,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "brian-aroflo",
@@ -336,13 +392,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22091",
     "title": "[Bug]: runCurrentStatement fails with \"Internal Parser Error\" on macOS ARM64 - webview not initializing",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "mfhs",
@@ -360,14 +419,15 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "uahnbu",
-    "closedAt": null,
+    "closedAt": "2026-05-20T21:01:05Z",
     "createdAt": "2026-05-08T18:12:39Z",
     "number": 22083,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22083",
     "title": "[Feature Request]:Add filter and sorting capability for each column in the table like MSSQL or Azure Data Studio query's result",
     "areas": [
@@ -378,7 +438,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "jimquittenton",
@@ -392,11 +453,12 @@
       "GitHub Copilot"
     ],
     "priority": -1,
-    "type": "Both Bug and Feature",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "obviousSailfish",
@@ -414,7 +476,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "gsimardimt",
@@ -578,7 +641,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "Micael-stack",
@@ -616,7 +680,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4
+    "commentCount": 4,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "RMArthur",
@@ -692,7 +757,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "damonripper",
@@ -711,7 +777,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4
+    "commentCount": 4,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "ErwinSchleier",
@@ -2555,7 +2622,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 11,
+    "commentCount": 12,
     "milestone": "June 2026 Release"
   },
   {
@@ -29994,7 +30061,7 @@
     "commentCount": 1
   },
   {
-    "author": "jfcarr",
+    "author": "app/",
     "closedAt": "2025-03-26T03:01:57Z",
     "createdAt": "2023-01-30T14:02:26Z",
     "number": 17531,
@@ -35707,7 +35774,7 @@
     "milestone": "Backlog"
   },
   {
-    "author": "jfcarr",
+    "author": "app/",
     "closedAt": "2025-03-26T03:02:21Z",
     "createdAt": "2020-04-30T18:09:36Z",
     "number": 1673,
@@ -35828,7 +35895,7 @@
     "commentCount": 2
   },
   {
-    "author": "jfcarr",
+    "author": "app/",
     "closedAt": "2024-11-01T19:06:40Z",
     "createdAt": "2020-04-09T12:23:26Z",
     "number": 1665,
