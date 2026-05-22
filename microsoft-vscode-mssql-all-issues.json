@@ -1,5 +1,121 @@
 [
   {
+    "author": "JerryNixon",
+    "closedAt": null,
+    "createdAt": "2026-05-21T22:28:04Z",
+    "number": 22165,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22165",
+    "title": "Copilot changed live database instead of active schema designer model",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "JerryNixon",
+    "closedAt": null,
+    "createdAt": "2026-05-21T22:27:36Z",
+    "number": 22164,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22164",
+    "title": "Copilot changed live database instead of active schema designer model",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "JerryNixon",
+    "closedAt": null,
+    "createdAt": "2026-05-21T22:27:14Z",
+    "number": 22163,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22163",
+    "title": "Copilot renamed live database column instead of applying schema-designer edit",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "MarkSimUM",
+    "closedAt": null,
+    "createdAt": "2026-05-21T16:41:47Z",
+    "number": 22159,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22159",
+    "title": "[Bug]: Schema Compare Uncheck and then Check all causes crash",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "rennyTeachers",
+    "closedAt": null,
+    "createdAt": "2026-05-21T11:16:11Z",
+    "number": 22156,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22156",
+    "title": "SQL connection becomes stale and must restart VS Code to reconnect",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "TiagoAntunesALS",
+    "closedAt": null,
+    "createdAt": "2026-05-21T10:43:20Z",
+    "number": 22155,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22155",
+    "title": "[Feature Request]: Allow launching Profiler with existing sessions without requiring a new Session Name",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "sainus-1997",
+    "closedAt": null,
+    "createdAt": "2026-05-21T07:17:44Z",
+    "number": 22154,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22154",
+    "title": "[Bug]: The SQLToolsService service has crashed. Details: The service process was unexpectedly closed.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "laurenastrid1",
     "closedAt": null,
     "createdAt": "2026-05-20T21:14:51Z",
@@ -106,10 +222,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-05-21T05:42:31Z",
     "createdAt": "2026-05-18T21:21:50Z",
     "number": 22136,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22136",
     "title": "[Feature Request]: Add export options to SQL Notebooks",
     "areas": [
@@ -212,10 +328,10 @@
   },
   {
     "author": "JerryNixon",
-    "closedAt": null,
+    "closedAt": "2026-05-21T18:29:03Z",
     "createdAt": "2026-05-13T16:11:23Z",
     "number": 22111,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22111",
     "title": "[Bug]: Empty `customRestPath` is a silent no-op (DAB MCP)",
     "areas": [
@@ -232,10 +348,10 @@
   },
   {
     "author": "JerryNixon",
-    "closedAt": null,
+    "closedAt": "2026-05-21T18:29:03Z",
     "createdAt": "2026-05-13T16:10:31Z",
     "number": 22110,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22110",
     "title": "[Bug]: No input sanitization on string properties (DAB MCP)",
     "areas": [
@@ -252,10 +368,10 @@
   },
   {
     "author": "JerryNixon",
-    "closedAt": null,
+    "closedAt": "2026-05-21T18:29:02Z",
     "createdAt": "2026-05-13T16:08:16Z",
     "number": 22109,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22109",
     "title": "[Bug]: Partial batch failure with no rollback (DAB MCP)",
     "areas": [
@@ -272,10 +388,10 @@
   },
   {
     "author": "JerryNixon",
-    "closedAt": null,
+    "closedAt": "2026-05-21T18:29:02Z",
     "createdAt": "2026-05-13T16:06:55Z",
     "number": 22108,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22108",
     "title": "[Bug]: Duplicate `entityName` validation doesn't prevent mutation (DAB MCP)",
     "areas": [
@@ -292,10 +408,10 @@
   },
   {
     "author": "JerryNixon",
-    "closedAt": null,
+    "closedAt": "2026-05-21T18:29:01Z",
     "createdAt": "2026-05-13T16:05:40Z",
     "number": 22107,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22107",
     "title": "[Bug]: Entity enable/disable silently reverts (DAB MCP)",
     "areas": [
@@ -2622,7 +2738,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 12,
+    "commentCount": 16,
     "milestone": "June 2026 Release"
   },
   {
