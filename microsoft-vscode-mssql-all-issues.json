@@ -1,5 +1,37 @@
 [
   {
+    "author": "trunks1997",
+    "closedAt": null,
+    "createdAt": "2026-05-23T16:17:43Z",
+    "number": 22177,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22177",
+    "title": "Unstable connection to Azure MSSQL database",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "sagor72011-max",
+    "closedAt": "2026-05-23T02:59:20Z",
+    "createdAt": "2026-05-23T02:59:00Z",
+    "number": 22174,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22174",
+    "title": "[Bug]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "JerryNixon",
     "closedAt": null,
     "createdAt": "2026-05-21T22:28:04Z",
@@ -107,13 +139,15 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22154",
     "title": "[Bug]: The SQLToolsService service has crashed. Details: The service process was unexpectedly closed.",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "laurenastrid1",
@@ -502,10 +536,10 @@
   },
   {
     "author": "brian-aroflo",
-    "closedAt": null,
+    "closedAt": "2026-05-23T06:08:10Z",
     "createdAt": "2026-05-11T06:15:44Z",
     "number": 22091,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22091",
     "title": "[Bug]: runCurrentStatement fails with \"Internal Parser Error\" on macOS ARM64 - webview not initializing",
     "areas": [
@@ -516,7 +550,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "June 2026 Release"
   },
   {
@@ -817,7 +851,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 1,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "regisVald",
@@ -8687,7 +8721,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "EricZiola",
@@ -19632,7 +19666,7 @@
     "hasType": true,
     "totalReactions": 14,
     "commentCount": 7,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "Mahmoud-Elgendi",
