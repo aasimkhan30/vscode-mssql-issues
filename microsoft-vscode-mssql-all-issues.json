@@ -7,13 +7,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22177",
     "title": "Unstable connection to Azure MSSQL database",
-    "areas": [],
+    "areas": [
+      "Connection",
+      "Azure"
+    ],
     "priority": -1,
     "type": null,
-    "hasArea": false,
+    "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "sagor72011-max",
@@ -106,7 +109,8 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/22156",
     "title": "SQL connection becomes stale and must restart VS Code to reconnect",
     "areas": [
-      "Connection"
+      "Connection",
+      "Azure"
     ],
     "priority": -1,
     "type": null,
@@ -133,10 +137,10 @@
   },
   {
     "author": "sainus-1997",
-    "closedAt": null,
+    "closedAt": "2026-05-25T03:24:49Z",
     "createdAt": "2026-05-21T07:17:44Z",
     "number": 22154,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22154",
     "title": "[Bug]: The SQLToolsService service has crashed. Details: The service process was unexpectedly closed.",
     "areas": [
@@ -147,7 +151,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1
+    "commentCount": 3
   },
   {
     "author": "laurenastrid1",
@@ -928,7 +932,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "July 2026 Release"
+    "milestone": "June 2026 Release"
   },
   {
     "author": "ErwinSchleier",
@@ -6386,7 +6390,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -33162,25 +33166,6 @@
     ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": true,
-    "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "Backlog"
-  },
-  {
-    "author": "xkalf",
-    "closedAt": "2021-08-31T20:10:34Z",
-    "createdAt": "2021-08-26T04:32:19Z",
-    "number": 17048,
-    "state": "CLOSED",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/17048",
-    "title": "Apple silicon Not Supported Issue",
-    "areas": [
-      "Acquisition"
-    ],
-    "priority": -1,
-    "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
