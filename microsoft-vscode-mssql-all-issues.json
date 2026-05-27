@@ -1,5 +1,55 @@
 [
   {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-05-26T21:18:34Z",
+    "number": 22192,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22192",
+    "title": "[Bug]: Add preview tag to Azure Provisioning",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "ematt70",
+    "closedAt": null,
+    "createdAt": "2026-05-26T18:21:56Z",
+    "number": 22188,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22188",
+    "title": "[Bug]: auth for connection to dataverse broke in 1.42.0",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-05-26T17:50:36Z",
+    "number": 22186,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22186",
+    "title": "Update changelog for 1.43.0 release",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
     "author": "trunks1997",
     "closedAt": null,
     "createdAt": "2026-05-23T16:17:43Z",
@@ -117,7 +167,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 4
   },
   {
     "author": "TiagoAntunesALS",
@@ -326,7 +376,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "JerryNixon",
@@ -721,7 +771,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 7,
+    "commentCount": 8,
     "milestone": "June 2026 Release"
   },
   {
@@ -874,7 +924,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "chairmandenis",
@@ -916,10 +966,10 @@
   },
   {
     "author": "damonripper",
-    "closedAt": null,
+    "closedAt": "2026-05-26T20:59:02Z",
     "createdAt": "2026-04-29T13:08:26Z",
     "number": 22033,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22033",
     "title": "[Bug]: Query Profiler issues",
     "areas": [
@@ -970,7 +1020,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 14
+    "commentCount": 15
   },
   {
     "author": "MagAlp",
@@ -988,7 +1038,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "June 2026 Release"
   },
   {
@@ -1446,7 +1496,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "SoyDBA",
@@ -1484,7 +1534,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "June 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "amthomas46",
@@ -1553,7 +1603,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "CarbonChauvinist",
@@ -1697,10 +1747,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-05-26T20:43:13Z",
     "createdAt": "2026-04-13T22:27:12Z",
     "number": 21897,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21897",
     "title": "VS Code account + EntraMFA connections don't refresh tokens from STS",
     "areas": [
@@ -2254,7 +2304,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "DawidMazur-CAL",
@@ -2272,7 +2322,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "June 2026 Release"
   },
   {
@@ -2364,7 +2414,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "June 2026 Release"
   },
   {
@@ -2549,7 +2599,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "ki6bjv",
@@ -2776,7 +2826,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 16,
+    "commentCount": 20,
     "milestone": "June 2026 Release"
   },
   {
@@ -2834,7 +2884,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -3053,7 +3103,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "kburtram",
@@ -3300,10 +3350,10 @@
   },
   {
     "author": "gisn1",
-    "closedAt": null,
+    "closedAt": "2026-05-26T20:12:19Z",
     "createdAt": "2026-03-16T17:18:29Z",
     "number": 21636,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21636",
     "title": "[Bug]: Temporal table child tables missing right-click menu options",
     "areas": [],
@@ -3832,7 +3882,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "lewis-sanchez",
@@ -3909,7 +3959,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "kburtram",
@@ -5005,7 +5055,7 @@
     "hasType": true,
     "totalReactions": 4,
     "commentCount": 1,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "kzendra",
@@ -5024,7 +5074,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "kburtram",
@@ -6186,7 +6236,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "cancan101",
@@ -6390,7 +6440,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -7494,7 +7544,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -7768,7 +7818,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "Prefix42",
@@ -8868,7 +8918,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "ubuntuztc",
@@ -12327,7 +12377,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "Wermeling",
@@ -12506,7 +12556,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 6,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "mpurnyn",
@@ -12525,7 +12575,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 2,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "SPerremans",
@@ -18634,7 +18684,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -20114,7 +20164,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 6,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "tim-mit",
