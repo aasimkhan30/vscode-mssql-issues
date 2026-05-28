@@ -1,5 +1,211 @@
 [
   {
+    "author": "kburtram",
+    "closedAt": null,
+    "createdAt": "2026-05-28T00:31:47Z",
+    "number": 22223,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22223",
+    "title": "[Bug]: Create Project from Database menu asks which database",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "RamanSabchuk1",
+    "closedAt": null,
+    "createdAt": "2026-05-27T21:32:08Z",
+    "number": 22220,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22220",
+    "title": "[Bug]: Why it so slow!",
+    "areas": [
+      "Connection",
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "edisonjromor",
+    "closedAt": null,
+    "createdAt": "2026-05-27T19:28:25Z",
+    "number": 22213,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22213",
+    "title": "[Feature Request]: Allow pinning/sticky only the first column (row number) in the Results Grid",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-05-27T18:34:13Z",
+    "number": 22211,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22211",
+    "title": "[Feature Request]: Add \"Open File\" action to the export-success notification in SQL Notebooks",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-05-27T18:31:05Z",
+    "number": 22210,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22210",
+    "title": "[Feature Request]: Add \"Open File\" action to the export-success notification in Query Results",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-05-27T17:58:41Z",
+    "number": 22209,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22209",
+    "title": "[Bug]: SQL Notebook result grid context menu is missing the \"Copy As\" submenu",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-05-27T17:45:45Z",
+    "number": 22208,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22208",
+    "title": "[Bug]: SQL Notebook result grid columns don't auto-resize to content like Query Editor results do",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-05-27T17:36:27Z",
+    "number": 22207,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22207",
+    "title": "[Bug]: Export icon tooltips in SQL Notebook results are delayed and inconsistent",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": "2026-05-27T20:35:28Z",
+    "createdAt": "2026-05-27T17:28:11Z",
+    "number": 22205,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22205",
+    "title": "Align SQL tools service configuration lookup",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-05-27T17:22:04Z",
+    "number": 22203,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22203",
+    "title": "Schema Compare and Dacapc Dialog don't refresh token for long-running operations",
+    "areas": [
+      "Connection",
+      "Schema Compare",
+      "Dacpac Import/Export"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "lewis-sanchez",
+    "closedAt": null,
+    "createdAt": "2026-05-27T09:23:59Z",
+    "number": 22199,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22199",
+    "title": "[Bug]: Broken CheckBox Styles in Edit Data grid",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
     "author": "laurenastrid1",
     "closedAt": null,
     "createdAt": "2026-05-26T21:18:34Z",
@@ -24,13 +230,17 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22188",
     "title": "[Bug]: auth for connection to dataverse broke in 1.42.0",
-    "areas": [],
+    "areas": [
+      "Connection",
+      "Azure"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 2,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "Benjin",
@@ -66,7 +276,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 3
   },
   {
     "author": "sagor72011-max",
@@ -167,7 +377,8 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 4
+    "commentCount": 6,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "TiagoAntunesALS",
@@ -306,7 +517,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -685,10 +896,10 @@
   },
   {
     "author": "gsimardimt",
-    "closedAt": null,
+    "closedAt": "2026-05-27T17:08:08Z",
     "createdAt": "2026-05-07T20:44:34Z",
     "number": 22075,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22075",
     "title": "[Feature Request]: Support Microsoft Entra Service Principal connections",
     "areas": [
@@ -699,8 +910,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "Backlog"
+    "commentCount": 3,
+    "milestone": "June 2026 Release"
   },
   {
     "author": "connor-meeks-stryker",
@@ -771,7 +982,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 8,
+    "commentCount": 9,
     "milestone": "June 2026 Release"
   },
   {
@@ -904,7 +1115,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "July 2026 Release"
   },
   {
@@ -966,12 +1177,12 @@
   },
   {
     "author": "damonripper",
-    "closedAt": "2026-05-26T20:59:02Z",
+    "closedAt": null,
     "createdAt": "2026-04-29T13:08:26Z",
     "number": 22033,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22033",
-    "title": "[Bug]: Query Profiler issues",
+    "title": "[Bug]: Query Profiler doens't start session with EntraMFA auth and `useVscodeAccountsForEntraMFA`",
     "areas": [
       "Azure",
       "Query Profiler"
@@ -1001,7 +1212,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "micwed-chy",
@@ -1019,15 +1230,15 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
-    "commentCount": 15
+    "totalReactions": 5,
+    "commentCount": 18
   },
   {
     "author": "MagAlp",
-    "closedAt": null,
+    "closedAt": "2026-05-27T17:43:35Z",
     "createdAt": "2026-04-29T08:37:38Z",
     "number": 22030,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22030",
     "title": "[Bug]: Publish using a saved publish profile does not use stored values for SCLCMD Variables",
     "areas": [
@@ -2415,7 +2626,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "gerrynoble",
@@ -2456,10 +2667,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-05-27T17:07:20Z",
     "createdAt": "2026-04-01T17:59:32Z",
     "number": 21799,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21799",
     "title": "Require sandbox for test stubs",
     "areas": [],
@@ -2812,10 +3023,10 @@
   },
   {
     "author": "hajerty",
-    "closedAt": null,
+    "closedAt": "2026-05-27T16:57:37Z",
     "createdAt": "2026-03-25T14:52:41Z",
     "number": 21739,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21739",
     "title": "[Bug]: Run query from sql notebook",
     "areas": [
@@ -2826,7 +3037,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 20,
+    "commentCount": 21,
     "milestone": "June 2026 Release"
   },
   {
@@ -3050,10 +3261,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-05-27T17:11:23Z",
     "createdAt": "2026-03-20T16:23:56Z",
     "number": 21695,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21695",
     "title": "[Bug]: Query editor connection fails when OE connection is fine",
     "areas": [
@@ -3064,7 +3275,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "June 2026 Release"
   },
   {
@@ -6440,7 +6651,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -7563,7 +7774,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -12518,7 +12729,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "polandre90",
@@ -12879,7 +13090,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 3,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "agrabsi",
@@ -13358,10 +13569,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-05-27T17:09:43Z",
     "createdAt": "2025-07-25T19:19:40Z",
     "number": 19842,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/19842",
     "title": "[Feature Request]: Revamp Azure Browse Experience with Tree-Style Resource Navigation",
     "areas": [
@@ -13372,7 +13583,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -15722,7 +15933,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 1,
     "milestone": "Backlog"
   },
@@ -16198,7 +16409,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "JamesDBartlett3",
