@@ -1,5 +1,90 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-05-28T22:28:25Z",
+    "number": 22240,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22240",
+    "title": "[Feature Request]: SQLCON EU in-product announcement banner",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-05-28T21:18:03Z",
+    "number": 22236,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22236",
+    "title": "[Bug]: Issues with IntelliSense",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "tauseefsiddique10",
+    "closedAt": null,
+    "createdAt": "2026-05-28T19:50:58Z",
+    "number": 22232,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22232",
+    "title": "[Bug]: Add Vcores customization and remove auto pause / continue charges options to Azure SQL DB provisioning",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 Release"
+  },
+  {
+    "author": "philipnye",
+    "closedAt": null,
+    "createdAt": "2026-05-28T13:21:47Z",
+    "number": 22227,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22227",
+    "title": "[Feature Request]: Add option to disable `Results copied to clipboard` notification",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "marcusmaker",
+    "closedAt": null,
+    "createdAt": "2026-05-28T12:02:36Z",
+    "number": 22226,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22226",
+    "title": "[Bug]: Cannot revert and/or remove schema changes",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "kburtram",
     "closedAt": null,
     "createdAt": "2026-05-28T00:31:47Z",
@@ -112,10 +197,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-05-28T18:29:41Z",
     "createdAt": "2026-05-27T17:45:45Z",
     "number": 22208,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22208",
     "title": "[Bug]: SQL Notebook result grid columns don't auto-resize to content like Query Editor results do",
     "areas": [
@@ -167,10 +252,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-05-28T19:58:49Z",
     "createdAt": "2026-05-27T17:22:04Z",
     "number": 22203,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22203",
     "title": "Schema Compare and Dacapc Dialog don't refresh token for long-running operations",
     "areas": [
@@ -188,10 +273,10 @@
   },
   {
     "author": "lewis-sanchez",
-    "closedAt": null,
+    "closedAt": "2026-05-28T18:15:34Z",
     "createdAt": "2026-05-27T09:23:59Z",
     "number": 22199,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22199",
     "title": "[Bug]: Broken CheckBox Styles in Edit Data grid",
     "areas": [
@@ -207,10 +292,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-05-28T15:59:29Z",
     "createdAt": "2026-05-26T21:18:34Z",
     "number": 22192,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22192",
     "title": "[Bug]: Add preview tag to Azure Provisioning",
     "areas": [],
@@ -462,7 +547,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -834,7 +919,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "June 2026 Release"
   },
   {
@@ -1177,10 +1262,10 @@
   },
   {
     "author": "damonripper",
-    "closedAt": null,
+    "closedAt": "2026-05-28T19:56:59Z",
     "createdAt": "2026-04-29T13:08:26Z",
     "number": 22033,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22033",
     "title": "[Bug]: Query Profiler doens't start session with EntraMFA auth and `useVscodeAccountsForEntraMFA`",
     "areas": [
@@ -2534,7 +2619,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 2,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "bronthulke",
@@ -2868,10 +2953,10 @@
   },
   {
     "author": "davidcousinsho",
-    "closedAt": null,
+    "closedAt": "2026-05-28T19:58:33Z",
     "createdAt": "2026-03-26T10:42:36Z",
     "number": 21756,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21756",
     "title": "[Bug]: Connection to Azure synapse via Browse Azure option uses the wrong hostname",
     "areas": [
@@ -5270,10 +5355,10 @@
   },
   {
     "author": "kzendra",
-    "closedAt": null,
+    "closedAt": "2026-05-28T16:59:11Z",
     "createdAt": "2026-02-25T12:30:14Z",
     "number": 21343,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21343",
     "title": "[Bug]: Save results as JSON issues with decimal number",
     "areas": [
@@ -5284,7 +5369,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "July 2026 Release"
   },
   {
@@ -8971,10 +9056,10 @@
   },
   {
     "author": "PerOve",
-    "closedAt": null,
+    "closedAt": "2026-05-28T17:10:39Z",
     "createdAt": "2025-11-20T09:19:05Z",
     "number": 20817,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20817",
     "title": "Bug Report: DACPAC deployment fails on Linux/WSL2 with invalid path separators",
     "areas": [
@@ -8985,7 +9070,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "July 2026 Release"
   },
   {
@@ -11188,10 +11273,10 @@
   },
   {
     "author": "terrykinnaman",
-    "closedAt": null,
+    "closedAt": "2026-05-28T17:11:51Z",
     "createdAt": "2025-10-06T17:32:57Z",
     "number": 20283,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20283",
     "title": "[Bug]: Offset and Length Out of Bounds",
     "areas": [
@@ -11202,7 +11287,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 8,
+    "commentCount": 9,
     "milestone": "November 2025 Release"
   },
   {
