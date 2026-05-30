@@ -1,10 +1,58 @@
 [
   {
-    "author": "croblesm",
+    "author": "dlevy-msft-sql",
     "closedAt": null,
+    "createdAt": "2026-05-29T22:29:47Z",
+    "number": 22255,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22255",
+    "title": "[Bug]: On Linux, docker permission errors trigger `systemctl start docker` (polkit prompt) instead of surfacing the permission error",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Brian-Keith",
+    "closedAt": null,
+    "createdAt": "2026-05-29T13:59:09Z",
+    "number": 22245,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22245",
+    "title": "[Feature Request]: Add Option to include timestamps when using `Copy All` in Messages panel or Include Completion Timestamp",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "strandloper",
+    "closedAt": null,
+    "createdAt": "2026-05-29T08:28:08Z",
+    "number": 22244,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22244",
+    "title": "[Bug]: Query results do not always render row contents",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 2
+  },
+  {
+    "author": "croblesm",
+    "closedAt": "2026-05-30T01:42:58Z",
     "createdAt": "2026-05-28T22:28:25Z",
     "number": 22240,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22240",
     "title": "[Feature Request]: SQLCON EU in-product announcement banner",
     "areas": [],
@@ -33,14 +81,14 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "June 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "tauseefsiddique10",
-    "closedAt": null,
+    "closedAt": "2026-05-29T15:08:31Z",
     "createdAt": "2026-05-28T19:50:58Z",
     "number": 22232,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22232",
     "title": "[Bug]: Add Vcores customization and remove auto pause / continue charges options to Azure SQL DB provisioning",
     "areas": [],
@@ -70,10 +118,10 @@
   },
   {
     "author": "marcusmaker",
-    "closedAt": null,
+    "closedAt": "2026-05-29T19:15:58Z",
     "createdAt": "2026-05-28T12:02:36Z",
     "number": 22226,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22226",
     "title": "[Bug]: Cannot revert and/or remove schema changes",
     "areas": [],
@@ -329,10 +377,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-05-30T01:43:16Z",
     "createdAt": "2026-05-26T17:50:36Z",
     "number": 22186,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22186",
     "title": "Update changelog for 1.43.0 release",
     "areas": [],
@@ -462,7 +510,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "July 2026 Release"
   },
   {
@@ -905,10 +953,10 @@
   },
   {
     "author": "mfhs",
-    "closedAt": null,
+    "closedAt": "2026-05-30T01:43:01Z",
     "createdAt": "2026-05-08T21:17:42Z",
     "number": 22085,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22085",
     "title": "[Bug]: Documentation Rendering issue - Malformed GitHub URLs in SQL Database Projects README Code Block",
     "areas": [
@@ -1106,10 +1154,10 @@
   },
   {
     "author": "Niklasbechdamgaard",
-    "closedAt": null,
+    "closedAt": "2026-05-29T20:30:08Z",
     "createdAt": "2026-05-04T09:38:33Z",
     "number": 22056,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22056",
     "title": "[Feature Request]: Browse Fabric - support for warehouse",
     "areas": [
@@ -3122,7 +3170,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 21,
+    "commentCount": 23,
     "milestone": "June 2026 Release"
   },
   {
