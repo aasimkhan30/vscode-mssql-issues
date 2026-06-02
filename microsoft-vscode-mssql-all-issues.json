@@ -1,5 +1,24 @@
 [
   {
+    "author": "nayar-900",
+    "closedAt": null,
+    "createdAt": "2026-06-01T06:44:45Z",
+    "number": 22266,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22266",
+    "title": "[Feature Request]: Add Query Execution History Panel",
+    "areas": [
+      "Query History"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "dlevy-msft-sql",
     "closedAt": null,
     "createdAt": "2026-05-29T22:29:47Z",
@@ -7,20 +26,23 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22255",
     "title": "[Bug]: On Linux, docker permission errors trigger `systemctl start docker` (polkit prompt) instead of surfacing the permission error",
-    "areas": [],
+    "areas": [
+      "Local container"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "Brian-Keith",
-    "closedAt": null,
+    "closedAt": "2026-06-01T20:59:05Z",
     "createdAt": "2026-05-29T13:59:09Z",
     "number": 22245,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22245",
     "title": "[Feature Request]: Add Option to include timestamps when using `Copy All` in Messages panel or Include Completion Timestamp",
     "areas": [
@@ -31,7 +53,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "strandloper",
@@ -104,19 +127,22 @@
   },
   {
     "author": "philipnye",
-    "closedAt": null,
+    "closedAt": "2026-06-01T22:04:53Z",
     "createdAt": "2026-05-28T13:21:47Z",
     "number": 22227,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22227",
     "title": "[Feature Request]: Add option to disable `Results copied to clipboard` notification",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "marcusmaker",
@@ -155,14 +181,15 @@
   },
   {
     "author": "RamanSabchuk1",
-    "closedAt": null,
+    "closedAt": "2026-06-01T17:55:32Z",
     "createdAt": "2026-05-27T21:32:08Z",
     "number": 22220,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22220",
     "title": "[Bug]: Why it so slow!",
     "areas": [
       "Connection",
+      "Performance",
       "Query Result"
     ],
     "priority": -1,
@@ -170,7 +197,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "edisonjromor",
@@ -188,7 +215,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "croblesm",
@@ -209,10 +237,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-06-01T18:03:59Z",
     "createdAt": "2026-05-27T18:31:05Z",
     "number": 22210,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22210",
     "title": "[Feature Request]: Add \"Open File\" action to the export-success notification in Query Results",
     "areas": [
@@ -373,8 +401,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 2,
+    "totalReactions": 1,
+    "commentCount": 3,
     "milestone": "July 2026 Release"
   },
   {
@@ -407,11 +435,12 @@
       "Azure"
     ],
     "priority": -1,
-    "type": null,
+    "type": "Bug",
     "hasArea": true,
-    "hasType": false,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 3,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "sagor72011-max",
@@ -438,14 +467,16 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/22165",
     "title": "Copilot changed live database instead of active schema designer model",
     "areas": [
-      "Schema Designer"
+      "Schema Designer",
+      "GitHub Copilot"
     ],
     "priority": -1,
-    "type": null,
+    "type": "Bug",
     "hasArea": true,
-    "hasType": false,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "JerryNixon",
@@ -487,13 +518,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22159",
     "title": "[Bug]: Schema Compare Uncheck and then Check all causes crash",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "rennyTeachers",
@@ -523,13 +557,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22155",
     "title": "[Feature Request]: Allow launching Profiler with existing sessions without requiring a new Session Name",
-    "areas": [],
+    "areas": [
+      "Query Profiler"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2026 Release"
   },
   {
     "author": "sainus-1997",
@@ -557,13 +594,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22152",
     "title": "[Feature Request]: Add post-deployment script drawers for Fabric and Azure Provisioning",
-    "areas": [],
+    "areas": [
+      "Azure Provisioning"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "laurenastrid1",
@@ -573,13 +613,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22151",
     "title": "[Feature Request]: Switch firewall service over to using azure node ARM libraries",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "rgward",
@@ -1366,7 +1409,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 5,
-    "commentCount": 19
+    "commentCount": 20
   },
   {
     "author": "MagAlp",
