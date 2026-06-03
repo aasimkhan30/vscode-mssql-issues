@@ -15,7 +15,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -402,7 +402,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "July 2026 Release"
   },
   {
@@ -546,7 +546,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 7,
+    "commentCount": 10,
     "milestone": "July 2026 Release"
   },
   {
@@ -1409,7 +1409,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 5,
-    "commentCount": 20
+    "commentCount": 22
   },
   {
     "author": "MagAlp",
@@ -3396,7 +3396,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -15329,7 +15329,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "November 2025 Release"
   },
   {
