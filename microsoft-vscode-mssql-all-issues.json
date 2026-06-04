@@ -1,5 +1,73 @@
 [
   {
+    "author": "dzsquared",
+    "closedAt": null,
+    "createdAt": "2026-06-03T20:48:43Z",
+    "number": 22284,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22284",
+    "title": "[Bug]: SQL projects build --> Build failed. Check output pane for more details. (0 , util_1.isNullOrUndefined) is not a function",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "June 2026 SqlProj Hotfix 1"
+  },
+  {
+    "author": "rsrchmurthi-gmail-com",
+    "closedAt": null,
+    "createdAt": "2026-06-03T17:52:16Z",
+    "number": 22283,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22283",
+    "title": "[Feature Request]:  Color-Code Result Grid Columns by Source Table in JOIN Queries",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kshyju",
+    "closedAt": null,
+    "createdAt": "2026-06-03T16:05:51Z",
+    "number": 22280,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22280",
+    "title": "[Feature Request]: Enable Hosted Remote MCP deployment from the VS Code extension",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "txh57",
+    "closedAt": "2026-06-03T16:07:26Z",
+    "createdAt": "2026-06-03T08:45:07Z",
+    "number": 22278,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22278",
+    "title": "[Bug]: Cannot connect to Dataverse since v1.42.0",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2,
+    "milestone": "July 2026 Release"
+  },
+  {
     "author": "nayar-900",
     "closedAt": null,
     "createdAt": "2026-06-01T06:44:45Z",
@@ -15,7 +83,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -402,7 +470,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 4,
+    "commentCount": 9,
     "milestone": "July 2026 Release"
   },
   {
@@ -531,10 +599,10 @@
   },
   {
     "author": "rennyTeachers",
-    "closedAt": null,
+    "closedAt": "2026-06-03T15:47:17Z",
     "createdAt": "2026-05-21T11:16:11Z",
     "number": 22156,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22156",
     "title": "SQL connection becomes stale and must restart VS Code to reconnect",
     "areas": [
@@ -546,7 +614,7 @@
     "hasArea": true,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 10,
+    "commentCount": 14,
     "milestone": "July 2026 Release"
   },
   {
@@ -1409,7 +1477,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 5,
-    "commentCount": 22
+    "commentCount": 24
   },
   {
     "author": "MagAlp",
@@ -15329,7 +15397,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "November 2025 Release"
   },
   {
