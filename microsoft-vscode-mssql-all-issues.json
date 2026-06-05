@@ -1,5 +1,53 @@
 [
   {
+    "author": "dabohn",
+    "closedAt": null,
+    "createdAt": "2026-06-04T22:10:59Z",
+    "number": 22296,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22296",
+    "title": "[Bug]: Sovereign Cloud Universal with MFA Support auth error",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-06-04T19:26:50Z",
+    "number": 22294,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22294",
+    "title": "[Bug]: macOS CI failure: EINVAL on Unix socket when extension path exceeds 103 chars",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "joseazr1987",
+    "closedAt": null,
+    "createdAt": "2026-06-04T16:54:02Z",
+    "number": 22292,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22292",
+    "title": "[Feature Request]: Export result grid data to a clipboard with configurable format",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "dzsquared",
     "closedAt": null,
     "createdAt": "2026-06-03T20:48:43Z",
@@ -13,7 +61,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "June 2026 SqlProj Hotfix 1"
   },
   {
@@ -470,7 +518,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 9,
+    "commentCount": 11,
     "milestone": "July 2026 Release"
   },
   {
