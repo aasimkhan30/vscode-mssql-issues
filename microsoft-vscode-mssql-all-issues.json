@@ -1,5 +1,21 @@
 [
   {
+    "author": "chris-hedno",
+    "closedAt": null,
+    "createdAt": "2026-06-05T09:46:16Z",
+    "number": 22299,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22299",
+    "title": "The extension icon on the activity bar is missing (mssql and oracle)",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "dabohn",
     "closedAt": null,
     "createdAt": "2026-06-04T22:10:59Z",
@@ -13,7 +29,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "ssreerama",
@@ -45,7 +61,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "dzsquared",
@@ -60,7 +76,7 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 2,
     "milestone": "June 2026 SqlProj Hotfix 1"
   },
@@ -518,7 +534,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 11,
+    "commentCount": 12,
     "milestone": "July 2026 Release"
   },
   {
