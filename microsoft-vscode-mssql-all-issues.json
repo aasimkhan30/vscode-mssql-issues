@@ -76,8 +76,8 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 3,
+    "totalReactions": 2,
+    "commentCount": 4,
     "milestone": "June 2026 SqlProj Hotfix 1"
   },
   {
@@ -1541,7 +1541,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 5,
-    "commentCount": 24
+    "commentCount": 25
   },
   {
     "author": "MagAlp",
