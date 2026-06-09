@@ -1,5 +1,21 @@
 [
   {
+    "author": "jwvalent",
+    "closedAt": null,
+    "createdAt": "2026-06-08T17:48:28Z",
+    "number": 22306,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22306",
+    "title": "[Feature Request]: Export SQL query on result export to sql",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "chris-hedno",
     "closedAt": null,
     "createdAt": "2026-06-05T09:46:16Z",
@@ -13,7 +29,7 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "dabohn",
@@ -23,13 +39,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22296",
     "title": "[Bug]: Sovereign Cloud Universal with MFA Support auth error",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 3,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -49,10 +68,10 @@
   },
   {
     "author": "joseazr1987",
-    "closedAt": null,
+    "closedAt": "2026-06-08T15:59:19Z",
     "createdAt": "2026-06-04T16:54:02Z",
     "number": 22292,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22292",
     "title": "[Feature Request]: Export result grid data to a clipboard with configurable format",
     "areas": [],
@@ -61,7 +80,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3
+    "commentCount": 4
   },
   {
     "author": "dzsquared",
@@ -76,8 +95,8 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 2,
-    "commentCount": 4,
+    "totalReactions": 3,
+    "commentCount": 5,
     "milestone": "June 2026 SqlProj Hotfix 1"
   },
   {
@@ -556,10 +575,10 @@
   },
   {
     "author": "trunks1997",
-    "closedAt": null,
+    "closedAt": "2026-06-08T18:36:32Z",
     "createdAt": "2026-05-23T16:17:43Z",
     "number": 22177,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22177",
     "title": "Unstable connection to Azure MSSQL database",
     "areas": [
@@ -571,7 +590,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "July 2026 Release"
   },
   {
@@ -1541,7 +1560,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 5,
-    "commentCount": 25
+    "commentCount": 26
   },
   {
     "author": "MagAlp",
