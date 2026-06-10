@@ -1,5 +1,78 @@
 [
   {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-06-09T21:47:10Z",
+    "number": 22316,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22316",
+    "title": "[Bug]: \"Visualize and Design Schema\" and \"Build Data API\" options incorrectly appear on server node",
+    "areas": [],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-06-09T21:40:41Z",
+    "number": 22315,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22315",
+    "title": "[Bug]: Schema Designer apply_edits fails to create multiple foreign keys in a single batch",
+    "areas": [],
+    "priority": 0,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-06-09T20:25:56Z",
+    "number": 22314,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22314",
+    "title": "[Feature Request]: Large data types should be able to be viewed in a larger dialog",
+    "areas": [
+      "Query Result",
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "SaschaProdware",
+    "closedAt": null,
+    "createdAt": "2026-06-09T17:19:12Z",
+    "number": 22312,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22312",
+    "title": "[Feature Request]: Show Profile Name instead of Server Name in footer",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "jwvalent",
     "closedAt": null,
     "createdAt": "2026-06-08T17:48:28Z",
@@ -7,29 +80,34 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22306",
     "title": "[Feature Request]: Export SQL query on result export to sql",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "chris-hedno",
-    "closedAt": null,
+    "closedAt": "2026-06-09T17:44:45Z",
     "createdAt": "2026-06-05T09:46:16Z",
     "number": 22299,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22299",
     "title": "The extension icon on the activity bar is missing (mssql and oracle)",
-    "areas": [],
+    "areas": [
+      "Shell"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "dabohn",
@@ -52,10 +130,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-06-09T17:38:49Z",
     "createdAt": "2026-06-04T19:26:50Z",
     "number": 22294,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22294",
     "title": "[Bug]: macOS CI failure: EINVAL on Unix socket when extension path exceeds 103 chars",
     "areas": [],
@@ -84,10 +162,10 @@
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2026-06-09T17:41:16Z",
     "createdAt": "2026-06-03T20:48:43Z",
     "number": 22284,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22284",
     "title": "[Bug]: SQL projects build --> Build failed. Check output pane for more details. (0 , util_1.isNullOrUndefined) is not a function",
     "areas": [],
@@ -96,7 +174,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 5,
+    "commentCount": 8,
     "milestone": "June 2026 SqlProj Hotfix 1"
   },
   {
@@ -107,13 +185,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22283",
     "title": "[Feature Request]:  Color-Code Result Grid Columns by Source Table in JOIN Queries",
-    "areas": [],
+    "areas": [
+      "Query Result"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "kshyju",
@@ -123,13 +204,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22280",
     "title": "[Feature Request]: Enable Hosted Remote MCP deployment from the VS Code extension",
-    "areas": [],
+    "areas": [
+      "GitHub Copilot"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "txh57",
@@ -2848,10 +2932,10 @@
   },
   {
     "author": "DawidMazur-CAL",
-    "closedAt": null,
+    "closedAt": "2026-06-09T18:55:52Z",
     "createdAt": "2026-04-07T11:27:22Z",
     "number": 21831,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21831",
     "title": "[Bug]: Schema Compare does not generate a script.",
     "areas": [
@@ -21070,7 +21154,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 4,
-    "commentCount": 4,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -24268,10 +24352,10 @@
   },
   {
     "author": "yorek",
-    "closedAt": null,
+    "closedAt": "2026-06-09T18:28:18Z",
     "createdAt": "2024-12-11T22:28:22Z",
     "number": 18498,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18498",
     "title": "Add support for .env file and environment variable replacement",
     "areas": [
@@ -24282,7 +24366,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "Backlog"
   },
   {
