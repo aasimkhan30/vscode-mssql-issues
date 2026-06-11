@@ -1,5 +1,38 @@
 [
   {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-06-10T14:50:54Z",
+    "number": 22318,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22318",
+    "title": "[Bug]: Sql Projects Go-To-Definition is failing on Mac/Linux",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "gathilas",
+    "closedAt": null,
+    "createdAt": "2026-06-10T13:34:34Z",
+    "number": 22317,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22317",
+    "title": "[Bug]: When Right Click Context Menu is open, F5 Opens \"Save As\" Window",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "yoleichen",
     "closedAt": null,
     "createdAt": "2026-06-09T21:47:10Z",
@@ -636,8 +669,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 12,
+    "totalReactions": 2,
+    "commentCount": 13,
     "milestone": "July 2026 Release"
   },
   {
