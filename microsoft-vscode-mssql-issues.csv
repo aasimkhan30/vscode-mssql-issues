@@ -1,4 +1,7 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"22328","Connection Breaks","orcawave-dliu","OPEN","2026-06-12T17:33:46Z",,"",,"0","https://github.com/microsoft/vscode-mssql/issues/22328","0","-1",
+"22327","[Bug]: creating tables in a new schema fails","dzsquared","OPEN","2026-06-12T14:57:23Z",,"SQL Project","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22327","0","-1",
+"22326","[Bug]: Filtering stored procedures or tables causes extension to hang indefinitely, no cancel option, requires restarting VS Code","CristianOrmeno","OPEN","2026-06-12T12:58:37Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22326","0","-1",
 "22318","[Bug]: Sql Projects Go-To-Definition is failing on Mac/Linux","ssreerama","OPEN","2026-06-10T14:50:54Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22318","0","-1","July 2026 Release"
 "22317","[Bug]: When Right Click Context Menu is open, F5 Opens ""Save As"" Window","gathilas","OPEN","2026-06-10T13:34:34Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22317","1","-1",
 "22316","[Bug]: ""Visualize and Design Schema"" and ""Build Data API"" options incorrectly appear on server node","yoleichen","OPEN","2026-06-09T21:47:10Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22316","0","0","July 2026 Release"

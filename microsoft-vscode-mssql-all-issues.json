@@ -1,5 +1,55 @@
 [
   {
+    "author": "orcawave-dliu",
+    "closedAt": null,
+    "createdAt": "2026-06-12T17:33:46Z",
+    "number": 22328,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22328",
+    "title": "Connection Breaks",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "dzsquared",
+    "closedAt": null,
+    "createdAt": "2026-06-12T14:57:23Z",
+    "number": 22327,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22327",
+    "title": "[Bug]: creating tables in a new schema fails",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "CristianOrmeno",
+    "closedAt": null,
+    "createdAt": "2026-06-12T12:58:37Z",
+    "number": 22326,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22326",
+    "title": "[Bug]: Filtering stored procedures or tables causes extension to hang indefinitely, no cancel option, requires restarting VS Code",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "ssreerama",
     "closedAt": null,
     "createdAt": "2026-06-10T14:50:54Z",
