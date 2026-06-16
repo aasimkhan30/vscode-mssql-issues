@@ -207,7 +207,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 3,
     "milestone": "July 2026 Release"
   },
@@ -422,7 +422,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 1,
     "milestone": "July 2026 Release"
   },
@@ -720,7 +720,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 15,
+    "commentCount": 16,
     "milestone": "July 2026 Release"
   },
   {
