@@ -1,5 +1,21 @@
 [
   {
+    "author": "Jasonliu68",
+    "closedAt": null,
+    "createdAt": "2026-06-16T18:17:28Z",
+    "number": 22344,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22344",
+    "title": "[Bug]: Import data:  Invalid user or password",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "orcawave-dliu",
     "closedAt": null,
     "createdAt": "2026-06-12T17:33:46Z",
@@ -7,13 +23,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22328",
     "title": "Connection Breaks",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "dzsquared",
@@ -720,7 +739,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 16,
+    "commentCount": 17,
     "milestone": "July 2026 Release"
   },
   {
@@ -20425,7 +20444,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 14,
+    "totalReactions": 15,
     "commentCount": 7,
     "milestone": "July 2026 Release"
   },
