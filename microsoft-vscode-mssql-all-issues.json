@@ -1,5 +1,24 @@
 [
   {
+    "author": "seanpham99",
+    "closedAt": null,
+    "createdAt": "2026-06-17T03:43:40Z",
+    "number": 22347,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22347",
+    "title": "SqlToolsService installation directory collision on multi-arch setups (EPIPE / Exec Format Error)",
+    "areas": [
+      "Acquisition"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
     "author": "Jasonliu68",
     "closedAt": null,
     "createdAt": "2026-06-16T18:17:28Z",
@@ -441,7 +460,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 1,
     "milestone": "July 2026 Release"
   },
@@ -5779,7 +5798,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 1,
     "milestone": "July 2026 Release"
   },
@@ -6811,7 +6830,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 1,
     "milestone": "Backlog"
   },
