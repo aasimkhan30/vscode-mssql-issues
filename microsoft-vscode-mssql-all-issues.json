@@ -118,7 +118,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "yoleichen",
@@ -15032,7 +15032,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -20450,10 +20450,10 @@
   },
   {
     "author": "ishakmemiguven",
-    "closedAt": null,
+    "closedAt": "2026-06-18T17:21:34Z",
     "createdAt": "2025-03-24T08:23:37Z",
     "number": 18988,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/18988",
     "title": "[Feature Request]: Custom Keybindings (Query Shortcuts) for SQL Query Execution",
     "areas": [
