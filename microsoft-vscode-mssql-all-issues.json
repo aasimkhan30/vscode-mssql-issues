@@ -1,5 +1,37 @@
 [
   {
+    "author": "bujocek",
+    "closedAt": null,
+    "createdAt": "2026-06-19T09:17:32Z",
+    "number": 22353,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22353",
+    "title": "[Bug]: false positive syntax error - Incorrect syntax near 'THROW'.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "FranBestinver",
+    "closedAt": null,
+    "createdAt": "2026-06-19T07:45:54Z",
+    "number": 22352,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22352",
+    "title": "[Bug]: Error at compile time for certain errors an SP",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "seanpham99",
     "closedAt": null,
     "createdAt": "2026-06-17T03:43:40Z",

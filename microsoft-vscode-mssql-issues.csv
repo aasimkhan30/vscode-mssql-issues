@@ -1,4 +1,6 @@
 Number,Title,Author,State,CreatedAt,ClosedAt,Area,Type,Reactions,URL,Comments,Priority,Milestone
+"22353","[Bug]: false positive syntax error - Incorrect syntax near 'THROW'.","bujocek","OPEN","2026-06-19T09:17:32Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22353","0","-1",
+"22352","[Bug]: Error at compile time for certain errors an SP","FranBestinver","OPEN","2026-06-19T07:45:54Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22352","0","-1",
 "22347","SqlToolsService installation directory collision on multi-arch setups (EPIPE / Exec Format Error)","seanpham99","OPEN","2026-06-17T03:43:40Z",,"Acquisition","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22347","0","-1","Backlog"
 "22344","[Bug]: Import data:  Invalid user or password","Jasonliu68","OPEN","2026-06-16T18:17:28Z",,"","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22344","0","-1",
 "22328","Connection Breaks","orcawave-dliu","OPEN","2026-06-12T17:33:46Z",,"Connection","Bug","0","https://github.com/microsoft/vscode-mssql/issues/22328","1","-1","Backlog"
