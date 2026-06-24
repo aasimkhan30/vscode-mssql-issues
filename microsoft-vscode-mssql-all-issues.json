@@ -1,5 +1,24 @@
 [
   {
+    "author": "croblesm",
+    "closedAt": null,
+    "createdAt": "2026-06-24T01:02:07Z",
+    "number": 22361,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22361",
+    "title": "[Bug]: Extension cannot connect to Azure",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "July 2026 Release"
+  },
+  {
     "author": "HerbertR",
     "closedAt": null,
     "createdAt": "2026-06-22T12:45:33Z",
@@ -666,10 +685,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22211",
     "title": "[Feature Request]: Add \"Open File\" action to the export-success notification in SQL Notebooks",
-    "areas": [],
+    "areas": [
+      "SQL Notebook"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
@@ -841,7 +862,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 17,
     "milestone": "July 2026 Release"
   },
@@ -1694,7 +1715,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 9,
     "milestone": "June 2026 Release"
   },
