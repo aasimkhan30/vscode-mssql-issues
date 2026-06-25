@@ -1,5 +1,85 @@
 [
   {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-06-24T23:20:43Z",
+    "number": 22372,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22372",
+    "title": "[Bug]: Query execution after connecting can use changed editor selection",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "saurabh500",
+    "closedAt": null,
+    "createdAt": "2026-06-24T21:23:05Z",
+    "number": 22370,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22370",
+    "title": "[Bug]: Invalid script generated from Table Designer",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "saurabh500",
+    "closedAt": null,
+    "createdAt": "2026-06-24T21:17:50Z",
+    "number": 22369,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22369",
+    "title": "[Bug]: Table designer warns about unclear risks",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "saurabh500",
+    "closedAt": null,
+    "createdAt": "2026-06-24T21:12:35Z",
+    "number": 22368,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22368",
+    "title": "[Feature Request]: Table designer Default Value validation",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jennings",
+    "closedAt": null,
+    "createdAt": "2026-06-24T17:15:46Z",
+    "number": 22364,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22364",
+    "title": "[Bug]: Entra ID (MFA) connections prompt for sign-in twice on connect",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "croblesm",
     "closedAt": null,
     "createdAt": "2026-06-24T01:02:07Z",
@@ -15,7 +95,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "July 2026 Release"
   },
   {
@@ -69,7 +149,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 3,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -146,8 +226,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "Backlog"
+    "commentCount": 2,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "dzsquared",
@@ -2528,10 +2608,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-06-24T20:11:13Z",
     "createdAt": "2026-04-15T18:03:01Z",
     "number": 21916,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21916",
     "title": "[Bug]: Generate SQL PRoj from OpenAPI/Swaggers fails",
     "areas": [],
@@ -2634,10 +2714,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-06-24T20:10:49Z",
     "createdAt": "2026-04-13T17:58:06Z",
     "number": 21890,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21890",
     "title": "Update changelog for 1.42.0 release",
     "areas": [],
@@ -3251,10 +3331,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-06-24T17:52:58Z",
     "createdAt": "2026-04-03T16:19:51Z",
     "number": 21812,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21812",
     "title": "[Bug]: VECTOR data type values display as hex bytes instead of numeric arrays in edit data view",
     "areas": [
@@ -5439,9 +5519,9 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "April 2026 Release"
+    "milestone": "July 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -6112,8 +6192,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 3
+    "totalReactions": 2,
+    "commentCount": 4
   },
   {
     "author": "kburtram",
