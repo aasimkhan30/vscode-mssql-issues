@@ -2,9 +2,201 @@
   {
     "author": "aasimkhan30",
     "closedAt": null,
+    "createdAt": "2026-06-25T21:46:20Z",
+    "number": 22388,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22388",
+    "title": "[Bug]: Rename (F2) opens on SQL keywords and then fails with a misleading project error",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-06-25T21:36:01Z",
+    "number": 22387,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22387",
+    "title": "[Feature Request]: Add \"Move to Schema…\" to the object context menu in the Database Projects tree",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-06-25T21:34:55Z",
+    "number": 22386,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22386",
+    "title": "[Bug]: \"Move to Schema\" shows a misleading \"no movable object\" error for same-schema/collision/memory-optimized cases",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-06-25T21:32:22Z",
+    "number": 22385,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22385",
+    "title": "[Bug]: \"Move to Schema\" doesn't relocate the object's file into the target schema folder",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-06-25T21:27:59Z",
+    "number": 22384,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22384",
+    "title": "[Bug]: Schema rename is inconsistent — non-system schemas rename with no refactorlog entry, dbo fails with a misleading error",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-06-25T21:03:41Z",
+    "number": 22383,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22383",
+    "title": "[Bug]: Creating an object from a schema folder generates the script with dbo instead of the folder's schema",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "allancascante",
+    "closedAt": null,
+    "createdAt": "2026-06-25T20:56:10Z",
+    "number": 22382,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22382",
+    "title": "[Bug]: SQL Projects Rename - While renaming objects I see an error in the output",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "dzsquared",
+    "closedAt": null,
+    "createdAt": "2026-06-25T20:11:55Z",
+    "number": 22380,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22380",
+    "title": "[Feature Request]: warn on object name duplication during rename/refactor",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "dzsquared",
+    "closedAt": null,
+    "createdAt": "2026-06-25T18:42:23Z",
+    "number": 22379,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22379",
+    "title": "[Bug]: rename enabled on alias of column on a view",
+    "areas": [
+      "SQL Project"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "im-aIex",
+    "closedAt": null,
+    "createdAt": "2026-06-25T17:24:27Z",
+    "number": 22378,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22378",
+    "title": "[Feature Request]: Synonyms: Filter and Generate Script",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": "2026-06-26T00:42:01Z",
+    "createdAt": "2026-06-25T04:47:11Z",
+    "number": 22374,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22374",
+    "title": "Connection string parsing fails after vscode-jsonrpc/languageclient upgrade because primitive request params are serialized as arrays",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": "2026-06-25T19:36:42Z",
     "createdAt": "2026-06-24T23:20:43Z",
     "number": 22372,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22372",
     "title": "[Bug]: Query execution after connecting can use changed editor selection",
     "areas": [],
@@ -71,13 +263,15 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22364",
     "title": "[Bug]: Entra ID (MFA) connections prompt for sign-in twice on connect",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 4
   },
   {
     "author": "croblesm",
@@ -131,7 +325,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -245,7 +439,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "July 2026 Release"
   },
   {
@@ -1461,7 +1655,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "July 2026 Release"
   },
   {
@@ -2586,7 +2780,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -2703,10 +2897,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21895",
     "title": "[Bug]: Publish fails to find .dacpac for project containing <SqlTargetName> tag",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
@@ -2737,10 +2933,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21889",
     "title": "[Bug]: Schema compare - not reading clustered PK from DACPAC",
-    "areas": [],
+    "areas": [
+      "Schema Compare"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
@@ -2843,10 +3041,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-06-25T18:47:25Z",
     "createdAt": "2026-04-10T21:00:47Z",
     "number": 21879,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21879",
     "title": "[Bug]: Query results cell selection becomes inconsistent when pointer leaves grid during drag selection",
     "areas": [
@@ -2857,7 +3055,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -12373,7 +12571,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "Backlog"
   },
   {
@@ -29412,7 +29610,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 3,
     "milestone": "Backlog"
   },
