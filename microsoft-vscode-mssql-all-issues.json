@@ -1,5 +1,54 @@
 [
   {
+    "author": "tomioka",
+    "closedAt": null,
+    "createdAt": "2026-06-26T23:49:34Z",
+    "number": 22396,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22396",
+    "title": "[Bug]: Database project creates objects with wrong path delimiter on Linux",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-06-26T17:56:18Z",
+    "number": 22391,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22391",
+    "title": "[Task]: Upgrade Microsoft.Build.Sql to 2.2.0 version",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "KevinInKy",
+    "closedAt": null,
+    "createdAt": "2026-06-26T16:12:03Z",
+    "number": 22390,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22390",
+    "title": "If connection times out must close and restart VS Code to try again",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "aasimkhan30",
     "closedAt": null,
     "createdAt": "2026-06-25T21:46:20Z",
@@ -271,7 +320,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4
+    "commentCount": 5,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "croblesm",
@@ -837,8 +887,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
-    "commentCount": 1,
+    "totalReactions": 3,
+    "commentCount": 2,
     "milestone": "July 2026 Release"
   },
   {
@@ -1122,10 +1172,10 @@
   },
   {
     "author": "ematt70",
-    "closedAt": null,
+    "closedAt": "2026-06-26T17:19:24Z",
     "createdAt": "2026-05-26T18:21:56Z",
     "number": 22188,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22188",
     "title": "[Bug]: auth for connection to dataverse broke in 1.42.0",
     "areas": [
@@ -1500,7 +1550,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "July 2026 Release"
   },
   {
