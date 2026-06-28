@@ -1,5 +1,21 @@
 [
   {
+    "author": "ebeery11",
+    "closedAt": null,
+    "createdAt": "2026-06-27T02:33:06Z",
+    "number": 22397,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22397",
+    "title": "[Feature Request]: Enable query results selection aggregates (Avg, Count, Sum) in SQL notebooks status bar",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "tomioka",
     "closedAt": null,
     "createdAt": "2026-06-26T23:49:34Z",
@@ -8522,7 +8538,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
