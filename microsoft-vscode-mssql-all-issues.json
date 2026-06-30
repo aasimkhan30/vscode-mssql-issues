@@ -7,13 +7,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22397",
     "title": "[Feature Request]: Enable query results selection aggregates (Avg, Count, Sum) in SQL notebooks status bar",
-    "areas": [],
+    "areas": [
+      "SQL Notebook"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2026 Release"
   },
   {
     "author": "tomioka",
@@ -23,13 +26,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22396",
     "title": "[Bug]: Database project creates objects with wrong path delimiter on Linux",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -56,13 +62,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22390",
     "title": "If connection times out must close and restart VS Code to try again",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -80,7 +89,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -98,7 +108,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -116,7 +127,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -134,7 +146,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -152,7 +165,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -170,7 +184,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "allancascante",
@@ -180,13 +195,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22382",
     "title": "[Bug]: SQL Projects Rename - While renaming objects I see an error in the output",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "dzsquared",
@@ -204,7 +222,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "dzsquared",
@@ -222,7 +241,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "im-aIex",
@@ -232,13 +252,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22378",
     "title": "[Feature Request]: Synonyms: Filter and Generate Script",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -274,10 +297,10 @@
   },
   {
     "author": "saurabh500",
-    "closedAt": null,
+    "closedAt": "2026-06-29T18:44:33Z",
     "createdAt": "2026-06-24T21:23:05Z",
     "number": 22370,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22370",
     "title": "[Bug]: Invalid script generated from Table Designer",
     "areas": [],
@@ -286,7 +309,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "saurabh500",
@@ -296,13 +319,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22369",
     "title": "[Bug]: Table designer warns about unclear risks",
-    "areas": [],
+    "areas": [
+      "Table Designer"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1,
+    "milestone": "Backlog"
   },
   {
     "author": "saurabh500",
@@ -312,13 +338,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22368",
     "title": "[Feature Request]: Table designer Default Value validation",
-    "areas": [],
+    "areas": [
+      "Table Designer"
+    ],
     "priority": -1,
-    "type": "Feature Request",
-    "hasArea": false,
+    "type": "Bug",
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2026 Release"
   },
   {
     "author": "jennings",
@@ -336,7 +365,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 5,
+    "commentCount": 6,
     "milestone": "July 2026 Release"
   },
   {
@@ -429,7 +458,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "July 2026 Release"
   },
   {
@@ -529,10 +558,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-06-29T22:26:06Z",
     "createdAt": "2026-06-10T14:50:54Z",
     "number": 22318,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22318",
     "title": "[Bug]: Sql Projects Go-To-Definition is failing on Mac/Linux",
     "areas": [],
@@ -541,7 +570,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "July 2026 Release"
   },
   {
