@@ -109,7 +109,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -147,7 +147,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -185,7 +185,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "allancascante",
@@ -2816,10 +2816,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21931",
     "title": "[Bug]: AutoRest is deprecated",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
@@ -4108,7 +4110,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "ssreerama",
