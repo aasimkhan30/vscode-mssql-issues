@@ -1,5 +1,21 @@
 [
   {
+    "author": "Naitik8470",
+    "closedAt": null,
+    "createdAt": "2026-07-01T07:11:17Z",
+    "number": 22407,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22407",
+    "title": "[Bug]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "ebeery11",
     "closedAt": null,
     "createdAt": "2026-06-27T02:33:06Z",
@@ -1750,7 +1766,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "July 2026 Release"
   },
   {
@@ -2181,7 +2197,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "July 2026 Release"
   },
   {
@@ -15513,7 +15529,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 2,
     "milestone": "Backlog"
   },
