@@ -1,10 +1,10 @@
 [
   {
     "author": "Naitik8470",
-    "closedAt": null,
+    "closedAt": "2026-07-02T20:25:19Z",
     "createdAt": "2026-07-01T07:11:17Z",
     "number": 22407,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22407",
     "title": "[Bug]:",
     "areas": [],
@@ -55,10 +55,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-07-02T23:40:43Z",
     "createdAt": "2026-06-26T17:56:18Z",
     "number": 22391,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22391",
     "title": "[Task]: Upgrade Microsoft.Build.Sql to 2.2.0 version",
     "areas": [],
@@ -224,10 +224,10 @@
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2026-07-02T21:55:50Z",
     "createdAt": "2026-06-25T20:11:55Z",
     "number": 22380,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22380",
     "title": "[Feature Request]: warn on object name duplication during rename/refactor",
     "areas": [
@@ -343,7 +343,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -2197,7 +2197,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "July 2026 Release"
   },
   {
@@ -2826,10 +2826,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-07-03T01:00:22Z",
     "createdAt": "2026-04-16T18:34:38Z",
     "number": 21931,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21931",
     "title": "[Bug]: AutoRest is deprecated",
     "areas": [
@@ -3839,7 +3839,7 @@
     "type": "Both Bug and Feature",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 3,
     "milestone": "July 2026 Release"
   },
@@ -9535,8 +9535,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 0,
+    "totalReactions": 2,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
