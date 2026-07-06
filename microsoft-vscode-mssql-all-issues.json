@@ -555,10 +555,10 @@
   },
   {
     "author": "CristianOrmeno",
-    "closedAt": null,
+    "closedAt": "2026-07-05T07:29:36Z",
     "createdAt": "2026-06-12T12:58:37Z",
     "number": 22326,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22326",
     "title": "[Bug]: Filtering stored procedures or tables causes extension to hang indefinitely, no cancel option, requires restarting VS Code",
     "areas": [
@@ -610,10 +610,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-07-05T07:28:31Z",
     "createdAt": "2026-06-09T21:47:10Z",
     "number": 22316,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22316",
     "title": "[Bug]: \"Visualize and Design Schema\" and \"Build Data API\" options incorrectly appear on server node",
     "areas": [],
@@ -627,10 +627,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-07-05T07:30:45Z",
     "createdAt": "2026-06-09T21:40:41Z",
     "number": 22315,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22315",
     "title": "[Bug]: Schema Designer apply_edits fails to create multiple foreign keys in a single batch",
     "areas": [],
@@ -2145,10 +2145,10 @@
   },
   {
     "author": "regisVald",
-    "closedAt": null,
+    "closedAt": "2026-07-05T07:29:36Z",
     "createdAt": "2026-04-30T16:23:04Z",
     "number": 22040,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22040",
     "title": "[Bug]: OE Stored procedure filter screen does not load",
     "areas": [
@@ -3531,10 +3531,10 @@
   },
   {
     "author": "gogetwoo",
-    "closedAt": null,
+    "closedAt": "2026-07-05T07:29:36Z",
     "createdAt": "2026-04-07T17:42:22Z",
     "number": 21832,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21832",
     "title": "[Bug]: Clicking Refresh on the Filtered Stored Procedures List Never Loads Filtered List",
     "areas": [
