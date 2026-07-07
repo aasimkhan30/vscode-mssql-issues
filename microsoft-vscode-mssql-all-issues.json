@@ -1,5 +1,70 @@
 [
   {
+    "author": "FilipeMCosta",
+    "closedAt": null,
+    "createdAt": "2026-07-06T23:24:19Z",
+    "number": 22431,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22431",
+    "title": "[Bug]: UI freezes/severe slowdown during \"Updating IntelliSense\" on every connection switch, even to localhost (regression after update)",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "unlock21",
+    "closedAt": null,
+    "createdAt": "2026-07-06T20:25:00Z",
+    "number": 22430,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22430",
+    "title": "[Feature Request]: Edit Data Grid Sorts as Number instead of String for Number DataTypes",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-07-06T18:38:33Z",
+    "number": 22427,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22427",
+    "title": "Update changelog for 1.44.0 release",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "armypl",
+    "closedAt": null,
+    "createdAt": "2026-07-06T11:46:45Z",
+    "number": 22425,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22425",
+    "title": "[Bug]: Query Profiler: \"Extended Events session ... could not be found\" even though the session exists and is running on the server",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Naitik8470",
     "closedAt": "2026-07-02T20:25:19Z",
     "createdAt": "2026-07-01T07:11:17Z",
@@ -91,10 +156,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-07-06T22:33:36Z",
     "createdAt": "2026-06-25T21:46:20Z",
     "number": 22388,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22388",
     "title": "[Bug]: Rename (F2) opens on SQL keywords and then fails with a misleading project error",
     "areas": [
@@ -220,7 +285,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "dzsquared",
@@ -949,7 +1014,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "August 2026 Release"
   },
   {
@@ -1079,7 +1144,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "croblesm",
@@ -1117,7 +1182,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "croblesm",
@@ -1155,7 +1220,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -1612,7 +1677,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "JerryNixon",
@@ -2121,7 +2186,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "RMArthur",
@@ -8805,7 +8870,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -9026,10 +9091,10 @@
   },
   {
     "author": "pgmo",
-    "closedAt": null,
+    "closedAt": "2026-07-06T22:56:02Z",
     "createdAt": "2025-12-18T09:10:10Z",
     "number": 20840,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20840",
     "title": "[Feature Request]: Descending sorting in edit data mode",
     "areas": [
@@ -9040,7 +9105,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -9536,7 +9601,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -13619,7 +13684,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "Wermeling",
@@ -13760,7 +13825,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "polandre90",
@@ -13817,7 +13882,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 2,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "SPerremans",
@@ -14121,7 +14186,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 3,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "agrabsi",
@@ -17440,7 +17505,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "JamesDBartlett3",
