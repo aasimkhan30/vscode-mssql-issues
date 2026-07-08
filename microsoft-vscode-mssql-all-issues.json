@@ -1,5 +1,90 @@
 [
   {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-07-07T21:27:31Z",
+    "number": 22439,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22439",
+    "title": "Add \"Open in MSSQL\" context menu item for Azure Resources extension",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-07-07T21:03:17Z",
+    "number": 22438,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22438",
+    "title": "Port field should be alongside server in connection dialog",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-07-07T21:01:39Z",
+    "number": 22437,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22437",
+    "title": "CodeLens for SQL files should include applicable profile name",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-07-07T18:37:13Z",
+    "number": 22434,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22434",
+    "title": "[Bug]: Legacy Project Build is failing due to missing dlls",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "balabambe",
+    "closedAt": null,
+    "createdAt": "2026-07-07T18:28:15Z",
+    "number": 22433,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22433",
+    "title": "[Bug]: \"Add Row\" does not respond when editing an empty data table.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
     "author": "FilipeMCosta",
     "closedAt": null,
     "createdAt": "2026-07-06T23:24:19Z",
@@ -29,7 +114,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "Benjin",
@@ -447,7 +533,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 6,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "croblesm",
@@ -465,7 +551,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "July 2026 Release"
   },
   {
@@ -582,10 +668,10 @@
   },
   {
     "author": "orcawave-dliu",
-    "closedAt": null,
+    "closedAt": "2026-07-07T20:54:53Z",
     "createdAt": "2026-06-12T17:33:46Z",
     "number": 22328,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22328",
     "title": "Connection Breaks",
     "areas": [
@@ -800,7 +886,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 3,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -929,10 +1015,10 @@
   },
   {
     "author": "dlevy-msft-sql",
-    "closedAt": null,
+    "closedAt": "2026-07-07T22:14:57Z",
     "createdAt": "2026-05-29T22:29:47Z",
     "number": 22255,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22255",
     "title": "[Bug]: On Linux, docker permission errors trigger `systemctl start docker` (polkit prompt) instead of surfacing the permission error",
     "areas": [
@@ -1013,7 +1099,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 3,
     "milestone": "August 2026 Release"
   },
@@ -2190,10 +2276,10 @@
   },
   {
     "author": "RMArthur",
-    "closedAt": null,
+    "closedAt": "2026-07-07T20:54:31Z",
     "createdAt": "2026-05-01T00:58:17Z",
     "number": 22046,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22046",
     "title": "[Bug]: MSSQL Extension v1.42.1 – Query execution fails after idle & table explorer errors",
     "areas": [
@@ -2263,7 +2349,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "July 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "damonripper",
@@ -10225,7 +10311,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "ubuntuztc",
@@ -13863,7 +13949,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 6,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "mpurnyn",
