@@ -2,9 +2,209 @@
   {
     "author": "Benjin",
     "closedAt": null,
+    "createdAt": "2026-07-09T00:49:45Z",
+    "number": 22473,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22473",
+    "title": "Hide addAadAccount/removeAadAccount from command palette when useVscodeAccountsForEntraMFA is enabled",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-07-09T00:49:43Z",
+    "number": 22472,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22472",
+    "title": "Connection Dialog: Pre-set Entra MFA auth when selecting server/database in Browse Azure/Fabric mode",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-07-08T23:43:53Z",
+    "number": 22469,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22469",
+    "title": "Connection dialog opens in 'Edit Connection' mode when launched from Azure Resources / Fabric protocol handler",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "jzabroski",
+    "closedAt": null,
+    "createdAt": "2026-07-08T23:39:32Z",
+    "number": 22468,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22468",
+    "title": "[Bug]: repository-specific settings.json mssql.connections creates race condition in connectionconfig.ts",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-07-08T19:22:43Z",
+    "createdAt": "2026-07-08T19:22:28Z",
+    "number": 22466,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22466",
+    "title": "Connecting to a paused serverless Azure database should extend the timeout",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": "2026-07-08T23:37:54Z",
+    "createdAt": "2026-07-08T18:28:54Z",
+    "number": 22465,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22465",
+    "title": "[Bug]: Sql-database-projects extension is placing 0kb dlls inside the BuildDirectory",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-07-08T19:09:12Z",
+    "createdAt": "2026-07-08T17:28:17Z",
+    "number": 22463,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22463",
+    "title": "Fix pathlength issue for Pipeline activation tests and running locally on macOS",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-07-08T19:10:02Z",
+    "createdAt": "2026-07-08T17:25:31Z",
+    "number": 22462,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22462",
+    "title": "Adding additional cloud providers to connection metadata",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-07-08T19:18:58Z",
+    "createdAt": "2026-07-08T17:23:39Z",
+    "number": 22461,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22461",
+    "title": "Add support for reordering connection and connection groups in Object Explorer",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "vamahtani",
+    "closedAt": null,
+    "createdAt": "2026-07-08T15:37:09Z",
+    "number": 22454,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22454",
+    "title": "Show user databases in Object Explorer for Azure SQL Database developer container connections[Feature Request]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "michael-warren88",
+    "closedAt": null,
+    "createdAt": "2026-07-08T09:44:19Z",
+    "number": 22453,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22453",
+    "title": "[Feature Request]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ltsyen",
+    "closedAt": null,
+    "createdAt": "2026-07-08T06:38:50Z",
+    "number": 22452,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22452",
+    "title": "[Bug]: Intellisense not showing anything when writing queries",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-07-08T19:27:27Z",
     "createdAt": "2026-07-07T21:27:31Z",
     "number": 22439,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22439",
     "title": "Add \"Open in MSSQL\" context menu item for Azure Resources extension",
     "areas": [],
@@ -18,10 +218,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-07-08T19:25:06Z",
     "createdAt": "2026-07-07T21:03:17Z",
     "number": 22438,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22438",
     "title": "Port field should be alongside server in connection dialog",
     "areas": [],
@@ -35,10 +235,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-07-08T19:21:18Z",
     "createdAt": "2026-07-07T21:01:39Z",
     "number": 22437,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22437",
     "title": "CodeLens for SQL files should include applicable profile name",
     "areas": [],
@@ -52,10 +252,10 @@
   },
   {
     "author": "ssreerama",
-    "closedAt": null,
+    "closedAt": "2026-07-08T18:26:02Z",
     "createdAt": "2026-07-07T18:37:13Z",
     "number": 22434,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22434",
     "title": "[Bug]: Legacy Project Build is failing due to missing dlls",
     "areas": [],
@@ -69,10 +269,10 @@
   },
   {
     "author": "balabambe",
-    "closedAt": null,
+    "closedAt": "2026-07-08T17:50:07Z",
     "createdAt": "2026-07-07T18:28:15Z",
     "number": 22433,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22433",
     "title": "[Bug]: \"Add Row\" does not respond when editing an empty data table.",
     "areas": [],
@@ -102,10 +302,10 @@
   },
   {
     "author": "unlock21",
-    "closedAt": null,
+    "closedAt": "2026-07-08T17:49:41Z",
     "createdAt": "2026-07-06T20:25:00Z",
     "number": 22430,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22430",
     "title": "[Feature Request]: Edit Data Grid Sorts as Number instead of String for Number DataTypes",
     "areas": [],
@@ -409,7 +609,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "im-aIex",
@@ -537,10 +737,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-07-08T19:19:30Z",
     "createdAt": "2026-06-24T01:02:07Z",
     "number": 22361,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22361",
     "title": "[Bug]: Extension cannot connect to Azure",
     "areas": [
@@ -756,8 +956,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "July 2026 Release"
+    "commentCount": 3,
+    "milestone": "August 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -1015,10 +1215,10 @@
   },
   {
     "author": "dlevy-msft-sql",
-    "closedAt": "2026-07-07T22:14:57Z",
+    "closedAt": null,
     "createdAt": "2026-05-29T22:29:47Z",
     "number": 22255,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22255",
     "title": "[Bug]: On Linux, docker permission errors trigger `systemctl start docker` (polkit prompt) instead of surfacing the permission error",
     "areas": [
@@ -1473,7 +1673,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "JerryNixon",
@@ -1762,7 +1962,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 4,
     "milestone": "August 2026 Release"
   },
   {
@@ -1918,7 +2118,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 4,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "ritaipf",
@@ -1972,8 +2172,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "commentCount": 0
   },
   {
     "author": "brian-aroflo",
@@ -2883,7 +3082,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "SoyDBA",
@@ -3992,7 +4191,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 3,
-    "milestone": "July 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "ki6bjv",
@@ -4496,7 +4695,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "kburtram",
@@ -5275,7 +5474,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "lewis-sanchez",
@@ -5352,7 +5551,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "July 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "kburtram",
@@ -5983,7 +6182,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -6448,7 +6647,7 @@
     "hasType": true,
     "totalReactions": 5,
     "commentCount": 1,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "kzendra",
@@ -7403,7 +7602,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -21557,7 +21756,7 @@
     "hasType": true,
     "totalReactions": 3,
     "commentCount": 6,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "tim-mit",
@@ -24101,7 +24300,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 115,
+    "totalReactions": 116,
     "commentCount": 24,
     "milestone": "March 2026 Release"
   },
