@@ -2,9 +2,45 @@
   {
     "author": "Benjin",
     "closedAt": null,
+    "createdAt": "2026-07-09T20:36:44Z",
+    "number": 22484,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22484",
+    "title": "Update STS for SQL DB support",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-07-10T00:27:57Z",
+    "createdAt": "2026-07-09T17:08:25Z",
+    "number": 22477,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22477",
+    "title": "[Bug]: Update preview status of shortcuts configuration and beta query results grid features",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-07-10T00:29:01Z",
     "createdAt": "2026-07-09T00:49:45Z",
     "number": 22473,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22473",
     "title": "Hide addAadAccount/removeAadAccount from command palette when useVscodeAccountsForEntraMFA is enabled",
     "areas": [],
@@ -18,10 +54,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-07-09T19:56:53Z",
     "createdAt": "2026-07-09T00:49:43Z",
     "number": 22472,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22472",
     "title": "Connection Dialog: Pre-set Entra MFA auth when selecting server/database in Browse Azure/Fabric mode",
     "areas": [],
@@ -35,10 +71,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-07-10T00:33:11Z",
     "createdAt": "2026-07-08T23:43:53Z",
     "number": 22469,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22469",
     "title": "Connection dialog opens in 'Edit Connection' mode when launched from Azure Resources / Fabric protocol handler",
     "areas": [],
@@ -64,7 +100,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "Benjin",
@@ -174,7 +210,7 @@
     "number": 22453,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22453",
-    "title": "[Feature Request]:",
+    "title": "[Feature Request]: \"SELECT TOP 1000\" action should result in a clean-state editor so it doesn't prompt to save when closing",
     "areas": [],
     "priority": -1,
     "type": "Feature Request",
@@ -387,10 +423,10 @@
   },
   {
     "author": "tomioka",
-    "closedAt": null,
+    "closedAt": "2026-07-09T22:31:14Z",
     "createdAt": "2026-06-26T23:49:34Z",
     "number": 22396,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22396",
     "title": "[Bug]: Database project creates objects with wrong path delimiter on Linux",
     "areas": [
@@ -401,7 +437,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "July 2026 Release"
   },
   {
@@ -494,8 +530,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "commentCount": 1,
+    "milestone": "August 2026 Release"
   },
   {
     "author": "aasimkhan30",
@@ -518,10 +554,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-07-09T04:51:08Z",
     "createdAt": "2026-06-25T21:27:59Z",
     "number": 22384,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22384",
     "title": "[Bug]: Schema rename is inconsistent — non-system schemas rename with no refactorlog entry, dbo fails with a misleading error",
     "areas": [
@@ -532,7 +568,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "July 2026 Release"
   },
   {
@@ -825,8 +861,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
-    "milestone": "July 2026 Release"
+    "commentCount": 3,
+    "milestone": "August 2026 Release"
   },
   {
     "author": "seanpham99",
@@ -887,10 +923,10 @@
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2026-07-09T22:31:24Z",
     "createdAt": "2026-06-12T14:57:23Z",
     "number": 22327,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22327",
     "title": "[Bug]: creating tables in a new schema fails",
     "areas": [
@@ -901,7 +937,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "July 2026 Release"
   },
   {
@@ -1215,10 +1251,10 @@
   },
   {
     "author": "dlevy-msft-sql",
-    "closedAt": null,
+    "closedAt": "2026-07-09T20:32:53Z",
     "createdAt": "2026-05-29T22:29:47Z",
     "number": 22255,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22255",
     "title": "[Bug]: On Linux, docker permission errors trigger `systemctl start docker` (polkit prompt) instead of surfacing the permission error",
     "areas": [
@@ -9136,7 +9172,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -9410,7 +9446,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "July 2026 Release"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "Prefix42",
@@ -12490,7 +12526,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 2,
     "milestone": "Backlog"
   },
