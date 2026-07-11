@@ -201,7 +201,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "July 2026 Release"
   },
   {
     "author": "michael-warren88",
@@ -378,13 +379,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22425",
     "title": "[Bug]: Query Profiler: \"Extended Events session ... could not be found\" even though the session exists and is running on the server",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2026 Release"
   },
   {
     "author": "Naitik8470",
@@ -2208,7 +2212,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "August 2026 Release"
   },
   {
     "author": "brian-aroflo",
