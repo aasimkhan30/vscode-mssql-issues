@@ -1,5 +1,21 @@
 [
   {
+    "author": "yn-hashemi",
+    "closedAt": null,
+    "createdAt": "2026-07-12T16:12:30Z",
+    "number": 22490,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22490",
+    "title": "Suggestions to Improve the MSSQL Extension for VS Code[Feature Request]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "Benjin",
     "closedAt": null,
     "createdAt": "2026-07-09T20:36:44Z",
