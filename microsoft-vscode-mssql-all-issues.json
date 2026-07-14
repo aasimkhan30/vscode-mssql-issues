@@ -1,5 +1,21 @@
 [
   {
+    "author": "mamoonsaifullah08-ui",
+    "closedAt": null,
+    "createdAt": "2026-07-14T07:09:56Z",
+    "number": 22499,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22499",
+    "title": "[Bug]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "Benjin",
     "closedAt": null,
     "createdAt": "2026-07-13T17:11:29Z",
