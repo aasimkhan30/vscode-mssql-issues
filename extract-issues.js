@@ -10,16 +10,14 @@ if (!repoName) {
   process.exit(1);
 }
 
-const baseFields = "number,title,author,state,createdAt,closedAt,url";
+const baseFields =
+  "number,title,author,state,createdAt,closedAt,url,milestone";
 const labelFields = "number,labels";
-const commentsField = "number,comments";
 const reactionsField = "number,reactionGroups";
 
-function executeGhCommand(command) {
+function executeGhJsonCommand(cmd, args = []) {
   return new Promise((resolve, reject) => {
-    const [cmd, ...args] = command.split(" ");
     const child = spawn(cmd, args);
-
     let stdout = "";
     let stderr = "";
 
@@ -31,26 +29,72 @@ function executeGhCommand(command) {
       stderr += data.toString();
     });
 
-    child.on("error", (error) => {
-      console.error(`Error executing command: ${command}`);
-      console.error(error.message);
-      process.exit(1);
+    child.on("close", (code) => {
+      if (code !== 0) {
+        return reject(new Error(`Command failed: ${stderr}`));
+      }
+      try {
+        const result = JSON.parse(stdout);
+        resolve(result);
+      } catch (err) {
+        reject(new Error(`Failed to parse JSON: ${err.message}`));
+      }
+    });
+  });
+}
+
+function executeGhJsonStream(cmd, args = []) {
+  return new Promise((resolve, reject) => {
+    const child = spawn(cmd, args);
+    let stdout = "";
+    let stderr = "";
+    const results = [];
+
+    const jsonArrayRegex = /\[\s*(?:{[\s\S]*?}\s*)*\]/g;
+
+    child.stdout.on("data", (data) => {
+      stdout += data.toString();
+
+      let match;
+      while ((match = jsonArrayRegex.exec(stdout)) !== null) {
+        try {
+          const parsed = JSON.parse(match[0]);
+          if (Array.isArray(parsed)) {
+            results.push(...parsed);
+          }
+        } catch (err) {
+          // Log and continue; malformed chunk
+          console.warn("Skipping malformed chunk");
+        }
+      }
+
+      // Clean up parsed data from buffer
+      stdout = stdout.slice(jsonArrayRegex.lastIndex);
+      jsonArrayRegex.lastIndex = 0;
+    });
+
+    child.stderr.on("data", (data) => {
+      stderr += data.toString();
     });
 
     child.on("close", (code) => {
-      if (code !== 0) {
-        console.error(`Command failed with code ${code}: ${command}`);
-        console.error(stderr);
-        process.exit(1);
-      } else {
+      // Try parsing remaining data
+      if (stdout.trim()) {
         try {
-          resolve(JSON.parse(stdout));
-        } catch (err) {
-          console.error("Failed to parse JSON output");
-          console.error(stdout);
-          process.exit(1);
+          const parsed = JSON.parse(stdout);
+          if (Array.isArray(parsed)) {
+            results.push(...parsed);
+          }
+        } catch (e) {
+          console.warn("Final leftover not parsed:", stdout);
         }
       }
+
+      if (code !== 0) {
+        return reject(new Error(`Command failed: ${stderr}`));
+      }
+
+      resolve(results);
     });
   });
 }
@@ -70,17 +114,30 @@ function escapeCsvField(value) {
 }
 
 async function fetchIssues(fields) {
-  const command = `gh issue list --limit 999999 --state all --json ${fields} --repo ${repoName}`;
-  const batch = await executeGhCommand(command);
+  const batch = await executeGhJsonCommand("gh", [
+    "issue",
+    "list",
+    "--limit",
+    "999999",
+    "--state",
+    "all",
+    "--json",
+    fields,
+    "--repo",
+    repoName,
+  ]);
   return batch;
 }
 
-async function waitForSeconds(seconds) {
-  return new Promise((resolve) => {
-    setTimeout(() => {
-      resolve();
-    }, seconds * 1000);
-  });
+async function fetchComments() {
+  const output = await executeGhJsonStream("gh", [
+    "api",
+    "--paginate",
+    `repos/${repoName}/issues?state=all`,
+    "-q",
+    "[.[] | select(.pull_request | not) | {number, comments}]",
+  ]);
+  return output;
 }
 
 async function main() {
@@ -91,17 +148,14 @@ async function main() {
   console.log(`📦 Fetching labels...`);
   const labelData = await fetchIssues(labelFields);
   console.log(`💬 Fetching comments...`);
-  const commentData = await fetchIssues(commentsField);
+  const commentData = await fetchComments();
   console.log(`🎉 Fetching reactions...`);
   const reactionData = await fetchIssues(reactionsField);
-
   const commentsMap = new Map(commentData.map((i) => [i.number, i.comments]));
   const reactionsMap = new Map(
     reactionData.map((i) => [i.number, i.reactionGroups])
   );
-  const labelsMap = new Map(
-    labelData.map((i) => [i.number, i.labels])
-  );
+  const labelsMap = new Map(labelData.map((i) => [i.number, i.labels]));
 
   const allIssues = baseIssues.map((issue) => ({
     ...issue,
@@ -113,7 +167,6 @@ async function main() {
   console.log(`📋 Found ${allIssues.length} issues in ${repoName}`);
 
   const issues = allIssues.map((issue) => {
-    console.log(issue);
     const labels = issue.labels.map((label) => label.name);
 
     // Find all area labels (can be multiple)
@@ -157,7 +210,8 @@ async function main() {
       hasArea: areas.length > 0,
       hasType: !!type,
       totalReactions,
-      commentCount: issue.comments.length,
+      commentCount: issue.comments,
+      milestone: issue.milestone?.title,
     };
   });
 
@@ -178,6 +232,7 @@ async function main() {
         issue.url,
         issue.commentCount,
         issue.priority,
+        issue.milestone,
       ];
       rows.push(row);
     } else {
@@ -195,6 +250,7 @@ async function main() {
           issue.url,
           issue.commentCount,
           issue.priority,
+          issue.milestone,
         ];
         rows.push(row);
       });
@@ -229,6 +285,7 @@ async function main() {
     "URL",
     "Comments",
     "Priority",
+    "Milestone",
   ];
 
   const csvContent =
