@@ -1,10 +1,80 @@
 [
   {
-    "author": "mamoonsaifullah08-ui",
+    "author": "kburtram",
     "closedAt": null,
+    "createdAt": "2026-07-17T21:46:11Z",
+    "number": 22506,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22506",
+    "title": "[Bug]: Query shortcuts doesn't reference the active query text",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 2,
+    "commentCount": 2,
+    "milestone": "August 2026 Release"
+  },
+  {
+    "author": "LuisMaxGP",
+    "closedAt": null,
+    "createdAt": "2026-07-17T17:08:07Z",
+    "number": 22504,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22504",
+    "title": "[Bug]: I can't connect to my database while I have an SQL script open",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jhunt2006",
+    "closedAt": "2026-07-16T12:24:28Z",
+    "createdAt": "2026-07-16T12:18:14Z",
+    "number": 22501,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22501",
+    "title": "[Bug]: Long Extension Load time after update",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "unlock21",
+    "closedAt": null,
+    "createdAt": "2026-07-16T11:28:50Z",
+    "number": 22500,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22500",
+    "title": "[Feature Request]: Connection Group Color on Query Tab and/or Editor Connection Detail",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "Backlog"
+  },
+  {
+    "author": "mamoonsaifullah08-ui",
+    "closedAt": "2026-07-14T19:30:58Z",
     "createdAt": "2026-07-14T07:09:56Z",
     "number": 22499,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22499",
     "title": "[Bug]:",
     "areas": [],
@@ -17,10 +87,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-07-15T22:30:42Z",
     "createdAt": "2026-07-13T17:11:29Z",
     "number": 22493,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22493",
     "title": "EntraMFA + Azure connections may hang for an extended time for some users",
     "areas": [],
@@ -40,13 +110,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22490",
     "title": "[Feature Request]: Allow users to type column aliases (after the AS keyword) without IntelliSense automatically appearing",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -143,13 +216,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22468",
     "title": "[Bug]: repository-specific settings.json mssql.connections creates race condition in connectionconfig.ts",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 1,
+    "milestone": "September 2026 Release"
   },
   {
     "author": "Benjin",
@@ -261,13 +337,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22453",
     "title": "[Feature Request]: \"SELECT TOP 1000\" action should result in a clean-state editor so it doesn't prompt to save when closing",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ltsyen",
@@ -277,13 +356,16 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22452",
     "title": "[Bug]: Intellisense not showing anything when writing queries",
-    "areas": [],
+    "areas": [
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 1
+    "totalReactions": 2,
+    "commentCount": 1,
+    "milestone": "August 2026 Release"
   },
   {
     "author": "Benjin",
@@ -372,10 +454,10 @@
   },
   {
     "author": "FilipeMCosta",
-    "closedAt": null,
+    "closedAt": "2026-07-16T19:12:45Z",
     "createdAt": "2026-07-06T23:24:19Z",
     "number": 22431,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22431",
     "title": "[Bug]: UI freezes/severe slowdown during \"Updating IntelliSense\" on every connection switch, even to localhost (regression after update)",
     "areas": [],
@@ -384,7 +466,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "unlock21",
@@ -951,7 +1033,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -1388,7 +1470,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 3,
     "milestone": "August 2026 Release"
   },
@@ -1485,10 +1567,10 @@
   },
   {
     "author": "edisonjromor",
-    "closedAt": null,
+    "closedAt": "2026-07-17T08:38:08Z",
     "createdAt": "2026-05-27T19:28:25Z",
     "number": 22213,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22213",
     "title": "[Feature Request]: Allow pinning/sticky only the first column (row number) in the Results Grid",
     "areas": [
@@ -1499,7 +1581,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "August 2026 Release"
   },
   {
@@ -4770,10 +4852,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-07-16T23:05:55Z",
     "createdAt": "2026-03-19T22:08:25Z",
     "number": 21685,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21685",
     "title": "[Bug]: Validate Authenticode signatures of STS binaries after download and extraction",
     "areas": [
@@ -4784,7 +4866,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "August 2026 Release"
   },
   {
@@ -7748,7 +7830,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 2,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -21401,7 +21483,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 15,
-    "commentCount": 7,
+    "commentCount": 12,
     "milestone": "July 2026 Release"
   },
   {
