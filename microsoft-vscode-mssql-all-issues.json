@@ -1,5 +1,156 @@
 [
   {
+    "author": "absgrlyp",
+    "closedAt": null,
+    "createdAt": "2026-07-24T07:08:02Z",
+    "number": 22538,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22538",
+    "title": "[Feature Request]: In the query shortcuts feature add ability to pass selected text as an argument to called SQL query",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "pranav-vodafone",
+    "closedAt": null,
+    "createdAt": "2026-07-24T03:07:27Z",
+    "number": 22537,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22537",
+    "title": "[Bug]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "absgrlyp",
+    "closedAt": null,
+    "createdAt": "2026-07-23T19:37:50Z",
+    "number": 22529,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22529",
+    "title": "[Bug]: Bad formatting with complex multiline text",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Larry57",
+    "closedAt": null,
+    "createdAt": "2026-07-23T12:31:13Z",
+    "number": 22527,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22527",
+    "title": "[Bug]: Connection dialog builds an invalid connection string (\"server,\") when the Port field is left empty",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "mxrixleon",
+    "closedAt": "2026-07-20T20:45:02Z",
+    "createdAt": "2026-07-20T20:40:02Z",
+    "number": 22515,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22515",
+    "title": "[Bug]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "thennarasu902-afk",
+    "closedAt": "2026-07-20T18:15:47Z",
+    "createdAt": "2026-07-20T16:22:00Z",
+    "number": 22512,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22512",
+    "title": "[Feature Request]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "smpmax",
+    "closedAt": null,
+    "createdAt": "2026-07-20T12:50:57Z",
+    "number": 22511,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22511",
+    "title": "[Bug]: Include/Exclude All causes crash in Schema Compare",
+    "areas": [
+      "Schema Compare"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "chetanATnitor",
+    "closedAt": null,
+    "createdAt": "2026-07-20T07:00:54Z",
+    "number": 22510,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22510",
+    "title": "[Feature Request]: Allow Python cells in SQL Notebooks to reuse the SQL kernel's active connection",
+    "areas": [
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "d-san-andreas",
+    "closedAt": null,
+    "createdAt": "2026-07-19T17:22:03Z",
+    "number": 22509,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22509",
+    "title": "[Bug]:  \"Add Firewall Rule\" dialog renders blank on Linux — case mismatch in webview bundle filename (AddFirewallRule.js vs addFirewallRule.js)",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "July 2026 Hotfix 1 Release"
+  },
+  {
     "author": "kburtram",
     "closedAt": null,
     "createdAt": "2026-07-17T21:46:11Z",
@@ -14,9 +165,9 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 2,
-    "milestone": "August 2026 Release"
+    "milestone": "July 2026 Hotfix 1 Release"
   },
   {
     "author": "LuisMaxGP",
@@ -26,10 +177,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22504",
     "title": "[Bug]: I can't connect to my database while I have an SQL script open",
-    "areas": [],
+    "areas": [
+      "Connection"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -47,8 +200,8 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0
+    "totalReactions": 1,
+    "commentCount": 1
   },
   {
     "author": "unlock21",
@@ -344,7 +497,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -765,10 +918,10 @@
   },
   {
     "author": "dzsquared",
-    "closedAt": null,
+    "closedAt": "2026-07-22T23:39:11Z",
     "createdAt": "2026-06-25T18:42:23Z",
     "number": 22379,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22379",
     "title": "[Bug]: rename enabled on alias of column on a view",
     "areas": [
@@ -1581,7 +1734,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "August 2026 Release"
   },
   {
@@ -1972,7 +2125,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "laurenastrid1",
@@ -2133,7 +2286,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
+    "commentCount": 6,
     "milestone": "August 2026 Release"
   },
   {
@@ -3381,7 +3534,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -5816,7 +5969,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "peterbud",
@@ -7849,7 +8002,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 1,
     "milestone": "Backlog"
   },
@@ -8298,7 +8451,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "Backlog"
   },
   {
@@ -10667,10 +10820,10 @@
   },
   {
     "author": "pthivierge",
-    "closedAt": null,
+    "closedAt": "2026-07-20T18:52:54Z",
     "createdAt": "2025-11-18T11:44:55Z",
     "number": 20615,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20615",
     "title": "[Bug]: Schema Compare then Publish creates any new tables with ANSI_NULL OFF",
     "areas": [
@@ -10681,7 +10834,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "August 2026 Release"
   },
   {
