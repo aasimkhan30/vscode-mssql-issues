@@ -1,12 +1,131 @@
 [
   {
-    "author": "ManishShetty-WC",
+    "author": "aasimkhan30",
     "closedAt": null,
-    "createdAt": "2026-07-31T21:05:50Z",
-    "number": 22599,
+    "createdAt": "2026-08-08T07:11:41Z",
+    "number": 22655,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/22599",
-    "title": "[Bug]: Schema Compare Apply/Generate Script fails with \"internal error\" on SQL Server 2025 on-prem target",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22655",
+    "title": "Replace concatenated Griffel classes with mergeClasses",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": null,
+    "createdAt": "2026-08-07T16:15:46Z",
+    "number": 22649,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22649",
+    "title": "Warn in the Code Analysis dialog when the rules package is out of sync with the .sqlproj",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "August 2026 Release"
+  },
+  {
+    "author": "ssreerama",
+    "closedAt": "2026-08-07T18:04:22Z",
+    "createdAt": "2026-08-06T23:56:32Z",
+    "number": 22645,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22645",
+    "title": "Add a Restore command to the SQL project tree",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "August 2026 Release"
+  },
+  {
+    "author": "schellPace",
+    "closedAt": null,
+    "createdAt": "2026-08-06T23:13:16Z",
+    "number": 22644,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22644",
+    "title": "[GitHub Copilot - Bug | Feature request]:",
+    "areas": [
+      "GitHub Copilot"
+    ],
+    "priority": -1,
+    "type": "Both Bug and Feature",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-08-05T20:46:58Z",
+    "number": 22632,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22632",
+    "title": "[Bug]: Add a more specific error message when user reaches their azure provisioning free tier limit",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "August 2026 Release"
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": "2026-08-06T19:49:07Z",
+    "createdAt": "2026-08-05T16:58:40Z",
+    "number": 22621,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22621",
+    "title": "[Feature Request]: Add \"What's next\" card to post deployment page",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "August 2026 Release"
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": "2026-08-06T18:54:19Z",
+    "createdAt": "2026-08-05T16:57:34Z",
+    "number": 22620,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22620",
+    "title": "[Feature Request]: Add \"Connect to Database\" card to post deployment page for Azure and Fabric Provisioning",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "August 2026 Release"
+  },
+  {
+    "author": "davidAtInleague",
+    "closedAt": null,
+    "createdAt": "2026-08-03T12:51:22Z",
+    "number": 22602,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22602",
+    "title": "[Bug]: Container does not exist. Would you like to remove the connection?",
     "areas": [],
     "priority": -1,
     "type": "Bug",
@@ -16,11 +135,29 @@
     "commentCount": 0
   },
   {
-    "author": "GuillaumeCrAtLgi",
+    "author": "ManishShetty-WC",
     "closedAt": null,
+    "createdAt": "2026-07-31T21:05:50Z",
+    "number": 22599,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22599",
+    "title": "[Bug]: Schema Compare Apply/Generate Script fails with \"internal error\" on SQL Server 2025 on-prem target",
+    "areas": [
+      "Schema Compare"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "GuillaumeCrAtLgi",
+    "closedAt": "2026-08-07T17:50:47Z",
     "createdAt": "2026-07-30T20:57:39Z",
     "number": 22581,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22581",
     "title": "[Feature Request]: Focus Name Value on Filters; and Enter confirms Filters",
     "areas": [],
@@ -29,7 +166,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "August 2026 Release"
   },
   {
@@ -82,7 +219,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "mimacukacroz",
@@ -168,10 +306,10 @@
   },
   {
     "author": "carl-berg",
-    "closedAt": null,
+    "closedAt": "2026-08-04T17:29:22Z",
     "createdAt": "2026-07-27T09:19:55Z",
     "number": 22550,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22550",
     "title": "[Bug]: View as Text does not work offline",
     "areas": [],
@@ -199,7 +337,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "September 2026 Release"
   },
   {
     "author": "Yushang1996",
@@ -215,7 +354,8 @@
     "hasArea": false,
     "hasType": false,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "AugPav",
@@ -367,7 +507,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "d-san-andreas",
@@ -416,14 +557,16 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/22504",
     "title": "[Bug]: I can't connect to my database while I have an SQL script open",
     "areas": [
-      "Connection"
+      "Connection",
+      "Acquisition"
     ],
     "priority": -1,
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 2,
+    "milestone": "Backlog"
   },
   {
     "author": "jhunt2006",
@@ -748,7 +891,8 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/22452",
     "title": "[Bug]: Intellisense not showing anything when writing queries",
     "areas": [
-      "Language Service"
+      "Language Service",
+      "Fabric Integration"
     ],
     "priority": -1,
     "type": "Bug",
@@ -756,7 +900,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 1,
-    "milestone": "August 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -1099,10 +1243,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-08-07T16:43:24Z",
     "createdAt": "2026-06-25T21:03:41Z",
     "number": 22383,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22383",
     "title": "[Bug]: Creating an object from a schema folder generates the script with dbo instead of the folder's schema",
     "areas": [
@@ -1118,10 +1262,10 @@
   },
   {
     "author": "allancascante",
-    "closedAt": null,
+    "closedAt": "2026-08-05T20:57:30Z",
     "createdAt": "2026-06-25T20:56:10Z",
     "number": 22382,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22382",
     "title": "[Bug]: SQL Projects Rename - While renaming objects I see an error in the output",
     "areas": [
@@ -1132,7 +1276,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "August 2026 Release"
   },
   {
@@ -1261,10 +1405,10 @@
   },
   {
     "author": "saurabh500",
-    "closedAt": null,
+    "closedAt": "2026-08-08T07:17:38Z",
     "createdAt": "2026-06-24T21:12:35Z",
     "number": 22368,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22368",
     "title": "[Feature Request]: Table designer Default Value validation",
     "areas": [
@@ -1275,7 +1419,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "August 2026 Release"
   },
   {
@@ -1504,10 +1648,10 @@
   },
   {
     "author": "gathilas",
-    "closedAt": null,
+    "closedAt": "2026-08-08T07:32:36Z",
     "createdAt": "2026-06-10T13:34:34Z",
     "number": 22317,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22317",
     "title": "[Bug]: When Right Click Context Menu is open, F5 Opens \"Save As\" Window",
     "areas": [
@@ -1518,7 +1662,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "August 2026 Release"
   },
   {
@@ -2325,7 +2469,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "August 2026 Release"
+    "milestone": "September 2026 Release"
   },
   {
     "author": "sainus-1997",
@@ -2367,10 +2511,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-08-07T16:44:02Z",
     "createdAt": "2026-05-20T21:10:45Z",
     "number": 22151,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22151",
     "title": "[Feature Request]: Switch firewall service over to using azure node ARM libraries",
     "areas": [
@@ -2382,7 +2526,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "rgward",
@@ -2679,8 +2823,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4,
-    "milestone": "August 2026 Release"
+    "commentCount": 5,
+    "milestone": "October 2026 Release"
   },
   {
     "author": "ritaipf",
@@ -2815,10 +2959,10 @@
   },
   {
     "author": "obviousSailfish",
-    "closedAt": null,
+    "closedAt": "2026-08-08T07:29:51Z",
     "createdAt": "2026-05-08T02:34:01Z",
     "number": 22078,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22078",
     "title": "[Bug]: Query was canceled by user",
     "areas": [
@@ -2829,7 +2973,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "August 2026 Release"
   },
   {
@@ -3110,7 +3254,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 5,
     "milestone": "Backlog"
   },
   {
@@ -3476,7 +3620,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "Backlog"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "kburtram",
@@ -3773,7 +3917,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "Backlog"
+    "milestone": "August 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -3794,10 +3938,10 @@
   },
   {
     "author": "cilerler",
-    "closedAt": null,
+    "closedAt": "2026-08-08T07:27:16Z",
     "createdAt": "2026-04-16T01:27:32Z",
     "number": 21926,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21926",
     "title": "[Bug]: Create/Update Project from Database generates non-deterministic SQL file content, breaking git tracking",
     "areas": [],
@@ -3806,8 +3950,8 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "Backlog"
+    "commentCount": 2,
+    "milestone": "August 2026 Release"
   },
   {
     "author": "Benjin",
@@ -5024,10 +5168,10 @@
   },
   {
     "author": "ErikEJ",
-    "closedAt": null,
+    "closedAt": "2026-08-07T19:06:41Z",
     "createdAt": "2026-03-24T16:17:02Z",
     "number": 21724,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21724",
     "title": "[Bug]: 3rd party analyzer rules not shown in new rule management UI",
     "areas": [
@@ -8260,8 +8404,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "Backlog"
+    "commentCount": 1,
+    "milestone": "September 2026 Release"
   },
   {
     "author": "unlock21",
@@ -8675,10 +8819,10 @@
   },
   {
     "author": "llali",
-    "closedAt": null,
+    "closedAt": "2026-08-08T07:19:19Z",
     "createdAt": "2026-01-29T20:06:47Z",
     "number": 21054,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21054",
     "title": "[Bug]: Table Designer vector column",
     "areas": [
@@ -8689,8 +8833,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
-    "milestone": "Backlog"
+    "commentCount": 2,
+    "milestone": "August 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -13053,7 +13197,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 2,
+    "totalReactions": 3,
     "commentCount": 2,
     "milestone": "Backlog"
   },
@@ -24333,7 +24477,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 17,
+    "totalReactions": 18,
     "commentCount": 5
   },
   {
