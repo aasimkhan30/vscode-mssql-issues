@@ -1,10 +1,211 @@
 [
   {
-    "author": "Benjin",
+    "author": "croblesm",
     "closedAt": null,
+    "createdAt": "2026-09-03T22:08:48Z",
+    "number": 22895,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22895",
+    "title": "[Feature Request]: Lift the vector and JSON data type restrictions in the DAB experience (UI + GitHub Copilot)",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2026 Release"
+  },
+  {
+    "author": "linuslind",
+    "closedAt": null,
+    "createdAt": "2026-09-03T14:06:19Z",
+    "number": 22890,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22890",
+    "title": "[Bug]: Project IntelliSense doesn't resolve cross-project database references (literal name or SqlCmdVariable)",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-09-03T00:19:23Z",
+    "number": 22889,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22889",
+    "title": "Consolidate connection comparison helpers under ConnectionMatcher",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "armordog",
+    "closedAt": null,
+    "createdAt": "2026-09-02T22:34:14Z",
+    "number": 22886,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22886",
+    "title": "[Bug]: VSCode Assumes that files on disk will never change",
+    "areas": [
+      "Schema Compare"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "October 2026 Release"
+  },
+  {
+    "author": "BrianPardoAtCalHR",
+    "closedAt": null,
+    "createdAt": "2026-09-02T21:58:11Z",
+    "number": 22884,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22884",
+    "title": "[Feature Request]: Save modified data types after Import File failure",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "KevinInKy",
+    "closedAt": null,
+    "createdAt": "2026-09-02T15:34:51Z",
+    "number": 22874,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22874",
+    "title": "[Bug]: Table Filtering Seems to No longer Work",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "titorios",
+    "closedAt": "2026-09-02T19:08:27Z",
+    "createdAt": "2026-09-02T14:36:41Z",
+    "number": 22873,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22873",
+    "title": "[Feature Request]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "doyin-osinboyejo",
+    "closedAt": null,
+    "createdAt": "2026-09-02T07:43:34Z",
+    "number": 22870,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22870",
+    "title": "Color-code SQL editor to connected database",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-09-02T06:42:53Z",
+    "number": 22869,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22869",
+    "title": "[Bug]: Flat File Import schema dropdown fails from Azure SQL master",
+    "areas": [
+      "Flat File Import"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "September 2026 Release"
+  },
+  {
+    "author": "jherna67",
+    "closedAt": "2026-09-02T22:44:17Z",
+    "createdAt": "2026-09-01T14:30:56Z",
+    "number": 22864,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22864",
+    "title": "Filters calculation errors",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": "2026-09-03T17:50:02Z",
+    "createdAt": "2026-08-31T18:56:36Z",
+    "number": 22861,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22861",
+    "title": "[Bug]: Flat File Import fails for wide text columns in Azure Synapse dedicated SQL pools",
+    "areas": [
+      "Flat File Import"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Philippe-Geiger",
+    "closedAt": null,
+    "createdAt": "2026-08-31T13:41:26Z",
+    "number": 22858,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22858",
+    "title": "[Bug]: Schema Compare failed: 'Unexpected exception caught during population of target model: Unable to cast object of type 'System.Boolean' to type 'System.Int32'.'",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-08-31T18:23:58Z",
     "createdAt": "2026-08-28T23:48:48Z",
     "number": 22849,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22849",
     "title": "Allow canceling local container connection startup in Object Explorer",
     "areas": [],
@@ -17,10 +218,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-08-31T17:49:34Z",
     "createdAt": "2026-08-28T22:54:22Z",
     "number": 22846,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22846",
     "title": "Copied connections do not populate the database dropdown",
     "areas": [
@@ -36,10 +237,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-08-31T19:25:40Z",
     "createdAt": "2026-08-28T22:50:21Z",
     "number": 22845,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22845",
     "title": "[Bug]: PRINT output is hidden when showBatchMessages is disabled",
     "areas": [
@@ -327,10 +528,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-09-02T05:12:34Z",
     "createdAt": "2026-08-21T14:25:09Z",
     "number": 22786,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22786",
     "title": "[Bug]: Selection summary footer flickers between loading and result in Beta Results Grid",
     "areas": [],
@@ -344,10 +545,10 @@
   },
   {
     "author": "lr-jdurbin",
-    "closedAt": null,
+    "closedAt": "2026-09-02T22:45:54Z",
     "createdAt": "2026-08-21T13:30:08Z",
     "number": 22785,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22785",
     "title": "[Feature Request]: Shorten tab name after opening object definition with CTRL",
     "areas": [
@@ -641,10 +842,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-09-01T22:25:44Z",
     "createdAt": "2026-08-13T18:35:09Z",
     "number": 22737,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22737",
     "title": "Revert button is disabled even when edit is pending",
     "areas": [
@@ -660,10 +861,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-09-02T23:42:05Z",
     "createdAt": "2026-08-13T18:28:19Z",
     "number": 22736,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22736",
     "title": "When editing a cell to change the value, then editing it back to the original value, the cell still displays dirty state",
     "areas": [
@@ -1237,7 +1438,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "October 2026 Release"
   },
   {
@@ -1527,10 +1728,10 @@
   },
   {
     "author": "Yushang1996",
-    "closedAt": null,
+    "closedAt": "2026-09-03T16:07:15Z",
     "createdAt": "2026-07-27T01:28:46Z",
     "number": 22548,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22548",
     "title": "[Feature Request]: Make SQL execution error line numbers clickable in Query Results",
     "areas": [],
@@ -1668,10 +1869,10 @@
   },
   {
     "author": "smpmax",
-    "closedAt": null,
+    "closedAt": "2026-09-02T22:09:10Z",
     "createdAt": "2026-07-20T12:50:57Z",
     "number": 22511,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22511",
     "title": "[Bug]: Include/Exclude All causes crash in Schema Compare",
     "areas": [
@@ -2632,7 +2833,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 9,
+    "commentCount": 10,
     "milestone": "September 2026 Release"
   },
   {
@@ -2705,7 +2906,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 4,
     "commentCount": 0,
     "milestone": "Backlog"
   },
@@ -2971,10 +3172,10 @@
   },
   {
     "author": "dabohn",
-    "closedAt": null,
+    "closedAt": "2026-09-01T17:29:16Z",
     "createdAt": "2026-06-04T22:10:59Z",
     "number": 22296,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22296",
     "title": "[Bug]: Sovereign Cloud Universal with MFA Support auth error",
     "areas": [
@@ -2985,7 +3186,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "September 2026 Release"
   },
   {
@@ -4148,7 +4349,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 2,
     "milestone": "Backlog"
   },
   {
@@ -4333,7 +4534,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "September 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Micael-stack",
@@ -4357,10 +4558,10 @@
   },
   {
     "author": "burtonrodman",
-    "closedAt": null,
+    "closedAt": "2026-09-03T17:11:07Z",
     "createdAt": "2026-05-01T17:12:02Z",
     "number": 22051,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22051",
     "title": "SQL Schema Comparison diff pane divider drags in wrong direction",
     "areas": [
@@ -5744,10 +5945,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-09-02T05:13:07Z",
     "createdAt": "2026-04-09T22:36:36Z",
     "number": 21848,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21848",
     "title": "[Bug]: Query results pane is slow to render large or wide result sets",
     "areas": [
@@ -8120,7 +8321,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 3,
+    "commentCount": 4,
     "milestone": "April 2026 Release"
   },
   {
@@ -8533,10 +8734,10 @@
   },
   {
     "author": "areed1192",
-    "closedAt": null,
+    "closedAt": "2026-09-03T17:11:06Z",
     "createdAt": "2026-02-25T15:17:13Z",
     "number": 21344,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21344",
     "title": "[Bug]: Schema Compare - Deselected Items Remain Selected / Delayed UI Response",
     "areas": [
@@ -9465,7 +9666,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 2,
-    "commentCount": 6,
+    "commentCount": 8,
     "milestone": "April 2026 Release"
   },
   {
@@ -9584,10 +9785,10 @@
   },
   {
     "author": "unlock21",
-    "closedAt": null,
+    "closedAt": "2026-09-02T22:09:31Z",
     "createdAt": "2026-02-09T21:11:13Z",
     "number": 21132,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21132",
     "title": "Table Designer - Publish Changes Missing Recrating Default Constraints",
     "areas": [
@@ -12616,7 +12817,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6,
+    "commentCount": 8,
     "milestone": "Backlog"
   },
   {
@@ -14287,7 +14488,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 11,
-    "commentCount": 2,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -15855,10 +16056,10 @@
   },
   {
     "author": "legomind",
-    "closedAt": null,
+    "closedAt": "2026-09-03T17:11:08Z",
     "createdAt": "2025-08-30T13:05:13Z",
     "number": 20053,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20053",
     "title": "[Feature Request]: Schema compare should support object filters",
     "areas": [
@@ -16515,7 +16716,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 5,
     "milestone": "Backlog"
   },
