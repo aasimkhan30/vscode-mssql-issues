@@ -1,5 +1,165 @@
 [
   {
+    "author": "areddeswar",
+    "closedAt": null,
+    "createdAt": "2026-09-19T01:18:33Z",
+    "number": 22954,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22954",
+    "title": "Training",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "via-estafette",
+    "closedAt": null,
+    "createdAt": "2026-09-18T14:10:03Z",
+    "number": 22951,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22951",
+    "title": "SQL Database Projects offline install broken; Data Workspace unpublished and docs still point at dead Azure Data Studio",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Nayan-Chanchad-TS",
+    "closedAt": null,
+    "createdAt": "2026-09-18T09:50:50Z",
+    "number": 22950,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22950",
+    "title": "[Bug]:  Failed to generate script: 'Performing script generation is not possible for this comparison result",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Henrikkebaby",
+    "closedAt": null,
+    "createdAt": "2026-09-17T06:07:12Z",
+    "number": 22946,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22946",
+    "title": "[Bug]:  Go to Definition (F12) opens existing stored procedures as CREATE instead of ALTER",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "felipeffd",
+    "closedAt": null,
+    "createdAt": "2026-09-16T18:21:33Z",
+    "number": 22945,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22945",
+    "title": "[Bug]: New connections always save password. Save password checkbox does not work.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-09-16T00:41:21Z",
+    "number": 22941,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22941",
+    "title": "[Bug]: Browse Azure not resized correctly",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "addressler",
+    "closedAt": null,
+    "createdAt": "2026-09-15T16:17:37Z",
+    "number": 22939,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22939",
+    "title": "[Bug]: no connection to server",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "itsnotaboutthecell",
+    "closedAt": null,
+    "createdAt": "2026-09-15T16:14:05Z",
+    "number": 22938,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22938",
+    "title": "[Bug]: Update label for SQL database in Fabric (preview) - Now Generally Available",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "mcyenikoylu",
+    "closedAt": null,
+    "createdAt": "2026-09-15T16:07:39Z",
+    "number": 22937,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22937",
+    "title": "[Bug]: All previously saved Connection information has been deleted.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2
+  },
+  {
+    "author": "Alfetta159",
+    "closedAt": null,
+    "createdAt": "2026-09-14T20:22:22Z",
+    "number": 22935,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/22935",
+    "title": "[Bug]: Unable to sync settings VS Code",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
     "author": "yoleichen",
     "closedAt": null,
     "createdAt": "2026-09-12T06:29:06Z",
@@ -93,7 +253,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 4
+    "commentCount": 11
   },
   {
     "author": "vamahtani",
@@ -163,10 +323,10 @@
   },
   {
     "author": "croblesm",
-    "closedAt": null,
+    "closedAt": "2026-09-17T19:49:01Z",
     "createdAt": "2026-09-03T22:08:48Z",
     "number": 22895,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22895",
     "title": "[Feature Request]: Lift the vector and JSON data type restrictions in the DAB experience (UI + GitHub Copilot)",
     "areas": [],
@@ -290,7 +450,7 @@
     "type": null,
     "hasArea": false,
     "hasType": false,
-    "totalReactions": 1,
+    "totalReactions": 2,
     "commentCount": 0
   },
   {
@@ -549,7 +709,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "aviast",
@@ -1114,7 +1274,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "September 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -1204,10 +1364,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-09-14T18:53:44Z",
     "createdAt": "2026-08-12T18:38:13Z",
     "number": 22718,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22718",
     "title": "Local, Azure, and Fabric provisioning deployments should create a background task",
     "areas": [],
@@ -2997,7 +3157,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 10,
+    "commentCount": 11,
     "milestone": "September 2026 Release"
   },
   {
@@ -11844,10 +12004,10 @@
   },
   {
     "author": "jasonhorner",
-    "closedAt": null,
+    "closedAt": "2026-09-14T23:00:13Z",
     "createdAt": "2025-12-12T02:07:55Z",
     "number": 20793,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20793",
     "title": "[Bug]: Schema Compare fails when source and target platform are different",
     "areas": [
@@ -16432,7 +16592,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 3,
-    "commentCount": 5,
+    "commentCount": 8,
     "milestone": "September 2026 Release"
   },
   {
