@@ -1,10 +1,153 @@
 [
   {
+    "author": "grupoGovanBI-nluque",
+    "closedAt": null,
+    "createdAt": "2026-10-09T14:27:32Z",
+    "number": 23068,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23068",
+    "title": "Object name and header comment to \"generate script\" new file, for tab and saving",
+    "areas": [
+      "Object Explorer",
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "michaelvoelkerpoeppelmann",
+    "closedAt": null,
+    "createdAt": "2026-10-09T04:38:37Z",
+    "number": 23067,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23067",
+    "title": "Feature Request: Drag-and-Drop for Column Names in Editor",
+    "areas": [
+      "Object Explorer",
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "rsjump",
+    "closedAt": null,
+    "createdAt": "2026-10-08T14:00:21Z",
+    "number": 23066,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23066",
+    "title": "[Bug]: Schema compare tool - selecting individual records not working",
+    "areas": [
+      "Schema Compare"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "laurenastrid1",
     "closedAt": null,
+    "createdAt": "2026-10-07T18:19:11Z",
+    "number": 23065,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23065",
+    "title": "[Bug]: Create Database Dialog works but shows an error on Azure SQL DB containers",
+    "areas": [
+      "Object Explorer",
+      "Local container"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "omkarwaghmare07",
+    "closedAt": "2026-10-09T21:44:59Z",
+    "createdAt": "2026-10-07T18:13:05Z",
+    "number": 23064,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23064",
+    "title": "[Feature Request]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "rsjump",
+    "closedAt": null,
+    "createdAt": "2026-10-07T14:40:09Z",
+    "number": 23063,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23063",
+    "title": "[Feature Request]: Expanding scripting for table INSERT, UPDATE",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "josephchamberlain",
+    "closedAt": null,
+    "createdAt": "2026-10-06T08:07:19Z",
+    "number": 23059,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23059",
+    "title": "Synapse Serverless SQL Pool Views taking too long to generate script",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "tizianoacostaicl-cpu",
+    "closedAt": "2026-10-06T19:50:33Z",
+    "createdAt": "2026-10-05T03:10:54Z",
+    "number": 23055,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23055",
+    "title": "[Bug]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": "2026-10-05T17:10:09Z",
     "createdAt": "2026-10-02T19:55:25Z",
     "number": 23049,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23049",
     "title": "[Bug]: No way to expand and read schema design deployment errors",
     "areas": [],
@@ -17,10 +160,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-10-05T17:10:09Z",
     "createdAt": "2026-10-02T19:52:29Z",
     "number": 23048,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23048",
     "title": "[Bug]: Errors don't wrap on rename database dialog",
     "areas": [],
@@ -39,10 +182,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23047",
     "title": "[Bug]: Schema Designer doesn't work on Azure SQL Databases within Azure SQL Db containers",
-    "areas": [],
+    "areas": [
+      "Schema Designer",
+      "Local container"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -55,20 +201,23 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23046",
     "title": "[Bug]: Drop Database Dialog works but shows an error on Azure SQL DB containers",
-    "areas": [],
+    "areas": [
+      "Object Explorer",
+      "Local container"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-10-07T18:17:41Z",
     "createdAt": "2026-10-02T19:08:49Z",
     "number": 23045,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23045",
     "title": "[Bug]: Schema Designer doesn't work on Azure SQL Databases within Azure SQL Db containers",
     "areas": [],
@@ -87,10 +236,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23044",
     "title": "Save feature for Search Database Objects",
-    "areas": [],
+    "areas": [
+      "Object Search"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -103,20 +254,23 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23043",
     "title": "[Bug]: Table Designer doesn't work on Azure SQL Databases within Azure SQL Db containers",
-    "areas": [],
+    "areas": [
+      "Table Designer",
+      "Local container"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-10-07T19:47:18Z",
     "createdAt": "2026-10-02T17:43:21Z",
     "number": 23042,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23042",
     "title": "[Bug]: Azure SQL Containers causes Restore Database to load infinitely instead of erroring",
     "areas": [],
@@ -134,11 +288,14 @@
     "number": 23041,
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23041",
-    "title": "[Feature Request]:",
-    "areas": [],
+    "title": "[Feature Request]: Generate scripts for an entire database (bulk script export like SSMS)",
+    "areas": [
+      "Object Explorer",
+      "Dacpac Import/Export"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -179,10 +336,10 @@
   },
   {
     "author": "HugoKornelis",
-    "closedAt": null,
+    "closedAt": "2026-10-05T18:03:46Z",
     "createdAt": "2026-10-01T14:37:49Z",
     "number": 23033,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23033",
     "title": "[Feature Request]: Add \"Live statistics\" option to Visual Studio Code",
     "areas": [],
@@ -202,20 +359,23 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23032",
     "title": "[Feature Request]: Preconfigure keyboard shortcuts for estimated execution plan and for enable/disable execution plan",
-    "areas": [],
+    "areas": [
+      "Query Editor",
+      "Query Plan"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
   {
     "author": "lr-jdurbin",
-    "closedAt": null,
+    "closedAt": "2026-10-05T18:06:08Z",
     "createdAt": "2026-10-01T14:17:35Z",
     "number": 23031,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23031",
     "title": "[Feature Request]: Option to show UNIQUEIDENTIFIER fields as uppercase in query results window to align behavior with SSMS",
     "areas": [],
@@ -235,10 +395,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23030",
     "title": "[Feature Request]: Make SQL Agent available at mssql or let the existent plugins to continue work like it is at the moment",
-    "areas": [],
+    "areas": [
+      "Object Explorer",
+      "Extensibility"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -251,10 +414,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23029",
     "title": "[Feature Request]: Support SQL projects directly in the standard File Explorer, similar to C# Dev Kit",
-    "areas": [],
+    "areas": [
+      "SQL Project"
+    ],
     "priority": -1,
     "type": "Feature Request",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -267,10 +432,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23028",
     "title": "[Bug]: Error when clicking on view skills fo the new Getting Started page",
-    "areas": [],
+    "areas": [
+      "GitHub Copilot"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -287,10 +454,10 @@
       "GitHub Copilot"
     ],
     "priority": -1,
-    "type": "Both Bug and Feature",
+    "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -370,10 +537,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23018",
     "title": "[Bug]: Unable to load one or more of the requested types.",
-    "areas": [],
+    "areas": [
+      "Connection",
+      "Language Service"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -386,10 +556,12 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23016",
     "title": "[Bug]: SQLCMD's :r <filename> fails silently in Query Editor when <filename> does not exist",
-    "areas": [],
+    "areas": [
+      "Query Editor"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
@@ -402,11 +574,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23015",
     "title": "Add entra auth support for azure sql local containers",
-    "areas": [],
+    "areas": [
+      "Local container"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
     "milestone": "October 2026 Release"
@@ -419,11 +593,13 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23014",
     "title": "Add more engine support for local containers",
-    "areas": [],
+    "areas": [
+      "Local container"
+    ],
     "priority": -1,
-    "type": null,
-    "hasArea": false,
-    "hasType": false,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
   },
@@ -445,10 +621,10 @@
   },
   {
     "author": "Tmoore65",
-    "closedAt": null,
+    "closedAt": "2026-10-05T18:35:58Z",
     "createdAt": "2026-09-28T16:19:38Z",
     "number": 23009,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23009",
     "title": "[Bug]: Exporting result sets fails if run multiple times after query results finish executing",
     "areas": [],
@@ -462,10 +638,10 @@
   },
   {
     "author": "OSch24",
-    "closedAt": null,
+    "closedAt": "2026-10-05T18:05:38Z",
     "createdAt": "2026-09-28T14:45:17Z",
     "number": 23008,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23008",
     "title": "[Feature Request]: Right-align numbers in the result grid",
     "areas": [],
@@ -502,20 +678,23 @@
     "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23006",
     "title": "[Bug]: Can't search database objects in large databases",
-    "areas": [],
+    "areas": [
+      "Performance",
+      "Object Search"
+    ],
     "priority": -1,
     "type": "Bug",
-    "hasArea": false,
+    "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1
   },
   {
     "author": "sdemanas",
-    "closedAt": null,
+    "closedAt": "2026-10-04T05:59:32Z",
     "createdAt": "2026-09-27T08:27:23Z",
     "number": 23005,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23005",
     "title": "[Bug]:Commands invoked via the command pallete result in an exception",
     "areas": [],
@@ -635,10 +814,10 @@
   },
   {
     "author": "Lipote-fr",
-    "closedAt": null,
+    "closedAt": "2026-10-05T18:05:37Z",
     "createdAt": "2026-09-24T12:52:44Z",
     "number": 22985,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22985",
     "title": "Ctrl+A doesn't work in the grid :(:(",
     "areas": [
@@ -727,10 +906,10 @@
   },
   {
     "author": "fmms",
-    "closedAt": null,
+    "closedAt": "2026-10-06T23:03:20Z",
     "createdAt": "2026-09-22T15:37:32Z",
     "number": 22968,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22968",
     "title": "[Feature Request]: filter files in database projects",
     "areas": [
@@ -2624,10 +2803,10 @@
   },
   {
     "author": "skyslide22",
-    "closedAt": null,
+    "closedAt": "2026-10-05T18:05:37Z",
     "createdAt": "2026-08-10T14:11:23Z",
     "number": 22663,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22663",
     "title": "[Feature Request]: Open Query Window in current active vscode area",
     "areas": [
@@ -12645,7 +12824,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 1,
+    "commentCount": 3,
     "milestone": "Backlog"
   },
   {
@@ -27045,7 +27224,7 @@
     "type": null,
     "hasArea": false,
     "hasType": false,
-    "totalReactions": 27,
+    "totalReactions": 28,
     "commentCount": 11
   },
   {
@@ -40843,7 +41022,7 @@
     "commentCount": 1
   },
   {
-    "author": "xsoheilalizadeh",
+    "author": "soheilxor",
     "closedAt": "2025-03-28T04:41:53Z",
     "createdAt": "2020-05-14T09:53:23Z",
     "number": 1681,
@@ -48767,7 +48946,7 @@
     "commentCount": 1
   },
   {
-    "author": "xsoheilalizadeh",
+    "author": "soheilxor",
     "closedAt": "2024-08-14T20:08:27Z",
     "createdAt": "2017-06-09T06:43:18Z",
     "number": 895,
