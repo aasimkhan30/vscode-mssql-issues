@@ -1,5 +1,256 @@
 [
   {
+    "author": "peterbud",
+    "closedAt": null,
+    "createdAt": "2026-10-17T09:58:56Z",
+    "number": 23115,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23115",
+    "title": "[Bug]: MSSQL editor toolbar actions disappear when an SQL file is saved",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-10-15T19:13:06Z",
+    "number": 23111,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23111",
+    "title": "[Feature Request]: Gate Azure SQL containers behind preview flag",
+    "areas": [
+      "Local container"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "October 2026 Release"
+  },
+  {
+    "author": "tortillas5",
+    "closedAt": null,
+    "createdAt": "2026-10-15T14:36:49Z",
+    "number": 23110,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23110",
+    "title": "[Feature Request]: Schema Designer – option to hide the minimap",
+    "areas": [
+      "Schema Designer"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "dev-umairasghar",
+    "closedAt": null,
+    "createdAt": "2026-10-15T08:24:41Z",
+    "number": 23109,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23109",
+    "title": "[Bug]: Converting Gregorian date to Hijri date",
+    "areas": [
+      "Query Result"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jbbirdsall",
+    "closedAt": null,
+    "createdAt": "2026-10-14T17:53:38Z",
+    "number": 23102,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23102",
+    "title": "[Bug]: SQL Notebook result grid- column headers are truncated by sorting and filtering icons",
+    "areas": [
+      "Query Result",
+      "SQL Notebook"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "smpmax",
+    "closedAt": "2026-10-17T05:49:35Z",
+    "createdAt": "2026-10-14T14:00:44Z",
+    "number": 23101,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23101",
+    "title": "[Bug]: Saved Trace Templates Deleted after SQL Server Upgrade",
+    "areas": [
+      "Query Profiler"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "PabloB11",
+    "closedAt": null,
+    "createdAt": "2026-10-13T15:14:47Z",
+    "number": 23093,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23093",
+    "title": "[Bug]: Object explorer gives loading error with Dynamics 365 database (dataverse)",
+    "areas": [
+      "Object Explorer"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "littlecharva",
+    "closedAt": null,
+    "createdAt": "2026-10-13T09:45:33Z",
+    "number": 23092,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23092",
+    "title": "[Feature Request]: Allow editing the SQL WHERE clause directly in Edit Table Data (Azure Data Studio parity)",
+    "areas": [
+      "View/Edit data"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": "2026-10-15T19:35:55Z",
+    "createdAt": "2026-10-13T05:49:12Z",
+    "number": 23091,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23091",
+    "title": "[Feature Request]: Authenticate extensions that use the connection-sharing API",
+    "areas": [
+      "Connection"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "October 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-10-15T22:38:23Z",
+    "createdAt": "2026-10-13T00:18:43Z",
+    "number": 23089,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23089",
+    "title": "Remove legacy project extension duplication after MSSQL migration",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "October 2026 Release"
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": "2026-10-13T05:43:39Z",
+    "createdAt": "2026-10-12T22:05:02Z",
+    "number": 23087,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23087",
+    "title": "[Bug]: Remove Preview label from Getting Started and fix link reporting",
+    "areas": [
+      "Shell"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "October 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-10-15T22:43:04Z",
+    "createdAt": "2026-10-12T21:55:15Z",
+    "number": 23085,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23085",
+    "title": "Update DAB to 2.1.5",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "October 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-10-16T17:04:10Z",
+    "createdAt": "2026-10-12T21:07:19Z",
+    "number": 23083,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23083",
+    "title": "Update changelog for 1.47 release",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "October 2026 Release"
+  },
+  {
+    "author": "JormaStenman",
+    "closedAt": null,
+    "createdAt": "2026-10-12T06:01:13Z",
+    "number": 23077,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23077",
+    "title": "[Bug]: extraneous whitespace after formatting of EXECUTE statements",
+    "areas": [
+      "Formatter"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
     "author": "grupoGovanBI-nluque",
     "closedAt": null,
     "createdAt": "2026-10-09T14:27:32Z",
@@ -35,7 +286,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "rsjump",
@@ -64,8 +315,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/23065",
     "title": "[Bug]: Create Database Dialog works but shows an error on Azure SQL DB containers",
     "areas": [
-      "Object Explorer",
-      "Local container"
+      "Azure SQL Containers"
     ],
     "priority": -1,
     "type": "Bug",
@@ -184,7 +434,7 @@
     "title": "[Bug]: Schema Designer doesn't work on Azure SQL Databases within Azure SQL Db containers",
     "areas": [
       "Schema Designer",
-      "Local container"
+      "Azure SQL Containers"
     ],
     "priority": -1,
     "type": "Bug",
@@ -203,7 +453,7 @@
     "title": "[Bug]: Drop Database Dialog works but shows an error on Azure SQL DB containers",
     "areas": [
       "Object Explorer",
-      "Local container"
+      "Azure SQL Containers"
     ],
     "priority": -1,
     "type": "Bug",
@@ -256,7 +506,7 @@
     "title": "[Bug]: Table Designer doesn't work on Azure SQL Databases within Azure SQL Db containers",
     "areas": [
       "Table Designer",
-      "Local container"
+      "Azure SQL Containers"
     ],
     "priority": -1,
     "type": "Bug",
@@ -462,10 +712,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-10-14T22:29:18Z",
     "createdAt": "2026-09-30T07:18:28Z",
     "number": 23023,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23023",
     "title": "[Bug]: Add Firewall Rule dialog throws \"Cannot send notification on disposed controller\" when it closes",
     "areas": [
@@ -495,7 +745,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2026 Release"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "Matrei3",
@@ -575,7 +825,7 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/23015",
     "title": "Add entra auth support for azure sql local containers",
     "areas": [
-      "Local container"
+      "Azure SQL Containers"
     ],
     "priority": -1,
     "type": "Feature Request",
@@ -583,7 +833,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2026 Release"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "laurenastrid1",
@@ -1032,8 +1282,9 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
-    "commentCount": 0
+    "totalReactions": 1,
+    "commentCount": 0,
+    "milestone": "Backlog"
   },
   {
     "author": "ismailhaddouche",
@@ -1412,7 +1663,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2026 Release"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "croblesm",
@@ -1804,10 +2055,10 @@
   },
   {
     "author": "beardedpuppylabs",
-    "closedAt": null,
+    "closedAt": "2026-10-14T02:04:23Z",
     "createdAt": "2026-08-25T16:04:39Z",
     "number": 22819,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22819",
     "title": "[Feature Request]: Supported extension API for active SQL editor connection context and read-only metadata access",
     "areas": [
@@ -2116,10 +2367,10 @@
   },
   {
     "author": "tpeixinho",
-    "closedAt": null,
+    "closedAt": "2026-10-14T02:04:22Z",
     "createdAt": "2026-08-20T13:12:56Z",
     "number": 22770,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22770",
     "title": "[Feature Request]: connection-sharing capability",
     "areas": [
@@ -2172,10 +2423,10 @@
   },
   {
     "author": "neoGeneva",
-    "closedAt": null,
+    "closedAt": "2026-10-14T18:34:44Z",
     "createdAt": "2026-08-19T21:51:44Z",
     "number": 22764,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22764",
     "title": "[Feature Request]: Preview Formatter Feature Requests",
     "areas": [
@@ -2334,7 +2585,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2026 Release"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "Benjin",
@@ -2853,7 +3104,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2026 Release"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -2889,7 +3140,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "laurenastrid1",
@@ -2960,7 +3211,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2026 Release"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "ManishShetty-WC",
@@ -2979,7 +3230,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2026 Release"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "GuillaumeCrAtLgi",
@@ -3142,7 +3393,7 @@
     "hasType": false,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "carl-berg",
@@ -3594,10 +3845,10 @@
   },
   {
     "author": "jzabroski",
-    "closedAt": null,
+    "closedAt": "2026-10-14T18:19:42Z",
     "createdAt": "2026-07-08T23:39:32Z",
     "number": 22468,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22468",
     "title": "[Bug]: repository-specific settings.json mssql.connections creates race condition in connectionconfig.ts",
     "areas": [
@@ -3904,7 +4155,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2026 Release"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "Naitik8470",
@@ -4032,7 +4283,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 2,
-    "milestone": "October 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -4051,7 +4302,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 2,
-    "milestone": "October 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "aasimkhan30",
@@ -4274,10 +4525,10 @@
   },
   {
     "author": "jennings",
-    "closedAt": null,
+    "closedAt": "2026-10-16T22:44:52Z",
     "createdAt": "2026-06-24T17:15:46Z",
     "number": 22364,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22364",
     "title": "[Bug]: Entra ID (MFA) connections prompt for sign-in twice on connect",
     "areas": [
@@ -4289,8 +4540,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 11,
-    "milestone": "October 2026 Release"
+    "commentCount": 14,
+    "milestone": "November 2026 Release"
   },
   {
     "author": "croblesm",
@@ -4754,7 +5005,7 @@
     "milestone": "July 2026 Release"
   },
   {
-    "author": "nayar-900",
+    "author": "RayanBadarCS",
     "closedAt": null,
     "createdAt": "2026-06-01T06:44:45Z",
     "number": 22266,
@@ -5322,7 +5573,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2026 Release"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "sainus-1997",
@@ -5676,8 +5927,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 6,
-    "milestone": "October 2026 Release"
+    "commentCount": 8,
+    "milestone": "November 2026 Release"
   },
   {
     "author": "ritaipf",
@@ -9138,7 +9389,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "Backlog"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "Benjin",
@@ -11606,7 +11857,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 5,
-    "milestone": "October 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "himanshu-ram-punjabi",
@@ -12714,7 +12965,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2026 Release"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "yoleichen",
@@ -12988,7 +13239,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "October 2026 Release"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "Prefix42",
@@ -13465,7 +13716,7 @@
     "hasType": true,
     "totalReactions": 2,
     "commentCount": 3,
-    "milestone": "October 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "cathrinew",
@@ -14905,10 +15156,10 @@
   },
   {
     "author": "skurik",
-    "closedAt": "2025-11-13T03:17:22Z",
+    "closedAt": null,
     "createdAt": "2025-11-07T08:16:32Z",
     "number": 20478,
-    "state": "CLOSED",
+    "state": "OPEN",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20478",
     "title": "[Feature Request]: Purging the Entra ID token cache",
     "areas": [
@@ -14919,8 +15170,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 3,
-    "milestone": "January 2026 Release"
+    "commentCount": 4,
+    "milestone": "November 2026 Release"
   },
   {
     "author": "croblesm",
@@ -17689,7 +17940,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 4,
-    "milestone": "October 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "polandre90",
@@ -17727,7 +17978,7 @@
     "hasType": true,
     "totalReactions": 1,
     "commentCount": 6,
-    "milestone": "October 2026 Release"
+    "milestone": "November 2026 Release"
   },
   {
     "author": "mpurnyn",
@@ -20016,7 +20267,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 3,
-    "milestone": "October 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "bhuvanUSW",
@@ -21369,7 +21620,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 1,
-    "milestone": "October 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "JamesDBartlett3",
