@@ -1,12 +1,191 @@
 [
   {
-    "author": "peterbud",
+    "author": "Benjin",
     "closedAt": null,
-    "createdAt": "2026-10-17T09:58:56Z",
-    "number": 23115,
+    "createdAt": "2026-10-23T19:16:54Z",
+    "number": 23158,
     "state": "OPEN",
-    "url": "https://github.com/microsoft/vscode-mssql/issues/23115",
-    "title": "[Bug]: MSSQL editor toolbar actions disappear when an SQL file is saved",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23158",
+    "title": "Backup/Restore menu options appear for Azure SQL Database container connections",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-10-23T19:16:52Z",
+    "number": 23157,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23157",
+    "title": "New container connection should auto-expand in Object Explorer",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-10-23T19:16:49Z",
+    "number": 23156,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23156",
+    "title": "No progress shown while pulling the container image",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-10-23T19:16:47Z",
+    "number": 23155,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23155",
+    "title": "Connection group dropdown in container deployment is missing color swatches",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-10-23T19:16:45Z",
+    "number": 23154,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23154",
+    "title": "\"Create an Azure SQL Database\" description doesn't mention the local container option",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-10-23T19:16:44Z",
+    "number": 23153,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23153",
+    "title": "Container engine option missing from the SQL Server 2025 container deployment flow",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-10-23T19:16:42Z",
+    "number": 23152,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23152",
+    "title": "Container engine list shows Apple Container and WSL options regardless of platform",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-10-23T19:03:38Z",
+    "number": 23151,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23151",
+    "title": "[Bug]: azure sql local container engine detection check not retrying",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2026 Release"
+  },
+  {
+    "author": "Charles-Gagnon",
+    "closedAt": null,
+    "createdAt": "2026-10-23T19:03:37Z",
+    "number": 23150,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23150",
+    "title": "[Suggestion]: Hide unsupported menu items for Azure",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Charles-Gagnon",
+    "closedAt": null,
+    "createdAt": "2026-10-23T19:00:51Z",
+    "number": 23149,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23149",
+    "title": "[Bug]: Backup database fails",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Charles-Gagnon",
+    "closedAt": null,
+    "createdAt": "2026-10-23T18:57:05Z",
+    "number": 23148,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23148",
+    "title": "[Bug]: Designer \"Restore\" popup shouldn't show if there aren't any changes",
     "areas": [],
     "priority": -1,
     "type": "Bug",
@@ -14,6 +193,334 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0
+  },
+  {
+    "author": "Charles-Gagnon",
+    "closedAt": null,
+    "createdAt": "2026-10-23T18:48:09Z",
+    "number": 23147,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23147",
+    "title": "[Bug]: Table designer fails",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "fhmgonzaga",
+    "closedAt": null,
+    "createdAt": "2026-10-23T18:44:14Z",
+    "number": 23146,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23146",
+    "title": "[Bug]: Create a database for the Azure SQL Database container failed",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Charles-Gagnon",
+    "closedAt": null,
+    "createdAt": "2026-10-23T18:42:51Z",
+    "number": 23145,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23145",
+    "title": "[Bug]: Create/Drop Database fails",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Charles-Gagnon",
+    "closedAt": null,
+    "createdAt": "2026-10-23T18:38:21Z",
+    "number": 23144,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23144",
+    "title": "[Bug]: Selecting \"Create Connection Group\" doesn't prompt for group name",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "chlafreniere",
+    "closedAt": null,
+    "createdAt": "2026-10-23T18:36:05Z",
+    "number": 23143,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23143",
+    "title": "[Bug]: \"Pulling container image\" Step Doesn't Show Progress",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "vamahtani",
+    "closedAt": null,
+    "createdAt": "2026-10-23T18:32:40Z",
+    "number": 23142,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23142",
+    "title": "[Bug]: Failure for unsupported ARM64",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-10-23T18:26:53Z",
+    "number": 23141,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23141",
+    "title": "[Bug]: Default container names of Azure SQL Containers aren't properly detected across engines",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Charles-Gagnon",
+    "closedAt": null,
+    "createdAt": "2026-10-23T18:26:26Z",
+    "number": 23140,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23140",
+    "title": "[Suggestion]: Remove/clarify the user name field",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Charles-Gagnon",
+    "closedAt": null,
+    "createdAt": "2026-10-23T18:24:15Z",
+    "number": 23139,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23139",
+    "title": "[Suggestion]: There should be a confirm password box",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "kisantia",
+    "closedAt": null,
+    "createdAt": "2026-10-23T18:20:52Z",
+    "number": 23138,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23138",
+    "title": "[Bug]: Hide Apple container option if user isn't on a mac",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Charles-Gagnon",
+    "closedAt": null,
+    "createdAt": "2026-10-23T18:10:35Z",
+    "number": 23137,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23137",
+    "title": "[Suggestion]: Azure SQL DB container should be an option in the local docker container deployment page",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-10-23T17:54:08Z",
+    "number": 23136,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23136",
+    "title": "[Bug]: Change Docker OE icon to a more generic container icon",
+    "areas": [
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "moog-jbrown",
+    "closedAt": null,
+    "createdAt": "2026-10-23T16:02:26Z",
+    "number": 23135,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23135",
+    "title": "[Bug]: Schema Compare Sql Project source broken",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 1
+  },
+  {
+    "author": "co-xpts",
+    "closedAt": null,
+    "createdAt": "2026-10-23T07:56:14Z",
+    "number": 23134,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23134",
+    "title": "[Bug]: Extremely slow startup after clicking SQL Server in the activity bar (60 seconds)",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "cilJevon",
+    "closedAt": null,
+    "createdAt": "2026-10-22T22:39:09Z",
+    "number": 23133,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23133",
+    "title": "[Bug]: 24hr view on Query Results when running SQL? We count to 24 in IE, UK and the EU.",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "jmasayda",
+    "closedAt": null,
+    "createdAt": "2026-10-22T21:18:38Z",
+    "number": 23132,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23132",
+    "title": "[Feature Request]: Previous/next change buttons",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "oliviersourie",
+    "closedAt": null,
+    "createdAt": "2026-10-21T09:14:19Z",
+    "number": 23125,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23125",
+    "title": "[Feature Request]: Database Snapshot View",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Abubakar12567",
+    "closedAt": "2026-10-20T15:49:35Z",
+    "createdAt": "2026-10-20T12:25:06Z",
+    "number": 23119,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23119",
+    "title": "[Feature Request]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "peterbud",
+    "closedAt": null,
+    "createdAt": "2026-10-17T09:58:56Z",
+    "number": 23115,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23115",
+    "title": "[Bug]: MSSQL editor toolbar actions disappear when an SQL file is saved",
+    "areas": [
+      "Query Editor"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 2
   },
   {
     "author": "laurenastrid1",
@@ -116,7 +623,8 @@
     "url": "https://github.com/microsoft/vscode-mssql/issues/23093",
     "title": "[Bug]: Object explorer gives loading error with Dynamics 365 database (dataverse)",
     "areas": [
-      "Object Explorer"
+      "Object Explorer",
+      "Connection"
     ],
     "priority": -1,
     "type": "Bug",
@@ -322,7 +830,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "omkarwaghmare07",
@@ -937,7 +1445,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 3
   },
   {
     "author": "sdemanas",
@@ -1303,7 +1811,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "areddeswar",
@@ -1471,10 +1979,10 @@
   },
   {
     "author": "Alfetta159",
-    "closedAt": null,
+    "closedAt": "2026-10-23T14:53:29Z",
     "createdAt": "2026-09-14T20:22:22Z",
     "number": 22935,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22935",
     "title": "[Bug]: Unable to sync settings VS Code",
     "areas": [
@@ -1485,7 +1993,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 2
   },
   {
     "author": "yoleichen",
@@ -1521,7 +2029,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 0
   },
   {
@@ -17477,7 +17985,7 @@
     "milestone": "November 2025 Release"
   },
   {
-    "author": "khalilbenaz",
+    "author": "vantaflow",
     "closedAt": "2026-04-29T16:23:27Z",
     "createdAt": "2025-09-04T16:52:36Z",
     "number": 20075,
