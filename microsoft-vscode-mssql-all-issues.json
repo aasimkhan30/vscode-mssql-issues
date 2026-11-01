@@ -1,5 +1,228 @@
 [
   {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-10-30T19:38:24Z",
+    "number": 23188,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23188",
+    "title": "Add SQL AI App in a Day entry in Getting Started page",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2026 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-10-29T20:33:23Z",
+    "number": 23181,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23181",
+    "title": "Add a back button in Query Store page, so users can easily go back to the overall Queries page",
+    "areas": [
+      "Performance"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-10-29T20:24:14Z",
+    "number": 23180,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23180",
+    "title": "update Query Store GHCP chat icon to sync with schema designer",
+    "areas": [
+      "Performance"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2026 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": null,
+    "createdAt": "2026-10-29T20:20:54Z",
+    "number": 23179,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23179",
+    "title": "Add (Preview) tag for QDS dashboard",
+    "areas": [
+      "Performance"
+    ],
+    "priority": -1,
+    "type": null,
+    "hasArea": true,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2026 Release"
+  },
+  {
+    "author": "davidjnoel955",
+    "closedAt": null,
+    "createdAt": "2026-10-29T16:49:18Z",
+    "number": 23178,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23178",
+    "title": "[Feature Request]: Restore the Refresh button in the Edit Table Data view.",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Fabz75-eco",
+    "closedAt": null,
+    "createdAt": "2026-10-29T13:33:47Z",
+    "number": 23177,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23177",
+    "title": "[Feature Request]: Object Explorer: show database state (offline / restricted / recovering) next to each database",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "ShahriarKh",
+    "closedAt": null,
+    "createdAt": "2026-10-29T09:48:15Z",
+    "number": 23175,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23175",
+    "title": "[Feature Request]: Putting constraints on newline",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": null,
+    "createdAt": "2026-10-28T16:41:11Z",
+    "number": 23173,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23173",
+    "title": "Schema Compare flags self-references through [$(DatabaseName)] as differences",
+    "areas": [
+      "SQL Project",
+      "Schema Compare"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 1,
+    "commentCount": 0
+  },
+  {
+    "author": "Jakedahl94",
+    "closedAt": null,
+    "createdAt": "2026-10-28T15:09:16Z",
+    "number": 23171,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23171",
+    "title": "[Bug]: Copying cells from Grid results also copies that cells header and a newline char",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "antonyroshan-abinashantony-agilysys",
+    "closedAt": null,
+    "createdAt": "2026-10-27T23:35:05Z",
+    "number": 23169,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23169",
+    "title": "[Feature Request]: Expose connection name/database as variable for use in window.title",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "armordog",
+    "closedAt": null,
+    "createdAt": "2026-10-27T15:49:02Z",
+    "number": 23166,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23166",
+    "title": "[Bug]: Schema Compare Settings Don't Stay Set",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "vamahtani",
+    "closedAt": null,
+    "createdAt": "2026-10-26T20:44:41Z",
+    "number": 23163,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23163",
+    "title": "[Feature Request]: Make discovery of Azure SQL DB container image top level tile",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "itsnotaboutthecell",
+    "closedAt": null,
+    "createdAt": "2026-10-26T05:11:54Z",
+    "number": 23161,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23161",
+    "title": "[Bug]: Free Azure SQL provisioning stays in connection stage after firewall setup; intermittent 40615 with different client IPs",
+    "areas": [
+      "Azure Provisioning"
+    ],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2026 Release"
+  },
+  {
     "author": "Benjin",
     "closedAt": null,
     "createdAt": "2026-10-23T19:16:54Z",
@@ -410,10 +633,10 @@
   },
   {
     "author": "moog-jbrown",
-    "closedAt": null,
+    "closedAt": "2026-10-27T18:35:19Z",
     "createdAt": "2026-10-23T16:02:26Z",
     "number": 23135,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23135",
     "title": "[Bug]: Schema Compare Sql Project source broken",
     "areas": [],
@@ -422,7 +645,7 @@
     "hasArea": false,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1
+    "commentCount": 4
   },
   {
     "author": "co-xpts",
@@ -506,10 +729,10 @@
   },
   {
     "author": "peterbud",
-    "closedAt": null,
+    "closedAt": "2026-10-27T22:59:51Z",
     "createdAt": "2026-10-17T09:58:56Z",
     "number": 23115,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23115",
     "title": "[Bug]: MSSQL editor toolbar actions disappear when an SQL file is saved",
     "areas": [
@@ -520,7 +743,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 2
+    "commentCount": 6
   },
   {
     "author": "laurenastrid1",
@@ -538,8 +761,8 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
-    "milestone": "October 2026 Release"
+    "commentCount": 1,
+    "milestone": "November 2026 Release"
   },
   {
     "author": "tortillas5",
@@ -1304,7 +1527,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0
+    "commentCount": 1
   },
   {
     "author": "mflibby",
@@ -1444,7 +1667,7 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 0,
+    "totalReactions": 1,
     "commentCount": 3
   },
   {
@@ -5451,7 +5674,7 @@
     "type": "Bug",
     "hasArea": false,
     "hasType": true,
-    "totalReactions": 3,
+    "totalReactions": 2,
     "commentCount": 8,
     "milestone": "June 2026 SqlProj Hotfix 1"
   },
@@ -6435,7 +6658,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 8,
+    "commentCount": 9,
     "milestone": "November 2026 Release"
   },
   {
@@ -12349,10 +12572,10 @@
   },
   {
     "author": "jasonhorner",
-    "closedAt": null,
+    "closedAt": "2026-10-27T23:57:21Z",
     "createdAt": "2026-02-03T00:45:09Z",
     "number": 21080,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21080",
     "title": "[Bug]: Schema Compare flags cross-database references using variables as code differences",
     "areas": [
@@ -12364,7 +12587,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 5,
+    "commentCount": 8,
     "milestone": "Backlog"
   },
   {
@@ -13458,10 +13681,10 @@
   },
   {
     "author": "virzak",
-    "closedAt": null,
+    "closedAt": "2026-10-28T17:44:25Z",
     "createdAt": "2026-01-01T21:27:51Z",
     "number": 20879,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20879",
     "title": "[Bug]: Connections don't show up even though they are specified in devcontainer.json",
     "areas": [
@@ -15664,10 +15887,10 @@
   },
   {
     "author": "skurik",
-    "closedAt": null,
+    "closedAt": "2026-10-28T23:36:52Z",
     "createdAt": "2025-11-07T08:16:32Z",
     "number": 20478,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20478",
     "title": "[Feature Request]: Purging the Entra ID token cache",
     "areas": [
@@ -48811,7 +49034,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "November 2024 Release"
   },
   {
