@@ -1,5 +1,275 @@
 [
   {
+    "author": "RogueMaurice",
+    "closedAt": null,
+    "createdAt": "2026-11-13T21:13:58Z",
+    "number": 23292,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23292",
+    "title": "[Bug]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-11-13T20:27:25Z",
+    "number": 23289,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23289",
+    "title": "Update the azure sql telemetry to be more detailed",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2026 Release"
+  },
+  {
+    "author": "laurenastrid1",
+    "closedAt": null,
+    "createdAt": "2026-11-13T20:24:51Z",
+    "number": 23288,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23288",
+    "title": "Update azure sql db container registry link",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2026 Release"
+  },
+  {
+    "author": "Benjin",
+    "closedAt": null,
+    "createdAt": "2026-11-13T20:07:42Z",
+    "number": 23285,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23285",
+    "title": "SQLCMD default-mode lookup can fail initial connection attempts for Entra connections",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2026 Release"
+  },
+  {
+    "author": "digitarald",
+    "closedAt": null,
+    "createdAt": "2026-11-13T02:10:00Z",
+    "number": 23281,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23281",
+    "title": "Retire @mssql before Local harness removal",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "aasimkhan30",
+    "closedAt": "2026-11-13T18:24:25Z",
+    "createdAt": "2026-11-12T23:00:15Z",
+    "number": 23274,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23274",
+    "title": "[Feature Request]: Deep links to open each deployment wizard",
+    "areas": [
+      "Local container",
+      "Azure SQL Containers"
+    ],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2026 Release"
+  },
+  {
+    "author": "ritaipf",
+    "closedAt": null,
+    "createdAt": "2026-11-12T11:50:15Z",
+    "number": 23263,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23263",
+    "title": "[Bug]: Extension icon duplicated with connections separated",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "mkmurray",
+    "closedAt": null,
+    "createdAt": "2026-11-11T19:36:40Z",
+    "number": 23256,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23256",
+    "title": "[Bug]: Linked-server Kerberos delegation behavior differs across bundled SqlClient versions on macOS",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 4
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-11-13T18:06:53Z",
+    "createdAt": "2026-11-11T16:52:15Z",
+    "number": 23247,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23247",
+    "title": "Add optional question about user persona",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 1,
+    "milestone": "November 2026 Release"
+  },
+  {
+    "author": "SaschaProdware",
+    "closedAt": null,
+    "createdAt": "2026-11-11T14:21:15Z",
+    "number": 23246,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23246",
+    "title": "[Bug]: Formatter moves FROM and leading commas across standalone line comments",
+    "areas": [],
+    "priority": -1,
+    "type": "Bug",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "zeman-eapollo",
+    "closedAt": null,
+    "createdAt": "2026-11-11T13:09:12Z",
+    "number": 23245,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23245",
+    "title": "[Bug]: Schema Compare ignores excluded elements when opening .scmp file",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "13flat9",
+    "closedAt": null,
+    "createdAt": "2026-11-11T12:26:30Z",
+    "number": 23244,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23244",
+    "title": "[Feature Request]:",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": "2026-11-11T18:39:24Z",
+    "createdAt": "2026-11-10T23:43:46Z",
+    "number": 23240,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23240",
+    "title": "SQLCON ATL 2027  in-product announcement banner",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2026 Release"
+  },
+  {
+    "author": "berkaykolbas",
+    "closedAt": null,
+    "createdAt": "2026-11-10T12:03:46Z",
+    "number": 23238,
+    "state": "OPEN",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23238",
+    "title": "[Feature Request]: Auto-connect to source database when scripting objects",
+    "areas": [],
+    "priority": -1,
+    "type": "Feature Request",
+    "hasArea": false,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0
+  },
+  {
+    "author": "Benjin",
+    "closedAt": "2026-11-13T18:05:38Z",
+    "createdAt": "2026-11-09T19:47:59Z",
+    "number": 23235,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23235",
+    "title": "Update changelog for 1.48.0 release",
+    "areas": [],
+    "priority": -1,
+    "type": null,
+    "hasArea": false,
+    "hasType": false,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2026 Release"
+  },
+  {
+    "author": "yoleichen",
+    "closedAt": "2026-11-12T19:06:54Z",
+    "createdAt": "2026-11-09T12:09:49Z",
+    "number": 23233,
+    "state": "CLOSED",
+    "url": "https://github.com/microsoft/vscode-mssql/issues/23233",
+    "title": "Remove \"Free Limit: Pause until next month\" since now all",
+    "areas": [
+      "Local container",
+      "Azure SQL Containers"
+    ],
+    "priority": 0,
+    "type": "Feature Request",
+    "hasArea": true,
+    "hasType": true,
+    "totalReactions": 0,
+    "commentCount": 0,
+    "milestone": "November 2026 Release"
+  },
+  {
     "author": "yoleichen",
     "closedAt": "2026-11-06T23:38:45Z",
     "createdAt": "2026-11-06T22:00:33Z",
@@ -35,10 +305,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-11-09T21:21:09Z",
     "createdAt": "2026-11-06T21:36:05Z",
     "number": 23229,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23229",
     "title": "Local to cloud DB need to add (preview) tag",
     "areas": [
@@ -55,10 +325,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-11-12T20:32:59Z",
     "createdAt": "2026-11-06T18:59:18Z",
     "number": 23226,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23226",
     "title": "Add azure SQL DB local container entry point in getting started page",
     "areas": [
@@ -75,10 +345,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:16:29Z",
     "createdAt": "2026-11-06T16:47:42Z",
     "number": 23225,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23225",
     "title": "Reuse finished deployment step component in free-tier Azure SQL DB",
     "areas": [
@@ -94,10 +364,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:10:31Z",
     "createdAt": "2026-11-06T16:25:15Z",
     "number": 23224,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23224",
     "title": "Add a \"Deploy database to Azure SQL (Preview)\" entry point in the OE context menu",
     "areas": [
@@ -165,10 +435,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:10:38Z",
     "createdAt": "2026-11-03T22:35:42Z",
     "number": 23212,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23212",
     "title": "Use the extension's standard wizard or dialog framework for deployment",
     "areas": [
@@ -203,10 +473,10 @@
   },
   {
     "author": "Benjin",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:14:33Z",
     "createdAt": "2026-11-03T22:35:21Z",
     "number": 23210,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23210",
     "title": "Update .NET installation guidance to .NET 10",
     "areas": [
@@ -241,10 +511,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:16:04Z",
     "createdAt": "2026-11-03T20:19:48Z",
     "number": 23208,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23208",
     "title": "Local to Cloud wizard: footer still says Cancel after deployment finishes",
     "areas": [
@@ -259,10 +529,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:14:43Z",
     "createdAt": "2026-11-03T20:03:51Z",
     "number": 23207,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23207",
     "title": "Local to Cloud wizard: start a deployment from a database's context menu",
     "areas": [
@@ -278,10 +548,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:15:48Z",
     "createdAt": "2026-11-03T19:59:25Z",
     "number": 23206,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23206",
     "title": "Local to Cloud wizard: Advanced offers sample databases that always fail at deploy",
     "areas": [
@@ -315,10 +585,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:15:39Z",
     "createdAt": "2026-11-03T19:54:14Z",
     "number": 23204,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23204",
     "title": "Local to Cloud wizard: keep the summary cards in view while the Azure form scrolls",
     "areas": [
@@ -333,10 +603,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:15:23Z",
     "createdAt": "2026-11-03T19:50:35Z",
     "number": 23203,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23203",
     "title": "Local to Cloud wizard: let users choose Entra ID or SQL authentication for servers that support both",
     "areas": [
@@ -351,10 +621,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:15:08Z",
     "createdAt": "2026-11-03T19:47:08Z",
     "number": 23202,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23202",
     "title": "Local to Cloud wizard: deploy always fails on servers with both Entra ID and SQL authentication",
     "areas": [
@@ -369,10 +639,10 @@
   },
   {
     "author": "aasimkhan30",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:15:16Z",
     "createdAt": "2026-11-03T19:39:40Z",
     "number": 23201,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23201",
     "title": "Local to Cloud wizard: get the .NET SDK through the .NET Install Tool",
     "areas": [
@@ -387,10 +657,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-11-12T22:09:45Z",
     "createdAt": "2026-11-03T19:29:40Z",
     "number": 23200,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23200",
     "title": "Add Learn more link to the free tier Azure SQL info box",
     "areas": [
@@ -407,10 +677,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-11-12T22:09:47Z",
     "createdAt": "2026-11-03T19:22:02Z",
     "number": 23199,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23199",
     "title": "Update wording to \"free tier\" Azure SQL DB",
     "areas": [
@@ -427,10 +697,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-11-11T20:43:22Z",
     "createdAt": "2026-11-03T19:15:07Z",
     "number": 23197,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23197",
     "title": "Local database connection context menu showing local server options",
     "areas": [
@@ -681,10 +951,10 @@
   },
   {
     "author": "vamahtani",
-    "closedAt": null,
+    "closedAt": "2026-11-09T21:21:52Z",
     "createdAt": "2026-10-26T20:44:41Z",
     "number": 23163,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23163",
     "title": "[Feature Request]: Make discovery of Azure SQL DB container image top level tile",
     "areas": [
@@ -844,10 +1114,10 @@
   },
   {
     "author": "yoleichen",
-    "closedAt": null,
+    "closedAt": "2026-11-12T19:46:50Z",
     "createdAt": "2026-10-23T19:03:38Z",
     "number": 23151,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23151",
     "title": "[Bug]: azure sql local container engine detection check not retrying",
     "areas": [
@@ -935,10 +1205,10 @@
   },
   {
     "author": "fhmgonzaga",
-    "closedAt": null,
+    "closedAt": "2026-11-10T21:08:33Z",
     "createdAt": "2026-10-23T18:44:14Z",
     "number": 23146,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23146",
     "title": "[Bug]: Create a database for the Azure SQL Database container failed",
     "areas": [
@@ -953,10 +1223,10 @@
   },
   {
     "author": "Charles-Gagnon",
-    "closedAt": null,
+    "closedAt": "2026-11-10T21:07:49Z",
     "createdAt": "2026-10-23T18:42:51Z",
     "number": 23145,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23145",
     "title": "[Bug]: Create/Drop Database fails",
     "areas": [
@@ -971,10 +1241,10 @@
   },
   {
     "author": "Charles-Gagnon",
-    "closedAt": null,
+    "closedAt": "2026-11-09T21:23:14Z",
     "createdAt": "2026-10-23T18:38:21Z",
     "number": 23144,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23144",
     "title": "[Bug]: Selecting \"Create Connection Group\" doesn't prompt for group name",
     "areas": [
@@ -1040,7 +1310,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Charles-Gagnon",
@@ -1098,10 +1368,10 @@
   },
   {
     "author": "Charles-Gagnon",
-    "closedAt": null,
+    "closedAt": "2026-11-09T21:20:20Z",
     "createdAt": "2026-10-23T18:10:35Z",
     "number": 23137,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23137",
     "title": "[Suggestion]: Azure SQL DB container should be an option in the local docker container deployment page",
     "areas": [
@@ -1116,10 +1386,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-11-12T22:35:56Z",
     "createdAt": "2026-10-23T17:54:08Z",
     "number": 23136,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23136",
     "title": "[Bug]: Change Docker OE icon to a more generic container icon",
     "areas": [
@@ -1258,10 +1528,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:21:38Z",
     "createdAt": "2026-10-15T19:13:06Z",
     "number": 23111,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23111",
     "title": "[Feature Request]: Gate Azure SQL containers behind preview flag",
     "areas": [
@@ -1550,10 +1820,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-11-12T21:43:50Z",
     "createdAt": "2026-10-07T18:19:11Z",
     "number": 23065,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23065",
     "title": "[Bug]: Create Database Dialog works but shows an error on Azure SQL DB containers",
     "areas": [
@@ -1564,7 +1834,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 1,
+    "commentCount": 2,
     "milestone": "November 2026 Release"
   },
   {
@@ -1685,14 +1955,14 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2026 Release"
+    "milestone": "December 2026 Release"
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-11-12T21:43:38Z",
     "createdAt": "2026-10-02T19:14:05Z",
     "number": 23046,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23046",
     "title": "[Bug]: Drop Database Dialog works but shows an error on Azure SQL DB containers",
     "areas": [
@@ -1704,7 +1974,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2026 Release"
   },
   {
@@ -1952,8 +2222,8 @@
     "type": "Bug",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 1,
-    "commentCount": 0
+    "totalReactions": 2,
+    "commentCount": 1
   },
   {
     "author": "aasimkhan30",
@@ -1990,7 +2260,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2026 Release"
+    "milestone": "December 2026 Release"
   },
   {
     "author": "Matrei3",
@@ -2063,10 +2333,10 @@
   },
   {
     "author": "laurenastrid1",
-    "closedAt": null,
+    "closedAt": "2026-11-09T18:21:47Z",
     "createdAt": "2026-09-29T15:40:58Z",
     "number": 23015,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/23015",
     "title": "Add entra auth support for azure sql local containers",
     "areas": [
@@ -2893,10 +3163,10 @@
   },
   {
     "author": "SaschaProdware",
-    "closedAt": null,
+    "closedAt": "2026-11-13T18:24:28Z",
     "createdAt": "2026-09-07T15:54:18Z",
     "number": 22905,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22905",
     "title": "[Bug]: SQL Database Projects generates invalid all-zeros ProjectGuid and modifies files without consent",
     "areas": [
@@ -3834,7 +4104,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2026 Release"
+    "milestone": "Backlog"
   },
   {
     "author": "Benjin",
@@ -4353,7 +4623,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2026 Release"
+    "milestone": "December 2026 Release"
   },
   {
     "author": "ssreerama",
@@ -4460,14 +4730,14 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2026 Release"
+    "milestone": "December 2026 Release"
   },
   {
     "author": "ManishShetty-WC",
-    "closedAt": null,
+    "closedAt": "2026-11-11T17:16:23Z",
     "createdAt": "2026-07-31T21:05:50Z",
     "number": 22599,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22599",
     "title": "[Bug]: Schema Compare Apply/Generate Script fails with \"internal error\" on SQL Server 2025 on-prem target",
     "areas": [
@@ -4478,7 +4748,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 0,
+    "commentCount": 1,
     "milestone": "November 2026 Release"
   },
   {
@@ -5404,7 +5674,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2026 Release"
+    "milestone": "December 2026 Release"
   },
   {
     "author": "Naitik8470",
@@ -6822,7 +7092,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2026 Release"
+    "milestone": "December 2026 Release"
   },
   {
     "author": "sainus-1997",
@@ -7162,12 +7432,12 @@
   },
   {
     "author": "habibhammy",
-    "closedAt": null,
+    "closedAt": "2026-11-11T21:09:15Z",
     "createdAt": "2026-05-12T13:29:03Z",
     "number": 22100,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/22100",
-    "title": "[Bug]: Missing SQL objects after Importing from existing database",
+    "title": "[Bug]: Missing SQL objects after Importing from existing database when using CDC schema",
     "areas": [
       "SQL Project"
     ],
@@ -7176,7 +7446,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 0,
-    "commentCount": 9,
+    "commentCount": 10,
     "milestone": "November 2026 Release"
   },
   {
@@ -10622,10 +10892,10 @@
   },
   {
     "author": "kburtram",
-    "closedAt": null,
+    "closedAt": "2026-11-11T16:51:17Z",
     "createdAt": "2026-03-09T19:04:16Z",
     "number": 21531,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/21531",
     "title": "[Bug]: UI should support creating nested Connection Groups",
     "areas": [
@@ -12749,7 +13019,7 @@
     "type": "Feature Request",
     "hasArea": true,
     "hasType": true,
-    "totalReactions": 4,
+    "totalReactions": 5,
     "commentCount": 1,
     "milestone": "Backlog"
   },
@@ -14488,7 +14758,7 @@
     "hasType": true,
     "totalReactions": 0,
     "commentCount": 0,
-    "milestone": "November 2026 Release"
+    "milestone": "December 2026 Release"
   },
   {
     "author": "Prefix42",
@@ -19212,10 +19482,10 @@
   },
   {
     "author": "Provista-Stan",
-    "closedAt": null,
+    "closedAt": "2026-11-13T18:14:10Z",
     "createdAt": "2025-08-25T16:57:56Z",
     "number": 20021,
-    "state": "OPEN",
+    "state": "CLOSED",
     "url": "https://github.com/microsoft/vscode-mssql/issues/20021",
     "title": "[Feature Request]: Add configuration for SQLCMD mode on / off by default for new query windows.",
     "areas": [
@@ -19226,7 +19496,7 @@
     "hasArea": true,
     "hasType": true,
     "totalReactions": 1,
-    "commentCount": 6,
+    "commentCount": 7,
     "milestone": "November 2026 Release"
   },
   {
@@ -28724,7 +28994,7 @@
     "type": null,
     "hasArea": false,
     "hasType": false,
-    "totalReactions": 28,
+    "totalReactions": 29,
     "commentCount": 11
   },
   {
@@ -31295,7 +31565,7 @@
     "commentCount": 1
   },
   {
-    "author": "atbraz",
+    "author": "amteb",
     "closedAt": "2024-11-15T00:08:39Z",
     "createdAt": "2024-10-31T11:55:21Z",
     "number": 18340,
@@ -41395,7 +41665,7 @@
     "milestone": "Backlog"
   },
   {
-    "author": "TencentSZ",
+    "author": "BalaPilyCode",
     "closedAt": "2023-07-11T07:20:51Z",
     "createdAt": "2020-11-23T04:15:11Z",
     "number": 1797,
